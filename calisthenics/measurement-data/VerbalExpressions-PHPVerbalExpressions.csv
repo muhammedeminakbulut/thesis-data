@@ -1,0 +1,2 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:VerbalExpressions/PHPVerbalExpressions.git,1.0.0,1210,362,22,0.00%,4.1159420289855,0,137,26,175,0

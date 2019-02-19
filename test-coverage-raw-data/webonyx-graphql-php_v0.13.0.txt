@@ -1,0 +1,226 @@
+
+
+Code Coverage Report:        
+  2019-02-17 15:52:59        
+                             
+ Summary:                    
+  Classes: 45.13% (51/113)   
+  Methods: 72.49% (635/876)  
+  Lines:   83.02% (7658/9224)
+
+\GraphQL::GraphQL\Deferred
+  Methods:  80.00% ( 4/ 5)   Lines:  88.89% ( 16/ 18)
+\GraphQL::GraphQL\GraphQL
+  Methods:  23.08% ( 3/13)   Lines:  46.43% ( 39/ 84)
+\GraphQL\Error::GraphQL\Error\Error
+  Methods:  85.71% (12/14)   Lines:  98.04% (100/102)
+\GraphQL\Error::GraphQL\Error\FormattedError
+  Methods:  46.15% ( 6/13)   Lines:  83.22% (119/143)
+\GraphQL\Error::GraphQL\Error\SyntaxError
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  6/  6)
+\GraphQL\Error::GraphQL\Error\UserError
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\GraphQL\Error::GraphQL\Error\Warning
+  Methods:   0.00% ( 0/ 5)   Lines:  51.72% ( 15/ 29)
+\GraphQL\Executor::GraphQL\Executor\
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\GraphQL\Executor::GraphQL\Executor\ExecutionContext
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 12/ 12)
+\GraphQL\Executor::GraphQL\Executor\ExecutionResult
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 21/ 21)
+\GraphQL\Executor::GraphQL\Executor\Executor
+  Methods:  55.56% ( 5/ 9)   Lines:  85.71% ( 36/ 42)
+\GraphQL\Executor::GraphQL\Executor\ReferenceExecutor
+  Methods:  66.67% (22/33)   Lines:  93.85% (504/537)
+\GraphQL\Executor::GraphQL\Executor\Values
+  Methods:  50.00% ( 3/ 6)   Lines:  91.18% ( 93/102)
+\GraphQL\Executor\Promise::GraphQL\Executor\Promise\Promise
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  5/  5)
+\GraphQL\Executor\Promise\Adapter::GraphQL\Executor\Promise\Adapter\SyncPromise
+  Methods:  50.00% ( 3/ 6)   Lines:  93.24% ( 69/ 74)
+\GraphQL\Executor\Promise\Adapter::GraphQL\Executor\Promise\Adapter\SyncPromiseAdapter
+  Methods:  80.00% ( 8/10)   Lines:  87.72% ( 50/ 57)
+\GraphQL\Experimental\Executor::GraphQL\Experimental\Executor\Collector
+  Methods:  25.00% ( 1/ 4)   Lines:  68.03% ( 83/122)
+\GraphQL\Experimental\Executor::GraphQL\Experimental\Executor\CoroutineContextShared
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  5/  5)
+\GraphQL\Language::GraphQL\Language\DirectiveLocation
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\GraphQL\Language::GraphQL\Language\Lexer
+  Methods:  88.24% (15/17)   Lines:  97.77% (395/404)
+\GraphQL\Language::GraphQL\Language\Parser
+  Methods:  87.50% (63/72)   Lines:  98.66% (665/674)
+\GraphQL\Language::GraphQL\Language\Printer
+  Methods:  90.91% (10/11)   Lines:  99.55% (223/224)
+\GraphQL\Language::GraphQL\Language\Source
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 24/ 24)
+\GraphQL\Language::GraphQL\Language\SourceLocation
+  Methods:  75.00% ( 3/ 4)   Lines:  85.71% (  6/  7)
+\GraphQL\Language::GraphQL\Language\Token
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 14/ 14)
+\GraphQL\Language::GraphQL\Language\Visitor
+  Methods:  71.43% ( 5/ 7)   Lines:  98.89% (178/180)
+\GraphQL\Language\AST::GraphQL\Language\AST\Location
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 12/ 12)
+\GraphQL\Language\AST::GraphQL\Language\AST\Node
+  Methods:  50.00% ( 3/ 6)   Lines:  86.96% ( 40/ 46)
+\GraphQL\Language\AST::GraphQL\Language\AST\NodeList
+  Methods:  70.00% ( 7/10)   Lines:  82.61% ( 19/ 23)
+\GraphQL\Server::GraphQL\Server\Helper
+  Methods:  55.56% (10/18)   Lines:  83.25% (169/203)
+\GraphQL\Server::GraphQL\Server\OperationParams
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 18/ 18)
+\GraphQL\Server::GraphQL\Server\RequestError
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\GraphQL\Server::GraphQL\Server\ServerConfig
+  Methods: 100.00% (23/23)   Lines: 100.00% ( 43/ 43)
+\GraphQL\Server::GraphQL\Server\StandardServer
+  Methods:  14.29% ( 1/ 7)   Lines:  41.67% ( 10/ 24)
+\GraphQL\Type::GraphQL\Type\Introspection
+  Methods:  35.71% ( 5/14)   Lines:  43.96% (120/273)
+\GraphQL\Type::GraphQL\Type\Schema
+  Methods:  75.00% (15/20)   Lines:  92.31% (132/143)
+\GraphQL\Type::GraphQL\Type\SchemaConfig
+  Methods:  52.63% (10/19)   Lines:  80.77% ( 42/ 52)
+\GraphQL\Type::GraphQL\Type\SchemaValidationContext
+  Methods:  75.86% (22/29)   Lines:  90.35% (337/373)
+\GraphQL\Type\Definition::GraphQL\Type\Definition\BooleanType
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  7/  7)
+\GraphQL\Type\Definition::GraphQL\Type\Definition\CustomScalarType
+  Methods:  50.00% ( 2/ 4)   Lines:  75.00% ( 15/ 20)
+\GraphQL\Type\Definition::GraphQL\Type\Definition\Directive
+  Methods:  83.33% ( 5/ 6)   Lines:  51.11% ( 23/ 45)
+\GraphQL\Type\Definition::GraphQL\Type\Definition\EnumType
+  Methods:  55.56% ( 5/ 9)   Lines:  81.69% ( 58/ 71)
+\GraphQL\Type\Definition::GraphQL\Type\Definition\EnumValueDefinition
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  8/  8)
+\GraphQL\Type\Definition::GraphQL\Type\Definition\FieldArgument
+  Methods:  80.00% ( 4/ 5)   Lines:  53.85% ( 28/ 52)
+\GraphQL\Type\Definition::GraphQL\Type\Definition\FieldDefinition
+  Methods:  66.67% ( 6/ 9)   Lines:  89.74% ( 70/ 78)
+\GraphQL\Type\Definition::GraphQL\Type\Definition\FloatType
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 12/ 12)
+\GraphQL\Type\Definition::GraphQL\Type\Definition\IDType
+  Methods:  66.67% ( 2/ 3)   Lines:  93.33% ( 14/ 15)
+\GraphQL\Type\Definition::GraphQL\Type\Definition\InputObjectField
+  Methods:  50.00% ( 2/ 4)   Lines:  87.88% ( 29/ 33)
+\GraphQL\Type\Definition::GraphQL\Type\Definition\InputObjectType
+  Methods:  50.00% ( 2/ 4)   Lines:  91.43% ( 32/ 35)
+\GraphQL\Type\Definition::GraphQL\Type\Definition\IntType
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 19/ 19)
+\GraphQL\Type\Definition::GraphQL\Type\Definition\InterfaceType
+  Methods:  71.43% ( 5/ 7)   Lines:  81.08% ( 30/ 37)
+\GraphQL\Type\Definition::GraphQL\Type\Definition\ListOfType
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  7/  7)
+\GraphQL\Type\Definition::GraphQL\Type\Definition\NonNull
+  Methods:  80.00% ( 4/ 5)   Lines:  69.23% (  9/ 13)
+\GraphQL\Type\Definition::GraphQL\Type\Definition\ObjectType
+  Methods:  70.00% ( 7/10)   Lines:  88.33% ( 53/ 60)
+\GraphQL\Type\Definition::GraphQL\Type\Definition\ResolveInfo
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 33/ 33)
+\GraphQL\Type\Definition::GraphQL\Type\Definition\ScalarType
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  7/  7)
+\GraphQL\Type\Definition::GraphQL\Type\Definition\StringType
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 19/ 19)
+\GraphQL\Type\Definition::GraphQL\Type\Definition\Type
+  Methods:  88.89% (24/27)   Lines:  82.89% ( 63/ 76)
+\GraphQL\Type\Definition::GraphQL\Type\Definition\UnionType
+  Methods:  60.00% ( 3/ 5)   Lines:  93.02% ( 40/ 43)
+\GraphQL\Utils::GraphQL\Utils\AST
+  Methods:  12.50% ( 1/ 8)   Lines:  89.57% (189/211)
+\GraphQL\Utils::GraphQL\Utils\ASTDefinitionBuilder
+  Methods:  79.17% (19/24)   Lines:  88.14% (171/194)
+\GraphQL\Utils::GraphQL\Utils\BlockString
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 25/ 25)
+\GraphQL\Utils::GraphQL\Utils\BreakingChangesFinder
+  Methods:  60.00% (15/25)   Lines:  95.65% (396/414)
+\GraphQL\Utils::GraphQL\Utils\BuildSchema
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 85/ 85)
+\GraphQL\Utils::GraphQL\Utils\MixedStore
+  Methods:  60.00% ( 3/ 5)   Lines:  94.32% ( 83/ 88)
+\GraphQL\Utils::GraphQL\Utils\PairSet
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 15/ 15)
+\GraphQL\Utils::GraphQL\Utils\SchemaExtender
+  Methods:  85.71% (18/21)   Lines:  98.98% (292/295)
+\GraphQL\Utils::GraphQL\Utils\SchemaPrinter
+  Methods:  91.30% (21/23)   Lines:  98.45% (191/194)
+\GraphQL\Utils::GraphQL\Utils\TypeComparators
+  Methods:  33.33% ( 1/ 3)   Lines:  65.00% ( 26/ 40)
+\GraphQL\Utils::GraphQL\Utils\TypeInfo
+  Methods:  61.11% (11/18)   Lines:  96.21% (203/211)
+\GraphQL\Utils::GraphQL\Utils\Utils
+  Methods:  53.85% (14/26)   Lines:  76.85% (156/203)
+\GraphQL\Utils::GraphQL\Utils\Value
+  Methods:  85.71% ( 6/ 7)   Lines:  92.70% (127/137)
+\GraphQL\Validator::GraphQL\Validator\DocumentValidator
+  Methods:  41.67% ( 5/12)   Lines:  81.05% ( 77/ 95)
+\GraphQL\Validator::GraphQL\Validator\ValidationContext
+  Methods: 100.00% (17/17)   Lines: 100.00% ( 91/ 91)
+\GraphQL\Validator\Rules::GraphQL\Validator\Rules\CustomValidationRule
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  5/  5)
+\GraphQL\Validator\Rules::GraphQL\Validator\Rules\DisableIntrospection
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 14/ 14)
+\GraphQL\Validator\Rules::GraphQL\Validator\Rules\ExecutableDefinitions
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 10/ 10)
+\GraphQL\Validator\Rules::GraphQL\Validator\Rules\FieldsOnCorrectType
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 58/ 58)
+\GraphQL\Validator\Rules::GraphQL\Validator\Rules\FragmentsOnCompositeTypes
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 20/ 20)
+\GraphQL\Validator\Rules::GraphQL\Validator\Rules\KnownArgumentNames
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 43/ 43)
+\GraphQL\Validator\Rules::GraphQL\Validator\Rules\KnownArgumentNamesOnDirectives
+  Methods:   0.00% ( 0/ 2)   Lines:  84.85% ( 28/ 33)
+\GraphQL\Validator\Rules::GraphQL\Validator\Rules\KnownDirectives
+  Methods:  75.00% ( 3/ 4)   Lines:  90.00% ( 54/ 60)
+\GraphQL\Validator\Rules::GraphQL\Validator\Rules\KnownFragmentNames
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  9/  9)
+\GraphQL\Validator\Rules::GraphQL\Validator\Rules\KnownTypeNames
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 22/ 22)
+\GraphQL\Validator\Rules::GraphQL\Validator\Rules\LoneAnonymousOperation
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 15/ 15)
+\GraphQL\Validator\Rules::GraphQL\Validator\Rules\LoneSchemaDefinition
+  Methods:   0.00% ( 0/ 1)   Lines:  80.00% ( 12/ 15)
+\GraphQL\Validator\Rules::GraphQL\Validator\Rules\NoFragmentCycles
+  Methods:  66.67% ( 2/ 3)   Lines:  97.78% ( 44/ 45)
+\GraphQL\Validator\Rules::GraphQL\Validator\Rules\NoUndefinedVariables
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 20/ 20)
+\GraphQL\Validator\Rules::GraphQL\Validator\Rules\NoUnusedFragments
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 21/ 21)
+\GraphQL\Validator\Rules::GraphQL\Validator\Rules\NoUnusedVariables
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 22/ 22)
+\GraphQL\Validator\Rules::GraphQL\Validator\Rules\OverlappingFieldsCanBeMerged
+  Methods:  82.35% (14/17)   Lines:  98.84% (340/344)
+\GraphQL\Validator\Rules::GraphQL\Validator\Rules\PossibleFragmentSpreads
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 59/ 59)
+\GraphQL\Validator\Rules::GraphQL\Validator\Rules\ProvidedNonNullArguments
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 43/ 43)
+\GraphQL\Validator\Rules::GraphQL\Validator\Rules\ProvidedRequiredArgumentsOnDirectives
+  Methods:   0.00% ( 0/ 2)   Lines:  63.41% ( 26/ 41)
+\GraphQL\Validator\Rules::GraphQL\Validator\Rules\QueryComplexity
+  Methods:  84.62% (11/13)   Lines:  88.60% (101/114)
+\GraphQL\Validator\Rules::GraphQL\Validator\Rules\QueryDepth
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% ( 34/ 34)
+\GraphQL\Validator\Rules::GraphQL\Validator\Rules\QuerySecurityRule
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 63/ 63)
+\GraphQL\Validator\Rules::GraphQL\Validator\Rules\ScalarLeafs
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 15/ 15)
+\GraphQL\Validator\Rules::GraphQL\Validator\Rules\UniqueArgumentNames
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 14/ 14)
+\GraphQL\Validator\Rules::GraphQL\Validator\Rules\UniqueDirectivesPerLocation
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 12/ 12)
+\GraphQL\Validator\Rules::GraphQL\Validator\Rules\UniqueFragmentNames
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 12/ 12)
+\GraphQL\Validator\Rules::GraphQL\Validator\Rules\UniqueInputFieldNames
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 16/ 16)
+\GraphQL\Validator\Rules::GraphQL\Validator\Rules\UniqueOperationNames
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 13/ 13)
+\GraphQL\Validator\Rules::GraphQL\Validator\Rules\UniqueVariableNames
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 11/ 11)
+\GraphQL\Validator\Rules::GraphQL\Validator\Rules\ValuesOfCorrectType
+  Methods:  83.33% ( 5/ 6)   Lines:  90.16% (110/122)
+\GraphQL\Validator\Rules::GraphQL\Validator\Rules\VariablesAreInputTypes
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  9/  9)
+\GraphQL\Validator\Rules::GraphQL\Validator\Rules\VariablesDefaultValueAllowed
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 22/ 22)
+\GraphQL\Validator\Rules::GraphQL\Validator\Rules\VariablesInAllowedPosition
+  Methods:  75.00% ( 3/ 4)   Lines:  76.32% ( 29/ 38)

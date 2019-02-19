@@ -1,0 +1,12 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:php-school/cli-menu.git,1.0.0,2652,960,67,0.00%,2,0,80,18,63,0
+git@github.com:php-school/cli-menu.git,1.0.1,2654,960,67,0.00%,2,0,80,18,63,0
+git@github.com:php-school/cli-menu.git,1.0.2,2655,960,67,0.00%,2.008,0,80,18,63,0
+git@github.com:php-school/cli-menu.git,1.0.3,4014,1088,68,0.00%,2.5929648241206,0,80,18,208,0
+git@github.com:php-school/cli-menu.git,1.1.0,4015,1088,68,0.00%,2.5929648241206,0,80,18,208,0
+git@github.com:php-school/cli-menu.git,1.2.0,4315,1125,70,0.00%,2.7706422018349,0,80,18,218,0
+git@github.com:php-school/cli-menu.git,2.0.0,5358,1210,75,0.00%,2.9759036144578,0,80,18,317,0
+git@github.com:php-school/cli-menu.git,2.0.1,5506,1215,75,0.00%,2.996138996139,0,80,18,322,0
+git@github.com:php-school/cli-menu.git,2.0.2,5538,1220,77,0.00%,2.9961832061069,0,80,18,322,0
+git@github.com:php-school/cli-menu.git,2.1.0,5540,1222,77,0.00%,2.9961832061069,0,80,18,323,0
+git@github.com:php-school/cli-menu.git,3.0.0,10031,913,168,1.61%,3.3959595959596,0,80,18,687,0

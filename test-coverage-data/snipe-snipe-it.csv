@@ -1,0 +1,9 @@
+repository,tag,coverage
+git@github.com:snipe/snipe-it.git,v4.1.0,"phpunit failed"
+git@github.com:snipe/snipe-it.git,v4.2.0,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:snipe/snipe-it.git,v4.0.1,"phpunit failed"
+git@github.com:snipe/snipe-it.git,v4.3.0,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:snipe/snipe-it.git,v4.5.0,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:snipe/snipe-it.git,v4.6.0,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:snipe/snipe-it.git,v4.4.0,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:snipe/snipe-it.git,3.2.0,"phpunit failed"

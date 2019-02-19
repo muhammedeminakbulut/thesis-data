@@ -1,0 +1,134 @@
+
+
+Code Coverage Report:        
+  2019-02-16 21:23:14        
+                             
+ Summary:                    
+  Classes: 17.89% (17/95)    
+  Methods: 43.12% (260/603)  
+  Lines:   39.35% (1300/3304)
+
+\Assetic::AssetManager
+  Methods:  80.00% ( 4/ 5)   Lines:  90.91% ( 10/ 11)
+\Assetic::AssetWriter
+  Methods:  40.00% ( 2/ 5)   Lines:  84.00% ( 21/ 25)
+\Assetic::FilterManager
+  Methods:  80.00% ( 4/ 5)   Lines:  90.91% ( 10/ 11)
+\Assetic\Asset::AssetCache
+  Methods:  55.56% (10/18)   Lines:  74.00% ( 37/ 50)
+\Assetic\Asset::AssetCollection
+  Methods:  86.96% (20/23)   Lines:  96.05% ( 73/ 76)
+\Assetic\Asset::AssetReference
+  Methods:  80.95% (17/21)   Lines:  84.09% ( 37/ 44)
+\Assetic\Asset::BaseAsset
+  Methods:  82.35% (14/17)   Lines:  92.59% ( 50/ 54)
+\Assetic\Asset::FileAsset
+  Methods:  66.67% ( 2/ 3)   Lines:  95.00% ( 19/ 20)
+\Assetic\Asset::GlobAsset
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% ( 33/ 33)
+\Assetic\Asset::HttpAsset
+  Methods:  66.67% ( 2/ 3)   Lines:  95.45% ( 21/ 22)
+\Assetic\Asset::StringAsset
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  8/  8)
+\Assetic\Asset\Iterator::AssetCollectionFilterIterator
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 18/ 18)
+\Assetic\Asset\Iterator::AssetCollectionIterator
+  Methods: 100.00% ( 9/ 9)   Lines: 100.00% ( 32/ 32)
+\Assetic\Cache::ArrayCache
+  Methods:  75.00% ( 3/ 4)   Lines:  87.50% (  7/  8)
+\Assetic\Cache::ConfigCache
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 18/ 18)
+\Assetic\Cache::ExpiringCache
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 16/ 16)
+\Assetic\Cache::FilesystemCache
+  Methods:  40.00% ( 2/ 5)   Lines:  76.47% ( 13/ 17)
+\Assetic\Extension\Twig::AsseticExtension
+  Methods:  66.67% ( 4/ 6)   Lines:  90.00% ( 18/ 20)
+\Assetic\Extension\Twig::AsseticFilterFunction
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\Assetic\Extension\Twig::AsseticFilterInvoker
+  Methods:  60.00% ( 3/ 5)   Lines:  75.00% (  9/ 12)
+\Assetic\Extension\Twig::AsseticFilterNode
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\Assetic\Extension\Twig::AsseticNode
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 66/ 66)
+\Assetic\Extension\Twig::AsseticTokenParser
+  Methods:  50.00% ( 3/ 6)   Lines:  82.67% ( 62/ 75)
+\Assetic\Extension\Twig::TwigFormulaLoader
+  Methods:  33.33% ( 1/ 3)   Lines:  94.87% ( 37/ 39)
+\Assetic\Extension\Twig::TwigResource
+  Methods:  50.00% ( 2/ 4)   Lines:  83.33% ( 10/ 12)
+\Assetic\Extension\Twig::ValueContainer
+  Methods:  37.50% ( 3/ 8)   Lines:  58.82% ( 10/ 17)
+\Assetic\Factory::AssetFactory
+  Methods:  77.27% (17/22)   Lines:  94.17% (113/120)
+\Assetic\Factory::LazyAssetManager
+  Methods:  53.85% ( 7/13)   Lines:  72.73% ( 40/ 55)
+\Assetic\Factory\Loader::BasePhpFormulaLoader
+  Methods:  66.67% ( 4/ 6)   Lines:  96.92% ( 63/ 65)
+\Assetic\Factory\Loader::CachedFormulaLoader
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 14/ 14)
+\Assetic\Factory\Loader::FunctionCallsFormulaLoader
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Assetic\Factory\Resource::CoalescingDirectoryResource
+  Methods:  62.50% ( 5/ 8)   Lines:  55.56% ( 15/ 27)
+\Assetic\Factory\Resource::DirectoryResource
+  Methods:  83.33% ( 5/ 6)   Lines:  95.00% ( 19/ 20)
+\Assetic\Factory\Resource::DirectoryResourceFilterIterator
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  9/  9)
+\Assetic\Factory\Resource::DirectoryResourceIterator
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Assetic\Factory\Resource::FileResource
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  5/  5)
+\Assetic\Factory\Worker::CacheBustingWorker
+  Methods:  33.33% ( 1/ 3)   Lines:  73.68% ( 14/ 19)
+\Assetic\Factory\Worker::EnsureFilterWorker
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 10/ 10)
+\Assetic\Filter::BaseCssFilter
+  Methods:  50.00% ( 2/ 4)   Lines:  50.00% (  2/  4)
+\Assetic\Filter::CallablesFilter
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 13/ 13)
+\Assetic\Filter::CssCacheBustingFilter
+  Methods:  60.00% ( 3/ 5)   Lines:  88.89% ( 16/ 18)
+\Assetic\Filter::CssImportFilter
+  Methods:  60.00% ( 3/ 5)   Lines:  69.70% ( 23/ 33)
+\Assetic\Filter::CssMinFilter
+  Methods:  28.57% ( 2/ 7)   Lines:  60.00% ( 12/ 20)
+\Assetic\Filter::CssRewriteFilter
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 41/ 41)
+\Assetic\Filter::FilterCollection
+  Methods:  75.00% ( 6/ 8)   Lines:  85.00% ( 17/ 20)
+\Assetic\Filter::JSMinFilter
+  Methods:  50.00% ( 1/ 2)   Lines:  66.67% (  2/  3)
+\Assetic\Filter::JSMinPlusFilter
+  Methods:  50.00% ( 1/ 2)   Lines:  66.67% (  2/  3)
+\Assetic\Filter::JSqueezeFilter
+  Methods:  16.67% ( 1/ 6)   Lines:  50.00% ( 11/ 22)
+\Assetic\Filter::LessphpFilter
+  Methods:  50.00% ( 5/10)   Lines:  83.67% ( 41/ 49)
+\Assetic\Filter::MinifyCssCompressorFilter
+  Methods:  50.00% ( 1/ 2)   Lines:  66.67% (  2/  3)
+\Assetic\Filter::PackagerFilter
+  Methods:  75.00% ( 3/ 4)   Lines:  94.44% ( 17/ 18)
+\Assetic\Filter::PackerFilter
+  Methods:  20.00% ( 1/ 5)   Lines:  30.00% (  3/ 10)
+\Assetic\Filter::PhpCssEmbedFilter
+  Methods:  25.00% ( 1/ 4)   Lines:  55.56% (  5/  9)
+\Assetic\Filter::ScssphpFilter
+  Methods:  45.45% ( 5/11)   Lines:  81.25% ( 39/ 48)
+\Assetic\Filter::SeparatorFilter
+  Methods:  66.67% ( 2/ 3)   Lines:  80.00% (  4/  5)
+\Assetic\Filter\GoogleClosure::BaseCompilerFilter
+  Methods:  80.00% ( 8/10)   Lines:  78.95% ( 15/ 19)
+\Assetic\Filter\GoogleClosure::CompilerApiFilter
+  Methods:   0.00% ( 0/ 3)   Lines:  47.27% ( 26/ 55)
+\Assetic\Filter\Yui::BaseCompressorFilter
+  Methods:  16.67% ( 1/ 6)   Lines:   8.11% (  3/ 37)
+\Assetic\Util::CssUtils
+  Methods:  90.91% (10/11)   Lines:  95.65% ( 22/ 23)
+\Assetic\Util::FilesystemUtils
+  Methods:  50.00% ( 2/ 4)   Lines:  12.50% (  2/ 16)
+\Assetic\Util::TraversableString
+  Methods:  75.00% ( 3/ 4)   Lines:  83.33% (  5/  6)
+\Assetic\Util::VarUtils
+  Methods:  33.33% ( 1/ 3)   Lines:  92.00% ( 23/ 25)

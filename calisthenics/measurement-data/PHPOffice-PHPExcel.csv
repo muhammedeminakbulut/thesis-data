@@ -1,0 +1,6 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:PHPOffice/PHPExcel.git,1.7.8,113015,41260,10286,3.05%,7.8541538461538,0,3657,74,12772,2
+git@github.com:PHPOffice/PHPExcel.git,1.7.9,113842,41133,10524,3.80%,8.0556946182728,0,3657,74,12412,2
+git@github.com:PHPOffice/PHPExcel.git,1.8.0,116221,41987,10684,3.90%,8.0610991710163,0,3657,74,13006,1
+git@github.com:PHPOffice/PHPExcel.git,1.8.1,122140,43666,11024,3.84%,7.9267515923567,0,3657,74,13357,1
+git@github.com:PHPOffice/PHPExcel.git,1.8.2,124116,41859,10914,3.76%,7.830063473745,0,3657,74,13409,0

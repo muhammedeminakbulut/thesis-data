@@ -1,0 +1,330 @@
+
+
+Code Coverage Report:         
+  2019-02-16 13:18:54         
+                              
+ Summary:                     
+  Classes: 18.69% (37/198)    
+  Methods: 50.27% (745/1482)  
+  Lines:   53.48% (7075/13230)
+
+\Composer::Cache
+  Methods:   7.69% ( 1/13)   Lines:  34.15% ( 28/ 82)
+\Composer::Composer
+  Methods: 100.00% (18/18)   Lines: 100.00% ( 27/ 27)
+\Composer::Config
+  Methods:  68.75% (11/16)   Lines:  73.43% (105/143)
+\Composer::Factory
+  Methods:  21.05% ( 4/19)   Lines:  58.68% (142/242)
+\Composer::Installer
+  Methods:  47.50% (19/40)   Lines:  88.93% (490/551)
+\Composer\Autoload::AutoloadGenerator
+  Methods:  71.43% (15/21)   Lines:  94.15% (306/325)
+\Composer\Autoload::ClassMapGenerator
+  Methods:   0.00% ( 0/ 3)   Lines:  82.28% ( 65/ 79)
+\Composer\Command::AboutCommand
+  Methods:  50.00% ( 1/ 2)   Lines:  62.50% (  5/  8)
+\Composer\Command::ArchiveCommand
+  Methods:  25.00% ( 1/ 4)   Lines:  20.34% ( 12/ 59)
+\Composer\Command::BaseCommand
+  Methods:   0.00% ( 0/ 6)   Lines:  12.00% (  3/ 25)
+\Composer\Command::BaseDependencyCommand
+  Methods:  14.29% ( 1/ 7)   Lines:   7.50% (  6/ 80)
+\Composer\Command::ClearCacheCommand
+  Methods:  50.00% ( 1/ 2)   Lines:  24.00% (  6/ 25)
+\Composer\Command::ConfigCommand
+  Methods:  20.00% ( 1/ 5)   Lines:   7.04% ( 15/213)
+\Composer\Command::CreateProjectCommand
+  Methods:  12.50% ( 1/ 8)   Lines:  14.47% ( 23/159)
+\Composer\Command::DependsCommand
+  Methods:  50.00% ( 1/ 2)   Lines:  87.50% (  7/  8)
+\Composer\Command::DiagnoseCommand
+  Methods:   6.25% ( 1/16)   Lines:   2.82% (  5/177)
+\Composer\Command::DumpAutoloadCommand
+  Methods:  50.00% ( 1/ 2)   Lines:  37.93% ( 11/ 29)
+\Composer\Command::ExecCommand
+  Methods:  50.00% ( 1/ 2)   Lines:  31.25% ( 10/ 32)
+\Composer\Command::GlobalCommand
+  Methods:  50.00% ( 1/ 2)   Lines:  36.36% (  8/ 22)
+\Composer\Command::HomeCommand
+  Methods:  20.00% ( 1/ 5)   Lines:  17.54% ( 10/ 57)
+\Composer\Command::InitCommand
+  Methods:  11.11% ( 2/18)   Lines:   8.74% ( 25/286)
+\Composer\Command::InstallCommand
+  Methods:  50.00% ( 1/ 2)   Lines:  32.31% ( 21/ 65)
+\Composer\Command::LicensesCommand
+  Methods:  20.00% ( 1/ 5)   Lines:  13.33% (  8/ 60)
+\Composer\Command::ProhibitsCommand
+  Methods:  50.00% ( 1/ 2)   Lines:  87.50% (  7/  8)
+\Composer\Command::RemoveCommand
+  Methods:  50.00% ( 1/ 2)   Lines:  26.15% ( 17/ 65)
+\Composer\Command::RequireCommand
+  Methods:  25.00% ( 1/ 4)   Lines:  18.27% ( 19/104)
+\Composer\Command::RunScriptCommand
+  Methods:  33.33% ( 1/ 3)   Lines:  31.58% ( 12/ 38)
+\Composer\Command::SearchCommand
+  Methods:  50.00% ( 1/ 2)   Lines:  34.78% (  8/ 23)
+\Composer\Command::SelfUpdateCommand
+  Methods:  11.11% ( 1/ 9)   Lines:  10.07% ( 15/149)
+\Composer\Command::ShowCommand
+  Methods:   9.09% ( 1/11)   Lines:   5.94% ( 17/286)
+\Composer\Command::StatusCommand
+  Methods:  33.33% ( 1/ 3)   Lines:  15.56% (  7/ 45)
+\Composer\Command::SuggestsCommand
+  Methods:  50.00% ( 1/ 2)   Lines:  13.85% (  9/ 65)
+\Composer\Command::UpdateCommand
+  Methods:  33.33% ( 1/ 3)   Lines:  22.31% ( 27/121)
+\Composer\Command::ValidateCommand
+  Methods:  33.33% ( 1/ 3)   Lines:  16.90% ( 12/ 71)
+\Composer\Config::JsonConfigSource
+  Methods:  10.00% ( 1/10)   Lines:  37.31% ( 25/ 67)
+\Composer\Console::Application
+  Methods:  23.08% ( 3/13)   Lines:  48.25% ( 69/143)
+\Composer\Console::HtmlOutputFormatter
+  Methods:  66.67% ( 2/ 3)   Lines:  60.00% ( 12/ 20)
+\Composer\DependencyResolver::Decisions
+  Methods:  75.00% (18/24)   Lines:  76.67% ( 46/ 60)
+\Composer\DependencyResolver::DefaultPolicy
+  Methods:  91.67% (11/12)   Lines:  99.06% (105/106)
+\Composer\DependencyResolver::Pool
+  Methods:  61.54% ( 8/13)   Lines:  88.07% ( 96/109)
+\Composer\DependencyResolver::Problem
+  Methods:  77.78% ( 7/ 9)   Lines:  65.43% ( 53/ 81)
+\Composer\DependencyResolver::Request
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% ( 20/ 20)
+\Composer\DependencyResolver::Rule
+  Methods:  82.35% (14/17)   Lines:  75.86% ( 88/116)
+\Composer\DependencyResolver::RuleSet
+  Methods:  75.00% ( 9/12)   Lines:  94.23% ( 49/ 52)
+\Composer\DependencyResolver::RuleSetGenerator
+  Methods:  91.67% (11/12)   Lines:  99.19% (122/123)
+\Composer\DependencyResolver::RuleSetIterator
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 31/ 31)
+\Composer\DependencyResolver::RuleWatchChain
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  7/  7)
+\Composer\DependencyResolver::RuleWatchGraph
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 27/ 27)
+\Composer\DependencyResolver::RuleWatchNode
+  Methods:  80.00% ( 4/ 5)   Lines:  69.57% ( 16/ 23)
+\Composer\DependencyResolver::Solver
+  Methods:  41.18% ( 7/17)   Lines:  77.96% (283/363)
+\Composer\DependencyResolver::SolverProblemsException
+  Methods:  40.00% ( 2/ 5)   Lines:  56.25% ( 18/ 32)
+\Composer\DependencyResolver::Transaction
+  Methods: 100.00% (10/10)   Lines: 100.00% ( 83/ 83)
+\Composer\DependencyResolver\Operation::InstallOperation
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  6/  6)
+\Composer\DependencyResolver\Operation::MarkAliasInstalledOperation
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  6/  6)
+\Composer\DependencyResolver\Operation::MarkAliasUninstalledOperation
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  6/  6)
+\Composer\DependencyResolver\Operation::SolverOperation
+  Methods:  66.67% ( 2/ 3)   Lines:  75.00% (  3/  4)
+\Composer\DependencyResolver\Operation::UninstallOperation
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  6/  6)
+\Composer\DependencyResolver\Operation::UpdateOperation
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% (  9/  9)
+\Composer\Downloader::ArchiveDownloader
+  Methods:  50.00% ( 2/ 4)   Lines:  58.49% ( 31/ 53)
+\Composer\Downloader::DownloadManager
+  Methods:  66.67% ( 8/12)   Lines:  85.00% ( 85/100)
+\Composer\Downloader::FileDownloader
+  Methods:  27.27% ( 3/11)   Lines:  65.85% ( 54/ 82)
+\Composer\Downloader::GitDownloader
+  Methods:  18.75% ( 3/16)   Lines:  53.25% ( 90/169)
+\Composer\Downloader::GzipDownloader
+  Methods:  25.00% ( 1/ 4)   Lines:  13.04% (  3/ 23)
+\Composer\Downloader::HgDownloader
+  Methods:  40.00% ( 2/ 5)   Lines:  73.33% ( 22/ 30)
+\Composer\Downloader::PearPackageExtractor
+  Methods:  11.11% ( 1/ 9)   Lines:  72.50% ( 87/120)
+\Composer\Downloader::PerforceDownloader
+  Methods:  55.56% ( 5/ 9)   Lines:  79.41% ( 27/ 34)
+\Composer\Downloader::RarDownloader
+  Methods:  50.00% ( 1/ 2)   Lines:  10.34% (  3/ 29)
+\Composer\Downloader::VcsDownloader
+  Methods:  33.33% ( 3/ 9)   Lines:  73.68% ( 56/ 76)
+\Composer\Downloader::XzDownloader
+  Methods:  66.67% ( 2/ 3)   Lines:  88.89% (  8/  9)
+\Composer\Downloader::ZipDownloader
+  Methods:  25.00% ( 1/ 4)   Lines:  47.73% ( 21/ 44)
+\Composer\EventDispatcher::Event
+  Methods:  83.33% ( 5/ 6)   Lines:  80.00% (  8/ 10)
+\Composer\EventDispatcher::EventDispatcher
+  Methods:  52.94% ( 9/17)   Lines:  65.85% ( 81/123)
+\Composer\IO::BaseIO
+  Methods:  66.67% ( 4/ 6)   Lines:  51.52% ( 17/ 33)
+\Composer\IO::BufferIO
+  Methods:  66.67% ( 2/ 3)   Lines:  66.67% (  8/ 12)
+\Composer\IO::ConsoleIO
+  Methods:  65.00% (13/20)   Lines:  86.96% ( 60/ 69)
+\Composer\IO::NullIO
+  Methods:  57.14% ( 8/14)   Lines:  57.14% (  8/ 14)
+\Composer\Installer::BinaryInstaller
+  Methods:  30.00% ( 3/10)   Lines:  20.78% ( 16/ 77)
+\Composer\Installer::InstallationManager
+  Methods:  60.00% ( 9/15)   Lines:  53.19% ( 50/ 94)
+\Composer\Installer::InstallerEvent
+  Methods: 100.00% ( 9/ 9)   Lines: 100.00% ( 18/ 18)
+\Composer\Installer::LibraryInstaller
+  Methods:  58.33% ( 7/12)   Lines:  86.96% ( 60/ 69)
+\Composer\Installer::MetapackageInstaller
+  Methods:  50.00% ( 3/ 6)   Lines:  78.57% ( 11/ 14)
+\Composer\Installer::PluginInstaller
+  Methods:  25.00% ( 1/ 4)   Lines:  65.00% ( 13/ 20)
+\Composer\Installer::SuggestedPackagesReporter
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 31/ 31)
+\Composer\Json::JsonFile
+  Methods:  30.00% ( 3/10)   Lines:  42.86% ( 42/ 98)
+\Composer\Json::JsonFormatter
+  Methods:  50.00% ( 1/ 2)   Lines:  96.43% ( 27/ 28)
+\Composer\Json::JsonManipulator
+  Methods:  60.00% ( 9/15)   Lines:  84.10% (164/195)
+\Composer\Json::JsonValidationException
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\Composer\Package::AliasPackage
+  Methods:  34.55% (19/55)   Lines:  50.00% ( 37/ 74)
+\Composer\Package::BasePackage
+  Methods:  88.89% (16/18)   Lines:  93.02% ( 40/ 43)
+\Composer\Package::CompletePackage
+  Methods:  94.74% (18/19)   Lines:  92.86% ( 26/ 28)
+\Composer\Package::Link
+  Methods:  62.50% ( 5/ 8)   Lines:  80.00% ( 12/ 15)
+\Composer\Package::Locker
+  Methods:  58.82% (10/17)   Lines:  72.30% (107/148)
+\Composer\Package::Package
+  Methods:  95.08% (58/61)   Lines:  87.50% ( 98/112)
+\Composer\Package::RootAliasPackage
+  Methods:  61.11% (11/18)   Lines:  64.86% ( 24/ 37)
+\Composer\Package::RootPackage
+  Methods:  90.00% ( 9/10)   Lines:  86.67% ( 13/ 15)
+\Composer\Package\Archiver::ArchivableFilesFinder
+  Methods:  66.67% ( 2/ 3)   Lines:  95.45% ( 21/ 22)
+\Composer\Package\Archiver::ArchiveManager
+  Methods:  50.00% ( 3/ 6)   Lines:  86.00% ( 43/ 50)
+\Composer\Package\Archiver::BaseExcludeFilter
+  Methods:  83.33% ( 5/ 6)   Lines:  97.50% ( 39/ 40)
+\Composer\Package\Archiver::ComposerExcludeFilter
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\Composer\Package\Archiver::GitExcludeFilter
+  Methods:  66.67% ( 2/ 3)   Lines:  89.47% ( 17/ 19)
+\Composer\Package\Archiver::HgExcludeFilter
+  Methods:  25.00% ( 1/ 4)   Lines:  30.00% (  6/ 20)
+\Composer\Package\Archiver::PharArchiver
+  Methods:  50.00% ( 1/ 2)   Lines:  43.48% ( 10/ 23)
+\Composer\Package\Archiver::ZipArchiver
+  Methods:  33.33% ( 1/ 3)   Lines:  65.00% ( 13/ 20)
+\Composer\Package\Dumper::ArrayDumper
+  Methods:  50.00% ( 1/ 2)   Lines:  96.36% ( 53/ 55)
+\Composer\Package\Loader::ArrayLoader
+  Methods:  50.00% ( 2/ 4)   Lines:  81.54% (106/130)
+\Composer\Package\Loader::InvalidPackageException
+  Methods:  50.00% ( 2/ 4)   Lines:  75.00% (  6/  8)
+\Composer\Package\Loader::JsonLoader
+  Methods:  50.00% ( 1/ 2)   Lines:  66.67% (  6/  9)
+\Composer\Package\Loader::RootPackageLoader
+  Methods:  80.00% ( 4/ 5)   Lines:  97.09% (100/103)
+\Composer\Package\Loader::ValidatingArrayLoader
+  Methods:  30.00% ( 3/10)   Lines:  71.86% (143/199)
+\Composer\Package\Version::VersionGuesser
+  Methods:  28.57% ( 2/ 7)   Lines:  61.54% ( 56/ 91)
+\Composer\Package\Version::VersionParser
+  Methods:  50.00% ( 1/ 2)   Lines:  20.00% (  3/ 15)
+\Composer\Package\Version::VersionSelector
+  Methods:  83.33% ( 5/ 6)   Lines:  82.35% ( 28/ 34)
+\Composer\Plugin::PluginManager
+  Methods:  53.85% ( 7/13)   Lines:  87.20% (109/125)
+\Composer\Plugin::PreFileDownloadEvent
+  Methods:  50.00% ( 2/ 4)   Lines:  62.50% (  5/  8)
+\Composer\Repository::ArrayRepository
+  Methods:  81.82% ( 9/11)   Lines:  79.37% ( 50/ 63)
+\Composer\Repository::ArtifactRepository
+  Methods:  33.33% ( 2/ 6)   Lines:  90.62% ( 58/ 64)
+\Composer\Repository::ComposerRepository
+  Methods:  22.73% ( 5/22)   Lines:  39.03% (137/351)
+\Composer\Repository::CompositeRepository
+  Methods:  70.00% ( 7/10)   Lines:  84.21% ( 32/ 38)
+\Composer\Repository::FilesystemRepository
+  Methods:  75.00% ( 3/ 4)   Lines:  88.00% ( 22/ 25)
+\Composer\Repository::PackageRepository
+  Methods:  50.00% ( 1/ 2)   Lines:  84.62% ( 11/ 13)
+\Composer\Repository::PathRepository
+  Methods:  25.00% ( 1/ 4)   Lines:  88.57% ( 31/ 35)
+\Composer\Repository::PearRepository
+  Methods:  20.00% ( 1/ 5)   Lines:  73.26% ( 63/ 86)
+\Composer\Repository::PlatformRepository
+  Methods:  60.00% ( 3/ 5)   Lines:  82.76% ( 72/ 87)
+\Composer\Repository::RepositoryFactory
+  Methods:  16.67% ( 1/ 6)   Lines:  48.15% ( 26/ 54)
+\Composer\Repository::RepositoryManager
+  Methods:  80.00% ( 8/10)   Lines:  74.19% ( 23/ 31)
+\Composer\Repository::VcsRepository
+  Methods:  11.11% ( 1/ 9)   Lines:   7.58% ( 10/132)
+\Composer\Repository::WritableArrayRepository
+  Methods:  66.67% ( 2/ 3)   Lines:  92.31% ( 12/ 13)
+\Composer\Repository\Pear::BaseChannelReader
+  Methods:  33.33% ( 1/ 3)   Lines:  81.82% (  9/ 11)
+\Composer\Repository\Pear::ChannelInfo
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  7/  7)
+\Composer\Repository\Pear::ChannelReader
+  Methods:  33.33% ( 1/ 3)   Lines:  90.32% ( 28/ 31)
+\Composer\Repository\Pear::ChannelRest10Reader
+  Methods:  83.33% ( 5/ 6)   Lines:  92.16% ( 47/ 51)
+\Composer\Repository\Pear::ChannelRest11Reader
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 48/ 48)
+\Composer\Repository\Pear::DependencyConstraint
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% (  9/  9)
+\Composer\Repository\Pear::DependencyInfo
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\Composer\Repository\Pear::PackageDependencyParser
+  Methods:  25.00% ( 2/ 8)   Lines:  84.03% (121/144)
+\Composer\Repository\Pear::PackageInfo
+  Methods:  85.71% ( 6/ 7)   Lines:  92.31% ( 12/ 13)
+\Composer\Repository\Pear::ReleaseInfo
+  Methods:  66.67% ( 2/ 3)   Lines:  80.00% (  4/  5)
+\Composer\Repository\Vcs::GitDriver
+  Methods:  50.00% ( 5/10)   Lines:  48.78% ( 40/ 82)
+\Composer\Repository\Vcs::GitHubDriver
+  Methods:  27.78% ( 5/18)   Lines:  43.55% ( 81/186)
+\Composer\Repository\Vcs::GitLabDriver
+  Methods:  57.89% (11/19)   Lines:  40.59% ( 41/101)
+\Composer\Repository\Vcs::PerforceDriver
+  Methods:  46.67% ( 7/15)   Lines:  59.09% ( 26/ 44)
+\Composer\Repository\Vcs::SvnDriver
+  Methods:   0.00% ( 0/12)   Lines:  27.12% ( 32/118)
+\Composer\Repository\Vcs::VcsDriver
+  Methods:  20.00% ( 1/ 5)   Lines:  55.56% ( 10/ 18)
+\Composer\Script::Event
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  8/  8)
+\Composer\Util::Bitbucket
+  Methods:  16.67% ( 1/ 6)   Lines:  52.94% ( 27/ 51)
+\Composer\Util::ConfigValidator
+  Methods:  50.00% ( 1/ 2)   Lines:  57.35% ( 39/ 68)
+\Composer\Util::ErrorHandler
+  Methods:  33.33% ( 1/ 3)   Lines:  50.00% (  9/ 18)
+\Composer\Util::Filesystem
+  Methods:  28.57% ( 8/28)   Lines:  57.14% (132/231)
+\Composer\Util::Git
+  Methods:  57.14% ( 4/ 7)   Lines:  50.41% ( 61/121)
+\Composer\Util::GitHub
+  Methods:  33.33% ( 1/ 3)   Lines:  79.49% ( 31/ 39)
+\Composer\Util::GitLab
+  Methods:  50.00% ( 2/ 4)   Lines:  82.61% ( 38/ 46)
+\Composer\Util::NoProxyPattern
+  Methods:  33.33% ( 1/ 3)   Lines:  48.89% ( 22/ 45)
+\Composer\Util::Perforce
+  Methods:  68.29% (28/41)   Lines:  78.20% (226/289)
+\Composer\Util::Platform
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Composer\Util::ProcessExecutor
+  Methods:  87.50% ( 7/ 8)   Lines:  88.89% ( 24/ 27)
+\Composer\Util::RemoteFilesystem
+  Methods:   9.52% ( 2/21)   Lines:  39.55% (142/359)
+\Composer\Util::Silencer
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 16/ 16)
+\Composer\Util::StreamContextFactory
+  Methods:  66.67% ( 2/ 3)   Lines:  93.85% ( 61/ 65)
+\Composer\Util::Svn
+  Methods:  57.14% ( 8/14)   Lines:  72.97% ( 54/ 74)
+\Composer\Util::TlsHelper
+  Methods:  33.33% ( 2/ 6)   Lines:  50.00% ( 42/ 84)

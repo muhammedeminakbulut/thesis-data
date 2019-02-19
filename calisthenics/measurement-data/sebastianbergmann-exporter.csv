@@ -1,0 +1,11 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:sebastianbergmann/exporter.git,1.0.0,909,337,41,0.00%,4.7368421052632,0,14,10,18,0
+git@github.com:sebastianbergmann/exporter.git,1.0.1,899,335,42,0.00%,4.8947368421053,0,14,10,19,0
+git@github.com:sebastianbergmann/exporter.git,1.0.2,912,335,43,0.00%,4.9,0,14,10,20,0
+git@github.com:sebastianbergmann/exporter.git,1.1.0,597,110,33,0.00%,5.5,0,14,10,18,0
+git@github.com:sebastianbergmann/exporter.git,1.2.0,635,115,37,0.00%,5.6666666666667,0,14,10,22,0
+git@github.com:sebastianbergmann/exporter.git,1.2.1,629,109,37,0.00%,5.6666666666667,0,14,10,22,0
+git@github.com:sebastianbergmann/exporter.git,1.2.2,659,111,40,0.00%,6,0,14,10,27,0
+git@github.com:sebastianbergmann/exporter.git,2.0.0,661,111,40,0.00%,6.125,0,14,10,27,0
+git@github.com:sebastianbergmann/exporter.git,3.0.0,663,111,40,0.00%,6.125,0,14,10,27,0
+git@github.com:sebastianbergmann/exporter.git,3.1.0,673,118,40,0.00%,6.125,0,14,10,27,0

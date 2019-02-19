@@ -1,0 +1,142 @@
+
+
+Code Coverage Report:        
+  2019-02-16 13:25:57        
+                             
+ Summary:                    
+  Classes: 46.27% (31/67)    
+  Methods: 66.37% (298/449)  
+  Lines:   77.63% (1461/1882)
+
+Mockery
+  Methods:  74.51% (38/51)   Lines:  85.51% (183/214)
+\Mockery::Mockery\ClosureWrapper
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\Mockery::Mockery\CompositeExpectation
+  Methods:  90.00% ( 9/10)   Lines:  88.46% ( 23/ 26)
+\Mockery::Mockery\Configuration
+  Methods:  61.54% ( 8/13)   Lines:  53.85% ( 14/ 26)
+\Mockery::Mockery\Container
+  Methods:  75.00% (18/24)   Lines:  91.79% (179/195)
+\Mockery::Mockery\Expectation
+  Methods:  85.19% (46/54)   Lines:  95.14% (176/185)
+\Mockery::Mockery\ExpectationDirector
+  Methods: 100.00% (10/10)   Lines: 100.00% ( 48/ 48)
+\Mockery::Mockery\ExpectsHigherOrderMessage
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\Mockery::Mockery\HigherOrderMessage
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  7/  7)
+\Mockery::Mockery\Instantiator
+  Methods:  25.00% ( 2/ 8)   Lines:  26.09% ( 12/ 46)
+\Mockery::Mockery\MethodCall
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\Mockery::Mockery\Mock
+  Methods:   9.62% ( 5/52)   Lines:  14.12% ( 36/255)
+\Mockery::Mockery\ReceivedMethodCalls
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 10/ 10)
+\Mockery::Mockery\Undefined
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Mockery::Mockery\VerificationDirector
+  Methods:  50.00% ( 7/14)   Lines:  72.00% ( 18/ 25)
+\Mockery::Mockery\VerificationExpectation
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  5/  5)
+\Mockery\Adapter\Phpunit::MockeryPHPUnitIntegration
+  Methods:  66.67% ( 4/ 6)   Lines:  90.48% ( 19/ 21)
+\Mockery\CountValidator::Mockery\CountValidator\AtLeast
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 15/ 15)
+\Mockery\CountValidator::Mockery\CountValidator\AtMost
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 14/ 14)
+\Mockery\CountValidator::Mockery\CountValidator\CountValidatorAbstract
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\Mockery\CountValidator::Mockery\CountValidator\Exact
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 16/ 16)
+\Mockery\Exception::Mockery\Exception\BadMethodCallException
+  Methods:  50.00% ( 1/ 2)   Lines:  80.00% (  4/  5)
+\Mockery\Exception::Mockery\Exception\InvalidCountException
+  Methods:  45.45% ( 5/11)   Lines:  68.42% ( 13/ 19)
+\Mockery\Exception::Mockery\Exception\InvalidOrderException
+  Methods:  44.44% ( 4/ 9)   Lines:  61.54% (  8/ 13)
+\Mockery\Exception::Mockery\Exception\NoMatchingExpectationException
+  Methods:  42.86% ( 3/ 7)   Lines:  60.00% (  6/ 10)
+\Mockery\Generator::Mockery\Generator\CachingGenerator
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  8/  8)
+\Mockery\Generator::Mockery\Generator\DefinedTargetClass
+  Methods:  69.23% ( 9/13)   Lines:  83.33% ( 20/ 24)
+\Mockery\Generator::Mockery\Generator\Method
+  Methods:  75.00% ( 3/ 4)   Lines:  80.00% ( 16/ 20)
+\Mockery\Generator::Mockery\Generator\MockConfiguration
+  Methods:  92.86% (26/28)   Lines:  98.46% (192/195)
+\Mockery\Generator::Mockery\Generator\MockConfigurationBuilder
+  Methods:  80.00% (12/15)   Lines:  82.93% ( 34/ 41)
+\Mockery\Generator::Mockery\Generator\MockDefinition
+  Methods:  50.00% ( 2/ 4)   Lines:  75.00% (  6/  8)
+\Mockery\Generator::Mockery\Generator\Parameter
+  Methods:  50.00% ( 3/ 6)   Lines:  73.08% ( 19/ 26)
+\Mockery\Generator::Mockery\Generator\StringManipulationGenerator
+  Methods:  75.00% ( 3/ 4)   Lines:  91.30% ( 21/ 23)
+\Mockery\Generator::Mockery\Generator\UndefinedTargetClass
+  Methods:  58.33% ( 7/12)   Lines:  50.00% (  8/ 16)
+\Mockery\Generator\StringManipulation\Pass::Mockery\Generator\StringManipulation\Pass\CallTypeHintPass
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 11/ 11)
+\Mockery\Generator\StringManipulation\Pass::Mockery\Generator\StringManipulation\Pass\ClassNamePass
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 12/ 12)
+\Mockery\Generator\StringManipulation\Pass::Mockery\Generator\StringManipulation\Pass\ClassPass
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 13/ 13)
+\Mockery\Generator\StringManipulation\Pass::Mockery\Generator\StringManipulation\Pass\ConstantsPass
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 13/ 13)
+\Mockery\Generator\StringManipulation\Pass::Mockery\Generator\StringManipulation\Pass\InstanceMockPass
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  6/  6)
+\Mockery\Generator\StringManipulation\Pass::Mockery\Generator\StringManipulation\Pass\InterfacePass
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 11/ 11)
+\Mockery\Generator\StringManipulation\Pass::Mockery\Generator\StringManipulation\Pass\MagicMethodTypeHintsPass
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 56/ 56)
+\Mockery\Generator\StringManipulation\Pass::Mockery\Generator\StringManipulation\Pass\MethodDefinitionPass
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 73/ 73)
+\Mockery\Generator\StringManipulation\Pass::Mockery\Generator\StringManipulation\Pass\RemoveBuiltinMethodsThatAreFinalPass
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  7/  7)
+\Mockery\Generator\StringManipulation\Pass::Mockery\Generator\StringManipulation\Pass\RemoveDestructorPass
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  6/  6)
+\Mockery\Generator\StringManipulation\Pass::Mockery\Generator\StringManipulation\Pass\RemoveUnserializeForInternalSerializableClassesPass
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 10/ 10)
+\Mockery\Generator\StringManipulation\Pass::Mockery\Generator\StringManipulation\Pass\TraitPass
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 10/ 10)
+\Mockery\Loader::Mockery\Loader\EvalLoader
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  4/  4)
+\Mockery\Loader::Mockery\Loader\RequireLoader
+  Methods:  50.00% ( 1/ 2)   Lines:  87.50% (  7/  8)
+\Mockery\Matcher::Mockery\Matcher\Any
+  Methods:  50.00% ( 1/ 2)   Lines:  50.00% (  1/  2)
+\Mockery\Matcher::Mockery\Matcher\AnyArgs
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Mockery\Matcher::Mockery\Matcher\AnyOf
+  Methods:  50.00% ( 1/ 2)   Lines:  50.00% (  1/  2)
+\Mockery\Matcher::Mockery\Matcher\Closure
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\Mockery\Matcher::Mockery\Matcher\Contains
+  Methods:  50.00% ( 1/ 2)   Lines:  62.50% ( 10/ 16)
+\Mockery\Matcher::Mockery\Matcher\Ducktype
+  Methods:   0.00% ( 0/ 2)   Lines:  71.43% (  5/  7)
+\Mockery\Matcher::Mockery\Matcher\HasKey
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Mockery\Matcher::Mockery\Matcher\HasValue
+  Methods:  50.00% ( 1/ 2)   Lines:  33.33% (  1/  3)
+\Mockery\Matcher::Mockery\Matcher\MatcherAbstract
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Mockery\Matcher::Mockery\Matcher\MultiArgumentClosure
+  Methods:  50.00% ( 1/ 2)   Lines:  66.67% (  2/  3)
+\Mockery\Matcher::Mockery\Matcher\MustBe
+  Methods:  50.00% ( 1/ 2)   Lines:  75.00% (  3/  4)
+\Mockery\Matcher::Mockery\Matcher\NoArgs
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Mockery\Matcher::Mockery\Matcher\Not
+  Methods:  50.00% ( 1/ 2)   Lines:  50.00% (  1/  2)
+\Mockery\Matcher::Mockery\Matcher\NotAnyOf
+  Methods:  50.00% ( 1/ 2)   Lines:  80.00% (  4/  5)
+\Mockery\Matcher::Mockery\Matcher\PHPUnitConstraint
+  Methods:  33.33% ( 1/ 3)   Lines:  72.22% ( 13/ 18)
+\Mockery\Matcher::Mockery\Matcher\Pattern
+  Methods:  50.00% ( 1/ 2)   Lines:  50.00% (  1/  2)
+\Mockery\Matcher::Mockery\Matcher\Subset
+  Methods:  80.00% ( 4/ 5)   Lines:  62.50% ( 10/ 16)
+\Mockery\Matcher::Mockery\Matcher\Type
+  Methods:   0.00% ( 0/ 2)   Lines:  75.00% (  6/  8)

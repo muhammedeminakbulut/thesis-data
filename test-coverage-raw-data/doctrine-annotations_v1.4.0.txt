@@ -1,0 +1,38 @@
+
+
+Code Coverage Report:      
+  2019-02-17 15:28:43      
+                           
+ Summary:                  
+  Classes:  6.67% (1/15)   
+  Methods: 50.89% (57/112) 
+  Lines:   84.00% (740/881)
+
+\Doctrine\Common\Annotations::Annotation
+  Methods:  33.33% ( 1/ 3)   Lines:  42.86% (  3/  7)
+\Doctrine\Common\Annotations::AnnotationException
+  Methods:  80.00% ( 8/10)   Lines:  87.50% ( 28/ 32)
+\Doctrine\Common\Annotations::AnnotationReader
+  Methods:  42.86% ( 6/14)   Lines:  84.38% ( 81/ 96)
+\Doctrine\Common\Annotations::AnnotationRegistry
+  Methods:  66.67% ( 4/ 6)   Lines:  75.00% ( 21/ 28)
+\Doctrine\Common\Annotations::CachedReader
+  Methods:  61.54% ( 8/13)   Lines:  90.48% ( 57/ 63)
+\Doctrine\Common\Annotations::DocLexer
+  Methods:  66.67% ( 2/ 3)   Lines:  94.12% ( 16/ 17)
+\Doctrine\Common\Annotations::DocParser
+  Methods:  59.26% (16/27)   Lines:  93.72% (343/366)
+\Doctrine\Common\Annotations::FileCacheReader
+  Methods:   0.00% ( 0/ 9)   Lines:  61.22% ( 60/ 98)
+\Doctrine\Common\Annotations::PhpParser
+  Methods:  50.00% ( 1/ 2)   Lines:  95.45% ( 21/ 22)
+\Doctrine\Common\Annotations::SimpleAnnotationReader
+  Methods:  62.50% ( 5/ 8)   Lines:  85.00% ( 17/ 20)
+\Doctrine\Common\Annotations::TokenParser
+  Methods:  83.33% ( 5/ 6)   Lines:  98.21% ( 55/ 56)
+\Doctrine\Common\Annotations\Annotation::Enum
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 15/ 15)
+\Doctrine\Common\Annotations\Annotation::IgnoreAnnotation
+  Methods:   0.00% ( 0/ 1)   Lines:  83.33% (  5/  6)
+\Doctrine\Common\Annotations\Annotation::Target
+  Methods:   0.00% ( 0/ 1)   Lines:  94.74% ( 18/ 19)

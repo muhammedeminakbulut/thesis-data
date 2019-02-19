@@ -1,0 +1,60 @@
+
+
+Code Coverage Report:      
+  2019-02-16 21:08:56      
+                           
+ Summary:                  
+  Classes: 55.56% (15/27)  
+  Methods: 85.71% (156/182)
+  Lines:   78.64% (475/604)
+
+\Mpociot\BotMan::Answer
+  Methods: 100.00% (11/11)   Lines: 100.00% ( 16/ 16)
+\Mpociot\BotMan::BotMan
+  Methods:  87.50% (21/24)   Lines:  89.91% ( 98/109)
+\Mpociot\BotMan::BotManFactory
+  Methods:  66.67% ( 2/ 3)   Lines:  86.67% ( 13/ 15)
+\Mpociot\BotMan::BotManServiceProvider
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Mpociot\BotMan::Button
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 15/ 15)
+\Mpociot\BotMan::Conversation
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  7/  7)
+\Mpociot\BotMan::DriverManager
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 22/ 22)
+\Mpociot\BotMan::Message
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% ( 15/ 15)
+\Mpociot\BotMan::Question
+  Methods: 100.00% (10/10)   Lines: 100.00% ( 19/ 19)
+\Mpociot\BotMan\Cache::ArrayCache
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 11/ 11)
+\Mpociot\BotMan\Cache::DoctrineCache
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 17/ 17)
+\Mpociot\BotMan\Cache::LaravelCache
+  Methods:  75.00% ( 3/ 4)   Lines:  80.00% (  4/  5)
+\Mpociot\BotMan\Cache::SymfonyCache
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 19/ 19)
+\Mpociot\BotMan\Drivers::BotFrameworkDriver
+  Methods:  60.00% ( 6/10)   Lines:  18.60% (  8/ 43)
+\Mpociot\BotMan\Drivers::Driver
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  4/  4)
+\Mpociot\BotMan\Drivers::FacebookDriver
+  Methods: 100.00% (11/11)   Lines: 100.00% ( 39/ 39)
+\Mpociot\BotMan\Drivers::HipChatDriver
+  Methods:  66.67% ( 6/ 9)   Lines:  40.00% (  8/ 20)
+\Mpociot\BotMan\Drivers::NexmoDriver
+  Methods:  75.00% ( 6/ 8)   Lines:  38.10% (  8/ 21)
+\Mpociot\BotMan\Drivers::NullDriver
+  Methods:  62.50% ( 5/ 8)   Lines:  62.50% (  5/  8)
+\Mpociot\BotMan\Drivers::SlackDriver
+  Methods:  90.91% (10/11)   Lines:  92.19% ( 59/ 64)
+\Mpociot\BotMan\Drivers::SlackRTMDriver
+  Methods:  66.67% ( 6/ 9)   Lines:  44.44% ( 12/ 27)
+\Mpociot\BotMan\Drivers::TelegramDriver
+  Methods:  90.00% ( 9/10)   Lines:  97.56% ( 40/ 41)
+\Mpociot\BotMan\Facades::BotMan
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Mpociot\BotMan\Messages::Message
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 10/ 10)
+\Mpociot\BotMan\Middleware::Wit
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 16/ 16)

@@ -1,0 +1,16 @@
+repository,tag,coverage
+git@github.com:FriendsOfPHP/PHP-CS-Fixer.git,v2.1.0,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:FriendsOfPHP/PHP-CS-Fixer.git,v2.2.0,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:FriendsOfPHP/PHP-CS-Fixer.git,v2.3.0,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:FriendsOfPHP/PHP-CS-Fixer.git,v2.4.0,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:FriendsOfPHP/PHP-CS-Fixer.git,v2.5.0,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:FriendsOfPHP/PHP-CS-Fixer.git,v2.6.1,"phpunit failed"
+git@github.com:FriendsOfPHP/PHP-CS-Fixer.git,v2.7.1,"phpunit failed"
+git@github.com:FriendsOfPHP/PHP-CS-Fixer.git,v2.8.1,"phpunit failed"
+git@github.com:FriendsOfPHP/PHP-CS-Fixer.git,v2.9.1,"phpunit failed"
+git@github.com:FriendsOfPHP/PHP-CS-Fixer.git,v2.10.1,"phpunit failed"
+git@github.com:FriendsOfPHP/PHP-CS-Fixer.git,v2.11.1,"phpunit failed"
+git@github.com:FriendsOfPHP/PHP-CS-Fixer.git,v2.12.0,"phpunit failed"
+git@github.com:FriendsOfPHP/PHP-CS-Fixer.git,v2.13.0,"phpunit failed"
+git@github.com:FriendsOfPHP/PHP-CS-Fixer.git,v2.0.0,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:FriendsOfPHP/PHP-CS-Fixer.git,v2.14.0,80.94

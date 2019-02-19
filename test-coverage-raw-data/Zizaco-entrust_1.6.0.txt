@@ -1,0 +1,110 @@
+
+
+Code Coverage Report:       
+  2019-02-16 14:09:04       
+                            
+ Summary:                   
+  Classes: 25.93% (14/54)   
+  Methods: 33.12% (157/474) 
+  Lines:   38.71% (964/2490)
+
+Mockery
+  Methods:  34.62% (18/52)   Lines:  52.11% (111/213)
+\Illuminate\Support::Arr
+  Methods:   0.00% ( 0/29)   Lines:   1.23% (  2/162)
+\Illuminate\Support::Str
+  Methods:   0.00% ( 0/34)   Lines:   8.77% ( 10/114)
+\Illuminate\Support\Facades::Cache
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Illuminate\Support\Facades::Config
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Illuminate\Support\Facades::Facade
+  Methods:  31.25% ( 5/16)   Lines:  45.45% ( 20/ 44)
+\Mockery::CompositeExpectation
+  Methods:  40.00% ( 4/10)   Lines:  34.62% (  9/ 26)
+\Mockery::Configuration
+  Methods:  33.33% ( 4/12)   Lines:  17.39% (  4/ 23)
+\Mockery::Container
+  Methods:  32.00% ( 8/25)   Lines:  50.52% ( 98/194)
+\Mockery::Expectation
+  Methods:  24.07% (13/54)   Lines:  52.43% ( 97/185)
+\Mockery::ExpectationDirector
+  Methods:  30.00% ( 3/10)   Lines:  70.83% ( 34/ 48)
+\Mockery::Instantiator
+  Methods:  25.00% ( 2/ 8)   Lines:  31.58% ( 12/ 38)
+\Mockery::MethodCall
+  Methods:  33.33% ( 1/ 3)   Lines:  60.00% (  3/  5)
+\Mockery::ReceivedMethodCalls
+  Methods:  50.00% ( 1/ 2)   Lines:  20.00% (  2/ 10)
+\Mockery\CountValidator::CountValidatorAbstract
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\Mockery\CountValidator::Exact
+  Methods:   0.00% ( 0/ 1)   Lines:  12.50% (  2/ 16)
+\Mockery\Exception::NoMatchingExpectationException
+  Methods:  42.86% ( 3/ 7)   Lines:  60.00% (  6/ 10)
+\Mockery\Generator::CachingGenerator
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  8/  8)
+\Mockery\Generator::DefinedTargetClass
+  Methods:  50.00% ( 7/14)   Lines:  58.33% ( 14/ 24)
+\Mockery\Generator::Method
+  Methods:  75.00% ( 3/ 4)   Lines:  47.06% (  8/ 17)
+\Mockery\Generator::MockConfiguration
+  Methods:  51.72% (15/29)   Lines:  76.80% (149/194)
+\Mockery\Generator::MockConfigurationBuilder
+  Methods:  53.33% ( 8/15)   Lines:  63.41% ( 26/ 41)
+\Mockery\Generator::MockDefinition
+  Methods:  50.00% ( 2/ 4)   Lines:  75.00% (  6/  8)
+\Mockery\Generator::Parameter
+  Methods:  50.00% ( 3/ 6)   Lines:  65.38% ( 17/ 26)
+\Mockery\Generator::StringManipulationGenerator
+  Methods:  75.00% ( 3/ 4)   Lines:  91.30% ( 21/ 23)
+\Mockery\Generator::UndefinedTargetClass
+  Methods:  58.33% ( 7/12)   Lines:  50.00% (  8/ 16)
+\Mockery\Generator\StringManipulation\Pass::CallTypeHintPass
+  Methods:   0.00% ( 0/ 1)   Lines:  27.27% (  3/ 11)
+\Mockery\Generator\StringManipulation\Pass::ClassNamePass
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 12/ 12)
+\Mockery\Generator\StringManipulation\Pass::ClassPass
+  Methods:   0.00% ( 0/ 1)   Lines:  86.67% ( 13/ 15)
+\Mockery\Generator\StringManipulation\Pass::ConstantsPass
+  Methods:   0.00% ( 0/ 1)   Lines:  23.08% (  3/ 13)
+\Mockery\Generator\StringManipulation\Pass::InstanceMockPass
+  Methods:   0.00% ( 0/ 2)   Lines:  33.33% (  2/  6)
+\Mockery\Generator\StringManipulation\Pass::InterfacePass
+  Methods:  50.00% ( 1/ 2)   Lines:  83.33% (  5/  6)
+\Mockery\Generator\StringManipulation\Pass::MagicMethodTypeHintsPass
+  Methods:  62.50% ( 5/ 8)   Lines:  30.36% ( 17/ 56)
+\Mockery\Generator\StringManipulation\Pass::MethodDefinitionPass
+  Methods:  33.33% ( 2/ 6)   Lines:  76.71% ( 56/ 73)
+\Mockery\Generator\StringManipulation\Pass::RemoveBuiltinMethodsThatAreFinalPass
+  Methods:   0.00% ( 0/ 1)   Lines:  85.71% (  6/  7)
+\Mockery\Generator\StringManipulation\Pass::RemoveDestructorPass
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  6/  6)
+\Mockery\Generator\StringManipulation\Pass::RemoveUnserializeForInternalSerializableClassesPass
+  Methods:   0.00% ( 0/ 2)   Lines:  50.00% (  5/ 10)
+\Mockery\Generator\StringManipulation\Pass::TraitPass
+  Methods:  50.00% ( 1/ 2)   Lines:  60.00% (  3/  5)
+\Mockery\Loader::EvalLoader
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  4/  4)
+\Mockery\Matcher::Any
+  Methods:  50.00% ( 1/ 2)   Lines:  50.00% (  1/  2)
+\Mockery\Matcher::AnyArgs
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Mockery\Matcher::AnyOf
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Mockery\Matcher::Closure
+  Methods:  50.00% ( 1/ 2)   Lines:  75.00% (  3/  4)
+\Mockery\Matcher::MatcherAbstract
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Mockery\Matcher::Type
+  Methods:  50.00% ( 1/ 2)   Lines:  75.00% (  6/  8)
+\Zizaco\Entrust::Entrust
+  Methods:  88.89% ( 8/ 9)   Lines:  92.68% ( 38/ 41)
+\Zizaco\Entrust\Middleware::EntrustAbility
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  5/  5)
+\Zizaco\Entrust\Middleware::EntrustPermission
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  5/  5)
+\Zizaco\Entrust\Middleware::EntrustRole
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  5/  5)
+\Zizaco\Entrust\Traits::EntrustUserTrait
+  Methods:  50.00% ( 7/14)   Lines:  82.61% ( 76/ 92)

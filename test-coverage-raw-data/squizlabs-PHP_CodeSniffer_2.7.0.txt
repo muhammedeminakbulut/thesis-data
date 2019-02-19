@@ -1,0 +1,438 @@
+
+
+Code Coverage Report:          
+  2019-02-16 14:11:09          
+                               
+ Summary:                      
+  Classes: 37.10% (82/221)     
+  Methods: 54.65% (347/635)    
+  Lines:   81.09% (12799/15784)
+
+@PEAR.Sniffs.Commenting::PEAR_Sniffs_Commenting_FileCommentSniff
+  Methods:  20.00% ( 2/10)   Lines:  88.99% (194/218)
+@PHP_CodeSniffer::Generic_Sniffs_Arrays_DisallowLongArraySyntaxSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 16/ 16)
+@PHP_CodeSniffer::Generic_Sniffs_Arrays_DisallowShortArraySyntaxSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 13/ 13)
+@PHP_CodeSniffer::Generic_Sniffs_Classes_DuplicateClassNameSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 36/ 36)
+@PHP_CodeSniffer::Generic_Sniffs_Classes_OpeningBraceSameLineSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  97.87% ( 46/ 47)
+@PHP_CodeSniffer::Generic_Sniffs_CodeAnalysis_EmptyStatementSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 16/ 16)
+@PHP_CodeSniffer::Generic_Sniffs_CodeAnalysis_ForLoopShouldBeWhileLoopSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  94.74% ( 18/ 19)
+@PHP_CodeSniffer::Generic_Sniffs_CodeAnalysis_ForLoopWithTestFunctionCallSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  95.83% ( 23/ 24)
+@PHP_CodeSniffer::Generic_Sniffs_CodeAnalysis_JumbledIncrementerSniff
+  Methods:  33.33% ( 1/ 3)   Lines:  90.91% ( 30/ 33)
+@PHP_CodeSniffer::Generic_Sniffs_CodeAnalysis_UnconditionalIfStatementSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  94.44% ( 17/ 18)
+@PHP_CodeSniffer::Generic_Sniffs_CodeAnalysis_UnnecessaryFinalModifierSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  93.33% ( 14/ 15)
+@PHP_CodeSniffer::Generic_Sniffs_CodeAnalysis_UnusedFunctionParameterSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  94.03% ( 63/ 67)
+@PHP_CodeSniffer::Generic_Sniffs_CodeAnalysis_UselessOverridingMethodSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  85.96% ( 49/ 57)
+@PHP_CodeSniffer::Generic_Sniffs_Commenting_DocCommentSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  98.22% (166/169)
+@PHP_CodeSniffer::Generic_Sniffs_Commenting_FixmeSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 16/ 16)
+@PHP_CodeSniffer::Generic_Sniffs_Commenting_TodoSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 16/ 16)
+@PHP_CodeSniffer::Generic_Sniffs_ControlStructures_InlineControlStructureSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  96.61% (114/118)
+@PHP_CodeSniffer::Generic_Sniffs_Files_ByteOrderMarkSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  80.00% ( 12/ 15)
+@PHP_CodeSniffer::Generic_Sniffs_Files_EndFileNewlineSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 15/ 15)
+@PHP_CodeSniffer::Generic_Sniffs_Files_EndFileNoNewlineSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 14/ 14)
+@PHP_CodeSniffer::Generic_Sniffs_Files_InlineHTMLSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  7/  7)
+@PHP_CodeSniffer::Generic_Sniffs_Files_LineEndingsSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  70.45% ( 31/ 44)
+@PHP_CodeSniffer::Generic_Sniffs_Files_LineLengthSniff
+  Methods:  66.67% ( 2/ 3)   Lines:  93.48% ( 43/ 46)
+@PHP_CodeSniffer::Generic_Sniffs_Files_LowercasedFilenameSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  85.71% ( 12/ 14)
+@PHP_CodeSniffer::Generic_Sniffs_Files_OneClassPerFileSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  6/  6)
+@PHP_CodeSniffer::Generic_Sniffs_Files_OneInterfacePerFileSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  6/  6)
+@PHP_CodeSniffer::Generic_Sniffs_Files_OneTraitPerFileSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  6/  6)
+@PHP_CodeSniffer::Generic_Sniffs_Formatting_DisallowMultipleStatementsSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  96.00% ( 24/ 25)
+@PHP_CodeSniffer::Generic_Sniffs_Formatting_MultipleStatementAlignmentSniff
+  Methods:  66.67% ( 2/ 3)   Lines:  94.57% (122/129)
+@PHP_CodeSniffer::Generic_Sniffs_Formatting_NoSpaceAfterCastSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  9/  9)
+@PHP_CodeSniffer::Generic_Sniffs_Formatting_SpaceAfterCastSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 16/ 16)
+@PHP_CodeSniffer::Generic_Sniffs_Formatting_SpaceAfterNotSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  92.86% ( 13/ 14)
+@PHP_CodeSniffer::Generic_Sniffs_Functions_CallTimePassByReferenceSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  94.34% ( 50/ 53)
+@PHP_CodeSniffer::Generic_Sniffs_Functions_FunctionCallArgumentSpacingSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  98.39% ( 61/ 62)
+@PHP_CodeSniffer::Generic_Sniffs_Functions_OpeningFunctionBraceBsdAllmanSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  98.51% ( 66/ 67)
+@PHP_CodeSniffer::Generic_Sniffs_Functions_OpeningFunctionBraceKernighanRitchieSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 61/ 61)
+@PHP_CodeSniffer::Generic_Sniffs_Metrics_CyclomaticComplexitySniff
+  Methods:  50.00% ( 1/ 2)   Lines:  95.65% ( 22/ 23)
+@PHP_CodeSniffer::Generic_Sniffs_Metrics_NestingLevelSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  95.65% ( 22/ 23)
+@PHP_CodeSniffer::Generic_Sniffs_NamingConventions_CamelCapsFunctionNameSniff
+  Methods:  33.33% ( 1/ 3)   Lines:  95.92% ( 47/ 49)
+@PHP_CodeSniffer::Generic_Sniffs_NamingConventions_ConstructorNameSniff
+  Methods:  66.67% ( 2/ 3)   Lines:  97.22% ( 35/ 36)
+@PHP_CodeSniffer::Generic_Sniffs_NamingConventions_UpperCaseConstantNameSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  88.71% ( 55/ 62)
+@PHP_CodeSniffer::Generic_Sniffs_PHP_BacktickOperatorSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+@PHP_CodeSniffer::Generic_Sniffs_PHP_CharacterBeforePHPOpeningTagSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 10/ 10)
+@PHP_CodeSniffer::Generic_Sniffs_PHP_ClosingPHPTagSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  6/  6)
+@PHP_CodeSniffer::Generic_Sniffs_PHP_DisallowAlternativePHPTagsSniff
+  Methods:   0.00% ( 0/ 5)   Lines:  40.23% ( 35/ 87)
+@PHP_CodeSniffer::Generic_Sniffs_PHP_DisallowShortOpenTagSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  73.91% ( 17/ 23)
+@PHP_CodeSniffer::Generic_Sniffs_PHP_ForbiddenFunctionsSniff
+  Methods:  33.33% ( 1/ 3)   Lines:  80.30% ( 53/ 66)
+@PHP_CodeSniffer::Generic_Sniffs_PHP_LowerCaseConstantSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 16/ 16)
+@PHP_CodeSniffer::Generic_Sniffs_PHP_LowerCaseKeywordSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 15/ 15)
+@PHP_CodeSniffer::Generic_Sniffs_PHP_NoSilencedErrorsSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  75.00% (  6/  8)
+@PHP_CodeSniffer::Generic_Sniffs_PHP_SAPIUsageSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 11/ 11)
+@PHP_CodeSniffer::Generic_Sniffs_PHP_SyntaxSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  93.75% ( 15/ 16)
+@PHP_CodeSniffer::Generic_Sniffs_PHP_UpperCaseConstantSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 16/ 16)
+@PHP_CodeSniffer::Generic_Sniffs_Strings_UnnecessaryStringConcatSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  85.71% ( 24/ 28)
+@PHP_CodeSniffer::Generic_Sniffs_WhiteSpace_DisallowSpaceIndentSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  93.94% ( 31/ 33)
+@PHP_CodeSniffer::Generic_Sniffs_WhiteSpace_DisallowTabIndentSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  92.11% ( 35/ 38)
+@PHP_CodeSniffer::Generic_Sniffs_WhiteSpace_ScopeIndentSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  75.65% (494/653)
+@PHP_CodeSniffer::MySource_Sniffs_CSS_BrowserSpecificStylesSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  76.92% ( 10/ 13)
+@PHP_CodeSniffer::MySource_Sniffs_Commenting_FunctionCommentSniff
+  Methods:   0.00% ( 0/ 1)   Lines:  96.67% ( 29/ 30)
+@PHP_CodeSniffer::PEAR_Sniffs_Classes_ClassDeclarationSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  91.67% ( 55/ 60)
+@PHP_CodeSniffer::PEAR_Sniffs_Commenting_ClassCommentSniff
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 29/ 29)
+@PHP_CodeSniffer::PEAR_Sniffs_Commenting_FunctionCommentSniff
+  Methods:  40.00% ( 2/ 5)   Lines:  95.56% (172/180)
+@PHP_CodeSniffer::PEAR_Sniffs_Commenting_InlineCommentSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 18/ 18)
+@PHP_CodeSniffer::PEAR_Sniffs_ControlStructures_ControlSignatureSniff
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+@PHP_CodeSniffer::PEAR_Sniffs_ControlStructures_MultiLineConditionSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  98.20% (109/111)
+@PHP_CodeSniffer::PEAR_Sniffs_Files_IncludingFileSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 51/ 51)
+@PHP_CodeSniffer::PEAR_Sniffs_Formatting_MultiLineAssignmentSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  90.32% ( 28/ 31)
+@PHP_CodeSniffer::PEAR_Sniffs_Functions_FunctionCallSignatureSniff
+  Methods:  40.00% ( 2/ 5)   Lines:  97.58% (202/207)
+@PHP_CodeSniffer::PEAR_Sniffs_Functions_FunctionDeclarationSniff
+  Methods:  60.00% ( 3/ 5)   Lines:  96.63% (172/178)
+@PHP_CodeSniffer::PEAR_Sniffs_Functions_ValidDefaultValueSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 26/ 26)
+@PHP_CodeSniffer::PEAR_Sniffs_NamingConventions_ValidClassNameSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 31/ 31)
+@PHP_CodeSniffer::PEAR_Sniffs_NamingConventions_ValidFunctionNameSniff
+  Methods:  33.33% ( 1/ 3)   Lines:  98.13% (105/107)
+@PHP_CodeSniffer::PEAR_Sniffs_NamingConventions_ValidVariableNameSniff
+  Methods:  66.67% ( 2/ 3)   Lines:  95.83% ( 23/ 24)
+@PHP_CodeSniffer::PEAR_Sniffs_WhiteSpace_ObjectOperatorIndentSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  98.63% ( 72/ 73)
+@PHP_CodeSniffer::PEAR_Sniffs_WhiteSpace_ScopeClosingBraceSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  97.06% ( 66/ 68)
+@PHP_CodeSniffer::PHP_CodeSniffer
+  Methods:  23.26% (10/43)   Lines:  45.73% (423/925)
+@PHP_CodeSniffer::PHP_CodeSniffer_CLI
+  Methods:   0.00% ( 0/19)   Lines:   8.94% ( 64/716)
+@PHP_CodeSniffer::PHP_CodeSniffer_File
+  Methods:  32.69% (17/52)   Lines:  73.90% (1073/1452)
+@PHP_CodeSniffer::PHP_CodeSniffer_Fixer
+  Methods:  43.75% ( 7/16)   Lines:  52.49% (137/261)
+@PHP_CodeSniffer::PHP_CodeSniffer_Reporting
+  Methods:   0.00% ( 0/ 6)   Lines:   1.32% (  2/152)
+@PHP_CodeSniffer::PHP_CodeSniffer_Standards_AbstractPatternSniff
+  Methods:  50.00% ( 6/12)   Lines:  77.62% (281/362)
+@PHP_CodeSniffer::PHP_CodeSniffer_Standards_AbstractScopeSniff
+  Methods:  50.00% ( 2/ 4)   Lines:  69.23% ( 18/ 26)
+@PHP_CodeSniffer::PHP_CodeSniffer_Standards_AbstractVariableSniff
+  Methods:  66.67% ( 2/ 3)   Lines:  93.18% ( 41/ 44)
+@PHP_CodeSniffer::PHP_CodeSniffer_Tokenizers_CSS
+  Methods:  50.00% ( 1/ 2)   Lines:  81.30% (187/230)
+@PHP_CodeSniffer::PHP_CodeSniffer_Tokenizers_Comment
+  Methods:  33.33% ( 1/ 3)   Lines:  87.50% ( 91/104)
+@PHP_CodeSniffer::PHP_CodeSniffer_Tokenizers_JS
+  Methods:   0.00% ( 0/ 3)   Lines:  78.41% (356/454)
+@PHP_CodeSniffer::PHP_CodeSniffer_Tokenizers_PHP
+  Methods:  25.00% ( 1/ 4)   Lines:  74.96% (509/679)
+@PHP_CodeSniffer::PHP_CodeSniffer_Tokens
+  Methods:  50.00% ( 1/ 2)   Lines:  91.67% ( 11/ 12)
+@PHP_CodeSniffer::PSR1_Sniffs_Classes_ClassDeclarationSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  95.65% ( 22/ 23)
+@PHP_CodeSniffer::PSR1_Sniffs_Files_SideEffectsSniff
+  Methods:  66.67% ( 2/ 3)   Lines:  96.15% ( 75/ 78)
+@PHP_CodeSniffer::PSR1_Sniffs_Methods_CamelCapsMethodNameSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  94.44% ( 17/ 18)
+@PHP_CodeSniffer::PSR2_Sniffs_Classes_ClassDeclarationSniff
+  Methods:   0.00% ( 0/ 3)   Lines:  95.39% (207/217)
+@PHP_CodeSniffer::PSR2_Sniffs_Classes_PropertyDeclarationSniff
+  Methods:  33.33% ( 1/ 3)   Lines:  92.00% ( 23/ 25)
+@PHP_CodeSniffer::PSR2_Sniffs_ControlStructures_ControlStructureSpacingSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 43/ 43)
+@PHP_CodeSniffer::PSR2_Sniffs_ControlStructures_ElseIfDeclarationSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 17/ 17)
+@PHP_CodeSniffer::PSR2_Sniffs_ControlStructures_SwitchDeclarationSniff
+  Methods:  66.67% ( 2/ 3)   Lines:  98.99% ( 98/ 99)
+@PHP_CodeSniffer::PSR2_Sniffs_Files_ClosingTagSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 23/ 23)
+@PHP_CodeSniffer::PSR2_Sniffs_Files_EndFileNewlineSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  96.77% ( 30/ 31)
+@PHP_CodeSniffer::PSR2_Sniffs_Methods_FunctionCallSignatureSniff
+  Methods:   0.00% ( 0/ 1)   Lines:  93.75% ( 15/ 16)
+@PHP_CodeSniffer::PSR2_Sniffs_Methods_FunctionClosingBraceSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  91.67% ( 22/ 24)
+@PHP_CodeSniffer::PSR2_Sniffs_Methods_MethodDeclarationSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  96.77% ( 60/ 62)
+@PHP_CodeSniffer::PSR2_Sniffs_Namespaces_NamespaceDeclarationSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  96.30% ( 26/ 27)
+@PHP_CodeSniffer::PSR2_Sniffs_Namespaces_UseDeclarationSniff
+  Methods:  66.67% ( 2/ 3)   Lines:  97.56% ( 80/ 82)
+@PHP_CodeSniffer::Squiz_Sniffs_Arrays_ArrayBracketSpacingSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  97.06% ( 33/ 34)
+@PHP_CodeSniffer::Squiz_Sniffs_Arrays_ArrayDeclarationSniff
+  Methods:  50.00% ( 2/ 4)   Lines:  96.85% (430/444)
+@PHP_CodeSniffer::Squiz_Sniffs_CSS_ClassDefinitionClosingBraceSpaceSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  94.29% ( 33/ 35)
+@PHP_CodeSniffer::Squiz_Sniffs_CSS_ClassDefinitionNameSpacingSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 27/ 27)
+@PHP_CodeSniffer::Squiz_Sniffs_CSS_ClassDefinitionOpeningBraceSpaceSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  96.00% ( 48/ 50)
+@PHP_CodeSniffer::Squiz_Sniffs_CSS_ColonSpacingSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 33/ 33)
+@PHP_CodeSniffer::Squiz_Sniffs_CSS_ColourDefinitionSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 22/ 22)
+@PHP_CodeSniffer::Squiz_Sniffs_CSS_DisallowMultipleStyleDefinitionsSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 13/ 13)
+@PHP_CodeSniffer::Squiz_Sniffs_CSS_DuplicateClassDefinitionSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  97.06% ( 33/ 34)
+@PHP_CodeSniffer::Squiz_Sniffs_CSS_DuplicateStyleDefinitionSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 20/ 20)
+@PHP_CodeSniffer::Squiz_Sniffs_CSS_EmptyClassDefinitionSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  7/  7)
+@PHP_CodeSniffer::Squiz_Sniffs_CSS_EmptyStyleDefinitionSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  7/  7)
+@PHP_CodeSniffer::Squiz_Sniffs_CSS_ForbiddenStylesSniff
+  Methods:   0.00% ( 0/ 3)   Lines:  58.14% ( 25/ 43)
+@PHP_CodeSniffer::Squiz_Sniffs_CSS_IndentationSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 50/ 50)
+@PHP_CodeSniffer::Squiz_Sniffs_CSS_LowercaseStyleDefinitionSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 27/ 27)
+@PHP_CodeSniffer::Squiz_Sniffs_CSS_MissingColonSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 23/ 23)
+@PHP_CodeSniffer::Squiz_Sniffs_CSS_NamedColoursSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  9/  9)
+@PHP_CodeSniffer::Squiz_Sniffs_CSS_OpacitySniff
+  Methods:  50.00% ( 1/ 2)   Lines:  96.97% ( 32/ 33)
+@PHP_CodeSniffer::Squiz_Sniffs_CSS_SemicolonSpacingSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 15/ 15)
+@PHP_CodeSniffer::Squiz_Sniffs_CSS_ShorthandSizeSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  98.44% ( 63/ 64)
+@PHP_CodeSniffer::Squiz_Sniffs_Classes_ClassDeclarationSniff
+  Methods:  66.67% ( 2/ 3)   Lines:  98.78% ( 81/ 82)
+@PHP_CodeSniffer::Squiz_Sniffs_Classes_ClassFileNameSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  92.86% ( 13/ 14)
+@PHP_CodeSniffer::Squiz_Sniffs_Classes_DuplicatePropertySniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 17/ 17)
+@PHP_CodeSniffer::Squiz_Sniffs_Classes_LowercaseClassKeywordsSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 12/ 12)
+@PHP_CodeSniffer::Squiz_Sniffs_Classes_SelfMemberReferenceSniff
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 66/ 66)
+@PHP_CodeSniffer::Squiz_Sniffs_Classes_ValidClassNameSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  82.61% ( 19/ 23)
+@PHP_CodeSniffer::Squiz_Sniffs_Commenting_BlockCommentSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  97.48% (155/159)
+@PHP_CodeSniffer::Squiz_Sniffs_Commenting_ClassCommentSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 23/ 23)
+@PHP_CodeSniffer::Squiz_Sniffs_Commenting_ClosingDeclarationCommentSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  87.50% ( 42/ 48)
+@PHP_CodeSniffer::Squiz_Sniffs_Commenting_DocCommentAlignmentSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 50/ 50)
+@PHP_CodeSniffer::Squiz_Sniffs_Commenting_EmptyCatchCommentSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  8/  8)
+@PHP_CodeSniffer::Squiz_Sniffs_Commenting_FunctionCommentSniff
+  Methods:  33.33% ( 1/ 3)   Lines:  97.46% (307/315)
+@PHP_CodeSniffer::Squiz_Sniffs_Commenting_FunctionCommentThrowTagSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  98.68% ( 75/ 76)
+@PHP_CodeSniffer::Squiz_Sniffs_Commenting_InlineCommentSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  99.26% (134/135)
+@PHP_CodeSniffer::Squiz_Sniffs_Commenting_LongConditionClosingCommentSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  95.16% ( 59/ 62)
+@PHP_CodeSniffer::Squiz_Sniffs_Commenting_PostStatementCommentSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  95.00% ( 19/ 20)
+@PHP_CodeSniffer::Squiz_Sniffs_ControlStructures_ControlSignatureSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  89.72% ( 96/107)
+@PHP_CodeSniffer::Squiz_Sniffs_ControlStructures_ElseIfDeclarationSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  6/  6)
+@PHP_CodeSniffer::Squiz_Sniffs_ControlStructures_ForEachLoopDeclarationSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  92.31% (108/117)
+@PHP_CodeSniffer::Squiz_Sniffs_ControlStructures_ForLoopDeclarationSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  92.63% ( 88/ 95)
+@PHP_CodeSniffer::Squiz_Sniffs_ControlStructures_InlineIfDeclarationSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 46/ 46)
+@PHP_CodeSniffer::Squiz_Sniffs_ControlStructures_LowercaseDeclarationSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 12/ 12)
+@PHP_CodeSniffer::Squiz_Sniffs_ControlStructures_SwitchDeclarationSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  98.58% (139/141)
+@PHP_CodeSniffer::Squiz_Sniffs_Files_FileExtensionSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  87.50% ( 14/ 16)
+@PHP_CodeSniffer::Squiz_Sniffs_Formatting_OperatorBracketSniff
+  Methods:  33.33% ( 1/ 3)   Lines:  89.26% (108/121)
+@PHP_CodeSniffer::Squiz_Sniffs_Functions_FunctionDeclarationArgumentSpacingSniff
+  Methods:  33.33% ( 1/ 3)   Lines:  95.21% (179/188)
+@PHP_CodeSniffer::Squiz_Sniffs_Functions_FunctionDeclarationSniff
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+@PHP_CodeSniffer::Squiz_Sniffs_Functions_FunctionDuplicateArgumentSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 14/ 14)
+@PHP_CodeSniffer::Squiz_Sniffs_Functions_GlobalFunctionSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  90.91% ( 10/ 11)
+@PHP_CodeSniffer::Squiz_Sniffs_Functions_LowercaseFunctionKeywordsSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 10/ 10)
+@PHP_CodeSniffer::Squiz_Sniffs_Functions_MultiLineFunctionDeclarationSniff
+  Methods:  33.33% ( 1/ 3)   Lines:  95.45% ( 63/ 66)
+@PHP_CodeSniffer::Squiz_Sniffs_NamingConventions_ValidFunctionNameSniff
+  Methods:   0.00% ( 0/ 1)   Lines:  91.67% ( 11/ 12)
+@PHP_CodeSniffer::Squiz_Sniffs_NamingConventions_ValidVariableNameSniff
+  Methods:  66.67% ( 2/ 3)   Lines:  98.46% ( 64/ 65)
+@PHP_CodeSniffer::Squiz_Sniffs_Objects_DisallowObjectStringIndexSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 18/ 18)
+@PHP_CodeSniffer::Squiz_Sniffs_Objects_ObjectInstantiationSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 10/ 10)
+@PHP_CodeSniffer::Squiz_Sniffs_Objects_ObjectMemberCommaSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  9/  9)
+@PHP_CodeSniffer::Squiz_Sniffs_Operators_ComparisonOperatorUsageSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  95.45% ( 63/ 66)
+@PHP_CodeSniffer::Squiz_Sniffs_Operators_IncrementDecrementUsageSniff
+  Methods:  50.00% ( 2/ 4)   Lines:  93.59% ( 73/ 78)
+@PHP_CodeSniffer::Squiz_Sniffs_Operators_ValidLogicalOperatorsSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  90.91% ( 10/ 11)
+@PHP_CodeSniffer::Squiz_Sniffs_PHP_CommentedOutCodeSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  91.30% ( 63/ 69)
+@PHP_CodeSniffer::Squiz_Sniffs_PHP_DisallowBooleanStatementSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 10/ 10)
+@PHP_CodeSniffer::Squiz_Sniffs_PHP_DisallowComparisonAssignmentSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  89.19% ( 33/ 37)
+@PHP_CodeSniffer::Squiz_Sniffs_PHP_DisallowInlineIfSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+@PHP_CodeSniffer::Squiz_Sniffs_PHP_DisallowMultipleAssignmentsSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  98.08% ( 51/ 52)
+@PHP_CodeSniffer::Squiz_Sniffs_PHP_DisallowObEndFlushSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  5/  5)
+@PHP_CodeSniffer::Squiz_Sniffs_PHP_DisallowSizeFunctionsInLoopsSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  96.15% ( 25/ 26)
+@PHP_CodeSniffer::Squiz_Sniffs_PHP_EmbeddedPhpSniff
+  Methods:  50.00% ( 2/ 4)   Lines:  97.40% (187/192)
+@PHP_CodeSniffer::Squiz_Sniffs_PHP_EvalSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+@PHP_CodeSniffer::Squiz_Sniffs_PHP_GlobalKeywordSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  8/  8)
+@PHP_CodeSniffer::Squiz_Sniffs_PHP_HeredocSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+@PHP_CodeSniffer::Squiz_Sniffs_PHP_InnerFunctionsSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  92.86% ( 13/ 14)
+@PHP_CodeSniffer::Squiz_Sniffs_PHP_LowercasePHPFunctionsSniff
+  Methods:  66.67% ( 2/ 3)   Lines:  96.88% ( 31/ 32)
+@PHP_CodeSniffer::Squiz_Sniffs_PHP_NonExecutableCodeSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  91.18% ( 93/102)
+@PHP_CodeSniffer::Squiz_Sniffs_Scope_MemberVarScopeSniff
+  Methods:  33.33% ( 1/ 3)   Lines:  86.67% ( 13/ 15)
+@PHP_CodeSniffer::Squiz_Sniffs_Scope_MethodScopeSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  95.00% ( 19/ 20)
+@PHP_CodeSniffer::Squiz_Sniffs_Scope_StaticThisUsageSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  85.00% ( 17/ 20)
+@PHP_CodeSniffer::Squiz_Sniffs_Strings_ConcatenationSpacingSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  97.44% ( 38/ 39)
+@PHP_CodeSniffer::Squiz_Sniffs_Strings_DoubleQuoteUsageSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 42/ 42)
+@PHP_CodeSniffer::Squiz_Sniffs_Strings_EchoedStringsSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 24/ 24)
+@PHP_CodeSniffer::Squiz_Sniffs_WhiteSpace_CastSpacingSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 13/ 13)
+@PHP_CodeSniffer::Squiz_Sniffs_WhiteSpace_ControlStructureSpacingSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  99.27% (136/137)
+@PHP_CodeSniffer::Squiz_Sniffs_WhiteSpace_FunctionClosingBraceSpaceSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 64/ 64)
+@PHP_CodeSniffer::Squiz_Sniffs_WhiteSpace_FunctionOpeningBraceSpaceSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 24/ 24)
+@PHP_CodeSniffer::Squiz_Sniffs_WhiteSpace_FunctionSpacingSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  86.21% ( 75/ 87)
+@PHP_CodeSniffer::Squiz_Sniffs_WhiteSpace_LanguageConstructSpacingSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  71.43% ( 15/ 21)
+@PHP_CodeSniffer::Squiz_Sniffs_WhiteSpace_LogicalOperatorSpacingSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 31/ 31)
+@PHP_CodeSniffer::Squiz_Sniffs_WhiteSpace_MemberVarSpacingSniff
+  Methods:  33.33% ( 1/ 3)   Lines:  96.23% ( 51/ 53)
+@PHP_CodeSniffer::Squiz_Sniffs_WhiteSpace_ObjectOperatorSpacingSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 27/ 27)
+@PHP_CodeSniffer::Squiz_Sniffs_WhiteSpace_OperatorSpacingSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  97.66% (125/128)
+@PHP_CodeSniffer::Squiz_Sniffs_WhiteSpace_PropertyLabelSpacingSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 16/ 16)
+@PHP_CodeSniffer::Squiz_Sniffs_WhiteSpace_ScopeClosingBraceSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 30/ 30)
+@PHP_CodeSniffer::Squiz_Sniffs_WhiteSpace_ScopeKeywordSpacingSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 21/ 21)
+@PHP_CodeSniffer::Squiz_Sniffs_WhiteSpace_SemicolonSpacingSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 20/ 20)
+@PHP_CodeSniffer::Squiz_Sniffs_WhiteSpace_SuperfluousWhitespaceSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  95.12% ( 78/ 82)
+@PHP_CodeSniffer::Zend_Sniffs_Files_ClosingTagSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 13/ 13)
+@PHP_CodeSniffer::Zend_Sniffs_NamingConventions_ValidVariableNameSniff
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 81/ 81)
+@PHP_CodeSniffer_MySource::MySource_Sniffs_Channels_DisallowSelfActionsSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  97.67% ( 42/ 43)
+@PHP_CodeSniffer_MySource::MySource_Sniffs_Channels_IncludeSystemSniff
+  Methods:  50.00% ( 2/ 4)   Lines:  91.20% (114/125)
+@PHP_CodeSniffer_MySource::MySource_Sniffs_Channels_UnusedSystemSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 53/ 53)
+@PHP_CodeSniffer_MySource::MySource_Sniffs_Debug_DebugCodeSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  9/  9)
+@PHP_CodeSniffer_MySource::MySource_Sniffs_Debug_FirebugConsoleSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  6/  6)
+@PHP_CodeSniffer_MySource::MySource_Sniffs_Objects_AssignThisSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  87.50% ( 14/ 16)
+@PHP_CodeSniffer_MySource::MySource_Sniffs_Objects_CreateWidgetTypeCallbackSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  97.56% ( 80/ 82)
+@PHP_CodeSniffer_MySource::MySource_Sniffs_Objects_DisallowNewWidgetSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  90.91% ( 10/ 11)
+@PHP_CodeSniffer_MySource::MySource_Sniffs_PHP_AjaxNullComparisonSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  93.55% ( 29/ 31)
+@PHP_CodeSniffer_MySource::MySource_Sniffs_PHP_EvalObjectFactorySniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 31/ 31)
+@PHP_CodeSniffer_MySource::MySource_Sniffs_PHP_GetRequestDataSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  97.44% ( 38/ 39)
+@PHP_CodeSniffer_MySource::MySource_Sniffs_PHP_ReturnFunctionValueSniff
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 12/ 12)
+@PHP_CodeSniffer_MySource::MySource_Sniffs_Strings_JoinStringsSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  92.86% ( 13/ 14)
+@Squiz.Sniffs.Commenting::Squiz_Sniffs_Commenting_FileCommentSniff
+  Methods:  50.00% ( 1/ 2)   Lines:  87.80% ( 72/ 82)
+@Squiz.Sniffs.Commenting::Squiz_Sniffs_Commenting_VariableCommentSniff
+  Methods:  66.67% ( 2/ 3)   Lines:  96.15% ( 50/ 52)

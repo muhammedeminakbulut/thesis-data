@@ -1,0 +1,12 @@
+repository,tag,coverage
+git@github.com:magento/magento2.git,2.0.0,"composer failed, 
+                                                                             
+  [Composer\Downloader\TransportException]                                   
+  The 'https://repo.magento.com/packages.json' URL required authentication.  
+  You must be using the interactive console to authenticate                  
+                                                                             
+
+install [--prefer-source] [--prefer-dist] [--dry-run] [--dev] [--no-dev] [--no-custom-installers] [--no-autoloader] [--no-scripts] [--no-progress] [--no-suggest] [-v|vv|vvv|--verbose] [-o|--optimize-autoloader] [-a|--classmap-authoritative] [--apcu-autoloader] [--ignore-platform-reqs] [--] [<packages>]..."
+git@github.com:magento/magento2.git,2.1.0,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:magento/magento2.git,2.2.0,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:magento/magento2.git,2.3.0,"composer failed, Your requirements could not be resolved to an installable set of packages."

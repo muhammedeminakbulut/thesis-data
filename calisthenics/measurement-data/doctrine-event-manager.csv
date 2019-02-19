@@ -1,0 +1,2 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:doctrine/event-manager.git,v1.0.0,358,124,10,0.00%,2.6315789473684,0,4,49,3,0

@@ -1,0 +1,12 @@
+repository,tag,coverage
+git@github.com:pagekit/pagekit.git,0.8.8,"composer failed, 
+                                                                                                                                                               
+  [Composer\Downloader\TransportException]                                                                                                                     
+  The ""https://api.github.com/repos/pagekit/framework/zipball/8e27beab33d6fdc864da8c6229a7c4b0410b5a9e"" file could not be downloaded (HTTP/1.1 404 Not Found)  
+                                                                                                                                                               
+
+install [--prefer-source] [--prefer-dist] [--dry-run] [--dev] [--no-dev] [--no-custom-installers] [--no-autoloader] [--no-scripts] [--no-progress] [--no-suggest] [-v|vv|vvv|--verbose] [-o|--optimize-autoloader] [-a|--classmap-authoritative] [--apcu-autoloader] [--ignore-platform-reqs] [--] [<packages>]..."
+git@github.com:pagekit/pagekit.git,0.9.0,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:pagekit/pagekit.git,0.10.0,"phpunit not installed"
+git@github.com:pagekit/pagekit.git,0.11.0,"phpunit not installed"
+git@github.com:pagekit/pagekit.git,1.0.0,"phpunit not installed"

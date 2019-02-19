@@ -1,0 +1,12 @@
+
+
+Code Coverage Report:    
+  2019-02-16 21:06:23    
+                         
+ Summary:                
+  Classes:  0.00% (0/1)  
+  Methods: 55.56% (5/9)  
+  Lines:   43.90% (18/41)
+
+\SebastianBergmann\Environment::Runtime
+  Methods:  55.56% ( 5/ 9)   Lines:  43.90% ( 18/ 41)

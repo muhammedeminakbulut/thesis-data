@@ -1,0 +1,398 @@
+
+
+Code Coverage Report:        
+  2019-02-15 14:46:34        
+                             
+ Summary:                    
+  Classes: 89.85% (177/197)  
+  Methods: 93.05% (830/892)  
+  Lines:   94.91% (5163/5440)
+
+\PhpParser::PhpParser\BuilderFactory
+  Methods: 100.00% (10/10)   Lines: 100.00% ( 25/ 25)
+\PhpParser::PhpParser\BuilderHelpers
+  Methods:  71.43% ( 5/ 7)   Lines:  97.30% ( 72/ 74)
+\PhpParser::PhpParser\Comment
+  Methods: 100.00% ( 9/ 9)   Lines: 100.00% ( 37/ 37)
+\PhpParser::PhpParser\ConstExprEvaluator
+  Methods:  75.00% ( 6/ 8)   Lines:  97.75% ( 87/ 89)
+\PhpParser::PhpParser\Error
+  Methods: 100.00% (14/14)   Lines: 100.00% ( 41/ 41)
+\PhpParser::PhpParser\JsonDecoder
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 45/ 45)
+\PhpParser::PhpParser\Lexer
+  Methods:  50.00% ( 5/10)   Lines:  90.34% (131/145)
+\PhpParser::PhpParser\NameContext
+  Methods:  63.64% ( 7/11)   Lines:  95.60% ( 87/ 91)
+\PhpParser::PhpParser\NodeAbstract
+  Methods: 100.00% (17/17)   Lines: 100.00% ( 34/ 34)
+\PhpParser::PhpParser\NodeDumper
+  Methods:  37.50% ( 3/ 8)   Lines:  92.22% ( 83/ 90)
+\PhpParser::PhpParser\NodeFinder
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 18/ 18)
+\PhpParser::PhpParser\NodeTraverser
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% (101/101)
+\PhpParser::PhpParser\ParserAbstract
+  Methods:  88.00% (22/25)   Lines:  98.82% (335/339)
+\PhpParser::PhpParser\ParserFactory
+  Methods:   0.00% ( 0/ 1)   Lines:  85.71% ( 12/ 14)
+\PhpParser::PhpParser\PrettyPrinterAbstract
+  Methods:  88.89% (32/36)   Lines:  98.01% (443/452)
+\PhpParser\Builder::PhpParser\Builder\Class_
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 27/ 27)
+\PhpParser\Builder::PhpParser\Builder\Declaration
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  6/  6)
+\PhpParser\Builder::PhpParser\Builder\FunctionLike
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 12/ 12)
+\PhpParser\Builder::PhpParser\Builder\Function_
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 10/ 10)
+\PhpParser\Builder::PhpParser\Builder\Interface_
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 17/ 17)
+\PhpParser\Builder::PhpParser\Builder\Method
+  Methods: 100.00% ( 9/ 9)   Lines: 100.00% ( 28/ 28)
+\PhpParser\Builder::PhpParser\Builder\Namespace_
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpParser\Builder::PhpParser\Builder\Param
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 15/ 15)
+\PhpParser\Builder::PhpParser\Builder\Property
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% ( 19/ 19)
+\PhpParser\Builder::PhpParser\Builder\Trait_
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 15/ 15)
+\PhpParser\Builder::PhpParser\Builder\Use_
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  8/  8)
+\PhpParser\ErrorHandler::PhpParser\ErrorHandler\Collecting
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  6/  6)
+\PhpParser\ErrorHandler::PhpParser\ErrorHandler\Throwing
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\PhpParser\Internal::PhpParser\Internal\DiffElem
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  4/  4)
+\PhpParser\Internal::PhpParser\Internal\Differ
+  Methods:  83.33% ( 5/ 6)   Lines:  98.53% ( 67/ 68)
+\PhpParser\Node::PhpParser\Node\Arg
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  7/  7)
+\PhpParser\Node::PhpParser\Node\Const_
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  6/  6)
+\PhpParser\Node::PhpParser\Node\Identifier
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% (  9/  9)
+\PhpParser\Node::PhpParser\Node\Name
+  Methods: 100.00% (17/17)   Lines: 100.00% ( 49/ 49)
+\PhpParser\Node::PhpParser\Node\NullableType
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpParser\Node::PhpParser\Node\Param
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  9/  9)
+\PhpParser\Node::PhpParser\Node\VarLikeIdentifier
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\PhpParser\NodeVisitor::PhpParser\NodeVisitor\FindingVisitor
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  9/  9)
+\PhpParser\NodeVisitor::PhpParser\NodeVisitor\FirstFindingVisitor
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 10/ 10)
+\PhpParser\NodeVisitor::PhpParser\NodeVisitor\NameResolver
+  Methods:  90.00% ( 9/10)   Lines:  98.98% ( 97/ 98)
+\PhpParser\Node\Expr::PhpParser\Node\Expr\ArrayDimFetch
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  6/  6)
+\PhpParser\Node\Expr::PhpParser\Node\Expr\ArrayItem
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  7/  7)
+\PhpParser\Node\Expr::PhpParser\Node\Expr\Array_
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpParser\Node\Expr::PhpParser\Node\Expr\Assign
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  6/  6)
+\PhpParser\Node\Expr::PhpParser\Node\Expr\AssignOp
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  5/  5)
+\PhpParser\Node\Expr::PhpParser\Node\Expr\AssignRef
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  6/  6)
+\PhpParser\Node\Expr::PhpParser\Node\Expr\BinaryOp
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  5/  5)
+\PhpParser\Node\Expr::PhpParser\Node\Expr\BitwiseNot
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpParser\Node\Expr::PhpParser\Node\Expr\BooleanNot
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpParser\Node\Expr::PhpParser\Node\Expr\Cast
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\PhpParser\Node\Expr::PhpParser\Node\Expr\ClassConstFetch
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  6/  6)
+\PhpParser\Node\Expr::PhpParser\Node\Expr\Clone_
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpParser\Node\Expr::PhpParser\Node\Expr\Closure
+  Methods:  42.86% ( 3/ 7)   Lines:  73.33% ( 11/ 15)
+\PhpParser\Node\Expr::PhpParser\Node\Expr\ClosureUse
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  6/  6)
+\PhpParser\Node\Expr::PhpParser\Node\Expr\ConstFetch
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpParser\Node\Expr::PhpParser\Node\Expr\Empty_
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpParser\Node\Expr::PhpParser\Node\Expr\Error
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  4/  4)
+\PhpParser\Node\Expr::PhpParser\Node\Expr\ErrorSuppress
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpParser\Node\Expr::PhpParser\Node\Expr\Eval_
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpParser\Node\Expr::PhpParser\Node\Expr\Exit_
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpParser\Node\Expr::PhpParser\Node\Expr\FuncCall
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  6/  6)
+\PhpParser\Node\Expr::PhpParser\Node\Expr\Include_
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  6/  6)
+\PhpParser\Node\Expr::PhpParser\Node\Expr\Instanceof_
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  6/  6)
+\PhpParser\Node\Expr::PhpParser\Node\Expr\Isset_
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpParser\Node\Expr::PhpParser\Node\Expr\List_
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpParser\Node\Expr::PhpParser\Node\Expr\MethodCall
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  7/  7)
+\PhpParser\Node\Expr::PhpParser\Node\Expr\New_
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  6/  6)
+\PhpParser\Node\Expr::PhpParser\Node\Expr\PostDec
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpParser\Node\Expr::PhpParser\Node\Expr\PostInc
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpParser\Node\Expr::PhpParser\Node\Expr\PreDec
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpParser\Node\Expr::PhpParser\Node\Expr\PreInc
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpParser\Node\Expr::PhpParser\Node\Expr\Print_
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpParser\Node\Expr::PhpParser\Node\Expr\PropertyFetch
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  6/  6)
+\PhpParser\Node\Expr::PhpParser\Node\Expr\ShellExec
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpParser\Node\Expr::PhpParser\Node\Expr\StaticCall
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  7/  7)
+\PhpParser\Node\Expr::PhpParser\Node\Expr\StaticPropertyFetch
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  6/  6)
+\PhpParser\Node\Expr::PhpParser\Node\Expr\Ternary
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  7/  7)
+\PhpParser\Node\Expr::PhpParser\Node\Expr\UnaryMinus
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpParser\Node\Expr::PhpParser\Node\Expr\UnaryPlus
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpParser\Node\Expr::PhpParser\Node\Expr\Variable
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpParser\Node\Expr::PhpParser\Node\Expr\YieldFrom
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpParser\Node\Expr::PhpParser\Node\Expr\Yield_
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  6/  6)
+\PhpParser\Node\Expr\AssignOp::PhpParser\Node\Expr\AssignOp\BitwiseAnd
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\PhpParser\Node\Expr\AssignOp::PhpParser\Node\Expr\AssignOp\BitwiseOr
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\PhpParser\Node\Expr\AssignOp::PhpParser\Node\Expr\AssignOp\BitwiseXor
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\PhpParser\Node\Expr\AssignOp::PhpParser\Node\Expr\AssignOp\Concat
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\PhpParser\Node\Expr\AssignOp::PhpParser\Node\Expr\AssignOp\Div
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\PhpParser\Node\Expr\AssignOp::PhpParser\Node\Expr\AssignOp\Minus
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\PhpParser\Node\Expr\AssignOp::PhpParser\Node\Expr\AssignOp\Mod
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\PhpParser\Node\Expr\AssignOp::PhpParser\Node\Expr\AssignOp\Mul
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\PhpParser\Node\Expr\AssignOp::PhpParser\Node\Expr\AssignOp\Plus
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\PhpParser\Node\Expr\AssignOp::PhpParser\Node\Expr\AssignOp\Pow
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\PhpParser\Node\Expr\AssignOp::PhpParser\Node\Expr\AssignOp\ShiftLeft
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\PhpParser\Node\Expr\AssignOp::PhpParser\Node\Expr\AssignOp\ShiftRight
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\PhpParser\Node\Expr\BinaryOp::PhpParser\Node\Expr\BinaryOp\BitwiseAnd
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\PhpParser\Node\Expr\BinaryOp::PhpParser\Node\Expr\BinaryOp\BitwiseOr
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\PhpParser\Node\Expr\BinaryOp::PhpParser\Node\Expr\BinaryOp\BitwiseXor
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\PhpParser\Node\Expr\BinaryOp::PhpParser\Node\Expr\BinaryOp\BooleanAnd
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\PhpParser\Node\Expr\BinaryOp::PhpParser\Node\Expr\BinaryOp\BooleanOr
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\PhpParser\Node\Expr\BinaryOp::PhpParser\Node\Expr\BinaryOp\Coalesce
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\PhpParser\Node\Expr\BinaryOp::PhpParser\Node\Expr\BinaryOp\Concat
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\PhpParser\Node\Expr\BinaryOp::PhpParser\Node\Expr\BinaryOp\Div
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\PhpParser\Node\Expr\BinaryOp::PhpParser\Node\Expr\BinaryOp\Equal
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\PhpParser\Node\Expr\BinaryOp::PhpParser\Node\Expr\BinaryOp\Greater
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\PhpParser\Node\Expr\BinaryOp::PhpParser\Node\Expr\BinaryOp\GreaterOrEqual
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\PhpParser\Node\Expr\BinaryOp::PhpParser\Node\Expr\BinaryOp\Identical
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\PhpParser\Node\Expr\BinaryOp::PhpParser\Node\Expr\BinaryOp\LogicalAnd
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\PhpParser\Node\Expr\BinaryOp::PhpParser\Node\Expr\BinaryOp\LogicalOr
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\PhpParser\Node\Expr\BinaryOp::PhpParser\Node\Expr\BinaryOp\LogicalXor
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\PhpParser\Node\Expr\BinaryOp::PhpParser\Node\Expr\BinaryOp\Minus
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\PhpParser\Node\Expr\BinaryOp::PhpParser\Node\Expr\BinaryOp\Mod
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\PhpParser\Node\Expr\BinaryOp::PhpParser\Node\Expr\BinaryOp\Mul
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\PhpParser\Node\Expr\BinaryOp::PhpParser\Node\Expr\BinaryOp\NotEqual
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\PhpParser\Node\Expr\BinaryOp::PhpParser\Node\Expr\BinaryOp\NotIdentical
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\PhpParser\Node\Expr\BinaryOp::PhpParser\Node\Expr\BinaryOp\Plus
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\PhpParser\Node\Expr\BinaryOp::PhpParser\Node\Expr\BinaryOp\Pow
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\PhpParser\Node\Expr\BinaryOp::PhpParser\Node\Expr\BinaryOp\ShiftLeft
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\PhpParser\Node\Expr\BinaryOp::PhpParser\Node\Expr\BinaryOp\ShiftRight
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\PhpParser\Node\Expr\BinaryOp::PhpParser\Node\Expr\BinaryOp\Smaller
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\PhpParser\Node\Expr\BinaryOp::PhpParser\Node\Expr\BinaryOp\SmallerOrEqual
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\PhpParser\Node\Expr\BinaryOp::PhpParser\Node\Expr\BinaryOp\Spaceship
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\PhpParser\Node\Expr\Cast::PhpParser\Node\Expr\Cast\Array_
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\PhpParser\Node\Expr\Cast::PhpParser\Node\Expr\Cast\Bool_
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\PhpParser\Node\Expr\Cast::PhpParser\Node\Expr\Cast\Double
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\PhpParser\Node\Expr\Cast::PhpParser\Node\Expr\Cast\Int_
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\PhpParser\Node\Expr\Cast::PhpParser\Node\Expr\Cast\Object_
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\PhpParser\Node\Expr\Cast::PhpParser\Node\Expr\Cast\String_
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\PhpParser\Node\Expr\Cast::PhpParser\Node\Expr\Cast\Unset_
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\PhpParser\Node\Name::PhpParser\Node\Name\FullyQualified
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% (  6/  6)
+\PhpParser\Node\Name::PhpParser\Node\Name\Relative
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% (  6/  6)
+\PhpParser\Node\Scalar::PhpParser\Node\Scalar\DNumber
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 14/ 14)
+\PhpParser\Node\Scalar::PhpParser\Node\Scalar\Encapsed
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpParser\Node\Scalar::PhpParser\Node\Scalar\EncapsedStringPart
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpParser\Node\Scalar::PhpParser\Node\Scalar\LNumber
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 18/ 18)
+\PhpParser\Node\Scalar::PhpParser\Node\Scalar\MagicConst
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\PhpParser\Node\Scalar::PhpParser\Node\Scalar\String_
+  Methods:  85.71% ( 6/ 7)   Lines:  95.65% ( 44/ 46)
+\PhpParser\Node\Scalar\MagicConst::PhpParser\Node\Scalar\MagicConst\Class_
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\PhpParser\Node\Scalar\MagicConst::PhpParser\Node\Scalar\MagicConst\Dir
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\PhpParser\Node\Scalar\MagicConst::PhpParser\Node\Scalar\MagicConst\File
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\PhpParser\Node\Scalar\MagicConst::PhpParser\Node\Scalar\MagicConst\Function_
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\PhpParser\Node\Scalar\MagicConst::PhpParser\Node\Scalar\MagicConst\Line
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\PhpParser\Node\Scalar\MagicConst::PhpParser\Node\Scalar\MagicConst\Method
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\PhpParser\Node\Scalar\MagicConst::PhpParser\Node\Scalar\MagicConst\Namespace_
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\PhpParser\Node\Scalar\MagicConst::PhpParser\Node\Scalar\MagicConst\Trait_
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\PhpParser\Node\Stmt::PhpParser\Node\Stmt\Break_
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpParser\Node\Stmt::PhpParser\Node\Stmt\Case_
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  6/  6)
+\PhpParser\Node\Stmt::PhpParser\Node\Stmt\Catch_
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  7/  7)
+\PhpParser\Node\Stmt::PhpParser\Node\Stmt\ClassConst
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 10/ 10)
+\PhpParser\Node\Stmt::PhpParser\Node\Stmt\ClassLike
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 10/ 10)
+\PhpParser\Node\Stmt::PhpParser\Node\Stmt\ClassMethod
+  Methods: 100.00% (14/14)   Lines: 100.00% ( 23/ 23)
+\PhpParser\Node\Stmt::PhpParser\Node\Stmt\Class_
+  Methods:  85.71% ( 6/ 7)   Lines:  95.65% ( 22/ 23)
+\PhpParser\Node\Stmt::PhpParser\Node\Stmt\Const_
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpParser\Node\Stmt::PhpParser\Node\Stmt\Continue_
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpParser\Node\Stmt::PhpParser\Node\Stmt\DeclareDeclare
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  6/  6)
+\PhpParser\Node\Stmt::PhpParser\Node\Stmt\Declare_
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  6/  6)
+\PhpParser\Node\Stmt::PhpParser\Node\Stmt\Do_
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  6/  6)
+\PhpParser\Node\Stmt::PhpParser\Node\Stmt\Echo_
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpParser\Node\Stmt::PhpParser\Node\Stmt\ElseIf_
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  6/  6)
+\PhpParser\Node\Stmt::PhpParser\Node\Stmt\Else_
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpParser\Node\Stmt::PhpParser\Node\Stmt\Expression
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpParser\Node\Stmt::PhpParser\Node\Stmt\Finally_
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpParser\Node\Stmt::PhpParser\Node\Stmt\For_
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  8/  8)
+\PhpParser\Node\Stmt::PhpParser\Node\Stmt\Foreach_
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  9/  9)
+\PhpParser\Node\Stmt::PhpParser\Node\Stmt\Function_
+  Methods:  42.86% ( 3/ 7)   Lines:  71.43% ( 10/ 14)
+\PhpParser\Node\Stmt::PhpParser\Node\Stmt\Global_
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpParser\Node\Stmt::PhpParser\Node\Stmt\Goto_
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpParser\Node\Stmt::PhpParser\Node\Stmt\GroupUse
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  7/  7)
+\PhpParser\Node\Stmt::PhpParser\Node\Stmt\HaltCompiler
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpParser\Node\Stmt::PhpParser\Node\Stmt\If_
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  8/  8)
+\PhpParser\Node\Stmt::PhpParser\Node\Stmt\InlineHTML
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpParser\Node\Stmt::PhpParser\Node\Stmt\Interface_
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  7/  7)
+\PhpParser\Node\Stmt::PhpParser\Node\Stmt\Label
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpParser\Node\Stmt::PhpParser\Node\Stmt\Namespace_
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  6/  6)
+\PhpParser\Node\Stmt::PhpParser\Node\Stmt\Nop
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\PhpParser\Node\Stmt::PhpParser\Node\Stmt\Property
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 11/ 11)
+\PhpParser\Node\Stmt::PhpParser\Node\Stmt\PropertyProperty
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  6/  6)
+\PhpParser\Node\Stmt::PhpParser\Node\Stmt\Return_
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpParser\Node\Stmt::PhpParser\Node\Stmt\StaticVar
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  6/  6)
+\PhpParser\Node\Stmt::PhpParser\Node\Stmt\Static_
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpParser\Node\Stmt::PhpParser\Node\Stmt\Switch_
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  6/  6)
+\PhpParser\Node\Stmt::PhpParser\Node\Stmt\Throw_
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpParser\Node\Stmt::PhpParser\Node\Stmt\TraitUse
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  6/  6)
+\PhpParser\Node\Stmt::PhpParser\Node\Stmt\Trait_
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  6/  6)
+\PhpParser\Node\Stmt::PhpParser\Node\Stmt\TryCatch
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  7/  7)
+\PhpParser\Node\Stmt::PhpParser\Node\Stmt\Unset_
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpParser\Node\Stmt::PhpParser\Node\Stmt\UseUse
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 10/ 10)
+\PhpParser\Node\Stmt::PhpParser\Node\Stmt\Use_
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  6/  6)
+\PhpParser\Node\Stmt::PhpParser\Node\Stmt\While_
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  6/  6)
+\PhpParser\Node\Stmt\TraitUseAdaptation::PhpParser\Node\Stmt\TraitUseAdaptation\Alias
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  8/  8)
+\PhpParser\Node\Stmt\TraitUseAdaptation::PhpParser\Node\Stmt\TraitUseAdaptation\Precedence
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  7/  7)
+\PhpParser\Parser::PhpParser\Parser\Multiple
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 17/ 17)
+\PhpParser\Parser::PhpParser\Parser\Php5
+  Methods:   0.00% ( 0/ 1)   Lines:  95.16% (1081/1136)
+\PhpParser\Parser::PhpParser\Parser\Php7
+  Methods:   0.00% ( 0/ 1)   Lines:  94.56% (991/1048)
+\PhpParser\PrettyPrinter::PhpParser\PrettyPrinter\Standard
+  Methods:  97.55% (159/163)   Lines:  98.81% (333/337)

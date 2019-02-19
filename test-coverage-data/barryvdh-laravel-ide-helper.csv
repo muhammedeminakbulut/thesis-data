@@ -1,0 +1,96 @@
+repository,tag,coverage
+git@github.com:barryvdh/laravel-ide-helper.git,v2.0.0,"no phpunit config"
+git@github.com:barryvdh/laravel-ide-helper.git,v2.1.0,"no phpunit config"
+git@github.com:barryvdh/laravel-ide-helper.git,v2.2.0,6.08
+git@github.com:barryvdh/laravel-ide-helper.git,v2.3.0,5.56
+git@github.com:barryvdh/laravel-ide-helper.git,v2.4.0,5.11
+git@github.com:barryvdh/laravel-ide-helper.git,v2.5.0,4.56
+git@github.com:barryvdh/laravel-ide-helper.git,v1.6.0,"composer failed, Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Package operations: 3 installs, 6 updates, 71 removals
+  - Removing webmozart/assert (1.4.0)
+  - Removing symfony/translation (v4.2.3)
+  - Removing symfony/process (v4.2.3)
+  - Removing symfony/polyfill-mbstring (v1.10.0)
+  - Removing symfony/polyfill-ctype (v1.10.0)
+  - Removing symfony/options-resolver (v4.2.3)
+  - Removing symfony/filesystem (v4.2.3)
+  - Removing symfony/event-dispatcher (v4.2.3)
+  - Removing symfony/debug (v4.2.3)
+  - Removing symfony/contracts (v1.0.2)
+  - Removing squizlabs/php_codesniffer (3.4.0)
+  - Removing seld/phar-utils (1.0.1)
+  - Removing seld/jsonlint (1.7.1)
+  - Removing sebastian/version (1.0.6)
+  - Removing sebastian/recursion-context (1.0.5)
+  - Removing sebastian/global-state (1.1.1)
+  - Removing sebastian/exporter (1.2.2)
+  - Removing sebastian/environment (1.3.8)
+  - Removing sebastian/diff (1.4.3)
+  - Removing sebastian/comparator (1.2.4)
+  - Removing scrutinizer/ocular (1.5.2)
+  - Removing ralouphie/getallheaders (2.0.5)
+  - Removing psr/simple-cache (1.0.1)
+  - Removing psr/log (1.1.0)
+  - Removing psr/http-message (1.0.1)
+  - Removing psr/container (1.0.0)
+  - Removing phpunit/phpunit-mock-objects (2.3.8)
+  - Removing phpunit/phpunit (4.8.36)
+  - Removing phpunit/php-token-stream (1.4.12)
+  - Removing phpunit/php-timer (1.0.9)
+  - Removing phpunit/php-text-template (1.2.1)
+  - Removing phpunit/php-file-iterator (1.4.5)
+  - Removing phpunit/php-code-coverage (2.2.4)
+  - Removing phpspec/prophecy (1.8.0)
+  - Removing phpoption/phpoption (1.5.0)
+  - Removing phpdocumentor/type-resolver (0.4.0)
+  - Removing phpdocumentor/reflection-common (1.0.1)
+  - Removing phpcollection/phpcollection (0.5.0)
+  - Removing nesbot/carbon (1.36.2)
+  - Removing monolog/monolog (1.24.0)
+  - Removing justinrainbow/json-schema (5.2.8)
+  - Removing jms/serializer (1.13.0)
+  - Removing jms/parser-lib (1.0.0)
+  - Removing jms/metadata (1.7.0)
+  - Removing illuminate/contracts (v5.7.26)
+  - Removing guzzlehttp/psr7 (1.5.2)
+  - Removing guzzlehttp/promises (v1.3.1)
+  - Removing guzzlehttp/guzzle (6.3.3)
+  - Removing gitonomy/gitlib (v1.0.4)
+  - Removing doctrine/lexer (v1.0.1)
+  - Removing doctrine/instantiator (1.1.0)
+  - Removing doctrine/inflector (v1.3.0)
+  - Removing doctrine/event-manager (v1.0.0)
+  - Removing doctrine/dbal (v2.9.2)
+  - Removing doctrine/collections (v1.5.0)
+  - Removing doctrine/cache (v1.8.0)
+  - Removing doctrine/annotations (v1.6.0)
+  - Removing composer/xdebug-handler (1.3.2)
+  - Removing composer/spdx-licenses (1.5.0)
+  - Removing composer/semver (1.4.2)
+  - Removing composer/ca-bundle (1.1.4)
+  - Removing barryvdh/reflection-docblock (v2.0.6)
+  - Removing symfony/config (v4.2.3)
+  - Removing symfony/dependency-injection (v4.2.3)
+  - Removing composer/composer (1.8.4)
+PHP Fatal error:  Class 'Doctrine\Common\Collections\ArrayCollection' not found in /home/muhammed/projects/thesis/data/git/fdf54e57c07ce6e57ac6e89350112fcc/vendor/phpro/grumphp/src/Collection/ProcessArgumentsCollection.php on line 8"
+git@github.com:barryvdh/laravel-ide-helper.git,v1.7.0,"composer failed, Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Package operations: 3 installs, 6 updates, 6 removals
+PHP Fatal error:  Class 'Doctrine\Common\Collections\ArrayCollection' not found in /home/muhammed/projects/thesis/data/git/fdf54e57c07ce6e57ac6e89350112fcc/vendor/phpro/grumphp/src/Collection/ProcessArgumentsCollection.php on line 8"
+git@github.com:barryvdh/laravel-ide-helper.git,v1.8.0,"composer failed, Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Package operations: 6 installs, 6 updates, 6 removals
+PHP Fatal error:  Class 'Doctrine\Common\Collections\ArrayCollection' not found in /home/muhammed/projects/thesis/data/git/fdf54e57c07ce6e57ac6e89350112fcc/vendor/phpro/grumphp/src/Collection/ProcessArgumentsCollection.php on line 8"
+git@github.com:barryvdh/laravel-ide-helper.git,v1.9.0,"composer failed, Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Package operations: 6 installs, 6 updates, 6 removals
+PHP Fatal error:  Class 'Doctrine\Common\Collections\ArrayCollection' not found in /home/muhammed/projects/thesis/data/git/fdf54e57c07ce6e57ac6e89350112fcc/vendor/phpro/grumphp/src/Collection/ProcessArgumentsCollection.php on line 8"
+git@github.com:barryvdh/laravel-ide-helper.git,v1.10.0,"composer failed, Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Package operations: 5 installs, 6 updates, 6 removals
+PHP Fatal error:  Class 'Doctrine\Common\Collections\ArrayCollection' not found in /home/muhammed/projects/thesis/data/git/fdf54e57c07ce6e57ac6e89350112fcc/vendor/phpro/grumphp/src/Collection/ProcessArgumentsCollection.php on line 8"
+git@github.com:barryvdh/laravel-ide-helper.git,v1.11.0,"composer failed, Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Package operations: 5 installs, 6 updates, 6 removals
+PHP Fatal error:  Class 'Doctrine\Common\Collections\ArrayCollection' not found in /home/muhammed/projects/thesis/data/git/fdf54e57c07ce6e57ac6e89350112fcc/vendor/phpro/grumphp/src/Collection/ProcessArgumentsCollection.php on line 8"

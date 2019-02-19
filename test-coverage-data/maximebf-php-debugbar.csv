@@ -1,0 +1,14 @@
+repository,tag,coverage
+git@github.com:maximebf/php-debugbar.git,1.0.1,"phpunit not installed"
+git@github.com:maximebf/php-debugbar.git,1.5.1,"phpunit not installed"
+git@github.com:maximebf/php-debugbar.git,1.6.1,"phpunit not installed"
+git@github.com:maximebf/php-debugbar.git,1.7.1,"phpunit not installed"
+git@github.com:maximebf/php-debugbar.git,1.9.1,"phpunit not installed"
+git@github.com:maximebf/php-debugbar.git,1.10.0,25.65
+git@github.com:maximebf/php-debugbar.git,1.13.1,27.44
+git@github.com:maximebf/php-debugbar.git,v1.10.2,25.51
+git@github.com:maximebf/php-debugbar.git,v1.11.0,27.46
+git@github.com:maximebf/php-debugbar.git,v1.12.0,27.50
+git@github.com:maximebf/php-debugbar.git,v1.13.0,27.42
+git@github.com:maximebf/php-debugbar.git,v1.14.0,31.35
+git@github.com:maximebf/php-debugbar.git,v1.15.0,29.72

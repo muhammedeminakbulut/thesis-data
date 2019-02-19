@@ -1,0 +1,4 @@
+repository,tag,coverage
+git@github.com:picocms/Pico.git,v0.4.1,"no phpunit config"
+git@github.com:picocms/Pico.git,v0.6.1,"no phpunit config"
+git@github.com:picocms/Pico.git,v2.0.0,"no phpunit config"

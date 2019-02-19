@@ -1,0 +1,2 @@
+repository,tag,coverage
+git@github.com:phar-io/manifest.git,1.0.0,"phpunit not installed"

@@ -1,0 +1,8 @@
+repository,tag,coverage
+git@github.com:doctrine/cache.git,v1.2.0,"phpunit not installed"
+git@github.com:doctrine/cache.git,v1.3.0,"phpunit failed"
+git@github.com:doctrine/cache.git,v1.4.0,"phpunit failed"
+git@github.com:doctrine/cache.git,v1.5.0,"phpunit failed"
+git@github.com:doctrine/cache.git,v1.6.0,"phpunit failed"
+git@github.com:doctrine/cache.git,v1.7.0,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:doctrine/cache.git,v1.8.0,"composer failed, Your requirements could not be resolved to an installable set of packages."

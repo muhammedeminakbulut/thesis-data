@@ -1,0 +1,10 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:dompdf/dompdf.git,v0.5.2,23539,7377,1942,0.48%,7.5527156549521,0,1141,114,3366,0
+git@github.com:dompdf/dompdf.git,v0.6.0,36331,10687,4295,0.29%,8.4016649323621,0,1141,114,5194,0
+git@github.com:dompdf/dompdf.git,v0.6.1,36328,10686,4295,0.29%,8.3985431841831,0,1141,114,5194,0
+git@github.com:dompdf/dompdf.git,v0.6.2,36380,10712,4302,0.29%,8.414151925078,0,1141,114,5186,0
+git@github.com:dompdf/dompdf.git,v0.7.0,36952,10794,4230,0.38%,8.2705314009662,0,1141,114,5230,0
+git@github.com:dompdf/dompdf.git,v0.8.0,39686,12705,4424,0.37%,8.3687203791469,0,1141,114,5448,0
+git@github.com:dompdf/dompdf.git,v0.8.1,39958,12704,4469,0.30%,8.4033930254477,0,1141,114,5494,0
+git@github.com:dompdf/dompdf.git,v0.8.2,39994,12718,4479,0.30%,8.4058380414313,0,1141,114,5496,0
+git@github.com:dompdf/dompdf.git,v0.8.3,40252,12789,4505,0.29%,8.3869158878505,0,1141,114,5530,0

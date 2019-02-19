@@ -1,0 +1,16 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:phpmyadmin/phpmyadmin.git,4.3.3,217841,55889,19936,0.53%,11.099918433931,0,2059,1566,15115,0
+git@github.com:phpmyadmin/phpmyadmin.git,4.3.4,217910,55907,19935,0.53%,11.09865470852,0,2059,1566,15115,0
+git@github.com:phpmyadmin/phpmyadmin.git,4.3.5,217908,55850,19923,0.53%,11.097839380351,0,2059,1566,15107,0
+git@github.com:phpmyadmin/phpmyadmin.git,4.3.6,217910,55850,19922,0.53%,11.097839380351,0,2059,1566,15110,0
+git@github.com:phpmyadmin/phpmyadmin.git,4.3.7,217920,55844,19931,0.53%,11.099062372605,0,2059,1566,15108,0
+git@github.com:phpmyadmin/phpmyadmin.git,4.3.8,217970,55849,19944,0.53%,11.096984515077,0,2059,1566,15112,0
+git@github.com:phpmyadmin/phpmyadmin.git,4.3.9,218006,55849,19965,0.53%,11.09739201304,0,2059,1566,15116,0
+git@github.com:phpmyadmin/phpmyadmin.git,4.3.10,218019,55849,19973,0.53%,11.09739201304,0,2059,1566,15116,0
+git@github.com:phpmyadmin/phpmyadmin.git,4.3.12,218056,55869,19982,0.53%,11.089983713355,0,2059,1566,15122,0
+git@github.com:phpmyadmin/phpmyadmin.git,4.3.13,218098,55874,19995,0.53%,11.087505087505,0,2059,1566,15124,0
+git@github.com:phpmyadmin/phpmyadmin.git,4.4.1,220431,56331,19917,0.55%,10.779634049324,0,2059,1566,14960,0
+git@github.com:phpmyadmin/phpmyadmin.git,4.4.2,220472,56336,19917,0.55%,10.779634049324,0,2059,1566,14961,0
+git@github.com:phpmyadmin/phpmyadmin.git,4.4.3,220483,56343,19928,0.55%,10.78122513922,0,2059,1566,14972,0
+git@github.com:phpmyadmin/phpmyadmin.git,4.4.4,220512,56355,19931,0.55%,10.780827366746,0,2059,1566,14973,0
+git@github.com:phpmyadmin/phpmyadmin.git,4.4.15,221353,56568,20065,0.55%,10.812450748621,0,2059,1566,15033,0

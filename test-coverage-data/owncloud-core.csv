@@ -1,0 +1,5 @@
+repository,tag,coverage
+git@github.com:owncloud/core.git,v10.0.1,"no phpunit config"
+git@github.com:owncloud/core.git,v4.5.0,"composer failed, "
+git@github.com:owncloud/core.git,v10.1.0,"no phpunit config"
+git@github.com:owncloud/core.git,v8.2.0,"composer failed, "

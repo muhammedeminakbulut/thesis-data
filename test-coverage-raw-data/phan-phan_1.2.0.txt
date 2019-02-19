@@ -1,0 +1,12 @@
+
+
+Code Coverage Report:       
+  2019-02-16 21:11:05       
+                            
+ Summary:                   
+  Classes:  0.00% (0/267)   
+  Methods:  0.00% (0/3671)  
+  Lines:    0.10% (47/45438)
+
+\Phan::Phan\ForkPool
+  Methods:   0.00% ( 0/ 7)   Lines:  57.32% ( 47/ 82)

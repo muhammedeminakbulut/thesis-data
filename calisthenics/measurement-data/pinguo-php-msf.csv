@@ -1,0 +1,8 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:pinguo/php-msf.git,3.0.0,14456,5346,1049,0.71%,4.3798767967146,0,296,21,982,1
+git@github.com:pinguo/php-msf.git,3.0.1,14470,5357,1050,0.70%,4.3839835728953,0,296,21,982,1
+git@github.com:pinguo/php-msf.git,3.0.2,14847,5471,1048,0.69%,4.3165322580645,0,296,21,933,0
+git@github.com:pinguo/php-msf.git,3.0.3,14962,5507,1059,0.68%,4.3132530120482,0,296,21,949,0
+git@github.com:pinguo/php-msf.git,3.0.4,15667,5771,1111,0.65%,4.2718631178707,0,296,21,991,0
+git@github.com:pinguo/php-msf.git,3.0.5,17245,6445,1205,0.59%,4.1359724612737,0,296,21,1052,0
+git@github.com:pinguo/php-msf.git,3.0.6,17245,6445,1205,0.59%,4.1359724612737,0,296,21,1052,0

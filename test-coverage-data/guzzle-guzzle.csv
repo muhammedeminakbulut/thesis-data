@@ -1,0 +1,51 @@
+repository,tag,coverage
+git@github.com:guzzle/guzzle.git,v3.0.0,"composer failed, 
+                                                                                                                                                                           
+  [Composer\Downloader\TransportException]                                                                                                                                 
+  Your configuration does not allow connections to http://packages.zendframework.com/packages.json. See https://getcomposer.org/doc/06-config.md#secure-http for details.  
+                                                                                                                                                                           
+
+install [--prefer-source] [--prefer-dist] [--dry-run] [--dev] [--no-dev] [--no-custom-installers] [--no-autoloader] [--no-scripts] [--no-progress] [--no-suggest] [-v|vv|vvv|--verbose] [-o|--optimize-autoloader] [-a|--classmap-authoritative] [--apcu-autoloader] [--ignore-platform-reqs] [--] [<packages>]..."
+git@github.com:guzzle/guzzle.git,v3.1.0,"composer failed, 
+                                                                                                                                                                           
+  [Composer\Downloader\TransportException]                                                                                                                                 
+  Your configuration does not allow connections to http://packages.zendframework.com/packages.json. See https://getcomposer.org/doc/06-config.md#secure-http for details.  
+                                                                                                                                                                           
+
+install [--prefer-source] [--prefer-dist] [--dry-run] [--dev] [--no-dev] [--no-custom-installers] [--no-autoloader] [--no-scripts] [--no-progress] [--no-suggest] [-v|vv|vvv|--verbose] [-o|--optimize-autoloader] [-a|--classmap-authoritative] [--apcu-autoloader] [--ignore-platform-reqs] [--] [<packages>]..."
+git@github.com:guzzle/guzzle.git,v3.2.0,"composer failed, 
+                                                                                                                                                                           
+  [Composer\Downloader\TransportException]                                                                                                                                 
+  Your configuration does not allow connections to http://packages.zendframework.com/packages.json. See https://getcomposer.org/doc/06-config.md#secure-http for details.  
+                                                                                                                                                                           
+
+install [--prefer-source] [--prefer-dist] [--dry-run] [--dev] [--no-dev] [--no-custom-installers] [--no-autoloader] [--no-scripts] [--no-progress] [--no-suggest] [-v|vv|vvv|--verbose] [-o|--optimize-autoloader] [-a|--classmap-authoritative] [--apcu-autoloader] [--ignore-platform-reqs] [--] [<packages>]..."
+git@github.com:guzzle/guzzle.git,v3.3.0,"composer failed, 
+                                                                                                                                                                           
+  [Composer\Downloader\TransportException]                                                                                                                                 
+  Your configuration does not allow connections to http://packages.zendframework.com/packages.json. See https://getcomposer.org/doc/06-config.md#secure-http for details.  
+                                                                                                                                                                           
+
+install [--prefer-source] [--prefer-dist] [--dry-run] [--dev] [--no-dev] [--no-custom-installers] [--no-autoloader] [--no-scripts] [--no-progress] [--no-suggest] [-v|vv|vvv|--verbose] [-o|--optimize-autoloader] [-a|--classmap-authoritative] [--apcu-autoloader] [--ignore-platform-reqs] [--] [<packages>]..."
+git@github.com:guzzle/guzzle.git,v3.4.0,"composer failed, 
+                                                                                                                                                                           
+  [Composer\Downloader\TransportException]                                                                                                                                 
+  Your configuration does not allow connections to http://packages.zendframework.com/packages.json. See https://getcomposer.org/doc/06-config.md#secure-http for details.  
+                                                                                                                                                                           
+
+install [--prefer-source] [--prefer-dist] [--dry-run] [--dev] [--no-dev] [--no-custom-installers] [--no-autoloader] [--no-scripts] [--no-progress] [--no-suggest] [-v|vv|vvv|--verbose] [-o|--optimize-autoloader] [-a|--classmap-authoritative] [--apcu-autoloader] [--ignore-platform-reqs] [--] [<packages>]..."
+git@github.com:guzzle/guzzle.git,v3.5.0,"phpunit failed"
+git@github.com:guzzle/guzzle.git,v3.6.0,"phpunit failed"
+git@github.com:guzzle/guzzle.git,v3.7.0,"phpunit failed"
+git@github.com:guzzle/guzzle.git,v3.8.0,"phpunit failed"
+git@github.com:guzzle/guzzle.git,4.0.0,"phpunit failed"
+git@github.com:guzzle/guzzle.git,4.1.0,"phpunit failed"
+git@github.com:guzzle/guzzle.git,4.2.0,"phpunit failed"
+git@github.com:guzzle/guzzle.git,5.0.0,"phpunit failed"
+git@github.com:guzzle/guzzle.git,5.1.0,"phpunit failed"
+git@github.com:guzzle/guzzle.git,5.2.0,"phpunit failed"
+git@github.com:guzzle/guzzle.git,5.3.0,"phpunit failed"
+git@github.com:guzzle/guzzle.git,6.0.0,"phpunit failed"
+git@github.com:guzzle/guzzle.git,6.1.0,"phpunit failed"
+git@github.com:guzzle/guzzle.git,6.2.0,"phpunit failed"
+git@github.com:guzzle/guzzle.git,6.3.0,"phpunit failed"

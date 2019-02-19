@@ -1,0 +1,244 @@
+
+
+Code Coverage Report:        
+  2019-02-16 13:18:44        
+                             
+ Summary:                    
+  Classes: 15.44% (21/136)   
+  Methods: 19.76% (344/1741) 
+  Lines:   29.36% (1920/6539)
+
+Dotenv
+  Methods:   0.00% ( 0/13)   Lines:   9.76% (  8/ 82)
+\App\Console::Kernel
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\App\Exceptions::Handler
+  Methods:  50.00% ( 1/ 2)   Lines:  75.00% (  3/  4)
+\App\Providers::AppServiceProvider
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  5/  5)
+\App\Providers::BusServiceProvider
+  Methods:  50.00% ( 1/ 2)   Lines:  50.00% (  2/  4)
+\App\Providers::ConfigServiceProvider
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\App\Providers::EventServiceProvider
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\App\Providers::RouteServiceProvider
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\Illuminate\Auth::AuthServiceProvider
+  Methods:  25.00% ( 1/ 4)   Lines:  66.67% ( 10/ 15)
+\Illuminate\Auth::GeneratorServiceProvider
+  Methods:  66.67% ( 2/ 3)   Lines:  87.50% (  7/  8)
+\Illuminate\Auth\Passwords::PasswordResetServiceProvider
+  Methods:  50.00% ( 2/ 4)   Lines:  41.18% (  7/ 17)
+\Illuminate\Bus::BusServiceProvider
+  Methods:  50.00% ( 1/ 2)   Lines:  66.67% (  2/  3)
+\Illuminate\Bus::Dispatcher
+  Methods:  10.00% ( 2/20)   Lines:   8.82% (  6/ 68)
+\Illuminate\Cache::CacheServiceProvider
+  Methods:  25.00% ( 1/ 4)   Lines:  61.54% (  8/ 13)
+\Illuminate\Config::Repository
+  Methods:  36.36% ( 4/11)   Lines:  37.50% (  9/ 24)
+\Illuminate\Console::ScheduleServiceProvider
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\Illuminate\Console\Scheduling::Event
+  Methods:   5.88% ( 3/51)   Lines:   4.76% (  5/105)
+\Illuminate\Console\Scheduling::Schedule
+  Methods:  40.00% ( 2/ 5)   Lines:  37.50% (  3/  8)
+\Illuminate\Container::Container
+  Methods:  34.38% (22/64)   Lines:  61.54% (152/247)
+\Illuminate\Cookie::CookieServiceProvider
+  Methods:   0.00% ( 0/ 1)   Lines:  33.33% (  1/  3)
+\Illuminate\Database::DatabaseManager
+  Methods:   5.88% ( 1/17)   Lines:   5.45% (  3/ 55)
+\Illuminate\Database::DatabaseServiceProvider
+  Methods:  66.67% ( 2/ 3)   Lines:  90.91% ( 10/ 11)
+\Illuminate\Database::MigrationServiceProvider
+  Methods:  23.08% ( 3/13)   Lines:  70.83% ( 34/ 48)
+\Illuminate\Database::SeedServiceProvider
+  Methods:  33.33% ( 1/ 3)   Lines:  75.00% (  6/  8)
+\Illuminate\Database\Connectors::ConnectionFactory
+  Methods:   8.33% ( 1/12)   Lines:   4.26% (  2/ 47)
+\Illuminate\Database\Eloquent::Model
+  Methods:   1.02% ( 2/196)   Lines:   0.65% (  4/612)
+\Illuminate\Encryption::Encrypter
+  Methods:   5.56% ( 1/18)   Lines:  10.64% (  5/ 47)
+\Illuminate\Encryption::EncryptionServiceProvider
+  Methods:   0.00% ( 0/ 1)   Lines:  80.00% (  4/  5)
+\Illuminate\Events::Dispatcher
+  Methods:  16.00% ( 4/25)   Lines:  34.12% ( 29/ 85)
+\Illuminate\Events::EventServiceProvider
+  Methods:   0.00% ( 0/ 1)   Lines:  50.00% (  1/  2)
+\Illuminate\Filesystem::Filesystem
+  Methods:   7.14% ( 2/28)   Lines:   3.08% (  2/ 65)
+\Illuminate\Filesystem::FilesystemServiceProvider
+  Methods:  33.33% ( 2/ 6)   Lines:  64.29% (  9/ 14)
+\Illuminate\Foundation::AliasLoader
+  Methods:  33.33% ( 4/12)   Lines:  46.15% ( 12/ 26)
+\Illuminate\Foundation::Application
+  Methods:  53.73% (36/67)   Lines:  69.01% (118/171)
+\Illuminate\Foundation::EnvironmentDetector
+  Methods:  50.00% ( 2/ 4)   Lines:  77.78% (  7/  9)
+\Illuminate\Foundation::ProviderRepository
+  Methods:  70.00% ( 7/10)   Lines:  86.11% ( 31/ 36)
+\Illuminate\Foundation\Bootstrap::BootProviders
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Illuminate\Foundation\Bootstrap::ConfigureLogging
+  Methods:  62.50% ( 5/ 8)   Lines:  68.42% ( 13/ 19)
+\Illuminate\Foundation\Bootstrap::DetectEnvironment
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\Illuminate\Foundation\Bootstrap::HandleExceptions
+  Methods:   0.00% ( 0/ 9)   Lines:  33.33% (  9/ 27)
+\Illuminate\Foundation\Bootstrap::LoadConfiguration
+  Methods:  50.00% ( 2/ 4)   Lines:  86.36% ( 19/ 22)
+\Illuminate\Foundation\Bootstrap::RegisterFacades
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  4/  4)
+\Illuminate\Foundation\Bootstrap::RegisterProviders
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Illuminate\Foundation\Bootstrap::SetRequestForConsole
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\Illuminate\Foundation\Console::Kernel
+  Methods:  33.33% ( 5/15)   Lines:  32.50% ( 13/ 40)
+\Illuminate\Foundation\Exceptions::Handler
+  Methods:  50.00% ( 4/ 8)   Lines:  57.89% ( 11/ 19)
+\Illuminate\Foundation\Http::Kernel
+  Methods:  38.46% ( 5/13)   Lines:  53.33% ( 24/ 45)
+\Illuminate\Foundation\Http\Middleware::CheckForMaintenanceMode
+  Methods:  50.00% ( 1/ 2)   Lines:  80.00% (  4/  5)
+\Illuminate\Foundation\Providers::ArtisanServiceProvider
+  Methods:   7.41% ( 2/27)   Lines:  68.75% ( 55/ 80)
+\Illuminate\Foundation\Providers::ComposerServiceProvider
+  Methods:  50.00% ( 1/ 2)   Lines:  66.67% (  2/  3)
+\Illuminate\Foundation\Providers::FormRequestServiceProvider
+  Methods:  33.33% ( 1/ 3)   Lines:   6.67% (  1/ 15)
+\Illuminate\Foundation\Support\Providers::EventServiceProvider
+  Methods:  33.33% ( 1/ 3)   Lines:  75.00% (  6/  8)
+\Illuminate\Foundation\Support\Providers::RouteServiceProvider
+  Methods:  37.50% ( 3/ 8)   Lines:  55.00% ( 11/ 20)
+\Illuminate\Foundation\Testing::ApplicationTrait
+  Methods:  18.18% ( 2/11)   Lines:  19.23% (  5/ 26)
+\Illuminate\Hashing::HashServiceProvider
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Illuminate\Http::Request
+  Methods:   1.79% ( 1/56)   Lines:   1.72% (  2/116)
+\Illuminate\Log::Writer
+  Methods:  16.67% ( 4/24)   Lines:  23.53% ( 12/ 51)
+\Illuminate\Mail::MailServiceProvider
+  Methods:  20.00% ( 1/ 5)   Lines:  12.00% (  3/ 25)
+\Illuminate\Pagination::AbstractPaginator
+  Methods:   6.25% ( 2/32)   Lines:   6.56% (  4/ 61)
+\Illuminate\Pagination::PaginationServiceProvider
+  Methods:   0.00% ( 0/ 2)   Lines:  50.00% (  2/  4)
+\Illuminate\Pipeline::Pipeline
+  Methods:  57.14% ( 4/ 7)   Lines:  80.00% ( 16/ 20)
+\Illuminate\Pipeline::PipelineServiceProvider
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\Illuminate\Queue::ConsoleServiceProvider
+  Methods:  33.33% ( 1/ 3)   Lines:  53.85% (  7/ 13)
+\Illuminate\Queue::QueueServiceProvider
+  Methods:  10.00% ( 2/20)   Lines:  42.86% ( 33/ 77)
+\Illuminate\Redis::RedisServiceProvider
+  Methods:  50.00% ( 1/ 2)   Lines:  66.67% (  2/  3)
+\Illuminate\Routing::ControllerInspector
+  Methods:  71.43% ( 5/ 7)   Lines:  89.47% ( 17/ 19)
+\Illuminate\Routing::ControllerServiceProvider
+  Methods:   0.00% ( 0/ 1)   Lines:  50.00% (  1/  2)
+\Illuminate\Routing::GeneratorServiceProvider
+  Methods:  50.00% ( 2/ 4)   Lines:  80.00% (  8/ 10)
+\Illuminate\Routing::Route
+  Methods:  13.11% ( 8/61)   Lines:  14.00% ( 21/150)
+\Illuminate\Routing::RouteCollection
+  Methods:  18.75% ( 3/16)   Lines:  32.61% ( 15/ 46)
+\Illuminate\Routing::Router
+  Methods:  28.75% (23/80)   Lines:  32.78% ( 79/241)
+\Illuminate\Routing::RoutingServiceProvider
+  Methods:  50.00% ( 3/ 6)   Lines:  76.67% ( 23/ 30)
+\Illuminate\Routing::UrlGenerator
+  Methods:  10.81% ( 4/37)   Lines:  10.28% ( 11/107)
+\Illuminate\Session::CommandsServiceProvider
+  Methods:  50.00% ( 1/ 2)   Lines:  66.67% (  2/  3)
+\Illuminate\Session::SessionServiceProvider
+  Methods:  33.33% ( 1/ 3)   Lines:  70.00% (  7/ 10)
+\Illuminate\Support::AggregateServiceProvider
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  9/  9)
+\Illuminate\Support::Arr
+  Methods:  15.79% ( 3/19)   Lines:  35.71% ( 30/ 84)
+\Illuminate\Support::ServiceProvider
+  Methods:  30.77% ( 4/13)   Lines:  18.42% (  7/ 38)
+\Illuminate\Support::Str
+  Methods:  13.64% ( 3/22)   Lines:  20.31% ( 13/ 64)
+\Illuminate\Support\Facades::Facade
+  Methods:  35.71% ( 5/14)   Lines:  40.91% ( 18/ 44)
+\Illuminate\Support\Facades::Route
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Illuminate\Translation::TranslationServiceProvider
+  Methods:  33.33% ( 1/ 3)   Lines:  45.45% (  5/ 11)
+\Illuminate\Validation::ValidationServiceProvider
+  Methods:  25.00% ( 1/ 4)   Lines:  60.00% (  9/ 15)
+\Illuminate\View::ViewServiceProvider
+  Methods:  16.67% ( 1/ 6)   Lines:  31.03% (  9/ 29)
+\Monolog::Logger
+  Methods:   6.98% ( 3/43)   Lines:  33.33% ( 39/117)
+\Monolog\Formatter::LineFormatter
+  Methods:  20.00% ( 2/10)   Lines:  44.44% ( 28/ 63)
+\Monolog\Formatter::NormalizerFormatter
+  Methods:  10.00% ( 1/10)   Lines:  16.50% ( 17/103)
+\Monolog\Handler::AbstractHandler
+  Methods:  26.67% ( 4/15)   Lines:  34.29% ( 12/ 35)
+\Monolog\Handler::AbstractProcessingHandler
+  Methods:   0.00% ( 0/ 2)   Lines:  70.00% (  7/ 10)
+\Monolog\Handler::RotatingFileHandler
+  Methods:  50.00% ( 4/ 8)   Lines:  61.29% ( 38/ 62)
+\Monolog\Handler::StreamHandler
+  Methods:  22.22% ( 2/ 9)   Lines:  60.71% ( 34/ 56)
+\Symfony\Component\Debug::ExceptionHandler
+  Methods:  22.22% ( 4/18)   Lines:  16.54% ( 22/133)
+\Symfony\Component\Debug\Exception::FlattenException
+  Methods:  45.83% (11/24)   Lines:  71.15% ( 74/104)
+\Symfony\Component\Finder::Finder
+  Methods:  20.51% ( 8/39)   Lines:  42.14% ( 59/140)
+\Symfony\Component\Finder::SplFileInfo
+  Methods:  75.00% ( 3/ 4)   Lines:  46.15% (  6/ 13)
+\Symfony\Component\Finder\Adapter::AbstractAdapter
+  Methods:  93.75% (15/16)   Lines:  72.00% ( 36/ 50)
+\Symfony\Component\Finder\Adapter::AbstractFindAdapter
+  Methods:  11.11% ( 1/ 9)   Lines:   1.67% (  2/120)
+\Symfony\Component\Finder\Adapter::BsdFindAdapter
+  Methods:  20.00% ( 1/ 5)   Lines:   3.03% (  1/ 33)
+\Symfony\Component\Finder\Adapter::GnuFindAdapter
+  Methods:  20.00% ( 1/ 5)   Lines:   2.94% (  1/ 34)
+\Symfony\Component\Finder\Adapter::PhpAdapter
+  Methods:  66.67% ( 2/ 3)   Lines:  73.33% ( 22/ 30)
+\Symfony\Component\Finder\Expression::Expression
+  Methods:  30.77% ( 4/13)   Lines:  35.00% (  7/ 20)
+\Symfony\Component\Finder\Expression::Glob
+  Methods:  22.22% ( 2/ 9)   Lines:  54.00% ( 27/ 50)
+\Symfony\Component\Finder\Expression::Regex
+  Methods:  22.73% ( 5/22)   Lines:  50.82% ( 31/ 61)
+\Symfony\Component\Finder\Iterator::ExcludeDirectoryFilterIterator
+  Methods:  50.00% ( 1/ 2)   Lines:  90.00% (  9/ 10)
+\Symfony\Component\Finder\Iterator::FileTypeFilterIterator
+  Methods:  50.00% ( 1/ 2)   Lines:  77.78% (  7/  9)
+\Symfony\Component\Finder\Iterator::FilenameFilterIterator
+  Methods:  50.00% ( 1/ 2)   Lines:  75.00% (  9/ 12)
+\Symfony\Component\Finder\Iterator::FilterIterator
+  Methods:   0.00% ( 0/ 1)   Lines:  84.62% ( 11/ 13)
+\Symfony\Component\Finder\Iterator::MultiplePcreFilterIterator
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  7/  7)
+\Symfony\Component\Finder\Iterator::PathFilterIterator
+  Methods:  50.00% ( 1/ 2)   Lines:  57.14% (  8/ 14)
+\Symfony\Component\Finder\Iterator::RecursiveDirectoryIterator
+  Methods:  20.00% ( 1/ 5)   Lines:  59.26% ( 16/ 27)
+\Symfony\Component\HttpFoundation::FileBag
+  Methods:  33.33% ( 2/ 6)   Lines:  17.07% (  7/ 41)
+\Symfony\Component\HttpFoundation::HeaderBag
+  Methods:  15.00% ( 3/20)   Lines:  21.92% ( 16/ 73)
+\Symfony\Component\HttpFoundation::ParameterBag
+  Methods:   5.88% ( 1/17)   Lines:   3.85% (  2/ 52)
+\Symfony\Component\HttpFoundation::Request
+  Methods:   2.67% ( 2/75)   Lines:  13.55% ( 66/487)
+\Symfony\Component\HttpFoundation::Response
+  Methods:  12.28% ( 7/57)   Lines:  11.57% ( 25/216)
+\Symfony\Component\HttpFoundation::ResponseHeaderBag
+  Methods:  14.29% ( 2/14)   Lines:  19.23% ( 15/ 78)
+\Symfony\Component\HttpFoundation::ServerBag
+  Methods:   0.00% ( 0/ 1)   Lines:  46.67% ( 14/ 30)

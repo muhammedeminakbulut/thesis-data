@@ -1,0 +1,9 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:doctrine/instantiator.git,1.0.0,1327,651,32,0.00%,2.5116279069767,0,38,21,7,0
+git@github.com:doctrine/instantiator.git,1.0.1,1342,651,32,0.00%,2.5909090909091,0,38,21,7,0
+git@github.com:doctrine/instantiator.git,1.0.2,1342,651,32,0.00%,2.5909090909091,0,38,21,7,0
+git@github.com:doctrine/instantiator.git,1.0.3,1400,685,34,0.00%,2.5434782608696,0,38,21,6,0
+git@github.com:doctrine/instantiator.git,1.0.4,1400,685,34,0.00%,2.5434782608696,0,38,21,6,0
+git@github.com:doctrine/instantiator.git,1.0.5,1504,749,34,0.00%,2.44,0,38,21,6,0
+git@github.com:doctrine/instantiator.git,1.1.0,1381,687,16,0.00%,2.1063829787234,0,38,21,0,0
+1,64,0

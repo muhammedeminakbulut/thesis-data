@@ -1,0 +1,68 @@
+
+
+Code Coverage Report:        
+  2019-02-16 21:15:50        
+                             
+ Summary:                    
+  Classes: 18.42% (7/38)     
+  Methods: 21.71% (89/410)   
+  Lines:   28.25% (1364/4828)
+
+@Help::Help_Command
+  Methods:  20.00% ( 2/10)   Lines:  14.56% ( 15/103)
+@Requests.Cookies::Requests_Cookie
+  Methods:   0.00% ( 0/12)   Lines:   2.17% (  3/138)
+@Requests.Cookies::Requests_Cookie_Jar
+  Methods:  30.00% ( 3/10)   Lines:  42.11% ( 16/ 38)
+@Requests.Transport::Requests_Transport_cURL
+  Methods:  20.00% ( 2/10)   Lines:  45.55% ( 87/191)
+@Requests.Utilities::Requests_Hooks
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 13/ 13)
+@Requests.Utilities::Requests_IDNAEncoder
+  Methods:  25.00% ( 2/ 8)   Lines:   6.61% (  8/121)
+@Requests.Utilities::Requests_IRI
+  Methods:  11.11% ( 3/27)   Lines:  40.92% (169/413)
+@Requests.Utilities::Requests_Utility_CaseInsensitiveDictionary
+  Methods:  28.57% ( 2/ 7)   Lines:  33.33% (  6/ 18)
+@Requests::Requests
+  Methods:   4.35% ( 1/23)   Lines:  35.11% ( 92/262)
+@Requests::Requests_Exception
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  4/  4)
+@Requests::Requests_Response
+  Methods:  66.67% ( 2/ 3)   Lines:  41.67% (  5/ 12)
+@Requests::Requests_Response_Headers
+  Methods:   0.00% ( 0/ 5)   Lines:  47.37% (  9/ 19)
+@WP::WP_CLI
+  Methods:  17.50% ( 7/40)   Lines:   6.68% ( 29/434)
+\Mustangostang::Spyc
+  Methods:  33.33% (18/54)   Lines:  35.77% (171/478)
+\WP_CLI::Configurator
+  Methods:   0.00% ( 0/13)   Lines:  15.44% ( 21/136)
+\WP_CLI::DocParser
+  Methods:  81.82% ( 9/11)   Lines:  96.30% ( 52/ 54)
+\WP_CLI::Extractor
+  Methods:  28.57% ( 2/ 7)   Lines:  89.74% ( 70/ 78)
+\WP_CLI::FileCache
+  Methods:  11.76% ( 2/17)   Lines:  11.71% ( 13/111)
+\WP_CLI::Inflector
+  Methods:   0.00% ( 0/ 9)   Lines:  53.25% ( 41/ 77)
+\WP_CLI::Process
+  Methods:  25.00% ( 1/ 4)   Lines:  64.71% ( 22/ 34)
+\WP_CLI::ProcessRun
+  Methods:  50.00% ( 1/ 2)   Lines:  33.33% (  3/  9)
+\WP_CLI::Runner
+  Methods:   2.22% ( 1/45)   Lines:   0.36% (  3/831)
+\WP_CLI::SynopsisParser
+  Methods:  80.00% ( 4/ 5)   Lines:  97.40% ( 75/ 77)
+\WP_CLI::SynopsisValidator
+  Methods:  71.43% ( 5/ 7)   Lines:  90.38% ( 47/ 52)
+\WP_CLI\Dispatcher::CommandFactory
+  Methods:  11.11% ( 1/ 9)   Lines:  32.98% ( 31/ 94)
+\WP_CLI\Loggers::Base
+  Methods:  50.00% ( 2/ 4)   Lines:  86.36% ( 19/ 22)
+\WP_CLI\Loggers::Execution
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 19/ 19)
+\WP_CLI\Loggers::Regular
+  Methods:  71.43% ( 5/ 7)   Lines:  76.92% ( 10/ 13)
+\cli::Colors
+  Methods:  30.77% ( 4/13)   Lines:  58.62% ( 34/ 58)

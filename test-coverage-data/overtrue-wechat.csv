@@ -1,0 +1,10 @@
+repository,tag,coverage
+git@github.com:overtrue/wechat.git,1.0.1,"no phpunit config"
+git@github.com:overtrue/wechat.git,2.0.0,"no phpunit config"
+git@github.com:overtrue/wechat.git,2.1.0,"no phpunit config"
+git@github.com:overtrue/wechat.git,3.0.1,88.75
+git@github.com:overtrue/wechat.git,3.1.0,85.46
+git@github.com:overtrue/wechat.git,3.2.0,78.73
+git@github.com:overtrue/wechat.git,3.3.0,"phpunit failed"
+git@github.com:overtrue/wechat.git,4.0.0,"phpunit failed"
+git@github.com:overtrue/wechat.git,4.1.0,"phpunit failed"

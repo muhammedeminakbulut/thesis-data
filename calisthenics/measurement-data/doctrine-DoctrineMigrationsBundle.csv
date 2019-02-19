@@ -1,0 +1,11 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:doctrine/DoctrineMigrationsBundle.git,1.0.0,567,207,14,0.00%,3.3,0,163,76,40,0
+git@github.com:doctrine/DoctrineMigrationsBundle.git,1.0.1,567,207,14,0.00%,3.3,0,163,76,40,0
+git@github.com:doctrine/DoctrineMigrationsBundle.git,v1.1.0,637,230,27,14.13%,3.6190476190476,0,163,76,45,0
+git@github.com:doctrine/DoctrineMigrationsBundle.git,1.1.1,669,230,32,14.20%,4,0,163,76,51,0
+git@github.com:doctrine/DoctrineMigrationsBundle.git,v1.2.0,782,239,43,12.15%,4.4347826086957,0,163,76,81,0
+git@github.com:doctrine/DoctrineMigrationsBundle.git,v1.2.1,782,239,45,12.15%,4.4347826086957,0,163,76,81,0
+git@github.com:doctrine/DoctrineMigrationsBundle.git,v1.3.0,783,239,44,12.13%,4.4782608695652,0,163,76,85,0
+git@github.com:doctrine/DoctrineMigrationsBundle.git,v1.3.1,684,107,45,13.89%,4.28,0,163,76,87,0
+git@github.com:doctrine/DoctrineMigrationsBundle.git,v1.3.2,716,108,47,13.27%,4.48,0,163,76,101,0
+git@github.com:doctrine/DoctrineMigrationsBundle.git,v2.0.0,1030,104,65,22.62%,4.0714285714286,0,163,76,141,0

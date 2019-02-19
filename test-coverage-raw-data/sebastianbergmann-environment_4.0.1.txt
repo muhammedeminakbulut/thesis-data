@@ -1,0 +1,16 @@
+
+
+Code Coverage Report:    
+  2019-02-16 21:06:39    
+                         
+ Summary:                
+  Classes:  0.00% (0/3)  
+  Methods: 80.00% (12/15)
+  Lines:   57.69% (30/52)
+
+\SebastianBergmann\Environment::SebastianBergmann\Environment\Console
+  Methods:  66.67% ( 2/ 3)   Lines:  81.82% (  9/ 11)
+\SebastianBergmann\Environment::SebastianBergmann\Environment\OperatingSystem
+  Methods:   0.00% ( 0/ 1)   Lines:  11.76% (  2/ 17)
+\SebastianBergmann\Environment::SebastianBergmann\Environment\Runtime
+  Methods:  90.91% (10/11)   Lines:  79.17% ( 19/ 24)

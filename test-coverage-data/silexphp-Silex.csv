@@ -1,0 +1,5 @@
+repository,tag,coverage
+git@github.com:silexphp/Silex.git,v2.0.0,"phpunit not installed"
+git@github.com:silexphp/Silex.git,v2.1.0,"phpunit not installed"
+git@github.com:silexphp/Silex.git,v2.2.0,"phpunit not installed"
+git@github.com:silexphp/Silex.git,v2.3.0,"phpunit not installed"

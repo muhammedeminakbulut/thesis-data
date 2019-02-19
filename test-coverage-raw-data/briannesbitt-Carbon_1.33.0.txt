@@ -1,0 +1,22 @@
+
+
+Code Coverage Report:        
+  2019-02-15 07:59:03        
+                             
+ Summary:                    
+  Classes: 83.33% (5/6)      
+  Methods: 99.77% (432/433)  
+  Lines:   99.94% (1570/1571)
+
+\Carbon::Carbon
+  Methods:  99.68% (311/312)   Lines:  99.86% (733/734)
+\Carbon::CarbonInterval
+  Methods: 100.00% (42/42)   Lines: 100.00% (370/370)
+\Carbon::CarbonPeriod
+  Methods: 100.00% (65/65)   Lines: 100.00% (341/341)
+\Carbon::Translator
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 26/ 26)
+\Carbon\Exceptions::InvalidDateException
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  6/  6)
+\Carbon\Laravel::ServiceProvider
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 10/ 10)

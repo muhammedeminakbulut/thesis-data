@@ -1,0 +1,12 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:guzzle/promises.git,0.1.0,3184,544,128,0.00%,2.6930693069307,0,66,24,946,0
+git@github.com:guzzle/promises.git,0.1.1,3204,544,130,0.00%,2.6930693069307,0,66,24,964,0
+git@github.com:guzzle/promises.git,0.1.2,3182,535,129,0.00%,2.6732673267327,0,66,24,963,0
+git@github.com:guzzle/promises.git,1.0.0,3303,559,130,0.00%,2.6792452830189,0,66,24,981,0
+git@github.com:guzzle/promises.git,1.0.1,3375,565,138,0.00%,2.7383177570093,0,66,24,987,0
+git@github.com:guzzle/promises.git,1.0.2,3376,565,138,0.00%,2.7383177570093,0,66,24,987,0
+git@github.com:guzzle/promises.git,1.0.3,3387,565,140,0.00%,2.7314814814815,0,66,24,988,0
+git@github.com:guzzle/promises.git,1.1.0,3459,576,146,0.00%,2.75,0,66,24,1005,0
+git@github.com:guzzle/promises.git,1.2.0,3479,578,155,0.00%,2.8055555555556,0,66,24,1023,0
+git@github.com:guzzle/promises.git,1.3.0,3663,610,162,0.00%,2.7372881355932,0,66,24,1031,0
+git@github.com:guzzle/promises.git,v1.3.1,3710,610,165,0.00%,2.7457627118644,0,66,24,1035,0

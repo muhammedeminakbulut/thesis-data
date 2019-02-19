@@ -1,0 +1,11 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:borisrepl/boris.git,v1.0.1,1168,273,91,0.00%,3.7719298245614,0,115,33,67,0
+git@github.com:borisrepl/boris.git,v1.0.2,1221,302,94,0.00%,3.7166666666667,0,115,33,68,0
+git@github.com:borisrepl/boris.git,v1.0.3,1234,302,97,0.00%,3.6885245901639,0,115,33,69,0
+git@github.com:borisrepl/boris.git,v1.0.4,1233,302,99,0.00%,3.672131147541,0,115,33,69,0
+git@github.com:borisrepl/boris.git,v1.0.5,1252,310,99,0.00%,3.6129032258065,0,115,33,69,0
+git@github.com:borisrepl/boris.git,v1.0.6,1268,310,101,0.00%,3.6190476190476,0,115,33,69,0
+git@github.com:borisrepl/boris.git,v1.0.7,1273,310,101,0.00%,3.6190476190476,0,115,33,69,0
+git@github.com:borisrepl/boris.git,v1.0.8,1273,310,101,0.00%,3.6190476190476,0,115,33,69,0
+git@github.com:borisrepl/boris.git,v1.0.9,1499,330,118,0.00%,3.2985074626866,0,115,33,75,0
+git@github.com:borisrepl/boris.git,v1.0.10,1453,310,115,0.00%,3.703125,0,115,33,73,0

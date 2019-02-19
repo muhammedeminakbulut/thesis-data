@@ -1,0 +1,26 @@
+
+
+Code Coverage Report:      
+  2019-02-16 21:01:16      
+                           
+ Summary:                  
+  Classes: 25.00% (3/12)   
+  Methods: 49.02% (25/51)  
+  Lines:   66.04% (245/371)
+
+\Hirak\Prestissimo::BaseRequest
+  Methods:  72.73% ( 8/11)   Lines:  87.78% ( 79/ 90)
+\Hirak\Prestissimo::ConfigFacade
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  9/  9)
+\Hirak\Prestissimo::CopyRequest
+  Methods:  66.67% ( 4/ 6)   Lines:  84.38% ( 27/ 32)
+\Hirak\Prestissimo::CurlMulti
+  Methods:  83.33% ( 5/ 6)   Lines:  98.15% ( 53/ 54)
+\Hirak\Prestissimo::FileDownloaderDummy
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  7/  7)
+\Hirak\Prestissimo::Plugin
+  Methods:  71.43% ( 5/ 7)   Lines:  52.50% ( 21/ 40)
+\Hirak\Prestissimo::Prefetcher
+  Methods:   0.00% ( 0/ 3)   Lines:  85.42% ( 41/ 48)
+\Hirak\Prestissimo::Share
+  Methods:   0.00% ( 0/ 1)   Lines:  88.89% (  8/  9)

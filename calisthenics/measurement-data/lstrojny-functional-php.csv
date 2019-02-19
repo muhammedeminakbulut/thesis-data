@@ -1,0 +1,15 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:lstrojny/functional-php.git,0.0.1,2069,721,50,0.00%,2.5454545454545,0,153,52,50,0
+git@github.com:lstrojny/functional-php.git,0.0.5,3656,1308,105,0.00%,2.6820809248555,0,153,52,155,0
+git@github.com:lstrojny/functional-php.git,0.6.0,3784,1331,107,0.00%,2.7921348314607,0,153,52,157,0
+git@github.com:lstrojny/functional-php.git,1.0.0,7796,2687,210,0.00%,3.1158536585366,0,153,52,283,0
+git@github.com:lstrojny/functional-php.git,1.2.0,8566,3042,213,0.00%,3.0674157303371,0,153,52,275,0
+git@github.com:lstrojny/functional-php.git,1.2.1,8858,3200,214,0.00%,3.0490463215259,0,153,52,299,0
+git@github.com:lstrojny/functional-php.git,1.2.3,8838,3195,213,0.00%,3.0490463215259,0,153,52,296,0
+git@github.com:lstrojny/functional-php.git,1.2.4,8838,3195,213,0.00%,3.0490463215259,0,153,52,296,0
+git@github.com:lstrojny/functional-php.git,1.4.0,9510,3454,230,0.00%,3.0285714285714,0,153,52,386,0
+git@github.com:lstrojny/functional-php.git,1.5.0,9712,3506,239,0.00%,3.2210796915167,0,153,52,387,0
+git@github.com:lstrojny/functional-php.git,1.6.0,10932,4168,249,0.00%,3.1917475728155,0,153,52,456,0
+git@github.com:lstrojny/functional-php.git,1.7.0,11121,4269,250,0.00%,3.1726618705036,0,153,52,459,0
+git@github.com:lstrojny/functional-php.git,1.8.0,11212,4317,251,0.00%,3.1690476190476,0,153,52,459,0
+git@github.com:lstrojny/functional-php.git,1.9.0,11735,4581,254,0.00%,3.1471962616822,0,153,52,461,0

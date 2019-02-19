@@ -1,0 +1,492 @@
+
+
+Code Coverage Report:         
+  2019-02-16 13:59:59         
+                              
+ Summary:                     
+  Classes: 12.68% (36/284)    
+  Methods: 24.70% (972/3936)  
+  Lines:   29.52% (8004/27113)
+
+@PHPExcel.Reader.Excel5.Color::PHPExcel_Reader_Excel5_Color_BuiltIn
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+@PHPExcel.Reader.Excel5.Style::PHPExcel_Reader_Excel5_Style_Border
+  Methods:   0.00% ( 0/ 1)   Lines:  66.67% (  2/  3)
+@PHPExcel.Reader.Excel5.Style::PHPExcel_Reader_Excel5_Style_FillPattern
+  Methods:   0.00% ( 0/ 1)   Lines:  66.67% (  2/  3)
+@PHPExcel.Reader.Excel5::PHPExcel_Reader_Excel5_Color
+  Methods:   0.00% ( 0/ 1)   Lines:  57.14% (  4/  7)
+@PHPExcel.Reader::PHPExcel_Reader_Excel5
+  Methods:  32.43% (36/111)   Lines:  34.04% (1283/3769)
+@PHPExcel.Reader::PHPExcel_Reader_HTML
+  Methods:   7.14% ( 1/14)   Lines:   0.99% (  2/202)
+@PHPExcel.Shared::PHPExcel_Shared_OLERead
+  Methods:  60.00% ( 3/ 5)   Lines:  87.74% ( 93/106)
+@PHPExcel.Writer.Excel5::PHPExcel_Writer_Excel5_BIFFwriter
+  Methods:  50.00% ( 4/ 8)   Lines:  67.92% ( 36/ 53)
+@PHPExcel.Writer.Excel5::PHPExcel_Writer_Excel5_Parser
+  Methods:  27.59% ( 8/29)   Lines:  36.79% (163/443)
+@PHPExcel.Writer.Excel5::PHPExcel_Writer_Excel5_Workbook
+  Methods:  42.86% (15/35)   Lines:  41.65% (227/545)
+@PHPExcel.Writer.Excel5::PHPExcel_Writer_Excel5_Worksheet
+  Methods:  18.84% (13/69)   Lines:  21.88% (493/2253)
+@PHPExcel.Writer.Excel5::PHPExcel_Writer_Excel5_Xf
+  Methods:  57.89% (11/19)   Lines:  87.69% (114/130)
+@PHPExcel::PHPExcel
+  Methods:  36.51% (23/63)   Lines:  43.57% (122/280)
+@PHPExcel::PHPExcel_Autoloader
+  Methods:   0.00% ( 0/ 2)   Lines:  53.85% (  7/ 13)
+@PHPExcel::PHPExcel_DocumentProperties
+  Methods:  67.74% (21/31)   Lines:  25.00% ( 41/164)
+@PHPExcel::PHPExcel_DocumentSecurity
+  Methods:   7.69% ( 1/13)   Lines:  17.65% (  6/ 34)
+@PHPExcel::PHPExcel_IOFactory
+  Methods:   0.00% ( 0/ 9)   Lines:  18.67% ( 14/ 75)
+@PHPExcel::PHPExcel_ReferenceHelper
+  Methods:   9.09% ( 2/22)   Lines:   2.19% (  8/366)
+@PHPExcel::PHPExcel_WorksheetIterator
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 11/ 11)
+@PHPExcel_CachedObjectStorage::PHPExcel_CachedObjectStorageFactory
+  Methods:   0.00% ( 0/ 7)   Lines:  54.05% ( 20/ 37)
+@PHPExcel_CachedObjectStorage::PHPExcel_CachedObjectStorage_CacheBase
+  Methods:  57.89% (11/19)   Lines:  36.05% ( 31/ 86)
+@PHPExcel_CachedObjectStorage::PHPExcel_CachedObjectStorage_Memory
+  Methods:  40.00% ( 2/ 5)   Lines:  56.52% ( 13/ 23)
+@PHPExcel_Calculation::PHPExcel_CalcEngine_CyclicReferenceStack
+  Methods:  66.67% ( 4/ 6)   Lines:  75.00% (  6/  8)
+@PHPExcel_Calculation::PHPExcel_CalcEngine_Logger
+  Methods:  50.00% ( 4/ 8)   Lines:  39.13% (  9/ 23)
+@PHPExcel_Calculation::PHPExcel_Calculation
+  Methods:  10.71% ( 6/56)   Lines:  21.35% (228/1068)
+@PHPExcel_Calculation::PHPExcel_Calculation_Functions
+  Methods:   9.09% ( 3/33)   Lines:   7.09% ( 10/141)
+@PHPExcel_Calculation::PHPExcel_Calculation_Token_Stack
+  Methods:  60.00% ( 3/ 5)   Lines:  68.42% ( 13/ 19)
+@PHPExcel_Cell::PHPExcel_Cell
+  Methods:  29.17% (14/48)   Lines:  36.84% ( 91/247)
+@PHPExcel_Cell::PHPExcel_Cell_DataType
+  Methods:  33.33% ( 1/ 3)   Lines:  50.00% (  5/ 10)
+@PHPExcel_Cell::PHPExcel_Cell_DefaultValueBinder
+  Methods:   0.00% ( 0/ 2)   Lines:  64.52% ( 20/ 31)
+@PHPExcel_Reader::PHPExcel_Reader_Abstract
+  Methods:  53.33% ( 8/15)   Lines:  72.09% ( 31/ 43)
+@PHPExcel_Reader::PHPExcel_Reader_CSV
+  Methods:  41.18% ( 7/17)   Lines:  64.81% ( 70/108)
+@PHPExcel_Reader::PHPExcel_Reader_DefaultReadFilter
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+@PHPExcel_Reader::PHPExcel_Reader_Excel2007
+  Methods:  21.05% ( 4/19)   Lines:  42.61% (487/1143)
+@PHPExcel_Reader_Excel2007::PHPExcel_Reader_Excel2007_Theme
+  Methods:  20.00% ( 1/ 5)   Lines:  40.00% (  6/ 15)
+@PHPExcel_Reader_Excel5::PHPExcel_Reader_Excel5_Escher
+  Methods:  45.45% (10/22)   Lines:  44.49% (101/227)
+@PHPExcel_Settings::PHPExcel_Settings
+  Methods:  16.67% ( 3/18)   Lines:  28.57% ( 14/ 49)
+@PHPExcel_Shared::PHPExcel_Shared_CodePage
+  Methods:   0.00% ( 0/ 1)   Lines:  53.98% ( 61/113)
+@PHPExcel_Shared::PHPExcel_Shared_Date
+  Methods:  25.00% ( 3/12)   Lines:  15.32% ( 17/111)
+@PHPExcel_Shared::PHPExcel_Shared_Drawing
+  Methods:   0.00% ( 0/ 9)   Lines:   8.20% (  5/ 61)
+@PHPExcel_Shared::PHPExcel_Shared_File
+  Methods:   0.00% ( 0/ 5)   Lines:  23.40% ( 11/ 47)
+@PHPExcel_Shared::PHPExcel_Shared_Font
+  Methods:   0.00% ( 0/14)   Lines:  12.25% ( 31/253)
+@PHPExcel_Shared::PHPExcel_Shared_String
+  Methods:   9.68% ( 3/31)   Lines:  11.21% ( 36/321)
+@PHPExcel_Shared_Escher::PHPExcel_Shared_Escher
+  Methods:  75.00% ( 3/ 4)   Lines:  75.00% (  3/  4)
+@PHPExcel_Shared_Escher::PHPExcel_Shared_Escher_DgContainer
+  Methods:  33.33% ( 2/ 6)   Lines:  25.00% (  2/  8)
+@PHPExcel_Shared_Escher::PHPExcel_Shared_Escher_DgContainer_SpgrContainer
+  Methods:  20.00% ( 1/ 5)   Lines:  61.54% (  8/ 13)
+@PHPExcel_Shared_Escher::PHPExcel_Shared_Escher_DgContainer_SpgrContainer_SpContainer
+  Methods:   3.85% ( 1/26)   Lines:   4.44% (  2/ 45)
+@PHPExcel_Shared_Escher::PHPExcel_Shared_Escher_DggContainer
+  Methods:   8.33% ( 1/12)   Lines:  10.00% (  2/ 20)
+@PHPExcel_Shared_OLE::PHPExcel_Shared_OLE
+  Methods:  12.50% ( 2/16)   Lines:  18.90% ( 31/164)
+@PHPExcel_Shared_OLE::PHPExcel_Shared_OLE_PPS
+  Methods:  50.00% ( 2/ 4)   Lines:  96.36% ( 53/ 55)
+@PHPExcel_Shared_OLE::PHPExcel_Shared_OLE_PPS_File
+  Methods:  50.00% ( 2/ 4)   Lines:  57.14% (  4/  7)
+@PHPExcel_Shared_OLE::PHPExcel_Shared_OLE_PPS_Root
+  Methods:  22.22% ( 2/ 9)   Lines:  77.04% (151/196)
+@PHPExcel_Style::PHPExcel_Style
+  Methods:  47.37% ( 9/19)   Lines:  17.39% ( 36/207)
+@PHPExcel_Style::PHPExcel_Style_Alignment
+  Methods:   0.00% ( 0/19)   Lines:  42.11% ( 48/114)
+@PHPExcel_Style::PHPExcel_Style_Border
+  Methods:  30.00% ( 3/10)   Lines:  21.62% ( 16/ 74)
+@PHPExcel_Style::PHPExcel_Style_Borders
+  Methods:  35.29% ( 6/17)   Lines:  40.91% ( 36/ 88)
+@PHPExcel_Style::PHPExcel_Style_Color
+  Methods:  12.50% ( 2/16)   Lines:  20.19% ( 21/104)
+@PHPExcel_Style::PHPExcel_Style_Fill
+  Methods:  15.38% ( 2/13)   Lines:  23.44% ( 15/ 64)
+@PHPExcel_Style::PHPExcel_Style_Font
+  Methods:   4.35% ( 1/23)   Lines:  38.89% ( 56/144)
+@PHPExcel_Style::PHPExcel_Style_NumberFormat
+  Methods:  21.05% ( 4/19)   Lines:  29.88% ( 75/251)
+@PHPExcel_Style::PHPExcel_Style_Protection
+  Methods:  11.11% ( 1/ 9)   Lines:  39.47% ( 15/ 38)
+@PHPExcel_Style::PHPExcel_Style_Supervisor
+  Methods:  57.14% ( 4/ 7)   Lines:  42.86% (  6/ 14)
+@PHPExcel_Worksheet::PHPExcel_Worksheet
+  Methods:  35.66% (51/143)   Lines:  36.15% (231/639)
+@PHPExcel_Worksheet::PHPExcel_Worksheet_AutoFilter
+  Methods:  13.64% ( 3/22)   Lines:   1.31% (  5/381)
+@PHPExcel_Worksheet::PHPExcel_Worksheet_CellIterator
+  Methods:  33.33% ( 1/ 3)   Lines:  50.00% (  3/  6)
+@PHPExcel_Worksheet::PHPExcel_Worksheet_ColumnDimension
+  Methods:  85.71% ( 6/ 7)   Lines:  83.33% ( 10/ 12)
+@PHPExcel_Worksheet::PHPExcel_Worksheet_Dimension
+  Methods:  70.00% ( 7/10)   Lines:  63.64% ( 14/ 22)
+@PHPExcel_Worksheet::PHPExcel_Worksheet_HeaderFooter
+  Methods:  50.00% (13/26)   Lines:  37.70% ( 23/ 61)
+@PHPExcel_Worksheet::PHPExcel_Worksheet_PageMargins
+  Methods:  92.86% (13/14)   Lines:  76.00% ( 19/ 25)
+@PHPExcel_Worksheet::PHPExcel_Worksheet_PageSetup
+  Methods:  52.78% (19/36)   Lines:  40.68% ( 48/118)
+@PHPExcel_Worksheet::PHPExcel_Worksheet_Protection
+  Methods:  89.19% (33/37)   Lines:  82.89% ( 63/ 76)
+@PHPExcel_Worksheet::PHPExcel_Worksheet_Row
+  Methods:  75.00% ( 3/ 4)   Lines:  85.71% (  6/  7)
+@PHPExcel_Worksheet::PHPExcel_Worksheet_RowCellIterator
+  Methods:  66.67% ( 8/12)   Lines:  59.26% ( 32/ 54)
+@PHPExcel_Worksheet::PHPExcel_Worksheet_RowDimension
+  Methods:  42.86% ( 3/ 7)   Lines:  50.00% (  6/ 12)
+@PHPExcel_Worksheet::PHPExcel_Worksheet_RowIterator
+  Methods:  63.64% ( 7/11)   Lines:  73.33% ( 22/ 30)
+@PHPExcel_Worksheet::PHPExcel_Worksheet_SheetView
+  Methods:  50.00% ( 4/ 8)   Lines:  58.33% ( 14/ 24)
+@PHPExcel_Writer::PHPExcel_Writer_Abstract
+  Methods:  28.57% ( 2/ 7)   Lines:  28.57% (  4/ 14)
+@PHPExcel_Writer_Excel5::PHPExcel_Writer_Excel5
+  Methods:  33.33% ( 2/ 6)   Lines:  58.75% (235/400)
+@PHPExcel_Writer_Excel5::PHPExcel_Writer_Excel5_Font
+  Methods:  40.00% ( 2/ 5)   Lines:  82.98% ( 39/ 47)
+CsvTestImport
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+ImportTrait
+  Methods:  75.00% ( 3/ 4)   Lines:  94.12% ( 16/ 17)
+Mockery
+  Methods:  17.78% ( 8/45)   Lines:  29.23% ( 57/195)
+SingleImportTestingTrait
+  Methods:  95.83% (23/24)   Lines:  99.07% (107/108)
+Swift
+  Methods:   0.00% ( 0/ 3)   Lines:  11.76% (  2/ 17)
+TestExport
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+TestExportHandler
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+TestFile
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+TestFileHandler
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+TestImport
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+TestImportHandler
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+TestNewFile
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+TestNewFileHandler
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Faker::Factory
+  Methods:  66.67% ( 2/ 3)   Lines:  87.50% ( 14/ 16)
+\Faker::Generator
+  Methods:  11.11% ( 1/ 9)   Lines:   9.52% (  2/ 21)
+\Faker\Provider::Base
+  Methods:   3.57% ( 1/28)   Lines:   1.35% (  2/148)
+\Faker\Provider::HtmlLorem
+  Methods:   6.25% ( 1/16)   Lines:   2.53% (  4/158)
+\Illuminate\Auth::AuthServiceProvider
+  Methods:  20.00% ( 1/ 5)   Lines:  60.00% ( 12/ 20)
+\Illuminate\Auth::GeneratorServiceProvider
+  Methods:  33.33% ( 1/ 3)   Lines:  12.50% (  1/  8)
+\Illuminate\Auth\Passwords::PasswordResetServiceProvider
+  Methods:  25.00% ( 1/ 4)   Lines:   5.88% (  1/ 17)
+\Illuminate\Broadcasting::BroadcastServiceProvider
+  Methods:  33.33% ( 1/ 3)   Lines:  20.00% (  1/  5)
+\Illuminate\Bus::BusServiceProvider
+  Methods:  50.00% ( 1/ 2)   Lines:  66.67% (  2/  3)
+\Illuminate\Bus::Dispatcher
+  Methods:   4.76% ( 1/21)   Lines:   5.41% (  4/ 74)
+\Illuminate\Cache::CacheServiceProvider
+  Methods:  25.00% ( 1/ 4)   Lines:   7.69% (  1/ 13)
+\Illuminate\Config::Repository
+  Methods:  36.36% ( 4/11)   Lines:  37.50% (  9/ 24)
+\Illuminate\Console::ScheduleServiceProvider
+  Methods:  50.00% ( 1/ 2)   Lines:  33.33% (  1/  3)
+\Illuminate\Container::Container
+  Methods:  30.65% (19/62)   Lines:  57.37% (144/251)
+\Illuminate\Cookie::CookieServiceProvider
+  Methods:   0.00% ( 0/ 1)   Lines:  33.33% (  1/  3)
+\Illuminate\Database::DatabaseManager
+  Methods:   5.88% ( 1/17)   Lines:   5.45% (  3/ 55)
+\Illuminate\Database::DatabaseServiceProvider
+  Methods:  50.00% ( 2/ 4)   Lines:  90.48% ( 19/ 21)
+\Illuminate\Database::MigrationServiceProvider
+  Methods:   7.69% ( 1/13)   Lines:   2.08% (  1/ 48)
+\Illuminate\Database::SeedServiceProvider
+  Methods:  25.00% ( 1/ 4)   Lines:   8.33% (  1/ 12)
+\Illuminate\Database\Connectors::ConnectionFactory
+  Methods:   8.33% ( 1/12)   Lines:   3.92% (  2/ 51)
+\Illuminate\Database\Eloquent::Factory
+  Methods:  12.50% ( 2/16)   Lines:  32.00% (  8/ 25)
+\Illuminate\Database\Eloquent::Model
+  Methods:   1.49% ( 3/202)   Lines:   0.92% (  6/655)
+\Illuminate\Encryption::EncryptionServiceProvider
+  Methods:   0.00% ( 0/ 1)   Lines:  11.11% (  1/  9)
+\Illuminate\Events::Dispatcher
+  Methods:  14.81% ( 4/27)   Lines:  27.72% ( 28/101)
+\Illuminate\Events::EventServiceProvider
+  Methods:   0.00% ( 0/ 1)   Lines:  50.00% (  1/  2)
+\Illuminate\Filesystem::Filesystem
+  Methods:  17.86% ( 5/28)   Lines:   9.59% (  7/ 73)
+\Illuminate\Filesystem::FilesystemServiceProvider
+  Methods:  33.33% ( 2/ 6)   Lines:  68.75% ( 11/ 16)
+\Illuminate\Foundation::AliasLoader
+  Methods:  58.33% ( 7/12)   Lines:  70.37% ( 19/ 27)
+\Illuminate\Foundation::Application
+  Methods:  36.11% (26/72)   Lines:  50.55% ( 92/182)
+\Illuminate\Foundation::EnvironmentDetector
+  Methods:  50.00% ( 2/ 4)   Lines:  77.78% (  7/  9)
+\Illuminate\Foundation::ProviderRepository
+  Methods:  80.00% ( 8/10)   Lines:  92.11% ( 35/ 38)
+\Illuminate\Foundation\Bootstrap::BootProviders
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Illuminate\Foundation\Bootstrap::ConfigureLogging
+  Methods:  42.86% ( 3/ 7)   Lines:  63.64% ( 14/ 22)
+\Illuminate\Foundation\Bootstrap::HandleExceptions
+  Methods:   0.00% ( 0/ 9)   Lines:  31.03% (  9/ 29)
+\Illuminate\Foundation\Bootstrap::RegisterFacades
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  4/  4)
+\Illuminate\Foundation\Bootstrap::RegisterProviders
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Illuminate\Foundation\Bootstrap::SetRequestForConsole
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\Illuminate\Foundation\Providers::ArtisanServiceProvider
+  Methods:   3.23% ( 1/31)   Lines:   1.09% (  1/ 92)
+\Illuminate\Foundation\Providers::ComposerServiceProvider
+  Methods:  50.00% ( 1/ 2)   Lines:  33.33% (  1/  3)
+\Illuminate\Foundation\Providers::FormRequestServiceProvider
+  Methods:  33.33% ( 1/ 3)   Lines:   7.14% (  1/ 14)
+\Illuminate\Foundation\Testing::ApplicationTrait
+  Methods:   5.26% ( 1/19)   Lines:   4.69% (  3/ 64)
+\Illuminate\Hashing::HashServiceProvider
+  Methods:  50.00% ( 1/ 2)   Lines:  33.33% (  1/  3)
+\Illuminate\Log::Writer
+  Methods:  12.50% ( 3/24)   Lines:  21.57% ( 11/ 51)
+\Illuminate\Mail::MailServiceProvider
+  Methods:  20.00% ( 1/ 5)   Lines:   3.57% (  1/ 28)
+\Illuminate\Pagination::AbstractPaginator
+  Methods:   6.06% ( 2/33)   Lines:   6.15% (  4/ 65)
+\Illuminate\Pagination::PaginationServiceProvider
+  Methods:   0.00% ( 0/ 2)   Lines:  28.57% (  2/  7)
+\Illuminate\Pipeline::Pipeline
+  Methods:  12.50% ( 1/ 8)   Lines:   8.00% (  2/ 25)
+\Illuminate\Pipeline::PipelineServiceProvider
+  Methods:  50.00% ( 1/ 2)   Lines:  25.00% (  1/  4)
+\Illuminate\Queue::ConsoleServiceProvider
+  Methods:  33.33% ( 1/ 3)   Lines:   7.69% (  1/ 13)
+\Illuminate\Queue::QueueServiceProvider
+  Methods:   5.00% ( 1/20)   Lines:   1.27% (  1/ 79)
+\Illuminate\Redis::RedisServiceProvider
+  Methods:  50.00% ( 1/ 2)   Lines:  33.33% (  1/  3)
+\Illuminate\Routing::ControllerServiceProvider
+  Methods:   0.00% ( 0/ 1)   Lines:  50.00% (  1/  2)
+\Illuminate\Routing::GeneratorServiceProvider
+  Methods:  25.00% ( 1/ 4)   Lines:  10.00% (  1/ 10)
+\Illuminate\Routing::RouteCollection
+  Methods:   0.00% ( 0/17)   Lines:   5.77% (  3/ 52)
+\Illuminate\Routing::Router
+  Methods:   1.37% ( 1/73)   Lines:   3.81% (  9/236)
+\Illuminate\Routing::RoutingServiceProvider
+  Methods:  25.00% ( 2/ 8)   Lines:  50.00% ( 19/ 38)
+\Illuminate\Session::CommandsServiceProvider
+  Methods:  50.00% ( 1/ 2)   Lines:  33.33% (  1/  3)
+\Illuminate\Session::SessionServiceProvider
+  Methods:  33.33% ( 1/ 3)   Lines:  70.00% (  7/ 10)
+\Illuminate\Support::AggregateServiceProvider
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  9/  9)
+\Illuminate\Support::Arr
+  Methods:   8.70% ( 2/23)   Lines:  19.44% ( 21/108)
+\Illuminate\Support::Collection
+  Methods:  13.51% (10/74)   Lines:  12.37% ( 24/194)
+\Illuminate\Support::ServiceProvider
+  Methods:  30.77% ( 4/13)   Lines:  28.89% ( 13/ 45)
+\Illuminate\Support::Str
+  Methods:   8.00% ( 2/25)   Lines:  12.66% ( 10/ 79)
+\Illuminate\Support\Facades::App
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Illuminate\Support\Facades::Config
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Illuminate\Support\Facades::Facade
+  Methods:  21.43% ( 3/14)   Lines:  40.82% ( 20/ 49)
+\Illuminate\Translation::TranslationServiceProvider
+  Methods:  33.33% ( 1/ 3)   Lines:   9.09% (  1/ 11)
+\Illuminate\Validation::ValidationServiceProvider
+  Methods:  25.00% ( 1/ 4)   Lines:  60.00% (  9/ 15)
+\Illuminate\View::ViewServiceProvider
+  Methods:  16.67% ( 1/ 6)   Lines:  29.03% (  9/ 31)
+\Maatwebsite\Excel::Excel
+  Methods:  75.00% ( 9/12)   Lines:  89.80% ( 44/ 49)
+\Maatwebsite\Excel::ExcelServiceProvider
+  Methods: 100.00% (13/13)   Lines: 100.00% ( 64/ 64)
+\Maatwebsite\Excel\Classes::Cache
+  Methods:  83.33% ( 5/ 6)   Lines:  72.00% ( 18/ 25)
+\Maatwebsite\Excel\Classes::FormatIdentifier
+  Methods:  37.50% ( 3/ 8)   Lines:  58.93% ( 33/ 56)
+\Maatwebsite\Excel\Classes::LaravelExcelWorksheet
+  Methods:  18.33% (11/60)   Lines:  31.07% ( 87/280)
+\Maatwebsite\Excel\Classes::PHPExcel
+  Methods:  80.00% ( 4/ 5)   Lines:  63.16% ( 12/ 19)
+\Maatwebsite\Excel\Collections::CellCollection
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 12/ 12)
+\Maatwebsite\Excel\Collections::ExcelCollection
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\Maatwebsite\Excel\Facades::Excel
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Maatwebsite\Excel\Files::ExcelFile
+  Methods: 100.00% (10/10)   Lines: 100.00% ( 30/ 30)
+\Maatwebsite\Excel\Files::File
+  Methods:  80.00% ( 4/ 5)   Lines:  92.31% ( 12/ 13)
+\Maatwebsite\Excel\Files::NewExcelFile
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  9/  9)
+\Maatwebsite\Excel\Filters::ChunkReadFilter
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  6/  6)
+\Maatwebsite\Excel\Parsers::CssParser
+  Methods:  14.29% ( 1/ 7)   Lines:  10.00% (  2/ 20)
+\Maatwebsite\Excel\Parsers::ExcelParser
+  Methods:  58.06% (18/31)   Lines:  73.05% (103/141)
+\Maatwebsite\Excel\Parsers::ViewParser
+  Methods:  55.56% ( 5/ 9)   Lines:  70.59% ( 12/ 17)
+\Maatwebsite\Excel\Readers::ChunkedReadJob
+  Methods:  50.00% ( 1/ 2)   Lines:  96.15% ( 25/ 26)
+\Maatwebsite\Excel\Readers::ConfigReader
+  Methods:  42.86% ( 3/ 7)   Lines:  53.85% ( 14/ 26)
+\Maatwebsite\Excel\Readers::Html
+  Methods:   4.00% ( 1/25)   Lines:   0.57% (  3/522)
+\Maatwebsite\Excel\Readers::LaravelExcelReader
+  Methods:  75.36% (52/69)   Lines:  76.85% (166/216)
+\Maatwebsite\Excel\Writers::LaravelExcelWriter
+  Methods:  45.16% (14/31)   Lines:  57.14% ( 80/140)
+\Mockery::CompositeExpectation
+  Methods:  37.50% ( 3/ 8)   Lines:  26.09% (  6/ 23)
+\Mockery::Configuration
+  Methods:  25.00% ( 2/ 8)   Lines:  12.50% (  2/ 16)
+\Mockery::Container
+  Methods:  25.00% ( 6/24)   Lines:  33.51% ( 62/185)
+\Mockery::Expectation
+  Methods:   6.98% ( 3/43)   Lines:  28.92% ( 48/166)
+\Mockery::ExpectationDirector
+  Methods:  22.22% ( 2/ 9)   Lines:  38.64% ( 17/ 44)
+\Mockery::Instantiator
+  Methods:  12.50% ( 1/ 8)   Lines:  34.15% ( 14/ 41)
+\Mockery::MethodCall
+  Methods:  33.33% ( 1/ 3)   Lines:  60.00% (  3/  5)
+\Mockery::ReceivedMethodCalls
+  Methods:  50.00% ( 1/ 2)   Lines:  20.00% (  2/ 10)
+\Mockery\Generator::CachingGenerator
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  8/  8)
+\Mockery\Generator::DefinedTargetClass
+  Methods:  42.86% ( 6/14)   Lines:  58.33% ( 14/ 24)
+\Mockery\Generator::Method
+  Methods:  75.00% ( 3/ 4)   Lines:  53.85% (  7/ 13)
+\Mockery\Generator::MockConfiguration
+  Methods:  52.00% (13/25)   Lines:  60.84% (101/166)
+\Mockery\Generator::MockConfigurationBuilder
+  Methods:  25.00% ( 3/12)   Lines:  40.62% ( 13/ 32)
+\Mockery\Generator::MockDefinition
+  Methods:  50.00% ( 2/ 4)   Lines:  75.00% (  6/  8)
+\Mockery\Generator::Parameter
+  Methods:  57.14% ( 4/ 7)   Lines:  72.41% ( 21/ 29)
+\Mockery\Generator::StringManipulationGenerator
+  Methods:  66.67% ( 2/ 3)   Lines:  80.00% (  8/ 10)
+\Mockery\Generator\StringManipulation\Pass::CallTypeHintPass
+  Methods:   0.00% ( 0/ 1)   Lines:  63.64% (  7/ 11)
+\Mockery\Generator\StringManipulation\Pass::ClassNamePass
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 12/ 12)
+\Mockery\Generator\StringManipulation\Pass::ClassPass
+  Methods:   0.00% ( 0/ 1)   Lines:  50.00% ( 10/ 20)
+\Mockery\Generator\StringManipulation\Pass::InstanceMockPass
+  Methods:   0.00% ( 0/ 2)   Lines:  33.33% (  2/  6)
+\Mockery\Generator\StringManipulation\Pass::InterfacePass
+  Methods:   0.00% ( 0/ 1)   Lines:  50.00% (  1/  2)
+\Mockery\Generator\StringManipulation\Pass::MethodDefinitionPass
+  Methods:  50.00% ( 3/ 6)   Lines:  79.41% ( 54/ 68)
+\Mockery\Generator\StringManipulation\Pass::RemoveBuiltinMethodsThatAreFinalPass
+  Methods:   0.00% ( 0/ 1)   Lines:  71.43% (  5/  7)
+\Mockery\Generator\StringManipulation\Pass::RemoveUnserializeForInternalSerializableClassesPass
+  Methods:   0.00% ( 0/ 2)   Lines:  40.00% (  4/ 10)
+\Mockery\Loader::EvalLoader
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  4/  4)
+\Monolog::Logger
+  Methods:   4.65% ( 2/43)   Lines:   9.40% ( 11/117)
+\Monolog\Formatter::LineFormatter
+  Methods:  10.00% ( 1/10)   Lines:   7.94% (  5/ 63)
+\Monolog\Formatter::NormalizerFormatter
+  Methods:   0.00% ( 0/10)   Lines:   2.91% (  3/103)
+\Monolog\Handler::AbstractHandler
+  Methods:  20.00% ( 3/15)   Lines:  25.71% (  9/ 35)
+\Monolog\Handler::RotatingFileHandler
+  Methods:  25.00% ( 2/ 8)   Lines:  29.03% ( 18/ 62)
+\Monolog\Handler::StreamHandler
+  Methods:   0.00% ( 0/ 9)   Lines:  17.86% ( 10/ 56)
+\Orchestra\Testbench\Bootstrap::LoadConfiguration
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 13/ 13)
+\Orchestra\Testbench\Traits::ApplicationTrait
+  Methods:  92.86% (13/14)   Lines:  97.62% ( 41/ 42)
+\Stringy::StaticStringy
+  Methods:   1.49% ( 1/67)   Lines:   1.15% (  1/ 87)
+\Stringy::Stringy
+  Methods:   4.94% ( 4/81)   Lines:   4.85% ( 16/330)
+\Symfony\Component\Finder::Finder
+  Methods:  22.50% ( 9/40)   Lines:  42.55% ( 60/141)
+\Symfony\Component\Finder::Glob
+  Methods:   0.00% ( 0/ 1)   Lines:  63.16% ( 24/ 38)
+\Symfony\Component\Finder::SplFileInfo
+  Methods:  66.67% ( 2/ 3)   Lines:  83.33% (  5/  6)
+\Symfony\Component\Finder\Adapter::AbstractAdapter
+  Methods:  93.75% (15/16)   Lines:  72.00% ( 36/ 50)
+\Symfony\Component\Finder\Adapter::AbstractFindAdapter
+  Methods:  11.11% ( 1/ 9)   Lines:   1.67% (  2/120)
+\Symfony\Component\Finder\Adapter::BsdFindAdapter
+  Methods:  20.00% ( 1/ 5)   Lines:   3.03% (  1/ 33)
+\Symfony\Component\Finder\Adapter::GnuFindAdapter
+  Methods:  20.00% ( 1/ 5)   Lines:   2.94% (  1/ 34)
+\Symfony\Component\Finder\Adapter::PhpAdapter
+  Methods:  66.67% ( 2/ 3)   Lines:  72.41% ( 21/ 29)
+\Symfony\Component\Finder\Expression::Expression
+  Methods:  30.77% ( 4/13)   Lines:  35.00% (  7/ 20)
+\Symfony\Component\Finder\Expression::Glob
+  Methods:  33.33% ( 3/ 9)   Lines:  35.71% (  5/ 14)
+\Symfony\Component\Finder\Expression::Regex
+  Methods:  22.73% ( 5/22)   Lines:  50.82% ( 31/ 61)
+\Symfony\Component\Finder\Iterator::ExcludeDirectoryFilterIterator
+  Methods:  25.00% ( 1/ 4)   Lines:  58.33% ( 14/ 24)
+\Symfony\Component\Finder\Iterator::FileTypeFilterIterator
+  Methods:  50.00% ( 1/ 2)   Lines:  77.78% (  7/  9)
+\Symfony\Component\Finder\Iterator::FilenameFilterIterator
+  Methods:  50.00% ( 1/ 2)   Lines:  75.00% (  9/ 12)
+\Symfony\Component\Finder\Iterator::FilterIterator
+  Methods:   0.00% ( 0/ 1)   Lines:  18.75% (  3/ 16)
+\Symfony\Component\Finder\Iterator::MultiplePcreFilterIterator
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  7/  7)
+\Symfony\Component\Finder\Iterator::PathFilterIterator
+  Methods:  50.00% ( 1/ 2)   Lines:  64.29% (  9/ 14)
+\Symfony\Component\Finder\Iterator::RecursiveDirectoryIterator
+  Methods:   0.00% ( 0/ 5)   Lines:  55.00% ( 22/ 40)
+\Symfony\Component\HttpFoundation::FileBag
+  Methods:  33.33% ( 2/ 6)   Lines:  16.28% (  7/ 43)
+\Symfony\Component\HttpFoundation::HeaderBag
+  Methods:   5.00% ( 1/20)   Lines:  12.33% (  9/ 73)
+\Symfony\Component\HttpFoundation::ParameterBag
+  Methods:   5.88% ( 1/17)   Lines:   3.85% (  2/ 52)
+\Symfony\Component\HttpFoundation::Request
+  Methods:   2.56% ( 2/78)   Lines:  12.48% ( 66/529)
+\Symfony\Component\HttpFoundation::ServerBag
+  Methods:   0.00% ( 0/ 1)   Lines:  46.88% ( 15/ 32)
+\TijsVerkoyen\CssToInlineStyles::CssToInlineStyles
+  Methods:   0.00% ( 0/15)   Lines:   1.56% (  3/192)

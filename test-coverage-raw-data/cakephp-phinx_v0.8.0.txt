@@ -1,0 +1,70 @@
+
+
+Code Coverage Report:        
+  2019-02-17 15:19:22        
+                             
+ Summary:                    
+  Classes: 15.62% (5/32)     
+  Methods: 56.89% (351/617)  
+  Lines:   54.82% (2339/4267)
+
+\Phinx\Config::Config
+  Methods: 100.00% (23/23)   Lines: 100.00% (108/108)
+\Phinx\Console::PhinxApplication
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 16/ 16)
+\Phinx\Console\Command::AbstractCommand
+  Methods:  46.67% ( 7/15)   Lines:  48.91% ( 45/ 92)
+\Phinx\Console\Command::Breakpoint
+  Methods:  50.00% ( 1/ 2)   Lines:  39.13% (  9/ 23)
+\Phinx\Console\Command::Create
+  Methods:  20.00% ( 1/ 5)   Lines:  71.55% ( 83/116)
+\Phinx\Console\Command::Init
+  Methods:  50.00% ( 1/ 2)   Lines:  74.19% ( 23/ 31)
+\Phinx\Console\Command::Migrate
+  Methods:  50.00% ( 1/ 2)   Lines:  89.47% ( 34/ 38)
+\Phinx\Console\Command::Rollback
+  Methods:  33.33% ( 1/ 3)   Lines:  94.00% ( 47/ 50)
+\Phinx\Console\Command::SeedCreate
+  Methods:  20.00% ( 1/ 5)   Lines:  56.90% ( 33/ 58)
+\Phinx\Console\Command::SeedRun
+  Methods:  50.00% ( 1/ 2)   Lines:  91.89% ( 34/ 37)
+\Phinx\Console\Command::Status
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 19/ 19)
+\Phinx\Console\Command::Test
+  Methods:  50.00% ( 1/ 2)   Lines:  25.00% (  7/ 28)
+\Phinx\Db::Table
+  Methods:  85.00% (34/40)   Lines:  92.81% (129/139)
+\Phinx\Db\Adapter::AdapterFactory
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 29/ 29)
+\Phinx\Db\Adapter::AdapterWrapper
+  Methods:  39.29% (22/56)   Lines:  41.67% ( 35/ 84)
+\Phinx\Db\Adapter::MysqlAdapter
+  Methods:  80.49% (33/41)   Lines:  92.87% (482/519)
+\Phinx\Db\Adapter::PdoAdapter
+  Methods:  54.05% (20/37)   Lines:  45.62% ( 73/160)
+\Phinx\Db\Adapter::PostgresAdapter
+  Methods:   3.85% ( 2/52)   Lines:   0.40% (  2/499)
+\Phinx\Db\Adapter::ProxyAdapter
+  Methods:  55.56% (15/27)   Lines:  63.08% ( 41/ 65)
+\Phinx\Db\Adapter::SQLiteAdapter
+  Methods:  65.12% (28/43)   Lines:  91.33% (474/519)
+\Phinx\Db\Adapter::TablePrefixAdapter
+  Methods:  83.33% (20/24)   Lines:  85.92% ( 61/ 71)
+\Phinx\Db\Table::Column
+  Methods:  63.41% (26/41)   Lines:  61.33% ( 46/ 75)
+\Phinx\Db\Table::ForeignKey
+  Methods:  85.71% (12/14)   Lines:  87.88% ( 29/ 33)
+\Phinx\Db\Table::Index
+  Methods:  88.89% ( 8/ 9)   Lines:  91.30% ( 21/ 23)
+\Phinx\Migration::AbstractMigration
+  Methods:  95.65% (22/23)   Lines:  97.44% ( 38/ 39)
+\Phinx\Migration::AbstractTemplateCreation
+  Methods:  60.00% ( 3/ 5)   Lines:  81.82% (  9/ 11)
+\Phinx\Migration::Manager
+  Methods:  85.19% (23/27)   Lines:  82.24% (213/259)
+\Phinx\Migration\Manager::Environment
+  Methods:  84.21% (16/19)   Lines:  86.08% ( 68/ 79)
+\Phinx\Seed::AbstractSeed
+  Methods:  41.18% ( 7/17)   Lines:  50.00% ( 14/ 28)
+\Phinx\Util::Util
+  Methods: 100.00% (11/11)   Lines: 100.00% ( 33/ 33)

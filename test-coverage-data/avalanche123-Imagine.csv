@@ -1,0 +1,11 @@
+repository,tag,coverage
+git@github.com:avalanche123/Imagine.git,v0.1.0,"no composer"
+git@github.com:avalanche123/Imagine.git,v0.2.0,"phpunit not installed"
+git@github.com:avalanche123/Imagine.git,v0.3.0,"phpunit not installed"
+git@github.com:avalanche123/Imagine.git,v0.4.0,"phpunit not installed"
+git@github.com:avalanche123/Imagine.git,v0.5.0,"phpunit not installed"
+git@github.com:avalanche123/Imagine.git,v0.6.0,"phpunit not installed"
+git@github.com:avalanche123/Imagine.git,v0.7.0,"phpunit not installed"
+git@github.com:avalanche123/Imagine.git,1.0.0,"phpunit not installed"
+git@github.com:avalanche123/Imagine.git,1.1.0,"phpunit not installed"
+git@github.com:avalanche123/Imagine.git,1.2.0,30.80

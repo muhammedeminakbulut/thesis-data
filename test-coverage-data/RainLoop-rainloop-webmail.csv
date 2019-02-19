@@ -1,0 +1,3 @@
+repository,tag,coverage
+git@github.com:RainLoop/rainloop-webmail.git,v1.11.1,"no composer"
+git@github.com:RainLoop/rainloop-webmail.git,v1.12.0,"no composer"

@@ -1,0 +1,12 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:paragonie/paseto.git,v0.1.0,1541,412,59,7.33%,7.5,0,51,21,38,0
+git@github.com:paragonie/paseto.git,v0.2.0,3781,1050,179,3.25%,5.64,0,51,21,121,0
+git@github.com:paragonie/paseto.git,v0.3.0,3681,1051,138,2.12%,4.9606299212598,0,51,21,104,0
+git@github.com:paragonie/paseto.git,v0.4.0,3727,1066,142,2.12%,5,0,51,21,105,0
+git@github.com:paragonie/paseto.git,v0.5.0,4476,1500,131,4.60%,3.7111111111111,0,51,21,119,0
+git@github.com:paragonie/paseto.git,v0.6.0,5411,1797,158,1.92%,3.7122641509434,0,51,21,152,0
+git@github.com:paragonie/paseto.git,v0.7.0,5702,1853,158,1.82%,3.8295964125561,0,51,21,155,0
+git@github.com:paragonie/paseto.git,v1.0.0,5788,1874,164,1.80%,3.88,0,51,21,159,0
+git@github.com:paragonie/paseto.git,v1.0.1,5788,1874,164,1.80%,3.88,0,51,21,159,0
+git@github.com:paragonie/paseto.git,v1.0.2,5844,1882,167,1.78%,3.929203539823,0,51,21,166,0
+git@github.com:paragonie/paseto.git,v1.0.3,5844,1882,167,1.78%,3.929203539823,0,51,21,166,0

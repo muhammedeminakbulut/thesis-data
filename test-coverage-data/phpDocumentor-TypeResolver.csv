@@ -1,0 +1,8 @@
+repository,tag,coverage
+git@github.com:phpDocumentor/TypeResolver.git,0.1.1,"phpunit failed"
+git@github.com:phpDocumentor/TypeResolver.git,0.2.1,65.57
+git@github.com:phpDocumentor/TypeResolver.git,0.3.0,65.80
+git@github.com:phpDocumentor/TypeResolver.git,0.4.0,71.13
+git@github.com:phpDocumentor/TypeResolver.git,0.5.0,69.23
+git@github.com:phpDocumentor/TypeResolver.git,0.6.0,68.95
+git@github.com:phpDocumentor/TypeResolver.git,0.7.0,69.85

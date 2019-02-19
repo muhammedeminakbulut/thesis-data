@@ -1,0 +1,9 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:YOURLS/YOURLS.git,1.0.1,1807,328,246,0.00%,4.96875,0,1004,61,164,0
+git@github.com:YOURLS/YOURLS.git,1.4.1,4551,644,684,0.00%,4.7058823529412,0,1004,61,288,0
+git@github.com:YOURLS/YOURLS.git,1.4.2,4560,645,693,0.00%,4.7058823529412,0,1004,61,288,0
+git@github.com:YOURLS/YOURLS.git,1.4.3,4588,655,694,0.00%,4.7058823529412,0,1004,61,288,0
+git@github.com:YOURLS/YOURLS.git,1.5.1,6950,1112,957,0.00%,4.7352941176471,0,1004,61,439,1
+git@github.com:YOURLS/YOURLS.git,1.7.1,21859,7488,2202,0.20%,6.2011834319527,0,1004,61,1038,0
+git@github.com:YOURLS/YOURLS.git,1.7.2,22106,7616,2219,0.20%,6.2258064516129,0,1004,61,1030,0
+git@github.com:YOURLS/YOURLS.git,1.7.3,32245,11452,2460,0.00%,4.8316498316498,0,1004,61,1362,0

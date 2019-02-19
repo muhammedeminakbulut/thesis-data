@@ -1,0 +1,15 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:swoft-cloud/swoft.git,v0.1.1,16992,7282,777,0.00%,3.7849462365591,0,370,26,455,0
+git@github.com:swoft-cloud/swoft.git,v0.1.2,26520,11306,1154,0.00%,3.6258637709773,0,370,26,631,1
+git@github.com:swoft-cloud/swoft.git,v0.2.1,3810,1286,20,0.00%,3.7123287671233,0,370,26,119,1
+git@github.com:swoft-cloud/swoft.git,v0.2.2,4049,1407,20,0.00%,3.7074829931973,0,370,26,129,1
+git@github.com:swoft-cloud/swoft.git,v0.2.6,4211,1405,20,0.00%,3.6524390243902,0,370,26,142,1
+git@github.com:swoft-cloud/swoft.git,v1.0.0,5012,1614,18,0.00%,3.3592233009709,0,370,26,170,1
+git@github.com:swoft-cloud/swoft.git,v1.0.1,6224,2353,21,4.21%,3.6081081081081,0,370,26,253,1
+git@github.com:swoft-cloud/swoft.git,v1.0.2,6275,2375,21,4.18%,3.5866666666667,0,370,26,254,1
+git@github.com:swoft-cloud/swoft.git,v1.0.3,6289,2378,21,4.17%,3.6088888888889,0,370,26,254,1
+git@github.com:swoft-cloud/swoft.git,v1.0.4,6346,2401,21,4.13%,3.5589519650655,0,370,26,257,1
+git@github.com:swoft-cloud/swoft.git,v1.0.5,6093,2359,21,4.30%,3.25,0,370,26,127,1
+git@github.com:swoft-cloud/swoft.git,v1.0.6,6191,2374,25,4.02%,3.2888888888889,0,370,26,132,1
+git@github.com:swoft-cloud/swoft.git,v1.0.7,6197,2374,25,4.02%,3.2888888888889,0,370,26,132,1
+git@github.com:swoft-cloud/swoft.git,v1.0.8,6198,2374,25,4.02%,3.2888888888889,0,370,26,132,1

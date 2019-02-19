@@ -1,0 +1,72 @@
+repository,tag,coverage
+git@github.com:spatie/laravel-medialibrary.git,0.1.0,"no phpunit config"
+git@github.com:spatie/laravel-medialibrary.git,1.0.0,"no phpunit config"
+git@github.com:spatie/laravel-medialibrary.git,1.1.0,"no phpunit config"
+git@github.com:spatie/laravel-medialibrary.git,1.5.0,"no phpunit config"
+git@github.com:spatie/laravel-medialibrary.git,1.6.0,"no phpunit config"
+git@github.com:spatie/laravel-medialibrary.git,2.0.0,"no phpunit config"
+git@github.com:spatie/laravel-medialibrary.git,2.1.0,"phpunit failed"
+git@github.com:spatie/laravel-medialibrary.git,2.2.0,"phpunit failed"
+git@github.com:spatie/laravel-medialibrary.git,2.3.0,"phpunit failed"
+git@github.com:spatie/laravel-medialibrary.git,3.0.0,"phpunit failed"
+git@github.com:spatie/laravel-medialibrary.git,3.1.0,"phpunit failed"
+git@github.com:spatie/laravel-medialibrary.git,3.2.0,"phpunit failed"
+git@github.com:spatie/laravel-medialibrary.git,3.3.0,"phpunit failed"
+git@github.com:spatie/laravel-medialibrary.git,3.4.0,"phpunit failed"
+git@github.com:spatie/laravel-medialibrary.git,3.5.0,"phpunit failed"
+git@github.com:spatie/laravel-medialibrary.git,3.6.0,"phpunit failed"
+git@github.com:spatie/laravel-medialibrary.git,3.7.0,"phpunit failed"
+git@github.com:spatie/laravel-medialibrary.git,3.8.0,"phpunit failed"
+git@github.com:spatie/laravel-medialibrary.git,3.9.0,"phpunit failed"
+git@github.com:spatie/laravel-medialibrary.git,3.10.0,"phpunit failed"
+git@github.com:spatie/laravel-medialibrary.git,3.11.0,"phpunit failed"
+git@github.com:spatie/laravel-medialibrary.git,3.12.0,"phpunit failed"
+git@github.com:spatie/laravel-medialibrary.git,3.13.3,"phpunit failed"
+git@github.com:spatie/laravel-medialibrary.git,3.14.0,"phpunit failed"
+git@github.com:spatie/laravel-medialibrary.git,3.15.0,"phpunit failed"
+git@github.com:spatie/laravel-medialibrary.git,3.16.0,"phpunit failed"
+git@github.com:spatie/laravel-medialibrary.git,3.17.0,"phpunit failed"
+git@github.com:spatie/laravel-medialibrary.git,3.18.0,"phpunit failed"
+git@github.com:spatie/laravel-medialibrary.git,4.0.0,"phpunit failed"
+git@github.com:spatie/laravel-medialibrary.git,4.2.1,"phpunit failed"
+git@github.com:spatie/laravel-medialibrary.git,4.3.0,"phpunit failed"
+git@github.com:spatie/laravel-medialibrary.git,4.4.0,"phpunit failed"
+git@github.com:spatie/laravel-medialibrary.git,4.5.0,"phpunit failed"
+git@github.com:spatie/laravel-medialibrary.git,4.6.0,"phpunit failed"
+git@github.com:spatie/laravel-medialibrary.git,4.7.0,"phpunit failed"
+git@github.com:spatie/laravel-medialibrary.git,4.8.0,"phpunit failed"
+git@github.com:spatie/laravel-medialibrary.git,4.9.0,"phpunit failed"
+git@github.com:spatie/laravel-medialibrary.git,4.10.0,"phpunit failed"
+git@github.com:spatie/laravel-medialibrary.git,4.11.0,"phpunit failed"
+git@github.com:spatie/laravel-medialibrary.git,4.12.0,"phpunit failed"
+git@github.com:spatie/laravel-medialibrary.git,4.13.0,"phpunit failed"
+git@github.com:spatie/laravel-medialibrary.git,5.0.0,79.52
+git@github.com:spatie/laravel-medialibrary.git,5.1.0,80.67
+git@github.com:spatie/laravel-medialibrary.git,5.2.0,80.91
+git@github.com:spatie/laravel-medialibrary.git,5.3.0,81.12
+git@github.com:spatie/laravel-medialibrary.git,5.4.0,81.06
+git@github.com:spatie/laravel-medialibrary.git,5.5.0,81.22
+git@github.com:spatie/laravel-medialibrary.git,5.6.0,81.37
+git@github.com:spatie/laravel-medialibrary.git,5.7.0,81.52
+git@github.com:spatie/laravel-medialibrary.git,5.8.0,81.58
+git@github.com:spatie/laravel-medialibrary.git,5.9.0,81.40
+git@github.com:spatie/laravel-medialibrary.git,5.10.0,81.52
+git@github.com:spatie/laravel-medialibrary.git,5.11.0,81.62
+git@github.com:spatie/laravel-medialibrary.git,5.12.0,82.46
+git@github.com:spatie/laravel-medialibrary.git,5.13.0,82.52
+git@github.com:spatie/laravel-medialibrary.git,5.14.0,82.11
+git@github.com:spatie/laravel-medialibrary.git,6.0.0,82.18
+git@github.com:spatie/laravel-medialibrary.git,6.1.0,81.40
+git@github.com:spatie/laravel-medialibrary.git,6.2.0,81.29
+git@github.com:spatie/laravel-medialibrary.git,6.3.0,81.47
+git@github.com:spatie/laravel-medialibrary.git,6.4.0,81.53
+git@github.com:spatie/laravel-medialibrary.git,6.5.0,81.81
+git@github.com:spatie/laravel-medialibrary.git,6.6.0,81.42
+git@github.com:spatie/laravel-medialibrary.git,6.7.0,81.09
+git@github.com:spatie/laravel-medialibrary.git,6.8.0,81.13
+git@github.com:spatie/laravel-medialibrary.git,6.9.0,81.18
+git@github.com:spatie/laravel-medialibrary.git,7.0.0,"phpunit failed"
+git@github.com:spatie/laravel-medialibrary.git,7.1.0,"phpunit failed"
+git@github.com:spatie/laravel-medialibrary.git,7.3.0,85.56
+git@github.com:spatie/laravel-medialibrary.git,7.4.0,86.55
+git@github.com:spatie/laravel-medialibrary.git,7.5.0,86.39

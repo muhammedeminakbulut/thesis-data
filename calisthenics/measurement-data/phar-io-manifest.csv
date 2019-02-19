@@ -1,0 +1,5 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:phar-io/manifest.git,1.0.0,3963,1316,45,0.00%,1.8888888888889,0,3,4,42,0
+git@github.com:phar-io/manifest.git,1.0.1,3963,1316,45,0.00%,1.8888888888889,0,3,4,42,0
+git@github.com:phar-io/manifest.git,1.0.2,3972,1324,45,0.00%,1.8888888888889,0,3,4,42,0
+git@github.com:phar-io/manifest.git,1.0.3,3972,1324,45,0.00%,1.8888888888889,0,3,4,42,0

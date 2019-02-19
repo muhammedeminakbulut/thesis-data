@@ -1,0 +1,78 @@
+repository,tag,coverage
+git@github.com:barryvdh/laravel-debugbar.git,v3.1.0,"composer failed, Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Your requirements could not be resolved to an installable set of packages.
+
+  Problem 1
+    - The requested package illuminate/framework could not be found in any version, there may be a typo in the package name.
+
+Potential causes:
+ - A typo in the package name
+ - The package is not available in a stable-enough version according to your minimum-stability setting
+   see <https://getcomposer.org/doc/04-schema.md#minimum-stability> for more details.
+ - It's a private package and you forgot to add a custom repository to find it
+
+Read <https://getcomposer.org/doc/articles/troubleshooting.md> for further common problems."
+git@github.com:barryvdh/laravel-debugbar.git,v2.3.1,"no phpunit config"
+git@github.com:barryvdh/laravel-debugbar.git,v3.0.1,"composer failed, Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Your requirements could not be resolved to an installable set of packages.
+
+  Problem 1
+    - The requested package illuminate/framework could not be found in any version, there may be a typo in the package name.
+
+Potential causes:
+ - A typo in the package name
+ - The package is not available in a stable-enough version according to your minimum-stability setting
+   see <https://getcomposer.org/doc/04-schema.md#minimum-stability> for more details.
+ - It's a private package and you forgot to add a custom repository to find it
+
+Read <https://getcomposer.org/doc/articles/troubleshooting.md> for further common problems."
+git@github.com:barryvdh/laravel-debugbar.git,v3.2.1,"no phpunit config"
+git@github.com:barryvdh/laravel-debugbar.git,v2.4.1,"no phpunit config"
+git@github.com:barryvdh/laravel-debugbar.git,v1.5.0,"phpunit not installed"
+git@github.com:barryvdh/laravel-debugbar.git,v1.6.0,"phpunit not installed"
+git@github.com:barryvdh/laravel-debugbar.git,v1.7.0,"composer failed, Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Package operations: 29 installs, 3 updates, 1 removal
+  - Removing illuminate/support (4.2.x-dev)
+  - Installing symfony/translation (v2.7.50): Loading from cache
+  - Installing paragonie/random_compat (v1.4.3): Loading from cache
+  - Installing symfony/security-core (v2.7.50): Loading from cache
+  - Installing symfony/routing (v2.7.50): Loading from cache
+  - Installing symfony/process (v2.7.50): Loading from cache
+  - Installing symfony/polyfill-mbstring (v1.10.0): Loading from cache
+  - Installing ircmaxell/password-compat (v1.0.4): Loading from cache
+  - Installing symfony/http-foundation (v2.7.50): Loading from cache
+  - Installing symfony/event-dispatcher (v2.8.49): Loading from cache
+  - Downgrading psr/log (dev-master c4421fc => 1.1.0):  Checking out 6c001f1daa
+  - Installing symfony/debug (v2.7.50): Loading from cache
+  - Installing symfony/polyfill-ctype (v1.10.0): Loading from cache
+  - Installing symfony/http-kernel (v2.7.50): Loading from cache
+  - Removing symfony/finder (2.5.x-dev)
+  - Installing symfony/finder (v2.7.50): Loading from cache
+  - Installing symfony/dom-crawler (v2.7.50): Loading from cache
+  - Installing symfony/css-selector (v2.7.50): Loading from cache
+  - Installing symfony/console (v2.7.50): Loading from cache
+  - Installing symfony/browser-kit (v2.7.50): Loading from cache
+  - Installing swiftmailer/swiftmailer (v5.4.12): Loading from cache
+  - Installing stack/builder (v1.0.5): Loading from cache
+  - Installing predis/predis (v0.8.7): Loading from cache
+  - Installing phpseclib/phpseclib (0.3.10): Loading from cache
+  - Installing patchwork/utf8 (v1.3.1): Loading from cache
+  - Installing nesbot/carbon (1.36.2): Loading from cache
+  - Installing monolog/monolog (1.24.0): Loading from cache
+  - Installing nikic/php-parser (v0.9.5): Loading from cache
+  - Installing jeremeamia/superclosure (1.0.2): Loading from cache
+  - Installing filp/whoops (1.1.10): Loading from cache
+  - Installing d11wtq/boris (v1.0.10): Loading from cache
+  - Installing symfony/filesystem (v2.8.49): Loading from cache
+  - Installing classpreloader/classpreloader (1.0.2): Loading from cache
+  - Downgrading laravel/framework (4.2.x-dev 3c4bab6 => v4.2.22): 
+                                                                                                                                               
+  [RuntimeException]                                                                                                                           
+  Source directory /home/muhammed/projects/thesis/data/git/8627864039a5aef0c034945d39fd0d53/vendor/laravel/framework has uncommitted changes.  
+                                                                                                                                               
+
+install [--prefer-source] [--prefer-dist] [--dry-run] [--dev] [--no-dev] [--no-custom-installers] [--no-autoloader] [--no-scripts] [--no-progress] [--no-suggest] [-v|vv|vvv|--verbose] [-o|--optimize-autoloader] [-a|--classmap-authoritative] [--apcu-autoloader] [--ignore-platform-reqs] [--] [<packages>]..."
+git@github.com:barryvdh/laravel-debugbar.git,v1.8.0,"no phpunit config"

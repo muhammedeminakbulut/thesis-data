@@ -1,0 +1,13 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:pheanstalk/pheanstalk.git,v0.9.0,3504,1016,67,0.00%,2.7788944723618,0,239,39,113,0
+git@github.com:pheanstalk/pheanstalk.git,v1.0.0,3185,953,66,0.00%,2.5139664804469,0,239,39,108,0
+git@github.com:pheanstalk/pheanstalk.git,v1.1.0,3663,1054,75,0.00%,2.6261682242991,0,239,39,121,0
+git@github.com:pheanstalk/pheanstalk.git,v2.0.0,4145,1269,91,0.00%,2.7797356828194,0,239,39,171,0
+git@github.com:pheanstalk/pheanstalk.git,v2.1.0,4234,1301,93,0.00%,2.7629310344828,0,239,39,174,0
+git@github.com:pheanstalk/pheanstalk.git,v2.1.1,4234,1301,93,0.00%,2.7629310344828,0,239,39,174,0
+git@github.com:pheanstalk/pheanstalk.git,v3.0.0,4295,1270,86,0.00%,2.7510917030568,0,239,39,171,0
+git@github.com:pheanstalk/pheanstalk.git,v3.0.1,4295,1270,86,0.00%,2.7510917030568,0,239,39,171,0
+git@github.com:pheanstalk/pheanstalk.git,v3.0.2,4295,1270,86,0.00%,2.7510917030568,0,239,39,171,0
+git@github.com:pheanstalk/pheanstalk.git,v3.1.0,4413,1303,87,0.00%,2.7637130801688,0,239,39,175,0
+git@github.com:pheanstalk/pheanstalk.git,v3.2.0,4550,1396,89,0.00%,2.7805907172996,0,239,39,182,0
+git@github.com:pheanstalk/pheanstalk.git,v3.2.1,4550,1396,90,0.00%,2.7805907172996,0,239,39,182,0

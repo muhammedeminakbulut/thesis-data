@@ -1,0 +1,5 @@
+repository,tag,coverage
+git@github.com:PHPMailer/PHPMailer.git,v6.0.3,"no phpunit config"
+git@github.com:PHPMailer/PHPMailer.git,v5.2.1,"no composer"
+git@github.com:PHPMailer/PHPMailer.git,v2.3.0,"no composer"
+git@github.com:PHPMailer/PHPMailer.git,v5.1.0,"no composer"

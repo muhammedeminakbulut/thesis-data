@@ -1,0 +1,4 @@
+repository,tag,coverage
+git@github.com:kanboard/kanboard.git,v1.0.0,"no composer"
+git@github.com:kanboard/kanboard.git,v1.1.0,"no phpunit config"
+git@github.com:kanboard/kanboard.git,v1.2.0,"no phpunit config"

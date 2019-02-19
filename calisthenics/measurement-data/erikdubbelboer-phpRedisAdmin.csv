@@ -1,0 +1,17 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:erikdubbelboer/phpRedisAdmin.git,v1.1.0,1677,122,248,0.00%,0,0,537,38,102,1
+git@github.com:erikdubbelboer/phpRedisAdmin.git,v1.2.0,1827,133,293,0.00%,0,0,537,38,125,1
+git@github.com:erikdubbelboer/phpRedisAdmin.git,v1.2.1,1829,133,293,0.00%,0,0,537,38,125,1
+git@github.com:erikdubbelboer/phpRedisAdmin.git,v1.3.0,1884,141,304,0.00%,0,0,537,38,131,1
+git@github.com:erikdubbelboer/phpRedisAdmin.git,v1.4.0,1889,141,304,0.00%,0,0,537,38,131,1
+git@github.com:erikdubbelboer/phpRedisAdmin.git,v1.4.1,1940,142,310,0.00%,0,0,537,38,132,1
+git@github.com:erikdubbelboer/phpRedisAdmin.git,1.4.2,1940,142,310,0.00%,0,0,537,38,132,1
+git@github.com:erikdubbelboer/phpRedisAdmin.git,v1.5.0,1951,144,316,0.00%,0,0,537,38,134,1
+git@github.com:erikdubbelboer/phpRedisAdmin.git,v1.6.0,1951,144,316,0.00%,0,0,537,38,134,1
+git@github.com:erikdubbelboer/phpRedisAdmin.git,v1.7.0,1960,144,317,0.00%,0,0,537,38,135,1
+git@github.com:erikdubbelboer/phpRedisAdmin.git,v1.8.0,2096,162,333,0.00%,0,0,537,38,140,1
+git@github.com:erikdubbelboer/phpRedisAdmin.git,v1.9.0,2131,166,344,0.00%,0,0,537,38,142,1
+git@github.com:erikdubbelboer/phpRedisAdmin.git,v1.10.0,2132,166,344,0.00%,0,0,537,38,142,1
+git@github.com:erikdubbelboer/phpRedisAdmin.git,v1.10.1,2132,166,344,0.00%,0,0,537,38,142,1
+git@github.com:erikdubbelboer/phpRedisAdmin.git,v1.10.2,2132,166,344,0.00%,0,0,537,38,142,1
+git@github.com:erikdubbelboer/phpRedisAdmin.git,v1.11.0,2144,166,354,0.00%,0,0,537,38,141,1

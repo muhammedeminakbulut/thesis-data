@@ -1,0 +1,5 @@
+repository,tag,coverage
+git@github.com:ivanakimov/hashids.php.git,0.3.1,"no phpunit config"
+git@github.com:ivanakimov/hashids.php.git,1.0.0,"no phpunit config"
+git@github.com:ivanakimov/hashids.php.git,2.0.0,97.73
+git@github.com:ivanakimov/hashids.php.git,3.0.0,"phpunit failed"

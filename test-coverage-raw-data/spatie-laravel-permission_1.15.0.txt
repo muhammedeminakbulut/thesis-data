@@ -1,0 +1,24 @@
+
+
+Code Coverage Report:      
+  2019-02-16 14:25:26      
+                           
+ Summary:                  
+  Classes: 14.29% (1/7)    
+  Methods: 75.00% (42/56)  
+  Lines:   89.83% (159/177)
+
+\Spatie\Permission::Spatie\Permission\PermissionRegistrar
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 11/ 11)
+\Spatie\Permission::Spatie\Permission\PermissionServiceProvider
+  Methods:  27.27% ( 3/11)   Lines:  77.78% ( 28/ 36)
+\Spatie\Permission\Models::Spatie\Permission\Models\Permission
+  Methods:  75.00% ( 3/ 4)   Lines:  76.92% ( 10/ 13)
+\Spatie\Permission\Models::Spatie\Permission\Models\Role
+  Methods:  80.00% ( 4/ 5)   Lines:  81.25% ( 13/ 16)
+\Spatie\Permission\Traits::HasPermissions
+  Methods:  80.00% ( 4/ 5)   Lines:  92.86% ( 13/ 14)
+\Spatie\Permission\Traits::HasRoles
+  Methods:  91.30% (21/23)   Lines:  96.97% ( 64/ 66)
+\Spatie\Permission\Traits::RefreshesPermissionCache
+  Methods:  75.00% ( 3/ 4)   Lines:  85.71% (  6/  7)

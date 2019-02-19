@@ -1,0 +1,216 @@
+
+
+Code Coverage Report:        
+  2019-02-16 13:44:05        
+                             
+ Summary:                    
+  Classes: 73.79% (76/103)   
+  Methods: 85.93% (446/519)  
+  Lines:   92.38% (3150/3410)
+
+\Phpml::Phpml\ModelManager
+  Methods:   0.00% ( 0/ 2)   Lines:  73.33% ( 11/ 15)
+\Phpml::Phpml\Pipeline
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% ( 20/ 20)
+\Phpml\Association::Phpml\Association\Apriori
+  Methods: 100.00% (17/17)   Lines: 100.00% ( 73/ 73)
+\Phpml\Classification::Phpml\Classification\DecisionTree
+  Methods:  37.50% ( 6/16)   Lines:  77.47% (141/182)
+\Phpml\Classification::Phpml\Classification\KNearestNeighbors
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 19/ 19)
+\Phpml\Classification::Phpml\Classification\MLPClassifier
+  Methods:  66.67% ( 2/ 3)   Lines:  86.67% ( 13/ 15)
+\Phpml\Classification::Phpml\Classification\NaiveBayes
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 54/ 54)
+\Phpml\Classification::Phpml\Classification\SVC
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Phpml\Classification::Phpml\Classification\WeightedClassifier
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Phpml\Classification\DecisionTree::Phpml\Classification\DecisionTree\DecisionTreeLeaf
+  Methods:  50.00% ( 2/ 4)   Lines:  86.84% ( 33/ 38)
+\Phpml\Classification\Ensemble::Phpml\Classification\Ensemble\AdaBoost
+  Methods:  55.56% ( 5/ 9)   Lines:  72.00% ( 54/ 75)
+\Phpml\Classification\Ensemble::Phpml\Classification\Ensemble\Bagging
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% ( 43/ 43)
+\Phpml\Classification\Ensemble::Phpml\Classification\Ensemble\RandomForest
+  Methods:  50.00% ( 3/ 6)   Lines:  56.41% ( 22/ 39)
+\Phpml\Classification\Linear::Phpml\Classification\Linear\Adaline
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 14/ 14)
+\Phpml\Classification\Linear::Phpml\Classification\Linear\DecisionStump
+  Methods:  60.00% ( 6/10)   Lines:  77.32% ( 75/ 97)
+\Phpml\Classification\Linear::Phpml\Classification\Linear\LogisticRegression
+  Methods:  55.56% ( 5/ 9)   Lines:  89.04% ( 65/ 73)
+\Phpml\Classification\Linear::Phpml\Classification\Linear\Perceptron
+  Methods: 100.00% (13/13)   Lines: 100.00% ( 68/ 68)
+\Phpml\Clustering::Phpml\Clustering\DBSCAN
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 42/ 42)
+\Phpml\Clustering::Phpml\Clustering\FuzzyCMeans
+  Methods: 100.00% (10/10)   Lines: 100.00% ( 90/ 90)
+\Phpml\Clustering::Phpml\Clustering\KMeans
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 12/ 12)
+\Phpml\Clustering\KMeans::Phpml\Clustering\KMeans\Cluster
+  Methods:  90.91% (10/11)   Lines:  97.22% ( 35/ 36)
+\Phpml\Clustering\KMeans::Phpml\Clustering\KMeans\Point
+  Methods:  70.00% ( 7/10)   Lines:  86.21% ( 25/ 29)
+\Phpml\Clustering\KMeans::Phpml\Clustering\KMeans\Space
+  Methods:  46.15% ( 6/13)   Lines:  88.76% ( 79/ 89)
+\Phpml\CrossValidation::Phpml\CrossValidation\RandomSplit
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 10/ 10)
+\Phpml\CrossValidation::Phpml\CrossValidation\Split
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 13/ 13)
+\Phpml\CrossValidation::Phpml\CrossValidation\StratifiedRandomSplit
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 15/ 15)
+\Phpml\Dataset::Phpml\Dataset\ArrayDataset
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 14/ 14)
+\Phpml\Dataset::Phpml\Dataset\CsvDataset
+  Methods:   0.00% ( 0/ 2)   Lines:  88.24% ( 15/ 17)
+\Phpml\Dataset::Phpml\Dataset\FilesDataset
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 12/ 12)
+\Phpml\Dataset::Phpml\Dataset\MnistDataset
+  Methods:  33.33% ( 1/ 3)   Lines:  83.33% ( 30/ 36)
+\Phpml\Dataset::Phpml\Dataset\SvmDataset
+  Methods:  88.89% ( 8/ 9)   Lines:  98.11% ( 52/ 53)
+\Phpml\Dataset\Demo::Phpml\Dataset\Demo\GlassDataset
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\Phpml\Dataset\Demo::Phpml\Dataset\Demo\IrisDataset
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\Phpml\Dataset\Demo::Phpml\Dataset\Demo\WineDataset
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\Phpml\DimensionReduction::Phpml\DimensionReduction\EigenTransformerBase
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 23/ 23)
+\Phpml\DimensionReduction::Phpml\DimensionReduction\KernelPCA
+  Methods:  75.00% ( 6/ 8)   Lines:  82.09% ( 55/ 67)
+\Phpml\DimensionReduction::Phpml\DimensionReduction\LDA
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% ( 67/ 67)
+\Phpml\DimensionReduction::Phpml\DimensionReduction\PCA
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 34/ 34)
+\Phpml\FeatureExtraction::Phpml\FeatureExtraction\StopWords
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  7/  7)
+\Phpml\FeatureExtraction::Phpml\FeatureExtraction\TfIdfTransformer
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 18/ 18)
+\Phpml\FeatureExtraction::Phpml\FeatureExtraction\TokenCountVectorizer
+  Methods: 100.00% (13/13)   Lines: 100.00% ( 57/ 57)
+\Phpml\FeatureExtraction\StopWords::Phpml\FeatureExtraction\StopWords\English
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Phpml\FeatureExtraction\StopWords::Phpml\FeatureExtraction\StopWords\French
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Phpml\FeatureExtraction\StopWords::Phpml\FeatureExtraction\StopWords\Polish
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Phpml\FeatureSelection::Phpml\FeatureSelection\SelectKBest
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 21/ 21)
+\Phpml\FeatureSelection::Phpml\FeatureSelection\VarianceThreshold
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 13/ 13)
+\Phpml\FeatureSelection\ScoringFunction::Phpml\FeatureSelection\ScoringFunction\ANOVAFValue
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  4/  4)
+\Phpml\FeatureSelection\ScoringFunction::Phpml\FeatureSelection\ScoringFunction\UnivariateLinearRegression
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 25/ 25)
+\Phpml\Helper::OneVsRest
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 38/ 38)
+\Phpml\Helper::Predictable
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  6/  6)
+\Phpml\Helper::Trainable
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\Phpml\Helper\Optimizer::Phpml\Helper\Optimizer\ConjugateGradient
+  Methods:  85.71% ( 6/ 7)   Lines:  98.46% ( 64/ 65)
+\Phpml\Helper\Optimizer::Phpml\Helper\Optimizer\GD
+  Methods:  75.00% ( 3/ 4)   Lines:  97.62% ( 41/ 42)
+\Phpml\Helper\Optimizer::Phpml\Helper\Optimizer\MP
+  Methods:  50.00% ( 4/ 8)   Lines:  61.54% ( 16/ 26)
+\Phpml\Helper\Optimizer::Phpml\Helper\Optimizer\Optimizer
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  9/  9)
+\Phpml\Helper\Optimizer::Phpml\Helper\Optimizer\StochasticGD
+  Methods:  81.82% ( 9/11)   Lines:  96.83% ( 61/ 63)
+\Phpml\Math::Phpml\Math\Comparison
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 20/ 20)
+\Phpml\Math::Phpml\Math\Matrix
+  Methods:  91.30% (21/23)   Lines:  97.98% ( 97/ 99)
+\Phpml\Math::Phpml\Math\Product
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  5/  5)
+\Phpml\Math::Phpml\Math\Set
+  Methods:  94.12% (16/17)   Lines:  96.55% ( 28/ 29)
+\Phpml\Math\Distance::Phpml\Math\Distance\Chebyshev
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  7/  7)
+\Phpml\Math\Distance::Phpml\Math\Distance\Euclidean
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  7/  7)
+\Phpml\Math\Distance::Phpml\Math\Distance\Manhattan
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  4/  4)
+\Phpml\Math\Distance::Phpml\Math\Distance\Minkowski
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  9/  9)
+\Phpml\Math\Kernel::Phpml\Math\Kernel\RBF
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  5/  5)
+\Phpml\Math\LinearAlgebra::Phpml\Math\LinearAlgebra\EigenvalueDecomposition
+  Methods:  70.00% ( 7/10)   Lines:  86.04% (419/487)
+\Phpml\Math\LinearAlgebra::Phpml\Math\LinearAlgebra\LUDecomposition
+  Methods:  77.78% ( 7/ 9)   Lines:  97.67% ( 84/ 86)
+\Phpml\Math\Statistic::Phpml\Math\Statistic\ANOVA
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 55/ 55)
+\Phpml\Math\Statistic::Phpml\Math\Statistic\Correlation
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 15/ 15)
+\Phpml\Math\Statistic::Phpml\Math\Statistic\Covariance
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 62/ 62)
+\Phpml\Math\Statistic::Phpml\Math\Statistic\Gaussian
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  8/  8)
+\Phpml\Math\Statistic::Phpml\Math\Statistic\Mean
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 16/ 16)
+\Phpml\Math\Statistic::Phpml\Math\Statistic\StandardDeviation
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 19/ 19)
+\Phpml\Math\Statistic::Phpml\Math\Statistic\Variance
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Phpml\Metric::Phpml\Metric\Accuracy
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  9/  9)
+\Phpml\Metric::Phpml\Metric\ClassificationReport
+  Methods:  87.50% (14/16)   Lines:  96.25% ( 77/ 80)
+\Phpml\Metric::Phpml\Metric\ConfusionMatrix
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 20/ 20)
+\Phpml\NeuralNetwork::Phpml\NeuralNetwork\Layer
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 11/ 11)
+\Phpml\NeuralNetwork\ActivationFunction::Phpml\NeuralNetwork\ActivationFunction\BinaryStep
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\Phpml\NeuralNetwork\ActivationFunction::Phpml\NeuralNetwork\ActivationFunction\Gaussian
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Phpml\NeuralNetwork\ActivationFunction::Phpml\NeuralNetwork\ActivationFunction\HyperbolicTangent
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  4/  4)
+\Phpml\NeuralNetwork\ActivationFunction::Phpml\NeuralNetwork\ActivationFunction\PReLU
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  4/  4)
+\Phpml\NeuralNetwork\ActivationFunction::Phpml\NeuralNetwork\ActivationFunction\Sigmoid
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  4/  4)
+\Phpml\NeuralNetwork\ActivationFunction::Phpml\NeuralNetwork\ActivationFunction\ThresholdedReLU
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  4/  4)
+\Phpml\NeuralNetwork\Network::Phpml\NeuralNetwork\Network\LayeredNetwork
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 19/ 19)
+\Phpml\NeuralNetwork\Network::Phpml\NeuralNetwork\Network\MultilayerPerceptron
+  Methods: 100.00% (14/14)   Lines: 100.00% ( 71/ 71)
+\Phpml\NeuralNetwork\Node::Phpml\NeuralNetwork\Node\Bias
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Phpml\NeuralNetwork\Node::Phpml\NeuralNetwork\Node\Input
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\Phpml\NeuralNetwork\Node::Phpml\NeuralNetwork\Node\Neuron
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 15/ 15)
+\Phpml\NeuralNetwork\Node\Neuron::Phpml\NeuralNetwork\Node\Neuron\Synapse
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% (  9/  9)
+\Phpml\NeuralNetwork\Training::Phpml\NeuralNetwork\Training\Backpropagation
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 30/ 30)
+\Phpml\NeuralNetwork\Training\Backpropagation::Phpml\NeuralNetwork\Training\Backpropagation\Sigma
+  Methods:  75.00% ( 3/ 4)   Lines:  90.00% (  9/ 10)
+\Phpml\Preprocessing::Phpml\Preprocessing\Imputer
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 23/ 23)
+\Phpml\Preprocessing::Phpml\Preprocessing\Normalizer
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 45/ 45)
+\Phpml\Preprocessing\Imputer\Strategy::Phpml\Preprocessing\Imputer\Strategy\MeanStrategy
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Phpml\Preprocessing\Imputer\Strategy::Phpml\Preprocessing\Imputer\Strategy\MedianStrategy
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Phpml\Preprocessing\Imputer\Strategy::Phpml\Preprocessing\Imputer\Strategy\MostFrequentStrategy
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Phpml\Regression::Phpml\Regression\LeastSquares
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 25/ 25)
+\Phpml\Regression::Phpml\Regression\SVR
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Phpml\SupportVectorMachine::Phpml\SupportVectorMachine\DataTransformer
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 48/ 48)
+\Phpml\SupportVectorMachine::Phpml\SupportVectorMachine\SupportVectorMachine
+  Methods:  61.54% ( 8/13)   Lines:  90.08% (109/121)
+\Phpml\Tokenization::Phpml\Tokenization\WhitespaceTokenizer
+  Methods:   0.00% ( 0/ 1)   Lines:  75.00% (  3/  4)
+\Phpml\Tokenization::Phpml\Tokenization\WordTokenizer
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)

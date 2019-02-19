@@ -1,0 +1,4 @@
+repository,tag,coverage
+git@github.com:top-think/think.git,5.0.0,"no phpunit config"
+git@github.com:top-think/think.git,v5.0.1,"no phpunit config"
+git@github.com:top-think/think.git,v5.1.0,"no phpunit config"

@@ -1,0 +1,4 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:panique/huge.git,v2.0.1,3447,1040,224,0.00%,6.74,0,825,49,115,1
+git@github.com:panique/huge.git,v2.1.1,3450,1042,224,0.00%,6.75,0,825,49,115,1
+git@github.com:panique/huge.git,v3.0.0,3408,1052,183,0.00%,4.5798319327731,0,825,49,81,2

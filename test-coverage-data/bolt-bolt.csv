@@ -1,0 +1,11 @@
+repository,tag,coverage
+git@github.com:bolt/bolt.git,v0.8.4,"no phpunit config"
+git@github.com:bolt/bolt.git,v0.9.5,"no phpunit config"
+git@github.com:bolt/bolt.git,v3.0.0,"phpunit failed"
+git@github.com:bolt/bolt.git,v3.1.2,"phpunit failed"
+git@github.com:bolt/bolt.git,v3.2.1,"phpunit failed"
+git@github.com:bolt/bolt.git,v3.3.0,"phpunit failed"
+git@github.com:bolt/bolt.git,v3.4.0,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:bolt/bolt.git,v3.5.1,"phpunit failed"
+git@github.com:bolt/bolt.git,v3.6.0,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:bolt/bolt.git,3.5.7,"phpunit failed"

@@ -1,0 +1,482 @@
+
+
+Code Coverage Report:        
+  2019-02-16 21:18:34        
+                             
+ Summary:                    
+  Classes: 87.29% (206/236)  
+  Methods: 96.64% (1409/1458)
+  Lines:   94.75% (9448/9971)
+
+\PhpOffice\PhpWord::PhpOffice\PhpWord\IOFactory
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 13/ 13)
+\PhpOffice\PhpWord::PhpOffice\PhpWord\Media
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 69/ 69)
+\PhpOffice\PhpWord::PhpOffice\PhpWord\PhpWord
+  Methods: 100.00% (15/15)   Lines: 100.00% ( 64/ 64)
+\PhpOffice\PhpWord::PhpOffice\PhpWord\Settings
+  Methods: 100.00% (20/20)   Lines: 100.00% ( 69/ 69)
+\PhpOffice\PhpWord::PhpOffice\PhpWord\Style
+  Methods: 100.00% (12/12)   Lines: 100.00% ( 28/ 28)
+\PhpOffice\PhpWord::PhpOffice\PhpWord\TemplateProcessor
+  Methods:  65.22% (15/23)   Lines:  92.59% (150/162)
+\PhpOffice\PhpWord\Collection::PhpOffice\PhpWord\Collection\AbstractCollection
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 11/ 11)
+\PhpOffice\PhpWord\ComplexType::PhpOffice\PhpWord\ComplexType\FootnoteProperties
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% ( 24/ 24)
+\PhpOffice\PhpWord\ComplexType::PhpOffice\PhpWord\ComplexType\ProofState
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 10/ 10)
+\PhpOffice\PhpWord\ComplexType::PhpOffice\PhpWord\ComplexType\TblWidth
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  6/  6)
+\PhpOffice\PhpWord\ComplexType::PhpOffice\PhpWord\ComplexType\TrackChangesView
+  Methods: 100.00% (10/10)   Lines: 100.00% ( 15/ 15)
+\PhpOffice\PhpWord\Element::PhpOffice\PhpWord\Element\AbstractContainer
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 69/ 69)
+\PhpOffice\PhpWord\Element::PhpOffice\PhpWord\Element\AbstractElement
+  Methods: 100.00% (28/28)   Lines: 100.00% ( 86/ 86)
+\PhpOffice\PhpWord\Element::PhpOffice\PhpWord\Element\Bookmark
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\PhpOffice\PhpWord\Element::PhpOffice\PhpWord\Element\Cell
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpOffice\PhpWord\Element::PhpOffice\PhpWord\Element\Chart
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 15/ 15)
+\PhpOffice\PhpWord\Element::PhpOffice\PhpWord\Element\CheckBox
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  6/  6)
+\PhpOffice\PhpWord\Element::PhpOffice\PhpWord\Element\Comment
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 14/ 14)
+\PhpOffice\PhpWord\Element::PhpOffice\PhpWord\Element\Endnote
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\PhpOffice\PhpWord\Element::PhpOffice\PhpWord\Element\Field
+  Methods: 100.00% ( 9/ 9)   Lines: 100.00% ( 31/ 31)
+\PhpOffice\PhpWord\Element::PhpOffice\PhpWord\Element\Footer
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 12/ 12)
+\PhpOffice\PhpWord\Element::PhpOffice\PhpWord\Element\Footnote
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\PhpOffice\PhpWord\Element::PhpOffice\PhpWord\Element\FormField
+  Methods: 100.00% (11/11)   Lines: 100.00% ( 19/ 19)
+\PhpOffice\PhpWord\Element::PhpOffice\PhpWord\Element\Header
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\PhpOffice\PhpWord\Element::PhpOffice\PhpWord\Element\Image
+  Methods:  95.83% (23/24)   Lines:  99.34% (151/152)
+\PhpOffice\PhpWord\Element::PhpOffice\PhpWord\Element\Line
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\PhpOffice\PhpWord\Element::PhpOffice\PhpWord\Element\Link
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 11/ 11)
+\PhpOffice\PhpWord\Element::PhpOffice\PhpWord\Element\ListItem
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% (  9/  9)
+\PhpOffice\PhpWord\Element::PhpOffice\PhpWord\Element\ListItemRun
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  8/  8)
+\PhpOffice\PhpWord\Element::PhpOffice\PhpWord\Element\OLEObject
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 17/ 17)
+\PhpOffice\PhpWord\Element::PhpOffice\PhpWord\Element\PageBreak
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\PhpOffice\PhpWord\Element::PhpOffice\PhpWord\Element\PreserveText
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 10/ 10)
+\PhpOffice\PhpWord\Element::PhpOffice\PhpWord\Element\Row
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 10/ 10)
+\PhpOffice\PhpWord\Element::PhpOffice\PhpWord\Element\SDT
+  Methods: 100.00% (11/11)   Lines: 100.00% ( 19/ 19)
+\PhpOffice\PhpWord\Element::PhpOffice\PhpWord\Element\Section
+  Methods: 100.00% (11/11)   Lines: 100.00% ( 34/ 34)
+\PhpOffice\PhpWord\Element::PhpOffice\PhpWord\Element\Shape
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  8/  8)
+\PhpOffice\PhpWord\Element::PhpOffice\PhpWord\Element\TOC
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% ( 28/ 28)
+\PhpOffice\PhpWord\Element::PhpOffice\PhpWord\Element\Table
+  Methods: 100.00% ( 9/ 9)   Lines: 100.00% ( 32/ 32)
+\PhpOffice\PhpWord\Element::PhpOffice\PhpWord\Element\Text
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 29/ 29)
+\PhpOffice\PhpWord\Element::PhpOffice\PhpWord\Element\TextBox
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\PhpOffice\PhpWord\Element::PhpOffice\PhpWord\Element\TextBreak
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 24/ 24)
+\PhpOffice\PhpWord\Element::PhpOffice\PhpWord\Element\TextRun
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 12/ 12)
+\PhpOffice\PhpWord\Element::PhpOffice\PhpWord\Element\Title
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 13/ 13)
+\PhpOffice\PhpWord\Element::PhpOffice\PhpWord\Element\TrackChange
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  8/  8)
+\PhpOffice\PhpWord\Exception::PhpOffice\PhpWord\Exception\CopyFileException
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  5/  5)
+\PhpOffice\PhpWord\Exception::PhpOffice\PhpWord\Exception\CreateTemporaryFileException
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  5/  5)
+\PhpOffice\PhpWord\Metadata::PhpOffice\PhpWord\Metadata\Compatibility
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\PhpOffice\PhpWord\Metadata::PhpOffice\PhpWord\Metadata\DocInfo
+  Methods: 100.00% (32/32)   Lines: 100.00% (108/108)
+\PhpOffice\PhpWord\Metadata::PhpOffice\PhpWord\Metadata\Protection
+  Methods: 100.00% (11/11)   Lines: 100.00% ( 21/ 21)
+\PhpOffice\PhpWord\Metadata::PhpOffice\PhpWord\Metadata\Settings
+  Methods: 100.00% (36/36)   Lines: 100.00% ( 61/ 61)
+\PhpOffice\PhpWord\Reader::PhpOffice\PhpWord\Reader\HTML
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  6/  6)
+\PhpOffice\PhpWord\Reader::PhpOffice\PhpWord\Reader\MsDoc
+  Methods:  75.00% (15/20)   Lines:  76.12% (1100/1445)
+\PhpOffice\PhpWord\Reader::PhpOffice\PhpWord\Reader\ODText
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 22/ 22)
+\PhpOffice\PhpWord\Reader::PhpOffice\PhpWord\Reader\RTF
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  7/  7)
+\PhpOffice\PhpWord\Reader::PhpOffice\PhpWord\Reader\Word2007
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 50/ 50)
+\PhpOffice\PhpWord\Reader\ODText::PhpOffice\PhpWord\Reader\ODText\Content
+  Methods:   0.00% ( 0/ 1)   Lines:  50.88% ( 29/ 57)
+\PhpOffice\PhpWord\Reader\ODText::PhpOffice\PhpWord\Reader\ODText\Meta
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 18/ 18)
+\PhpOffice\PhpWord\Reader\RTF::PhpOffice\PhpWord\Reader\RTF\Document
+  Methods:  93.33% (14/15)   Lines:  98.18% (108/110)
+\PhpOffice\PhpWord\Reader\Word2007::PhpOffice\PhpWord\Reader\Word2007\AbstractPart
+  Methods:  85.00% (17/20)   Lines:  98.62% (286/290)
+\PhpOffice\PhpWord\Reader\Word2007::PhpOffice\PhpWord\Reader\Word2007\DocPropsCore
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 15/ 15)
+\PhpOffice\PhpWord\Reader\Word2007::PhpOffice\PhpWord\Reader\Word2007\DocPropsCustom
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 14/ 14)
+\PhpOffice\PhpWord\Reader\Word2007::PhpOffice\PhpWord\Reader\Word2007\Document
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 63/ 63)
+\PhpOffice\PhpWord\Reader\Word2007::PhpOffice\PhpWord\Reader\Word2007\Footnotes
+  Methods:  50.00% ( 1/ 2)   Lines:  95.45% ( 21/ 22)
+\PhpOffice\PhpWord\Reader\Word2007::PhpOffice\PhpWord\Reader\Word2007\Numbering
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 53/ 53)
+\PhpOffice\PhpWord\Reader\Word2007::PhpOffice\PhpWord\Reader\Word2007\Settings
+  Methods:  87.50% ( 7/ 8)   Lines:  93.44% ( 57/ 61)
+\PhpOffice\PhpWord\Reader\Word2007::PhpOffice\PhpWord\Reader\Word2007\Styles
+  Methods:   0.00% ( 0/ 1)   Lines:  95.65% ( 44/ 46)
+\PhpOffice\PhpWord\Shared::PhpOffice\PhpWord\Shared\AbstractEnum
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 15/ 15)
+\PhpOffice\PhpWord\Shared::PhpOffice\PhpWord\Shared\Converter
+  Methods: 100.00% (24/24)   Lines: 100.00% ( 52/ 52)
+\PhpOffice\PhpWord\Shared::PhpOffice\PhpWord\Shared\Html
+  Methods: 100.00% (23/23)   Lines: 100.00% (349/349)
+\PhpOffice\PhpWord\Shared::PhpOffice\PhpWord\Shared\OLERead
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% (100/100)
+\PhpOffice\PhpWord\Shared::PhpOffice\PhpWord\Shared\ZipArchive
+  Methods: 100.00% (11/11)   Lines: 100.00% (107/107)
+\PhpOffice\PhpWord\Style::PhpOffice\PhpWord\Style\AbstractStyle
+  Methods: 100.00% (17/17)   Lines: 100.00% ( 58/ 58)
+\PhpOffice\PhpWord\Style::PhpOffice\PhpWord\Style\Border
+  Methods: 100.00% (31/31)   Lines: 100.00% ( 65/ 65)
+\PhpOffice\PhpWord\Style::PhpOffice\PhpWord\Style\Cell
+  Methods: 100.00% (16/16)   Lines: 100.00% ( 28/ 28)
+\PhpOffice\PhpWord\Style::PhpOffice\PhpWord\Style\Chart
+  Methods:  96.30% (26/27)   Lines:  93.48% ( 43/ 46)
+\PhpOffice\PhpWord\Style::PhpOffice\PhpWord\Style\Extrusion
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% (  9/  9)
+\PhpOffice\PhpWord\Style::PhpOffice\PhpWord\Style\Fill
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpOffice\PhpWord\Style::PhpOffice\PhpWord\Style\Font
+  Methods: 100.00% (53/53)   Lines: 100.00% ( 99/ 99)
+\PhpOffice\PhpWord\Style::PhpOffice\PhpWord\Style\Frame
+  Methods: 100.00% (35/35)   Lines: 100.00% ( 91/ 91)
+\PhpOffice\PhpWord\Style::PhpOffice\PhpWord\Style\Image
+  Methods: 100.00% (17/17)   Lines: 100.00% ( 32/ 32)
+\PhpOffice\PhpWord\Style::PhpOffice\PhpWord\Style\Indentation
+  Methods: 100.00% ( 9/ 9)   Lines: 100.00% ( 14/ 14)
+\PhpOffice\PhpWord\Style::PhpOffice\PhpWord\Style\Language
+  Methods: 100.00% (10/10)   Lines: 100.00% ( 24/ 24)
+\PhpOffice\PhpWord\Style::PhpOffice\PhpWord\Style\Line
+  Methods: 100.00% (14/14)   Lines: 100.00% ( 29/ 29)
+\PhpOffice\PhpWord\Style::PhpOffice\PhpWord\Style\LineNumbering
+  Methods: 100.00% ( 9/ 9)   Lines: 100.00% ( 15/ 15)
+\PhpOffice\PhpWord\Style::PhpOffice\PhpWord\Style\ListItem
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 43/ 43)
+\PhpOffice\PhpWord\Style::PhpOffice\PhpWord\Style\Numbering
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 16/ 16)
+\PhpOffice\PhpWord\Style::PhpOffice\PhpWord\Style\NumberingLevel
+  Methods: 100.00% (26/26)   Lines: 100.00% ( 42/ 42)
+\PhpOffice\PhpWord\Style::PhpOffice\PhpWord\Style\Outline
+  Methods: 100.00% (16/16)   Lines: 100.00% ( 31/ 31)
+\PhpOffice\PhpWord\Style::PhpOffice\PhpWord\Style\Paper
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 13/ 13)
+\PhpOffice\PhpWord\Style::PhpOffice\PhpWord\Style\Paragraph
+  Methods: 100.00% (50/50)   Lines: 100.00% ( 99/ 99)
+\PhpOffice\PhpWord\Style::PhpOffice\PhpWord\Style\Row
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 10/ 10)
+\PhpOffice\PhpWord\Style::PhpOffice\PhpWord\Style\Section
+  Methods: 100.00% (36/36)   Lines: 100.00% ( 65/ 65)
+\PhpOffice\PhpWord\Style::PhpOffice\PhpWord\Style\Shading
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 13/ 13)
+\PhpOffice\PhpWord\Style::PhpOffice\PhpWord\Style\Shadow
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% (  8/  8)
+\PhpOffice\PhpWord\Style::PhpOffice\PhpWord\Style\Shape
+  Methods: 100.00% (15/15)   Lines: 100.00% ( 23/ 23)
+\PhpOffice\PhpWord\Style::PhpOffice\PhpWord\Style\Spacing
+  Methods: 100.00% ( 9/ 9)   Lines: 100.00% ( 15/ 15)
+\PhpOffice\PhpWord\Style::PhpOffice\PhpWord\Style\TOC
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% (  9/  9)
+\PhpOffice\PhpWord\Style::PhpOffice\PhpWord\Style\Tab
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 22/ 22)
+\PhpOffice\PhpWord\Style::PhpOffice\PhpWord\Style\Table
+  Methods: 100.00% (47/47)   Lines: 100.00% (105/105)
+\PhpOffice\PhpWord\Style::PhpOffice\PhpWord\Style\TablePosition
+  Methods: 100.00% (21/21)   Lines: 100.00% ( 49/ 49)
+\PhpOffice\PhpWord\Style::PhpOffice\PhpWord\Style\TextBox
+  Methods: 100.00% (15/15)   Lines: 100.00% ( 31/ 31)
+\PhpOffice\PhpWord\Writer::PhpOffice\PhpWord\Writer\AbstractWriter
+  Methods: 100.00% (17/17)   Lines: 100.00% ( 87/ 87)
+\PhpOffice\PhpWord\Writer::PhpOffice\PhpWord\Writer\HTML
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 23/ 23)
+\PhpOffice\PhpWord\Writer::PhpOffice\PhpWord\Writer\ODText
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 21/ 21)
+\PhpOffice\PhpWord\Writer::PhpOffice\PhpWord\Writer\PDF
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 12/ 12)
+\PhpOffice\PhpWord\Writer::PhpOffice\PhpWord\Writer\RTF
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 23/ 23)
+\PhpOffice\PhpWord\Writer::PhpOffice\PhpWord\Writer\Word2007
+  Methods: 100.00% (10/10)   Lines: 100.00% (111/111)
+\PhpOffice\PhpWord\Writer\HTML\Element::PhpOffice\PhpWord\Writer\HTML\Element\AbstractElement
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  7/  7)
+\PhpOffice\PhpWord\Writer\HTML\Element::PhpOffice\PhpWord\Writer\HTML\Element\Bookmark
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  7/  7)
+\PhpOffice\PhpWord\Writer\HTML\Element::PhpOffice\PhpWord\Writer\HTML\Element\Container
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 14/ 14)
+\PhpOffice\PhpWord\Writer\HTML\Element::PhpOffice\PhpWord\Writer\HTML\Element\Footnote
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  8/  8)
+\PhpOffice\PhpWord\Writer\HTML\Element::PhpOffice\PhpWord\Writer\HTML\Element\Image
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 12/ 12)
+\PhpOffice\PhpWord\Writer\HTML\Element::PhpOffice\PhpWord\Writer\HTML\Element\Link
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  9/  9)
+\PhpOffice\PhpWord\Writer\HTML\Element::PhpOffice\PhpWord\Writer\HTML\Element\ListItem
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  6/  6)
+\PhpOffice\PhpWord\Writer\HTML\Element::PhpOffice\PhpWord\Writer\HTML\Element\PageBreak
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  4/  4)
+\PhpOffice\PhpWord\Writer\HTML\Element::PhpOffice\PhpWord\Writer\HTML\Element\Table
+  Methods:   0.00% ( 0/ 1)   Lines:  95.65% ( 44/ 46)
+\PhpOffice\PhpWord\Writer\HTML\Element::PhpOffice\PhpWord\Writer\HTML\Element\Text
+  Methods:  88.89% ( 8/ 9)   Lines:  98.89% ( 89/ 90)
+\PhpOffice\PhpWord\Writer\HTML\Element::PhpOffice\PhpWord\Writer\HTML\Element\TextBreak
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  4/  4)
+\PhpOffice\PhpWord\Writer\HTML\Element::PhpOffice\PhpWord\Writer\HTML\Element\TextRun
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  6/  6)
+\PhpOffice\PhpWord\Writer\HTML\Element::PhpOffice\PhpWord\Writer\HTML\Element\Title
+  Methods:   0.00% ( 0/ 1)   Lines:  75.00% (  9/ 12)
+\PhpOffice\PhpWord\Writer\HTML\Part::PhpOffice\PhpWord\Writer\HTML\Part\AbstractPart
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  7/  7)
+\PhpOffice\PhpWord\Writer\HTML\Part::PhpOffice\PhpWord\Writer\HTML\Part\Body
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 28/ 28)
+\PhpOffice\PhpWord\Writer\HTML\Part::PhpOffice\PhpWord\Writer\HTML\Part\Head
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 40/ 40)
+\PhpOffice\PhpWord\Writer\HTML\Style::PhpOffice\PhpWord\Writer\HTML\Style\AbstractStyle
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 17/ 17)
+\PhpOffice\PhpWord\Writer\HTML\Style::PhpOffice\PhpWord\Writer\HTML\Style\Font
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 27/ 27)
+\PhpOffice\PhpWord\Writer\HTML\Style::PhpOffice\PhpWord\Writer\HTML\Style\Generic
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  5/  5)
+\PhpOffice\PhpWord\Writer\HTML\Style::PhpOffice\PhpWord\Writer\HTML\Style\Image
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  9/  9)
+\PhpOffice\PhpWord\Writer\HTML\Style::PhpOffice\PhpWord\Writer\HTML\Style\Paragraph
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 25/ 25)
+\PhpOffice\PhpWord\Writer\ODText\Element::PhpOffice\PhpWord\Writer\ODText\Element\Image
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 27/ 27)
+\PhpOffice\PhpWord\Writer\ODText\Element::PhpOffice\PhpWord\Writer\ODText\Element\Link
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 14/ 14)
+\PhpOffice\PhpWord\Writer\ODText\Element::PhpOffice\PhpWord\Writer\ODText\Element\PageBreak
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  5/  5)
+\PhpOffice\PhpWord\Writer\ODText\Element::PhpOffice\PhpWord\Writer\ODText\Element\Table
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 30/ 30)
+\PhpOffice\PhpWord\Writer\ODText\Element::PhpOffice\PhpWord\Writer\ODText\Element\Text
+  Methods:   0.00% ( 0/ 2)   Lines:  61.36% ( 27/ 44)
+\PhpOffice\PhpWord\Writer\ODText\Element::PhpOffice\PhpWord\Writer\ODText\Element\TextBreak
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  5/  5)
+\PhpOffice\PhpWord\Writer\ODText\Element::PhpOffice\PhpWord\Writer\ODText\Element\TextRun
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  7/  7)
+\PhpOffice\PhpWord\Writer\ODText\Element::PhpOffice\PhpWord\Writer\ODText\Element\Title
+  Methods:   0.00% ( 0/ 1)   Lines:  78.57% ( 11/ 14)
+\PhpOffice\PhpWord\Writer\ODText\Part::PhpOffice\PhpWord\Writer\ODText\Part\AbstractPart
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 50/ 50)
+\PhpOffice\PhpWord\Writer\ODText\Part::PhpOffice\PhpWord\Writer\ODText\Part\Content
+  Methods:  71.43% ( 5/ 7)   Lines:  86.86% (119/137)
+\PhpOffice\PhpWord\Writer\ODText\Part::PhpOffice\PhpWord\Writer\ODText\Part\Manifest
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 25/ 25)
+\PhpOffice\PhpWord\Writer\ODText\Part::PhpOffice\PhpWord\Writer\ODText\Part\Meta
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 38/ 38)
+\PhpOffice\PhpWord\Writer\ODText\Part::PhpOffice\PhpWord\Writer\ODText\Part\Mimetype
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\PhpOffice\PhpWord\Writer\ODText\Part::PhpOffice\PhpWord\Writer\ODText\Part\Styles
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% (103/103)
+\PhpOffice\PhpWord\Writer\ODText\Style::PhpOffice\PhpWord\Writer\ODText\Style\Font
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 33/ 33)
+\PhpOffice\PhpWord\Writer\ODText\Style::PhpOffice\PhpWord\Writer\ODText\Style\Image
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 14/ 14)
+\PhpOffice\PhpWord\Writer\ODText\Style::PhpOffice\PhpWord\Writer\ODText\Style\Paragraph
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 21/ 21)
+\PhpOffice\PhpWord\Writer\ODText\Style::PhpOffice\PhpWord\Writer\ODText\Style\Section
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 14/ 14)
+\PhpOffice\PhpWord\Writer\ODText\Style::PhpOffice\PhpWord\Writer\ODText\Style\Table
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 24/ 24)
+\PhpOffice\PhpWord\Writer\PDF::PhpOffice\PhpWord\Writer\PDF\AbstractRenderer
+  Methods: 100.00% ( 9/ 9)   Lines: 100.00% ( 20/ 20)
+\PhpOffice\PhpWord\Writer\PDF::PhpOffice\PhpWord\Writer\PDF\DomPDF
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 10/ 10)
+\PhpOffice\PhpWord\Writer\PDF::PhpOffice\PhpWord\Writer\PDF\MPDF
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 18/ 18)
+\PhpOffice\PhpWord\Writer\PDF::PhpOffice\PhpWord\Writer\PDF\TCPDF
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 20/ 20)
+\PhpOffice\PhpWord\Writer\RTF\Element::PhpOffice\PhpWord\Writer\RTF\Element\AbstractElement
+  Methods:  83.33% ( 5/ 6)   Lines:  97.83% ( 45/ 46)
+\PhpOffice\PhpWord\Writer\RTF\Element::PhpOffice\PhpWord\Writer\RTF\Element\Image
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 15/ 15)
+\PhpOffice\PhpWord\Writer\RTF\Element::PhpOffice\PhpWord\Writer\RTF\Element\Link
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 11/ 11)
+\PhpOffice\PhpWord\Writer\RTF\Element::PhpOffice\PhpWord\Writer\RTF\Element\PageBreak
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\PhpOffice\PhpWord\Writer\RTF\Element::PhpOffice\PhpWord\Writer\RTF\Element\Table
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 42/ 42)
+\PhpOffice\PhpWord\Writer\RTF\Element::PhpOffice\PhpWord\Writer\RTF\Element\Text
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 13/ 13)
+\PhpOffice\PhpWord\Writer\RTF\Element::PhpOffice\PhpWord\Writer\RTF\Element\TextBreak
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\PhpOffice\PhpWord\Writer\RTF\Element::PhpOffice\PhpWord\Writer\RTF\Element\TextRun
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  8/  8)
+\PhpOffice\PhpWord\Writer\RTF\Part::PhpOffice\PhpWord\Writer\RTF\Part\AbstractPart
+  Methods:  66.67% ( 2/ 3)   Lines:  85.71% (  6/  7)
+\PhpOffice\PhpWord\Writer\RTF\Part::PhpOffice\PhpWord\Writer\RTF\Part\Document
+  Methods:  80.00% ( 4/ 5)   Lines:  98.00% ( 49/ 50)
+\PhpOffice\PhpWord\Writer\RTF\Part::PhpOffice\PhpWord\Writer\RTF\Part\Header
+  Methods:  91.67% (11/12)   Lines:  98.57% ( 69/ 70)
+\PhpOffice\PhpWord\Writer\RTF\Style::PhpOffice\PhpWord\Writer\RTF\Style\Border
+  Methods:  75.00% ( 3/ 4)   Lines:  86.67% ( 26/ 30)
+\PhpOffice\PhpWord\Writer\RTF\Style::PhpOffice\PhpWord\Writer\RTF\Style\Font
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 19/ 19)
+\PhpOffice\PhpWord\Writer\RTF\Style::PhpOffice\PhpWord\Writer\RTF\Style\Indentation
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  7/  7)
+\PhpOffice\PhpWord\Writer\RTF\Style::PhpOffice\PhpWord\Writer\RTF\Style\Paragraph
+  Methods:  50.00% ( 2/ 4)   Lines:  82.76% ( 24/ 29)
+\PhpOffice\PhpWord\Writer\RTF\Style::PhpOffice\PhpWord\Writer\RTF\Style\Section
+  Methods:   0.00% ( 0/ 1)   Lines:  78.26% ( 18/ 23)
+\PhpOffice\PhpWord\Writer\RTF\Style::PhpOffice\PhpWord\Writer\RTF\Style\Tab
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  9/  9)
+\PhpOffice\PhpWord\Writer\Word2007\Element::PhpOffice\PhpWord\Writer\Word2007\Element\AbstractElement
+  Methods:  91.67% (11/12)   Lines:  98.11% ( 52/ 53)
+\PhpOffice\PhpWord\Writer\Word2007\Element::PhpOffice\PhpWord\Writer\Word2007\Element\Bookmark
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 13/ 13)
+\PhpOffice\PhpWord\Writer\Word2007\Element::PhpOffice\PhpWord\Writer\Word2007\Element\Chart
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 30/ 30)
+\PhpOffice\PhpWord\Writer\Word2007\Element::PhpOffice\PhpWord\Writer\Word2007\Element\CheckBox
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 50/ 50)
+\PhpOffice\PhpWord\Writer\Word2007\Element::PhpOffice\PhpWord\Writer\Word2007\Element\Container
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 22/ 22)
+\PhpOffice\PhpWord\Writer\Word2007\Element::PhpOffice\PhpWord\Writer\Word2007\Element\Field
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (130/130)
+\PhpOffice\PhpWord\Writer\Word2007\Element::PhpOffice\PhpWord\Writer\Word2007\Element\Footnote
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 17/ 17)
+\PhpOffice\PhpWord\Writer\Word2007\Element::PhpOffice\PhpWord\Writer\Word2007\Element\FormField
+  Methods:  75.00% ( 3/ 4)   Lines:  98.75% ( 79/ 80)
+\PhpOffice\PhpWord\Writer\Word2007\Element::PhpOffice\PhpWord\Writer\Word2007\Element\Image
+  Methods:  66.67% ( 2/ 3)   Lines:  92.59% ( 50/ 54)
+\PhpOffice\PhpWord\Writer\Word2007\Element::PhpOffice\PhpWord\Writer\Word2007\Element\Line
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 41/ 41)
+\PhpOffice\PhpWord\Writer\Word2007\Element::PhpOffice\PhpWord\Writer\Word2007\Element\Link
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 21/ 21)
+\PhpOffice\PhpWord\Writer\Word2007\Element::PhpOffice\PhpWord\Writer\Word2007\Element\ListItem
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 24/ 24)
+\PhpOffice\PhpWord\Writer\Word2007\Element::PhpOffice\PhpWord\Writer\Word2007\Element\ListItemRun
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 23/ 23)
+\PhpOffice\PhpWord\Writer\Word2007\Element::PhpOffice\PhpWord\Writer\Word2007\Element\OLEObject
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 40/ 40)
+\PhpOffice\PhpWord\Writer\Word2007\Element::PhpOffice\PhpWord\Writer\Word2007\Element\PageBreak
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  9/  9)
+\PhpOffice\PhpWord\Writer\Word2007\Element::PhpOffice\PhpWord\Writer\Word2007\Element\ParagraphAlignment
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  4/  4)
+\PhpOffice\PhpWord\Writer\Word2007\Element::PhpOffice\PhpWord\Writer\Word2007\Element\PreserveText
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 42/ 42)
+\PhpOffice\PhpWord\Writer\Word2007\Element::PhpOffice\PhpWord\Writer\Word2007\Element\SDT
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 45/ 45)
+\PhpOffice\PhpWord\Writer\Word2007\Element::PhpOffice\PhpWord\Writer\Word2007\Element\Shape
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 55/ 55)
+\PhpOffice\PhpWord\Writer\Word2007\Element::PhpOffice\PhpWord\Writer\Word2007\Element\TOC
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (102/102)
+\PhpOffice\PhpWord\Writer\Word2007\Element::PhpOffice\PhpWord\Writer\Word2007\Element\Table
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 46/ 46)
+\PhpOffice\PhpWord\Writer\Word2007\Element::PhpOffice\PhpWord\Writer\Word2007\Element\TableAlignment
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  4/  4)
+\PhpOffice\PhpWord\Writer\Word2007\Element::PhpOffice\PhpWord\Writer\Word2007\Element\Text
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 39/ 39)
+\PhpOffice\PhpWord\Writer\Word2007\Element::PhpOffice\PhpWord\Writer\Word2007\Element\TextBox
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 28/ 28)
+\PhpOffice\PhpWord\Writer\Word2007\Element::PhpOffice\PhpWord\Writer\Word2007\Element\TextBreak
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 14/ 14)
+\PhpOffice\PhpWord\Writer\Word2007\Element::PhpOffice\PhpWord\Writer\Word2007\Element\TextRun
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  7/  7)
+\PhpOffice\PhpWord\Writer\Word2007\Element::PhpOffice\PhpWord\Writer\Word2007\Element\Title
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 36/ 36)
+\PhpOffice\PhpWord\Writer\Word2007\Part::PhpOffice\PhpWord\Writer\Word2007\Part\AbstractPart
+  Methods:  75.00% ( 3/ 4)   Lines:  93.33% ( 14/ 15)
+\PhpOffice\PhpWord\Writer\Word2007\Part::PhpOffice\PhpWord\Writer\Word2007\Part\Chart
+  Methods:  55.56% ( 5/ 9)   Lines:  72.68% (133/183)
+\PhpOffice\PhpWord\Writer\Word2007\Part::PhpOffice\PhpWord\Writer\Word2007\Part\Comments
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 30/ 30)
+\PhpOffice\PhpWord\Writer\Word2007\Part::PhpOffice\PhpWord\Writer\Word2007\Part\ContentTypes
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 38/ 38)
+\PhpOffice\PhpWord\Writer\Word2007\Part::PhpOffice\PhpWord\Writer\Word2007\Part\DocPropsApp
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 12/ 12)
+\PhpOffice\PhpWord\Writer\Word2007\Part::PhpOffice\PhpWord\Writer\Word2007\Part\DocPropsCore
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 27/ 27)
+\PhpOffice\PhpWord\Writer\Word2007\Part::PhpOffice\PhpWord\Writer\Word2007\Part\DocPropsCustom
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 35/ 35)
+\PhpOffice\PhpWord\Writer\Word2007\Part::PhpOffice\PhpWord\Writer\Word2007\Part\Document
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 74/ 74)
+\PhpOffice\PhpWord\Writer\Word2007\Part::PhpOffice\PhpWord\Writer\Word2007\Part\FontTable
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 54/ 54)
+\PhpOffice\PhpWord\Writer\Word2007\Part::PhpOffice\PhpWord\Writer\Word2007\Part\Footer
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 19/ 19)
+\PhpOffice\PhpWord\Writer\Word2007\Part::PhpOffice\PhpWord\Writer\Word2007\Part\Footnotes
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 66/ 66)
+\PhpOffice\PhpWord\Writer\Word2007\Part::PhpOffice\PhpWord\Writer\Word2007\Part\Numbering
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 81/ 81)
+\PhpOffice\PhpWord\Writer\Word2007\Part::PhpOffice\PhpWord\Writer\Word2007\Part\Rels
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 35/ 35)
+\PhpOffice\PhpWord\Writer\Word2007\Part::PhpOffice\PhpWord\Writer\Word2007\Part\RelsDocument
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  5/  5)
+\PhpOffice\PhpWord\Writer\Word2007\Part::PhpOffice\PhpWord\Writer\Word2007\Part\RelsPart
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  5/  5)
+\PhpOffice\PhpWord\Writer\Word2007\Part::PhpOffice\PhpWord\Writer\Word2007\Part\Settings
+  Methods:  91.67% (11/12)   Lines:  99.14% (115/116)
+\PhpOffice\PhpWord\Writer\Word2007\Part::PhpOffice\PhpWord\Writer\Word2007\Part\Styles
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% (146/146)
+\PhpOffice\PhpWord\Writer\Word2007\Part::PhpOffice\PhpWord\Writer\Word2007\Part\Theme
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% (304/304)
+\PhpOffice\PhpWord\Writer\Word2007\Part::PhpOffice\PhpWord\Writer\Word2007\Part\WebSettings
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 10/ 10)
+\PhpOffice\PhpWord\Writer\Word2007\Style::PhpOffice\PhpWord\Writer\Word2007\Style\AbstractStyle
+  Methods:  83.33% ( 5/ 6)   Lines:  95.24% ( 20/ 21)
+\PhpOffice\PhpWord\Writer\Word2007\Style::PhpOffice\PhpWord\Writer\Word2007\Style\Cell
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 36/ 36)
+\PhpOffice\PhpWord\Writer\Word2007\Style::PhpOffice\PhpWord\Writer\Word2007\Style\Extrusion
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 10/ 10)
+\PhpOffice\PhpWord\Writer\Word2007\Style::PhpOffice\PhpWord\Writer\Word2007\Style\Fill
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  7/  7)
+\PhpOffice\PhpWord\Writer\Word2007\Style::PhpOffice\PhpWord\Writer\Word2007\Style\Font
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 70/ 70)
+\PhpOffice\PhpWord\Writer\Word2007\Style::PhpOffice\PhpWord\Writer\Word2007\Style\Frame
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 55/ 55)
+\PhpOffice\PhpWord\Writer\Word2007\Style::PhpOffice\PhpWord\Writer\Word2007\Style\Indentation
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 13/ 13)
+\PhpOffice\PhpWord\Writer\Word2007\Style::PhpOffice\PhpWord\Writer\Word2007\Style\Line
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 18/ 18)
+\PhpOffice\PhpWord\Writer\Word2007\Style::PhpOffice\PhpWord\Writer\Word2007\Style\LineNumbering
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 11/ 11)
+\PhpOffice\PhpWord\Writer\Word2007\Style::PhpOffice\PhpWord\Writer\Word2007\Style\MarginBorder
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 33/ 33)
+\PhpOffice\PhpWord\Writer\Word2007\Style::PhpOffice\PhpWord\Writer\Word2007\Style\Outline
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 15/ 15)
+\PhpOffice\PhpWord\Writer\Word2007\Style::PhpOffice\PhpWord\Writer\Word2007\Style\Paragraph
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 77/ 77)
+\PhpOffice\PhpWord\Writer\Word2007\Style::PhpOffice\PhpWord\Writer\Word2007\Style\Row
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 16/ 16)
+\PhpOffice\PhpWord\Writer\Word2007\Style::PhpOffice\PhpWord\Writer\Word2007\Style\Section
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 36/ 36)
+\PhpOffice\PhpWord\Writer\Word2007\Style::PhpOffice\PhpWord\Writer\Word2007\Style\Shading
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 10/ 10)
+\PhpOffice\PhpWord\Writer\Word2007\Style::PhpOffice\PhpWord\Writer\Word2007\Style\Shadow
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 10/ 10)
+\PhpOffice\PhpWord\Writer\Word2007\Style::PhpOffice\PhpWord\Writer\Word2007\Style\Shape
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  9/  9)
+\PhpOffice\PhpWord\Writer\Word2007\Style::PhpOffice\PhpWord\Writer\Word2007\Style\Spacing
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 14/ 14)
+\PhpOffice\PhpWord\Writer\Word2007\Style::PhpOffice\PhpWord\Writer\Word2007\Style\Tab
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 10/ 10)
+\PhpOffice\PhpWord\Writer\Word2007\Style::PhpOffice\PhpWord\Writer\Word2007\Style\Table
+  Methods: 100.00% (10/10)   Lines: 100.00% ( 81/ 81)
+\PhpOffice\PhpWord\Writer\Word2007\Style::PhpOffice\PhpWord\Writer\Word2007\Style\TablePosition
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 17/ 17)
+\PhpOffice\PhpWord\Writer\Word2007\Style::PhpOffice\PhpWord\Writer\Word2007\Style\TextBox
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 16/ 16)

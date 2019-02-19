@@ -1,0 +1,5 @@
+repository,tag,coverage
+git@github.com:reactphp/react.git,v0.1.0,"phpunit not installed"
+git@github.com:reactphp/react.git,v0.2.0,"phpunit not installed"
+git@github.com:reactphp/react.git,v0.3.0,"phpunit not installed"
+git@github.com:reactphp/react.git,v0.4.0,"phpunit failed"

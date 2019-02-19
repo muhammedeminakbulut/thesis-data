@@ -1,0 +1,10 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:laravel/tinker.git,v1.0.0,262,74,10,0.00%,3.2222222222222,0,56,17,3,0
+git@github.com:laravel/tinker.git,v1.0.1,264,74,10,0.00%,3.2222222222222,0,56,17,3,0
+git@github.com:laravel/tinker.git,v1.0.2,381,114,17,0.00%,3.3846153846154,0,56,17,4,0
+git@github.com:laravel/tinker.git,v1.0.3,381,114,17,0.00%,3.3846153846154,0,56,17,4,0
+git@github.com:laravel/tinker.git,v1.0.4,393,114,18,0.00%,3.1666666666667,0,56,17,6,0
+git@github.com:laravel/tinker.git,v1.0.5,427,129,22,0.00%,3.2307692307692,0,56,17,7,0
+git@github.com:laravel/tinker.git,v1.0.6,427,129,22,0.00%,3.2307692307692,0,56,17,7,0
+git@github.com:laravel/tinker.git,v1.0.7,431,129,23,0.00%,3.3076923076923,0,56,17,7,0
+git@github.com:laravel/tinker.git,v1.0.8,446,140,23,0.00%,3.3076923076923,0,56,17,7,0

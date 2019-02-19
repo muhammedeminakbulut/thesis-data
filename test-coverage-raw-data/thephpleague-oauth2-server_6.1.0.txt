@@ -1,0 +1,64 @@
+
+
+Code Coverage Report:      
+  2019-02-16 21:01:41      
+                           
+ Summary:                  
+  Classes: 74.07% (20/27)  
+  Methods: 91.79% (123/134)
+  Lines:   96.61% (683/707)
+
+\League\OAuth2\Server::AuthorizationServer
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 45/ 45)
+\League\OAuth2\Server::CryptKey
+  Methods:  75.00% ( 3/ 4)   Lines:  80.00% ( 20/ 25)
+\League\OAuth2\Server::CryptTrait
+  Methods:  66.67% ( 2/ 3)   Lines:  75.00% (  6/  8)
+\League\OAuth2\Server::RequestEvent
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\League\OAuth2\Server::ResourceServer
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 11/ 11)
+\League\OAuth2\Server\AuthorizationValidators::BearerTokenValidator
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 25/ 25)
+\League\OAuth2\Server\Entities\Traits::AccessTokenTrait
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 10/ 10)
+\League\OAuth2\Server\Entities\Traits::AuthCodeTrait
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\League\OAuth2\Server\Entities\Traits::ClientTrait
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\League\OAuth2\Server\Entities\Traits::EntityTrait
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\League\OAuth2\Server\Entities\Traits::RefreshTokenTrait
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  6/  6)
+\League\OAuth2\Server\Entities\Traits::TokenEntityTrait
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% ( 12/ 12)
+\League\OAuth2\Server\Exception::OAuthServerException
+  Methods:  92.86% (13/14)   Lines:  98.18% ( 54/ 55)
+\League\OAuth2\Server\Exception::UniqueTokenIdentifierConstraintViolationException
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\League\OAuth2\Server\Grant::AbstractAuthorizeGrant
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\League\OAuth2\Server\Grant::AbstractGrant
+  Methods:  87.50% (21/24)   Lines:  97.25% (106/109)
+\League\OAuth2\Server\Grant::AuthCodeGrant
+  Methods:  71.43% ( 5/ 7)   Lines:  97.37% (148/152)
+\League\OAuth2\Server\Grant::ClientCredentialsGrant
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  7/  7)
+\League\OAuth2\Server\Grant::ImplicitGrant
+  Methods:  77.78% ( 7/ 9)   Lines:  94.05% ( 79/ 84)
+\League\OAuth2\Server\Grant::PasswordGrant
+  Methods:  75.00% ( 3/ 4)   Lines:  86.21% ( 25/ 29)
+\League\OAuth2\Server\Grant::RefreshTokenGrant
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 35/ 35)
+\League\OAuth2\Server\Middleware::AuthorizationServerMiddleware
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  6/  6)
+\League\OAuth2\Server\Middleware::ResourceServerMiddleware
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  6/  6)
+\League\OAuth2\Server\RequestTypes::AuthorizationRequest
+  Methods: 100.00% (18/18)   Lines: 100.00% ( 27/ 27)
+\League\OAuth2\Server\ResponseTypes::AbstractResponseType
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  6/  6)
+\League\OAuth2\Server\ResponseTypes::BearerTokenResponse
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 23/ 23)
+\League\OAuth2\Server\ResponseTypes::RedirectResponse
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)

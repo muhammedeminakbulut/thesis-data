@@ -1,0 +1,46 @@
+
+
+Code Coverage Report:       
+  2019-02-17 15:45:46       
+                            
+ Summary:                   
+  Classes:  2.48% (4/161)   
+  Methods:  7.65% (60/784)  
+  Lines:    9.46% (540/5708)
+
+\Elasticsearch::Client
+  Methods:  10.42% ( 5/48)   Lines:  13.33% ( 52/390)
+\Elasticsearch::ClientBuilder
+  Methods:  28.21% (11/39)   Lines:  56.96% ( 90/158)
+\Elasticsearch::Transport
+  Methods:  37.50% ( 3/ 8)   Lines:  73.17% ( 30/ 41)
+\Elasticsearch\ConnectionPool::AbstractConnectionPool
+  Methods:   0.00% ( 0/ 1)   Lines:  92.31% ( 12/ 13)
+\Elasticsearch\ConnectionPool::SniffingConnectionPool
+  Methods:  57.14% ( 4/ 7)   Lines:  92.86% ( 52/ 56)
+\Elasticsearch\ConnectionPool::StaticConnectionPool
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 26/ 26)
+\Elasticsearch\ConnectionPool::StaticNoPingConnectionPool
+  Methods:  50.00% ( 2/ 4)   Lines:  82.35% ( 14/ 17)
+\Elasticsearch\ConnectionPool\Selectors::RoundRobinSelector
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Elasticsearch\ConnectionPool\Selectors::StickyRoundRobinSelector
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  5/  5)
+\Elasticsearch\Connections::Connection
+  Methods:  37.04% (10/27)   Lines:  43.43% (119/274)
+\Elasticsearch\Connections::ConnectionFactory
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 13/ 13)
+\Elasticsearch\Endpoints::AbstractEndpoint
+  Methods:  17.65% ( 3/17)   Lines:  48.10% ( 38/ 79)
+\Elasticsearch\Endpoints::Search
+  Methods:  75.00% ( 3/ 4)   Lines:  87.50% ( 14/ 16)
+\Elasticsearch\Helper\Iterators::SearchResponseIterator
+  Methods:  77.78% ( 7/ 9)   Lines:  89.66% ( 26/ 29)
+\Elasticsearch\Namespaces::AbstractNamespace
+  Methods:  33.33% ( 1/ 3)   Lines:  17.65% (  3/ 17)
+\Elasticsearch\Serializers::ArrayToJSONSerializer
+  Methods:  50.00% ( 1/ 2)   Lines:  85.71% (  6/  7)
+\Elasticsearch\Serializers::EverythingToJSONSerializer
+  Methods:  50.00% ( 1/ 2)   Lines:  80.00% (  4/  5)
+\Elasticsearch\Serializers::SmartSerializer
+  Methods:  25.00% ( 1/ 4)   Lines:  31.82% (  7/ 22)

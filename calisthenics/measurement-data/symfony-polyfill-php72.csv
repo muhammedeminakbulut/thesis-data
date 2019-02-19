@@ -1,0 +1,8 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:symfony/polyfill-php72.git,v1.4.0,96,21,15,0.00%,7,0,0,9,48,0
+git@github.com:symfony/polyfill-php72.git,v1.5.0,150,23,28,0.00%,8.2,0,0,9,50,0
+git@github.com:symfony/polyfill-php72.git,v1.6.0,150,23,28,0.00%,8.2,0,0,9,50,0
+git@github.com:symfony/polyfill-php72.git,v1.7.0,178,26,36,0.00%,6.8571428571429,0,0,9,51,0
+git@github.com:symfony/polyfill-php72.git,v1.8.0,195,26,39,0.00%,7.8571428571429,0,0,9,52,0
+git@github.com:symfony/polyfill-php72.git,v1.9.0,196,26,40,0.00%,7.8571428571429,0,0,9,52,0
+git@github.com:symfony/polyfill-php72.git,v1.10.0,252,27,53,0.00%,7.6666666666667,0,0,9,84,0

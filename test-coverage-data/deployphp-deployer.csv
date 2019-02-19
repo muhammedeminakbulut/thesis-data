@@ -1,0 +1,6 @@
+repository,tag,coverage
+git@github.com:deployphp/deployer.git,v6.0.0,71.78
+git@github.com:deployphp/deployer.git,v6.1.0,68.24
+git@github.com:deployphp/deployer.git,v6.2.0,68.11
+git@github.com:deployphp/deployer.git,v6.3.0,68.34
+git@github.com:deployphp/deployer.git,v6.4.0,68.90

@@ -1,0 +1,7 @@
+repository,tag,coverage
+git@github.com:bcit-ci/CodeIgniter.git,v2.0.3,"no composer"
+git@github.com:bcit-ci/CodeIgniter.git,v2.1.0,"no composer"
+git@github.com:bcit-ci/CodeIgniter.git,2.1.1,"no composer"
+git@github.com:bcit-ci/CodeIgniter.git,2.2.0,"no composer"
+git@github.com:bcit-ci/CodeIgniter.git,3.0.0,"no phpunit config"
+git@github.com:bcit-ci/CodeIgniter.git,3.1.0,"no phpunit config"

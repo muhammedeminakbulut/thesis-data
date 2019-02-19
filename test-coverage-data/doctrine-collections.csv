@@ -1,0 +1,5 @@
+repository,tag,coverage
+git@github.com:doctrine/collections.git,v1.2.1,"phpunit not installed"
+git@github.com:doctrine/collections.git,v1.3.0,74.24
+git@github.com:doctrine/collections.git,v1.4.0,95.61
+git@github.com:doctrine/collections.git,v1.5.0,95.67

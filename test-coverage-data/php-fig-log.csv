@@ -1,0 +1,3 @@
+repository,tag,coverage
+git@github.com:php-fig/log.git,1.0.0,"no phpunit config"
+git@github.com:php-fig/log.git,1.1.0,"no phpunit config"

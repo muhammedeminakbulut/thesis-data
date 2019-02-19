@@ -1,0 +1,6 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:php-fig/log.git,1.0.0,571,306,0,17.16%,1.4230769230769,0,116,17,5,0
+git@github.com:php-fig/log.git,1.0.1,628,341,1,16.72%,1.6666666666667,0,116,17,7,0
+git@github.com:php-fig/log.git,1.0.2,628,341,1,16.72%,1.6666666666667,0,116,17,7,0
+git@github.com:php-fig/log.git,1.1.0,778,397,11,13.50%,1.875,0,116,17,9,0
+4,0

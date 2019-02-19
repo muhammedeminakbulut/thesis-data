@@ -1,0 +1,44 @@
+
+
+Code Coverage Report:         
+  2019-02-17 15:47:09         
+                              
+ Summary:                     
+  Classes:  0.00% (0/23)      
+  Methods: 16.97% (94/554)    
+  Lines:   29.64% (3259/10995)
+
+@Crypt_AES::Crypt_AES
+  Methods:  33.33% ( 1/ 3)   Lines:  60.00% ( 12/ 20)
+@Crypt_Base::Crypt_Base
+  Methods:  34.38% (11/32)   Lines:  61.35% (500/815)
+@Crypt_Blowfish::Crypt_Blowfish
+  Methods:  50.00% ( 3/ 6)   Lines:  80.00% ( 92/115)
+@Crypt_DES::Crypt_DES
+  Methods:  14.29% ( 1/ 7)   Lines:  64.50% (109/169)
+@Crypt_Hash::Crypt_Hash
+  Methods:  56.25% ( 9/16)   Lines:  76.68% (240/313)
+@Crypt_RC2::Crypt_RC2
+  Methods:  45.45% ( 5/11)   Lines:  63.16% ( 96/152)
+@Crypt_RC4::Crypt_RC4
+  Methods:  50.00% ( 4/ 8)   Lines:  85.00% ( 51/ 60)
+@Crypt_RSA::Crypt_RSA
+  Methods:  23.73% (14/59)   Lines:  42.55% (500/1175)
+@Crypt_Rijndael::Crypt_Rijndael
+  Methods:  46.15% ( 6/13)   Lines:  55.25% (200/362)
+@Crypt_TripleDES::Crypt_TripleDES
+  Methods:  40.00% ( 4/10)   Lines:  61.84% ( 47/ 76)
+@File_ANSI::File_ANSI
+  Methods:  50.00% ( 5/10)   Lines:  51.46% (123/239)
+@File_ASN1::File_ASN1
+  Methods:  38.46% ( 5/13)   Lines:  59.33% (353/595)
+@File_X509::File_X509
+  Methods:   5.13% ( 4/78)   Lines:  27.40% (440/1606)
+@Math_BigInteger::Math_BigInteger
+  Methods:  12.68% ( 9/71)   Lines:  28.23% (385/1364)
+@Net_SFTP_Stream::Net_SFTP_Stream
+  Methods:   0.00% ( 0/27)   Lines:   1.45% (  3/207)
+@Net_SSH1::Net_SSH1
+  Methods:  13.33% ( 4/30)   Lines:   6.05% ( 23/380)
+@Net_SSH2::Net_SSH2
+  Methods:  12.86% ( 9/70)   Lines:   2.52% ( 41/1626)

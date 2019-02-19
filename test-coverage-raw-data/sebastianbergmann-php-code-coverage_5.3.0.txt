@@ -1,0 +1,68 @@
+
+
+Code Coverage Report:        
+  2019-02-16 14:21:13        
+                             
+ Summary:                    
+  Classes: 25.00% (8/32)     
+  Methods: 71.19% (173/243)  
+  Lines:   85.15% (2082/2445)
+
+\SebastianBergmann\CodeCoverage::SebastianBergmann\CodeCoverage\CodeCoverage
+  Methods:  50.00% (19/38)   Lines:  73.75% (295/400)
+\SebastianBergmann\CodeCoverage::SebastianBergmann\CodeCoverage\Filter
+  Methods:  72.73% ( 8/11)   Lines:  89.19% ( 33/ 37)
+\SebastianBergmann\CodeCoverage::SebastianBergmann\CodeCoverage\Util
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  9/  9)
+\SebastianBergmann\CodeCoverage::SebastianBergmann\CodeCoverage\Version
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  4/  4)
+\SebastianBergmann\CodeCoverage\Node::SebastianBergmann\CodeCoverage\Node\AbstractNode
+  Methods:  78.95% (15/19)   Lines:  83.61% ( 51/ 61)
+\SebastianBergmann\CodeCoverage\Node::SebastianBergmann\CodeCoverage\Node\Builder
+  Methods:  75.00% ( 3/ 4)   Lines:  97.14% ( 68/ 70)
+\SebastianBergmann\CodeCoverage\Node::SebastianBergmann\CodeCoverage\Node\Directory
+  Methods:  90.48% (19/21)   Lines:  91.43% ( 96/105)
+\SebastianBergmann\CodeCoverage\Node::SebastianBergmann\CodeCoverage\Node\File
+  Methods:  62.50% (15/24)   Lines:  72.59% (188/259)
+\SebastianBergmann\CodeCoverage\Node::SebastianBergmann\CodeCoverage\Node\Iterator
+  Methods:  75.00% ( 6/ 8)   Lines:  75.00% (  9/ 12)
+\SebastianBergmann\CodeCoverage\Report::SebastianBergmann\CodeCoverage\Report\Clover
+  Methods:   0.00% ( 0/ 1)   Lines:  83.80% (119/142)
+\SebastianBergmann\CodeCoverage\Report::SebastianBergmann\CodeCoverage\Report\Crap4j
+  Methods:  25.00% ( 1/ 4)   Lines:  83.33% ( 60/ 72)
+\SebastianBergmann\CodeCoverage\Report::SebastianBergmann\CodeCoverage\Report\Text
+  Methods:  60.00% ( 3/ 5)   Lines:  76.00% ( 95/125)
+\SebastianBergmann\CodeCoverage\Report\Html::SebastianBergmann\CodeCoverage\Report\Html\Dashboard
+  Methods:  66.67% ( 4/ 6)   Lines:  98.40% (123/125)
+\SebastianBergmann\CodeCoverage\Report\Html::SebastianBergmann\CodeCoverage\Report\Html\Directory
+  Methods:   0.00% ( 0/ 2)   Lines:  85.00% ( 34/ 40)
+\SebastianBergmann\CodeCoverage\Report\Html::SebastianBergmann\CodeCoverage\Report\Html\Facade
+  Methods:  50.00% ( 2/ 4)   Lines:  87.34% ( 69/ 79)
+\SebastianBergmann\CodeCoverage\Report\Html::SebastianBergmann\CodeCoverage\Report\Html\File
+  Methods:  75.00% ( 6/ 8)   Lines:  92.48% (295/319)
+\SebastianBergmann\CodeCoverage\Report\Html::SebastianBergmann\CodeCoverage\Report\Html\Renderer
+  Methods:  80.00% ( 8/10)   Lines:  95.90% (117/122)
+\SebastianBergmann\CodeCoverage\Report\Xml::SebastianBergmann\CodeCoverage\Report\Xml\BuildInformation
+  Methods:  80.00% ( 4/ 5)   Lines:  84.85% ( 28/ 33)
+\SebastianBergmann\CodeCoverage\Report\Xml::SebastianBergmann\CodeCoverage\Report\Xml\Coverage
+  Methods:  66.67% ( 2/ 3)   Lines:  95.00% ( 19/ 20)
+\SebastianBergmann\CodeCoverage\Report\Xml::SebastianBergmann\CodeCoverage\Report\Xml\Facade
+  Methods:  66.67% ( 8/12)   Lines:  92.91% (118/127)
+\SebastianBergmann\CodeCoverage\Report\Xml::SebastianBergmann\CodeCoverage\Report\Xml\File
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 26/ 26)
+\SebastianBergmann\CodeCoverage\Report\Xml::SebastianBergmann\CodeCoverage\Report\Xml\Method
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 17/ 17)
+\SebastianBergmann\CodeCoverage\Report\Xml::SebastianBergmann\CodeCoverage\Report\Xml\Node
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 27/ 27)
+\SebastianBergmann\CodeCoverage\Report\Xml::SebastianBergmann\CodeCoverage\Report\Xml\Project
+  Methods:  85.71% ( 6/ 7)   Lines:  88.57% ( 31/ 35)
+\SebastianBergmann\CodeCoverage\Report\Xml::SebastianBergmann\CodeCoverage\Report\Xml\Report
+  Methods:  87.50% ( 7/ 8)   Lines:  97.14% ( 34/ 35)
+\SebastianBergmann\CodeCoverage\Report\Xml::SebastianBergmann\CodeCoverage\Report\Xml\Source
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  9/  9)
+\SebastianBergmann\CodeCoverage\Report\Xml::SebastianBergmann\CodeCoverage\Report\Xml\Tests
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 11/ 11)
+\SebastianBergmann\CodeCoverage\Report\Xml::SebastianBergmann\CodeCoverage\Report\Xml\Totals
+  Methods:  85.71% ( 6/ 7)   Lines:  98.25% ( 56/ 57)
+\SebastianBergmann\CodeCoverage\Report\Xml::SebastianBergmann\CodeCoverage\Report\Xml\Unit
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 41/ 41)

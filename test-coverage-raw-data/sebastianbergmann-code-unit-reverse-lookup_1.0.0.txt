@@ -1,0 +1,12 @@
+
+
+Code Coverage Report:    
+  2019-02-16 21:07:48    
+                         
+ Summary:                
+  Classes:  0.00% (0/1)  
+  Methods: 60.00% (3/5)  
+  Lines:   93.75% (30/32)
+
+\SebastianBergmann\CodeUnitReverseLookup::Wizard
+  Methods:  60.00% ( 3/ 5)   Lines:  93.75% ( 30/ 32)

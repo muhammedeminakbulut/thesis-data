@@ -1,0 +1,29 @@
+repository,tag,coverage
+git@github.com:rappasoft/laravel-5-boilerplate.git,1.0.0,"phpunit failed"
+git@github.com:rappasoft/laravel-5-boilerplate.git,1.1.0,"phpunit failed"
+git@github.com:rappasoft/laravel-5-boilerplate.git,1.2.0,"phpunit failed"
+git@github.com:rappasoft/laravel-5-boilerplate.git,1.3.1,"phpunit failed"
+git@github.com:rappasoft/laravel-5-boilerplate.git,1.4.1,"phpunit failed"
+git@github.com:rappasoft/laravel-5-boilerplate.git,1.5.1,"phpunit failed"
+git@github.com:rappasoft/laravel-5-boilerplate.git,1.6.1,"phpunit failed"
+git@github.com:rappasoft/laravel-5-boilerplate.git,1.7.0,"phpunit failed"
+git@github.com:rappasoft/laravel-5-boilerplate.git,1.9.1,"phpunit failed"
+git@github.com:rappasoft/laravel-5-boilerplate.git,1.10.1,"phpunit failed"
+git@github.com:rappasoft/laravel-5-boilerplate.git,1.11.1,"phpunit failed"
+git@github.com:rappasoft/laravel-5-boilerplate.git,1.12.1,"phpunit failed"
+git@github.com:rappasoft/laravel-5-boilerplate.git,1.13.1,"phpunit failed"
+git@github.com:rappasoft/laravel-5-boilerplate.git,2.0.1,0.00
+git@github.com:rappasoft/laravel-5-boilerplate.git,2.1.1,0.00
+git@github.com:rappasoft/laravel-5-boilerplate.git,2.2.1,0.00
+git@github.com:rappasoft/laravel-5-boilerplate.git,2.3.0,0.00
+git@github.com:rappasoft/laravel-5-boilerplate.git,3.0.1,"phpunit failed"
+git@github.com:rappasoft/laravel-5-boilerplate.git,3.1.1,"phpunit failed"
+git@github.com:rappasoft/laravel-5-boilerplate.git,4.0.0,"phpunit failed"
+git@github.com:rappasoft/laravel-5-boilerplate.git,4.1.0,"phpunit failed"
+git@github.com:rappasoft/laravel-5-boilerplate.git,4.2.0,"phpunit failed"
+git@github.com:rappasoft/laravel-5-boilerplate.git,4.3.0,"phpunit failed"
+git@github.com:rappasoft/laravel-5-boilerplate.git,4.4.0,"phpunit failed"
+git@github.com:rappasoft/laravel-5-boilerplate.git,4.5.0,"phpunit failed"
+git@github.com:rappasoft/laravel-5-boilerplate.git,5.0.0,"phpunit failed"
+git@github.com:rappasoft/laravel-5-boilerplate.git,5.1.0,"phpunit failed"
+git@github.com:rappasoft/laravel-5-boilerplate.git,5.2.0,"phpunit failed"

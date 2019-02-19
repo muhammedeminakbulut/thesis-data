@@ -1,0 +1,5 @@
+repository,tag,coverage
+git@github.com:googleapis/google-api-php-client.git,1.1.1,"no phpunit config"
+git@github.com:googleapis/google-api-php-client.git,v1.1.8,"phpunit failed"
+git@github.com:googleapis/google-api-php-client.git,v2.0.0,"phpunit failed"
+git@github.com:googleapis/google-api-php-client.git,v2.2.0,67.34

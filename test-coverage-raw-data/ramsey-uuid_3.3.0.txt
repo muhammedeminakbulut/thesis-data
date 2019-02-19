@@ -1,0 +1,62 @@
+
+
+Code Coverage Report:      
+  2019-02-15 15:33:33      
+                           
+ Summary:                  
+  Classes: 63.33% (19/30)  
+  Methods: 87.32% (124/142)
+  Lines:   92.62% (389/420)
+
+\Ramsey\Uuid::BinaryUtils
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  8/  8)
+\Ramsey\Uuid::DegradedUuid
+  Methods:  60.00% ( 3/ 5)   Lines:  89.47% ( 17/ 19)
+\Ramsey\Uuid::FeatureSet
+  Methods:  94.12% (16/17)   Lines:  97.92% ( 47/ 48)
+\Ramsey\Uuid::Uuid
+  Methods:  97.92% (47/48)   Lines:  99.09% (109/110)
+\Ramsey\Uuid::UuidFactory
+  Methods:  65.00% (13/20)   Lines:  79.17% ( 38/ 48)
+\Ramsey\Uuid\Builder::DefaultUuidBuilder
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\Ramsey\Uuid\Builder::DegradedUuidBuilder
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\Ramsey\Uuid\Codec::GuidStringCodec
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 18/ 18)
+\Ramsey\Uuid\Codec::StringCodec
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% ( 33/ 33)
+\Ramsey\Uuid\Converter\Number::BigNumberConverter
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  5/  5)
+\Ramsey\Uuid\Converter\Number::DegradedNumberConverter
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\Ramsey\Uuid\Converter\Time::BigNumberTimeConverter
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 12/ 12)
+\Ramsey\Uuid\Converter\Time::DegradedTimeConverter
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Ramsey\Uuid\Converter\Time::PhpTimeConverter
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  4/  4)
+\Ramsey\Uuid\Generator::CombGenerator
+  Methods:  66.67% ( 2/ 3)   Lines:  93.33% ( 14/ 15)
+\Ramsey\Uuid\Generator::DefaultTimeGenerator
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 27/ 27)
+\Ramsey\Uuid\Generator::MtRandGenerator
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  4/  4)
+\Ramsey\Uuid\Generator::RandomBytesGenerator
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Ramsey\Uuid\Generator::RandomGeneratorFactory
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Ramsey\Uuid\Generator::RandomLibAdapter
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  6/  6)
+\Ramsey\Uuid\Generator::TimeGeneratorFactory
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  8/  8)
+\Ramsey\Uuid\Provider\Node::FallbackNodeProvider
+  Methods:  50.00% ( 1/ 2)   Lines:  83.33% (  5/  6)
+\Ramsey\Uuid\Provider\Node::RandomNodeProvider
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Ramsey\Uuid\Provider\Node::SystemNodeProvider
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 10/ 10)
+\Ramsey\Uuid\Provider\Time::FixedTimeProvider
+  Methods:  75.00% ( 3/ 4)   Lines:  88.89% (  8/  9)
+\Ramsey\Uuid\Provider\Time::SystemTimeProvider
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)

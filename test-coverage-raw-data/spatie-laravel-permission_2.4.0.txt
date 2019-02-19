@@ -1,0 +1,42 @@
+
+
+Code Coverage Report:      
+  2019-02-16 14:30:09      
+                           
+ Summary:                  
+  Classes: 62.50% (10/16)  
+  Methods: 90.79% (69/76)  
+  Lines:   96.23% (281/292)
+
+\Spatie\Permission::Spatie\Permission\PermissionRegistrar
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 11/ 11)
+\Spatie\Permission::Spatie\Permission\PermissionServiceProvider
+  Methods:  91.67% (11/12)   Lines:  96.43% ( 54/ 56)
+\Spatie\Permission\Commands::Spatie\Permission\Commands\CreatePermission
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  6/  6)
+\Spatie\Permission\Commands::Spatie\Permission\Commands\CreateRole
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  6/  6)
+\Spatie\Permission\Exceptions::Spatie\Permission\Exceptions\GuardDoesNotMatch
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Spatie\Permission\Exceptions::Spatie\Permission\Exceptions\PermissionAlreadyExists
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Spatie\Permission\Exceptions::Spatie\Permission\Exceptions\PermissionDoesNotExist
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Spatie\Permission\Exceptions::Spatie\Permission\Exceptions\RoleAlreadyExists
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Spatie\Permission\Exceptions::Spatie\Permission\Exceptions\RoleDoesNotExist
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Spatie\Permission\Middlewares::Spatie\Permission\Middlewares\PermissionMiddleware
+  Methods:   0.00% ( 0/ 1)   Lines:  87.50% (  7/  8)
+\Spatie\Permission\Middlewares::Spatie\Permission\Middlewares\RoleMiddleware
+  Methods:   0.00% ( 0/ 1)   Lines:  87.50% (  7/  8)
+\Spatie\Permission\Models::Spatie\Permission\Models\Permission
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 23/ 23)
+\Spatie\Permission\Models::Spatie\Permission\Models\Role
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 27/ 27)
+\Spatie\Permission\Traits::HasPermissions
+  Methods:  91.67% (11/12)   Lines:  87.88% ( 29/ 33)
+\Spatie\Permission\Traits::HasRoles
+  Methods:  91.30% (21/23)   Lines:  97.44% ( 76/ 78)
+\Spatie\Permission\Traits::RefreshesPermissionCache
+  Methods:  66.67% ( 2/ 3)   Lines:  83.33% (  5/  6)

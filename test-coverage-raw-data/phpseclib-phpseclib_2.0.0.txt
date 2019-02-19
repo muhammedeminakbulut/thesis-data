@@ -1,0 +1,46 @@
+
+
+Code Coverage Report:         
+  2019-02-17 15:53:55         
+                              
+ Summary:                     
+  Classes:  0.00% (0/24)      
+  Methods: 16.88% (93/551)    
+  Lines:   29.75% (3195/10739)
+
+\phpseclib\Crypt::AES
+  Methods:  33.33% ( 1/ 3)   Lines:  60.00% ( 12/ 20)
+\phpseclib\Crypt::Base
+  Methods:  37.93% (11/29)   Lines:  61.99% (499/805)
+\phpseclib\Crypt::Blowfish
+  Methods:  50.00% ( 3/ 6)   Lines:  80.00% ( 92/115)
+\phpseclib\Crypt::DES
+  Methods:  14.29% ( 1/ 7)   Lines:  64.50% (109/169)
+\phpseclib\Crypt::Hash
+  Methods:  62.50% (10/16)   Lines:  76.85% (239/311)
+\phpseclib\Crypt::RC2
+  Methods:  40.00% ( 4/10)   Lines:  62.67% ( 94/150)
+\phpseclib\Crypt::RC4
+  Methods:  40.00% ( 4/10)   Lines:  82.26% ( 51/ 62)
+\phpseclib\Crypt::RSA
+  Methods:  23.73% (14/59)   Lines:  43.09% (496/1151)
+\phpseclib\Crypt::Random
+  Methods:   0.00% ( 0/ 1)   Lines:   3.80% (  3/ 79)
+\phpseclib\Crypt::Rijndael
+  Methods:  41.67% ( 5/12)   Lines:  55.00% (198/360)
+\phpseclib\Crypt::TripleDES
+  Methods:  40.00% ( 4/10)   Lines:  61.84% ( 47/ 76)
+\phpseclib\File::ANSI
+  Methods:  50.00% ( 5/10)   Lines:  51.46% (123/239)
+\phpseclib\File::ASN1
+  Methods:  41.67% ( 5/12)   Lines:  59.08% (348/589)
+\phpseclib\File::X509
+  Methods:   6.41% ( 5/78)   Lines:  27.40% (434/1584)
+\phpseclib\Math::BigInteger
+  Methods:  11.43% ( 8/70)   Lines:  28.08% (383/1364)
+\phpseclib\Net::SSH1
+  Methods:  13.33% ( 4/30)   Lines:   6.18% ( 23/372)
+\phpseclib\Net::SSH2
+  Methods:  12.68% ( 9/71)   Lines:   2.72% ( 42/1543)
+\phpseclib\Net\SFTP::Stream
+  Methods:   0.00% ( 0/27)   Lines:   0.97% (  2/206)

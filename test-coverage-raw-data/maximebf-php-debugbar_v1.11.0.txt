@@ -1,0 +1,34 @@
+
+
+Code Coverage Report:       
+  2019-02-17 15:45:42       
+                            
+ Summary:                   
+  Classes:  5.56% (2/36)    
+  Methods: 22.36% (93/416)  
+  Lines:   27.46% (566/2061)
+
+\DebugBar::DebugBar
+  Methods:  53.33% (16/30)   Lines:  79.46% ( 89/112)
+\DebugBar::JavascriptRenderer
+  Methods:  64.00% (32/50)   Lines:  81.10% (206/254)
+\DebugBar::OpenHandler
+  Methods:  40.00% ( 2/ 5)   Lines:  73.53% ( 25/ 34)
+\DebugBar::RequestIdGenerator
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\DebugBar\Bridge::Propel2Collector
+  Methods:  40.00% ( 6/15)   Lines:  66.28% ( 57/ 86)
+\DebugBar\DataCollector::AggregatedCollector
+  Methods:  60.00% ( 9/15)   Lines:  80.65% ( 25/ 31)
+\DebugBar\DataCollector::ConfigCollector
+  Methods:  80.00% ( 4/ 5)   Lines:  88.89% ( 16/ 18)
+\DebugBar\DataCollector::DataCollector
+  Methods:  28.57% ( 2/ 7)   Lines:  46.15% (  6/ 13)
+\DebugBar\DataCollector::MessagesCollector
+  Methods:  53.85% ( 7/13)   Lines:  75.00% ( 33/ 44)
+\DebugBar\DataCollector::TimeDataCollector
+  Methods:  30.77% ( 4/13)   Lines:  71.93% ( 41/ 57)
+\DebugBar\DataFormatter::DataFormatter
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 19/ 19)
+\DebugBar\Storage::FileStorage
+  Methods:  62.50% ( 5/ 8)   Lines:  83.33% ( 20/ 24)

@@ -1,0 +1,9 @@
+repository,tag,coverage
+git@github.com:laravel/lumen.git,v5.0.0,"phpunit failed"
+git@github.com:laravel/lumen.git,v5.1.0,13.33
+git@github.com:laravel/lumen.git,v5.2.0,4.55
+git@github.com:laravel/lumen.git,v5.3.0,0.00
+git@github.com:laravel/lumen.git,v5.4.0,0.00
+git@github.com:laravel/lumen.git,v5.5.0,0.00
+git@github.com:laravel/lumen.git,v5.6.0,0.00
+git@github.com:laravel/lumen.git,v5.7.0,0.00

@@ -1,0 +1,17 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:ci-bonfire/Bonfire.git,v0.2.1,105698,34367,7268,2.50%,4.6754212091179,0,573,105,4651,5
+git@github.com:ci-bonfire/Bonfire.git,v0.5.1,113604,37197,7745,5.12%,4.718932038835,0,573,105,4861,7
+git@github.com:ci-bonfire/Bonfire.git,v0.5.2,113539,37107,7763,4.81%,4.7180296044649,0,573,105,4862,8
+git@github.com:ci-bonfire/Bonfire.git,v0.6.1,129548,43560,8955,3.68%,4.7953519855596,0,573,105,5314,8
+git@github.com:ci-bonfire/Bonfire.git,0.7.1,151364,48581,10156,3.88%,4.5511564092513,0,573,105,5798,6
+git@github.com:ci-bonfire/Bonfire.git,0.7.2,160055,51408,10730,3.48%,4.5812246474792,0,573,105,5962,5
+git@github.com:ci-bonfire/Bonfire.git,0.7.3,160622,51571,10768,3.46%,4.5945216049383,0,573,105,5997,5
+git@github.com:ci-bonfire/Bonfire.git,0.7.4,160694,51598,10771,3.46%,4.594370541739,0,573,105,5998,5
+git@github.com:ci-bonfire/Bonfire.git,0.7.5,160256,51169,10766,3.47%,4.5945633314054,0,573,105,5995,5
+git@github.com:ci-bonfire/Bonfire.git,0.7.6,160266,51174,10768,3.47%,4.5944487278335,0,573,105,5995,5
+git@github.com:ci-bonfire/Bonfire.git,0.7.7,161674,51708,10904,3.46%,4.6124952088923,0,573,105,6082,5
+git@github.com:ci-bonfire/Bonfire.git,0.7.8,161839,51735,10954,3.46%,4.6158711903393,0,573,105,6092,5
+git@github.com:ci-bonfire/Bonfire.git,0.8.0,189896,66010,13111,3.72%,4.5777897962863,0,573,105,7281,5
+git@github.com:ci-bonfire/Bonfire.git,0.8.1,189469,65581,13109,3.70%,4.578691184424,0,573,105,7281,5
+git@github.com:ci-bonfire/Bonfire.git,0.8.2,189717,65725,13120,3.69%,4.5799243106866,0,573,105,7290,5
+git@github.com:ci-bonfire/Bonfire.git,0.8.3,191229,66233,13298,3.71%,4.6062399139322,0,573,105,7397,5

@@ -1,0 +1,12 @@
+repository,tag,coverage
+git@github.com:doctrine/common.git,2.0.0,"no composer"
+git@github.com:doctrine/common.git,2.1.0,"no composer"
+git@github.com:doctrine/common.git,2.2.0,"phpunit not installed"
+git@github.com:doctrine/common.git,2.3.0,"phpunit not installed"
+git@github.com:doctrine/common.git,v2.4.0,"phpunit not installed"
+git@github.com:doctrine/common.git,v2.5.0,"phpunit failed"
+git@github.com:doctrine/common.git,v2.6.0,61.74
+git@github.com:doctrine/common.git,v2.7.0,62.99
+git@github.com:doctrine/common.git,v2.8.0,63.67
+git@github.com:doctrine/common.git,v2.9.0,90.12
+git@github.com:doctrine/common.git,v2.10.0,90.12

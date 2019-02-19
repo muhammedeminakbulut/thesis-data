@@ -1,0 +1,5 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:sebastianbergmann/global-state.git,1.0.0,1248,659,56,0.00%,2.2558139534884,0,5,7,14,0
+git@github.com:sebastianbergmann/global-state.git,1.1.0,1223,379,75,0.00%,2.7272727272727,0,5,7,20,0
+git@github.com:sebastianbergmann/global-state.git,1.1.1,1230,379,76,0.00%,2.7454545454545,0,5,7,20,0
+git@github.com:sebastianbergmann/global-state.git,2.0.0,1295,320,76,0.00%,2.9672131147541,0,5,7,20,0

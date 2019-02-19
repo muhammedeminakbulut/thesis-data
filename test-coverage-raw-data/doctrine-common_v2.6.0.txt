@@ -1,0 +1,68 @@
+
+
+Code Coverage Report:       
+  2019-02-17 15:31:45       
+                            
+ Summary:                   
+  Classes: 23.68% (9/38)    
+  Methods: 41.37% (139/336) 
+  Lines:   61.74% (918/1487)
+
+\Doctrine\Common::ClassLoader
+  Methods:  71.43% (10/14)   Lines:  90.24% ( 37/ 41)
+\Doctrine\Common::EventArgs
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\Doctrine\Common::EventManager
+  Methods:  85.71% ( 6/ 7)   Lines:  90.00% ( 18/ 20)
+\Doctrine\Common\Persistence::AbstractManagerRegistry
+  Methods:   7.69% ( 1/13)   Lines:  38.00% ( 19/ 50)
+\Doctrine\Common\Persistence::ObjectManagerDecorator
+  Methods: 100.00% (13/13)   Lines: 100.00% ( 13/ 13)
+\Doctrine\Common\Persistence::PersistentObject
+  Methods: 100.00% ( 9/ 9)   Lines: 100.00% ( 56/ 56)
+\Doctrine\Common\Persistence\Mapping::AbstractClassMetadataFactory
+  Methods:  38.46% ( 5/13)   Lines:  69.05% ( 58/ 84)
+\Doctrine\Common\Persistence\Mapping::MappingException
+  Methods:  50.00% ( 3/ 6)   Lines:  36.36% (  4/ 11)
+\Doctrine\Common\Persistence\Mapping::RuntimeReflectionService
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 17/ 17)
+\Doctrine\Common\Persistence\Mapping::StaticReflectionService
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 11/ 11)
+\Doctrine\Common\Persistence\Mapping\Driver::AnnotationDriver
+  Methods:  30.00% ( 3/10)   Lines:  71.70% ( 38/ 53)
+\Doctrine\Common\Persistence\Mapping\Driver::DefaultFileLocator
+  Methods:  87.50% ( 7/ 8)   Lines:  96.97% ( 32/ 33)
+\Doctrine\Common\Persistence\Mapping\Driver::FileDriver
+  Methods:  66.67% ( 6/ 9)   Lines:  89.74% ( 35/ 39)
+\Doctrine\Common\Persistence\Mapping\Driver::MappingDriverChain
+  Methods:  71.43% ( 5/ 7)   Lines:  90.91% ( 30/ 33)
+\Doctrine\Common\Persistence\Mapping\Driver::PHPDriver
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  8/  8)
+\Doctrine\Common\Persistence\Mapping\Driver::StaticPHPDriver
+  Methods:  80.00% ( 4/ 5)   Lines:  90.91% ( 30/ 33)
+\Doctrine\Common\Persistence\Mapping\Driver::SymfonyFileLocator
+  Methods:  66.67% ( 6/ 9)   Lines:  80.00% ( 48/ 60)
+\Doctrine\Common\Proxy::AbstractProxyFactory
+  Methods:  20.00% ( 1/ 5)   Lines:  61.11% ( 33/ 54)
+\Doctrine\Common\Proxy::Autoloader
+  Methods:  66.67% ( 2/ 3)   Lines:  92.31% ( 12/ 13)
+\Doctrine\Common\Proxy::ProxyDefinition
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  6/  6)
+\Doctrine\Common\Proxy::ProxyGenerator
+  Methods:  80.77% (21/26)   Lines:  96.88% (248/256)
+\Doctrine\Common\Proxy\Exception::InvalidArgumentException
+  Methods:  83.33% ( 5/ 6)   Lines:  85.71% (  6/  7)
+\Doctrine\Common\Proxy\Exception::OutOfBoundsException
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Doctrine\Common\Proxy\Exception::UnexpectedValueException
+  Methods:  50.00% ( 1/ 2)   Lines:  88.89% (  8/  9)
+\Doctrine\Common\Reflection::Psr0FindFile
+  Methods:  50.00% ( 1/ 2)   Lines:  76.47% ( 13/ 17)
+\Doctrine\Common\Reflection::RuntimePublicReflectionProperty
+  Methods:  50.00% ( 1/ 2)   Lines:  93.75% ( 15/ 16)
+\Doctrine\Common\Reflection::StaticReflectionParser
+  Methods:  36.36% ( 4/11)   Lines:  82.35% ( 70/ 85)
+\Doctrine\Common\Util::ClassUtils
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% (  8/  8)
+\Doctrine\Common\Util::Debug
+  Methods:  25.00% ( 1/ 4)   Lines:  82.98% ( 39/ 47)

@@ -1,0 +1,19 @@
+repository,tag,coverage
+git@github.com:thephpleague/fractal.git,0.0.1,"phpunit not installed"
+git@github.com:thephpleague/fractal.git,0.1.0,"phpunit not installed"
+git@github.com:thephpleague/fractal.git,0.2.0,"phpunit not installed"
+git@github.com:thephpleague/fractal.git,0.3.0,"phpunit not installed"
+git@github.com:thephpleague/fractal.git,0.4.0,"phpunit not installed"
+git@github.com:thephpleague/fractal.git,0.5.0,"phpunit not installed"
+git@github.com:thephpleague/fractal.git,0.6.0,"phpunit not installed"
+git@github.com:thephpleague/fractal.git,0.7.0,"phpunit not installed"
+git@github.com:thephpleague/fractal.git,0.8.0,"phpunit failed"
+git@github.com:thephpleague/fractal.git,0.9.0,99.59
+git@github.com:thephpleague/fractal.git,0.10.0,99.22
+git@github.com:thephpleague/fractal.git,0.11.0,97.92
+git@github.com:thephpleague/fractal.git,0.12.0,98.26
+git@github.com:thephpleague/fractal.git,0.13.0,98.01
+git@github.com:thephpleague/fractal.git,0.14.0,98.29
+git@github.com:thephpleague/fractal.git,0.15.0,97.73
+git@github.com:thephpleague/fractal.git,0.16.0,98.07
+git@github.com:thephpleague/fractal.git,0.17.0,97.58

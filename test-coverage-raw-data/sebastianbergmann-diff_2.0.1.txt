@@ -1,0 +1,30 @@
+
+
+Code Coverage Report:      
+  2019-02-16 15:06:44      
+                           
+ Summary:                  
+  Classes: 90.00% (9/10)   
+  Methods: 97.37% (37/38)  
+  Lines:   99.72% (358/359)
+
+\SebastianBergmann\Diff::SebastianBergmann\Diff\Chunk
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 13/ 13)
+\SebastianBergmann\Diff::SebastianBergmann\Diff\Diff
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% (  9/  9)
+\SebastianBergmann\Diff::SebastianBergmann\Diff\Differ
+  Methods:  90.00% ( 9/10)   Lines:  99.09% (109/110)
+\SebastianBergmann\Diff::SebastianBergmann\Diff\Line
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\SebastianBergmann\Diff::SebastianBergmann\Diff\MemoryEfficientLongestCommonSubsequenceCalculator
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 35/ 35)
+\SebastianBergmann\Diff::SebastianBergmann\Diff\Parser
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 46/ 46)
+\SebastianBergmann\Diff::SebastianBergmann\Diff\TimeEfficientLongestCommonSubsequenceCalculator
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 28/ 28)
+\SebastianBergmann\Diff\Output::SebastianBergmann\Diff\Output\AbstractChunkOutputBuilder
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 19/ 19)
+\SebastianBergmann\Diff\Output::SebastianBergmann\Diff\Output\DiffOnlyOutputBuilder
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 22/ 22)
+\SebastianBergmann\Diff\Output::SebastianBergmann\Diff\Output\UnifiedDiffOutputBuilder
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 72/ 72)

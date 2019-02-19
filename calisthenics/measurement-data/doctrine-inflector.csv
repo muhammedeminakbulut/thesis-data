@@ -1,0 +1,5 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:doctrine/inflector.git,v1.0.1,661,163,34,0.00%,5.6428571428571,0,82,64,10,0
+git@github.com:doctrine/inflector.git,v1.1.0,827,198,34,0.00%,5.0625,0,82,64,11,0
+git@github.com:doctrine/inflector.git,v1.2.0,906,230,28,0.00%,3.9545454545455,0,82,64,11,0
+git@github.com:doctrine/inflector.git,v1.3.0,964,170,28,0.00%,3.8260869565217,0,82,64,11,0

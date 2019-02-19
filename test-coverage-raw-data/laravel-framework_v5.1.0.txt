@@ -1,0 +1,376 @@
+
+
+Code Coverage Report:         
+  2019-02-16 13:20:17         
+                              
+ Summary:                     
+  Classes: 12.62% (52/412)    
+  Methods: 52.57% (2177/4141) 
+  Lines:   59.27% (7038/11875)
+
+IlluminateQueueClosure
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  5/  5)
+\Illuminate\Auth::DatabaseUserProvider
+  Methods:  71.43% ( 5/ 7)   Lines:  65.38% ( 17/ 26)
+\Illuminate\Auth::EloquentUserProvider
+  Methods:  71.43% ( 5/ 7)   Lines:  61.90% ( 13/ 21)
+\Illuminate\Auth::GenericUser
+  Methods:  30.00% ( 3/10)   Lines:  28.57% (  4/ 14)
+\Illuminate\Auth::Guard
+  Methods:  67.39% (31/46)   Lines:  78.01% (110/141)
+\Illuminate\Auth\Passwords::DatabaseTokenRepository
+  Methods: 100.00% (12/12)   Lines: 100.00% ( 26/ 26)
+\Illuminate\Auth\Passwords::PasswordBroker
+  Methods:  81.82% ( 9/11)   Lines:  95.74% ( 45/ 47)
+\Illuminate\Broadcasting::BroadcastEvent
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 18/ 18)
+\Illuminate\Bus::Dispatcher
+  Methods:  42.86% ( 9/21)   Lines:  71.05% ( 54/ 76)
+\Illuminate\Cache::ApcStore
+  Methods:  66.67% ( 6/ 9)   Lines:  75.00% ( 12/ 16)
+\Illuminate\Cache::ApcWrapper
+  Methods:  14.29% ( 1/ 7)   Lines:  22.22% (  2/  9)
+\Illuminate\Cache::ArrayStore
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% ( 15/ 15)
+\Illuminate\Cache::DatabaseStore
+  Methods:  57.14% ( 8/14)   Lines:  63.83% ( 30/ 47)
+\Illuminate\Cache::FileStore
+  Methods:  60.00% ( 9/15)   Lines:  79.55% ( 35/ 44)
+\Illuminate\Cache::MemcachedConnector
+  Methods:   0.00% ( 0/ 2)   Lines:  81.82% (  9/ 11)
+\Illuminate\Cache::MemcachedStore
+  Methods:  63.64% ( 7/11)   Lines:  73.68% ( 14/ 19)
+\Illuminate\Cache::NullStore
+  Methods:  25.00% ( 2/ 8)   Lines:  25.00% (  2/  8)
+\Illuminate\Cache::RedisStore
+  Methods:  69.23% ( 9/13)   Lines:  76.00% ( 19/ 25)
+\Illuminate\Cache::RedisTaggedCache
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 19/ 19)
+\Illuminate\Cache::Repository
+  Methods:  45.45% (10/22)   Lines:  60.00% ( 36/ 60)
+\Illuminate\Cache::TagSet
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 11/ 11)
+\Illuminate\Cache::TaggableStore
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Illuminate\Cache::TaggedCache
+  Methods:  50.00% ( 8/16)   Lines:  50.00% ( 19/ 38)
+\Illuminate\Cache\Console::CacheTableCommand
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 12/ 12)
+\Illuminate\Cache\Console::ClearCommand
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 10/ 10)
+\Illuminate\Console::Application
+  Methods:  40.00% ( 4/10)   Lines:  44.00% ( 11/ 25)
+\Illuminate\Console::Command
+  Methods:  34.62% ( 9/26)   Lines:  39.13% ( 27/ 69)
+\Illuminate\Console::ConfirmableTrait
+  Methods:   0.00% ( 0/ 1)   Lines:  23.08% (  3/ 13)
+\Illuminate\Console::Parser
+  Methods:  40.00% ( 2/ 5)   Lines:  87.80% ( 36/ 41)
+\Illuminate\Console\Scheduling::Event
+  Methods:  38.46% (20/52)   Lines:  38.32% ( 41/107)
+\Illuminate\Console\Scheduling::Schedule
+  Methods:  66.67% ( 4/ 6)   Lines:  66.67% (  8/ 12)
+\Illuminate\Container::Container
+  Methods:  74.19% (46/62)   Lines:  85.43% (211/247)
+\Illuminate\Container::ContextualBindingBuilder
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  7/  7)
+\Illuminate\Cookie::CookieJar
+  Methods: 100.00% (10/10)   Lines: 100.00% ( 18/ 18)
+\Illuminate\Database::Connection
+  Methods:  51.43% (36/70)   Lines:  67.02% (126/188)
+\Illuminate\Database::Grammar
+  Methods:  83.33% (10/12)   Lines:  93.33% ( 28/ 30)
+\Illuminate\Database::SQLiteConnection
+  Methods:  75.00% ( 3/ 4)   Lines:  75.00% (  3/  4)
+\Illuminate\Database::Seeder
+  Methods:  60.00% ( 3/ 5)   Lines:  87.50% ( 14/ 16)
+\Illuminate\Database\Connectors::ConnectionFactory
+  Methods:  83.33% (10/12)   Lines:  76.60% ( 36/ 47)
+\Illuminate\Database\Connectors::Connector
+  Methods:  50.00% ( 2/ 4)   Lines:  50.00% (  4/  8)
+\Illuminate\Database\Connectors::MySqlConnector
+  Methods:  80.00% ( 4/ 5)   Lines:  83.33% ( 20/ 24)
+\Illuminate\Database\Connectors::PostgresConnector
+  Methods:  33.33% ( 1/ 3)   Lines:  86.96% ( 20/ 23)
+\Illuminate\Database\Connectors::SQLiteConnector
+  Methods:   0.00% ( 0/ 1)   Lines:  85.71% (  6/  7)
+\Illuminate\Database\Connectors::SqlServerConnector
+  Methods:  57.14% ( 4/ 7)   Lines:  68.18% ( 15/ 22)
+\Illuminate\Database\Console\Migrations::BaseCommand
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Illuminate\Database\Console\Migrations::InstallCommand
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  8/  8)
+\Illuminate\Database\Console\Migrations::MigrateCommand
+  Methods:  75.00% ( 3/ 4)   Lines:  81.82% ( 18/ 22)
+\Illuminate\Database\Console\Migrations::MigrateMakeCommand
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 18/ 18)
+\Illuminate\Database\Console\Migrations::ResetCommand
+  Methods:  66.67% ( 2/ 3)   Lines:  73.33% ( 11/ 15)
+\Illuminate\Database\Console\Migrations::RollbackCommand
+  Methods:  66.67% ( 2/ 3)   Lines:  83.33% ( 10/ 12)
+\Illuminate\Database\Eloquent::Builder
+  Methods:  72.55% (37/51)   Lines:  84.88% (146/172)
+\Illuminate\Database\Eloquent::Collection
+  Methods:  78.57% (11/14)   Lines:  94.23% ( 49/ 52)
+\Illuminate\Database\Eloquent::Model
+  Methods:  69.70% (138/198)   Lines:  81.06% (522/644)
+\Illuminate\Database\Eloquent::ModelNotFoundException
+  Methods:  50.00% ( 1/ 2)   Lines:  75.00% (  3/  4)
+\Illuminate\Database\Eloquent::SoftDeletes
+  Methods:  41.67% ( 5/12)   Lines:  54.84% ( 17/ 31)
+\Illuminate\Database\Eloquent::SoftDeletingScope
+  Methods:  77.78% ( 7/ 9)   Lines:  82.86% ( 29/ 35)
+\Illuminate\Database\Eloquent\Relations::BelongsTo
+  Methods:  82.35% (14/17)   Lines:  94.55% ( 52/ 55)
+\Illuminate\Database\Eloquent\Relations::BelongsToMany
+  Methods:  74.24% (49/66)   Lines:  83.12% (197/237)
+\Illuminate\Database\Eloquent\Relations::HasMany
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\Illuminate\Database\Eloquent\Relations::HasManyThrough
+  Methods:  55.56% (10/18)   Lines:  79.10% ( 53/ 67)
+\Illuminate\Database\Eloquent\Relations::HasOne
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\Illuminate\Database\Eloquent\Relations::HasOneOrMany
+  Methods:  92.00% (23/25)   Lines:  90.14% ( 64/ 71)
+\Illuminate\Database\Eloquent\Relations::MorphMany
+  Methods:  33.33% ( 1/ 3)   Lines:  20.00% (  1/  5)
+\Illuminate\Database\Eloquent\Relations::MorphOneOrMany
+  Methods:  78.57% (11/14)   Lines:  87.50% ( 35/ 40)
+\Illuminate\Database\Eloquent\Relations::MorphTo
+  Methods:  82.35% (14/17)   Lines:  93.18% ( 41/ 44)
+\Illuminate\Database\Eloquent\Relations::MorphToMany
+  Methods:  55.56% ( 5/ 9)   Lines:  62.50% ( 15/ 24)
+\Illuminate\Database\Eloquent\Relations::Pivot
+  Methods:  80.00% ( 8/10)   Lines:  86.96% ( 20/ 23)
+\Illuminate\Database\Eloquent\Relations::Relation
+  Methods:  82.35% (14/17)   Lines:  90.91% ( 30/ 33)
+\Illuminate\Database\Migrations::DatabaseMigrationRepository
+  Methods:  78.57% (11/14)   Lines:  75.00% ( 18/ 24)
+\Illuminate\Database\Migrations::MigrationCreator
+  Methods:  90.91% (10/11)   Lines:  96.00% ( 24/ 25)
+\Illuminate\Database\Migrations::Migrator
+  Methods:  75.00% (15/20)   Lines:  86.59% ( 71/ 82)
+\Illuminate\Database\Query::Builder
+  Methods:  77.78% (84/108)   Lines:  85.19% (276/324)
+\Illuminate\Database\Query::Expression
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  4/  4)
+\Illuminate\Database\Query::JoinClause
+  Methods: 100.00% ( 9/ 9)   Lines: 100.00% ( 14/ 14)
+\Illuminate\Database\Query\Grammars::Grammar
+  Methods:  93.02% (40/43)   Lines:  96.95% (127/131)
+\Illuminate\Database\Query\Grammars::MySqlGrammar
+  Methods:  66.67% ( 4/ 6)   Lines:  86.21% ( 25/ 29)
+\Illuminate\Database\Query\Grammars::PostgresGrammar
+  Methods:  37.50% ( 3/ 8)   Lines:  86.11% ( 31/ 36)
+\Illuminate\Database\Query\Grammars::SQLiteGrammar
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 20/ 20)
+\Illuminate\Database\Query\Grammars::SqlServerGrammar
+  Methods:  66.67% ( 8/12)   Lines:  89.47% ( 34/ 38)
+\Illuminate\Database\Query\Processors::MySqlProcessor
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\Illuminate\Database\Query\Processors::PostgresProcessor
+  Methods:  50.00% ( 1/ 2)   Lines:  37.50% (  3/  8)
+\Illuminate\Database\Query\Processors::Processor
+  Methods:  66.67% ( 2/ 3)   Lines:  80.00% (  4/  5)
+\Illuminate\Database\Query\Processors::SQLiteProcessor
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\Illuminate\Database\Schema::Blueprint
+  Methods:  81.16% (56/69)   Lines:  83.74% (103/123)
+\Illuminate\Database\Schema::Builder
+  Methods:  46.67% ( 7/15)   Lines:  55.56% ( 25/ 45)
+\Illuminate\Database\Schema\Grammars::Grammar
+  Methods:  34.78% ( 8/23)   Lines:  34.58% ( 37/107)
+\Illuminate\Database\Schema\Grammars::MySqlGrammar
+  Methods:  80.39% (41/51)   Lines:  89.69% ( 87/ 97)
+\Illuminate\Database\Schema\Grammars::PostgresGrammar
+  Methods:  88.10% (37/42)   Lines:  91.53% ( 54/ 59)
+\Illuminate\Database\Schema\Grammars::SQLiteGrammar
+  Methods:  84.09% (37/44)   Lines:  84.15% ( 69/ 82)
+\Illuminate\Database\Schema\Grammars::SqlServerGrammar
+  Methods:  86.05% (37/43)   Lines:  90.48% ( 57/ 63)
+\Illuminate\Encryption::BaseEncrypter
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 11/ 11)
+\Illuminate\Encryption::Encrypter
+  Methods:  60.00% ( 3/ 5)   Lines:  90.48% ( 19/ 21)
+\Illuminate\Events::Dispatcher
+  Methods:  80.77% (21/26)   Lines:  84.38% ( 81/ 96)
+\Illuminate\Events::EventServiceProvider
+  Methods:   0.00% ( 0/ 1)   Lines:  50.00% (  1/  2)
+\Illuminate\Filesystem::Filesystem
+  Methods:  71.43% (20/28)   Lines:  84.93% ( 62/ 73)
+\Illuminate\Foundation::AliasLoader
+  Methods:  58.33% ( 7/12)   Lines:  70.37% ( 19/ 27)
+\Illuminate\Foundation::Application
+  Methods:  20.29% (14/69)   Lines:  37.85% ( 67/177)
+\Illuminate\Foundation::Composer
+  Methods:  50.00% ( 3/ 6)   Lines:  66.67% ( 10/ 15)
+\Illuminate\Foundation::EnvironmentDetector
+  Methods:  75.00% ( 3/ 4)   Lines:  88.89% (  8/  9)
+\Illuminate\Foundation::ProviderRepository
+  Methods:  60.00% ( 6/10)   Lines:  86.49% ( 32/ 37)
+\Illuminate\Foundation\Testing::CrawlerTrait
+  Methods:   2.44% ( 1/41)   Lines:   1.60% (  2/125)
+\Illuminate\Hashing::BcryptHasher
+  Methods:  50.00% ( 2/ 4)   Lines:  70.00% (  7/ 10)
+\Illuminate\Http::JsonResponse
+  Methods:  80.00% ( 4/ 5)   Lines:  90.91% ( 10/ 11)
+\Illuminate\Http::RedirectResponse
+  Methods:  84.62% (11/13)   Lines:  86.67% ( 26/ 30)
+\Illuminate\Http::Request
+  Methods:  79.66% (47/59)   Lines:  82.48% (113/137)
+\Illuminate\Http::Response
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 14/ 14)
+\Illuminate\Http::ResponseTrait
+  Methods:  25.00% ( 1/ 4)   Lines:  62.50% (  5/  8)
+\Illuminate\Http\Exception::HttpResponseException
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\Illuminate\Log::Writer
+  Methods:  37.50% ( 9/24)   Lines:  64.71% ( 33/ 51)
+\Illuminate\Mail::Mailer
+  Methods:  63.33% (19/30)   Lines:  81.40% ( 70/ 86)
+\Illuminate\Mail::Message
+  Methods:  35.00% ( 7/20)   Lines:  42.50% ( 17/ 40)
+\Illuminate\Mail::TransportManager
+  Methods:  11.11% ( 1/ 9)   Lines:  24.14% (  7/ 29)
+\Illuminate\Mail\Transport::SesTransport
+  Methods:  42.86% ( 3/ 7)   Lines:  75.00% ( 12/ 16)
+\Illuminate\Pagination::AbstractPaginator
+  Methods:  40.62% (13/32)   Lines:  48.44% ( 31/ 64)
+\Illuminate\Pagination::BootstrapThreeNextPreviousButtonRendererTrait
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  9/  9)
+\Illuminate\Pagination::BootstrapThreePresenter
+  Methods:  66.67% ( 6/ 9)   Lines:  83.33% ( 15/ 18)
+\Illuminate\Pagination::LengthAwarePaginator
+  Methods:  44.44% ( 4/ 9)   Lines:  54.55% ( 18/ 33)
+\Illuminate\Pagination::Paginator
+  Methods:  50.00% ( 4/ 8)   Lines:  73.08% ( 19/ 26)
+\Illuminate\Pagination::UrlWindow
+  Methods:  92.86% (13/14)   Lines:  97.14% ( 34/ 35)
+\Illuminate\Pagination::UrlWindowPresenterTrait
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 17/ 17)
+\Illuminate\Pipeline::Pipeline
+  Methods:  87.50% ( 7/ 8)   Lines:  92.00% ( 23/ 25)
+\Illuminate\Queue::BeanstalkdQueue
+  Methods:  87.50% ( 7/ 8)   Lines:  94.74% ( 18/ 19)
+\Illuminate\Queue::DatabaseQueue
+  Methods:  47.37% ( 9/19)   Lines:  38.10% ( 24/ 63)
+\Illuminate\Queue::IronQueue
+  Methods:  53.33% ( 8/15)   Lines:  70.59% ( 24/ 34)
+\Illuminate\Queue::Listener
+  Methods:   7.69% ( 1/13)   Lines:  32.26% ( 10/ 31)
+\Illuminate\Queue::Queue
+  Methods:  61.54% ( 8/13)   Lines:  70.97% ( 22/ 31)
+\Illuminate\Queue::QueueManager
+  Methods:  31.25% ( 5/16)   Lines:  48.39% ( 15/ 31)
+\Illuminate\Queue::RedisQueue
+  Methods:  70.00% (14/20)   Lines:  82.35% ( 42/ 51)
+\Illuminate\Queue::SqsQueue
+  Methods:  57.14% ( 4/ 7)   Lines:  84.21% ( 16/ 19)
+\Illuminate\Queue::SyncQueue
+  Methods:  57.14% ( 4/ 7)   Lines:  82.35% ( 14/ 17)
+\Illuminate\Queue::Worker
+  Methods:  16.67% ( 3/18)   Lines:  45.59% ( 31/ 68)
+\Illuminate\Queue\Jobs::BeanstalkdJob
+  Methods:  81.82% ( 9/11)   Lines:  86.96% ( 20/ 23)
+\Illuminate\Queue\Jobs::IronJob
+  Methods:  75.00% ( 9/12)   Lines:  89.29% ( 25/ 28)
+\Illuminate\Queue\Jobs::Job
+  Methods:  62.50% (10/16)   Lines:  76.47% ( 26/ 34)
+\Illuminate\Queue\Jobs::RedisJob
+  Methods:  90.00% ( 9/10)   Lines:  95.00% ( 19/ 20)
+\Illuminate\Queue\Jobs::SqsJob
+  Methods:  70.00% ( 7/10)   Lines:  86.96% ( 20/ 23)
+\Illuminate\Queue\Jobs::SyncJob
+  Methods:  50.00% ( 3/ 6)   Lines:  60.00% (  6/ 10)
+\Illuminate\Redis::Database
+  Methods:  50.00% ( 4/ 8)   Lines:  54.55% ( 12/ 22)
+\Illuminate\Routing::Controller
+  Methods:  33.33% ( 4/12)   Lines:  50.00% ( 14/ 28)
+\Illuminate\Routing::ControllerDispatcher
+  Methods:  73.33% (11/15)   Lines:  89.47% ( 51/ 57)
+\Illuminate\Routing::ControllerInspector
+  Methods:  71.43% ( 5/ 7)   Lines:  90.00% ( 18/ 20)
+\Illuminate\Routing::Redirector
+  Methods:  92.86% (13/14)   Lines:  96.15% ( 25/ 26)
+\Illuminate\Routing::ResourceRegistrar
+  Methods:  75.00% (15/20)   Lines:  79.41% ( 54/ 68)
+\Illuminate\Routing::Route
+  Methods:  76.36% (42/55)   Lines:  85.03% (125/147)
+\Illuminate\Routing::RouteCollection
+  Methods:  75.00% (12/16)   Lines:  89.36% ( 42/ 47)
+\Illuminate\Routing::RouteDependencyResolverTrait
+  Methods:  50.00% ( 2/ 4)   Lines:  78.57% ( 11/ 14)
+\Illuminate\Routing::Router
+  Methods:  72.60% (53/73)   Lines:  85.04% (199/234)
+\Illuminate\Routing::RoutingServiceProvider
+  Methods:  14.29% ( 1/ 7)   Lines:  44.12% ( 15/ 34)
+\Illuminate\Routing::UrlGenerator
+  Methods:  75.68% (28/37)   Lines:  90.09% (100/111)
+\Illuminate\Routing\Matching::HostValidator
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\Illuminate\Routing\Matching::MethodValidator
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Illuminate\Routing\Matching::SchemeValidator
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  5/  5)
+\Illuminate\Routing\Matching::UriValidator
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Illuminate\Session::CookieSessionHandler
+  Methods:  12.50% ( 1/ 8)   Lines:  23.08% (  3/ 13)
+\Illuminate\Session::EncryptedStore
+  Methods:  75.00% ( 3/ 4)   Lines:  75.00% (  6/  8)
+\Illuminate\Session::Store
+  Methods:  92.45% (49/53)   Lines:  96.77% (120/124)
+\Illuminate\Session\Console::SessionTableCommand
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 12/ 12)
+\Illuminate\Support::Arr
+  Methods:  89.47% (17/19)   Lines:  97.75% ( 87/ 89)
+\Illuminate\Support::Collection
+  Methods:  87.88% (58/66)   Lines:  91.67% (154/168)
+\Illuminate\Support::Fluent
+  Methods:  66.67% (10/15)   Lines:  70.83% ( 17/ 24)
+\Illuminate\Support::Manager
+  Methods:  28.57% ( 2/ 7)   Lines:  58.82% ( 10/ 17)
+\Illuminate\Support::MessageBag
+  Methods:  72.73% (16/22)   Lines:  85.71% ( 36/ 42)
+\Illuminate\Support::NamespacedItemResolver
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 18/ 18)
+\Illuminate\Support::Pluralizer
+  Methods:  50.00% ( 2/ 4)   Lines:  83.33% ( 10/ 12)
+\Illuminate\Support::ServiceProvider
+  Methods:  15.38% ( 2/13)   Lines:  40.00% ( 18/ 45)
+\Illuminate\Support::Str
+  Methods:  91.30% (21/23)   Lines:  83.13% ( 69/ 83)
+\Illuminate\Support::ViewErrorBag
+  Methods:  12.50% ( 1/ 8)   Lines:  20.00% (  2/ 10)
+\Illuminate\Support\Facades::Facade
+  Methods:  57.14% ( 8/14)   Lines:  63.04% ( 29/ 46)
+\Illuminate\Support\Traits::CapsuleManagerTrait
+  Methods:  50.00% ( 2/ 4)   Lines:  55.56% (  5/  9)
+\Illuminate\Support\Traits::Macroable
+  Methods:  50.00% ( 2/ 4)   Lines:  69.23% (  9/ 13)
+\Illuminate\Translation::FileLoader
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 19/ 19)
+\Illuminate\Translation::Translator
+  Methods:  50.00% (11/22)   Lines:  72.88% ( 43/ 59)
+\Illuminate\Validation::DatabasePresenceVerifier
+  Methods:  66.67% ( 4/ 6)   Lines:  76.19% ( 16/ 21)
+\Illuminate\Validation::Factory
+  Methods:  72.73% ( 8/11)   Lines:  91.43% ( 32/ 35)
+\Illuminate\Validation::Validator
+  Methods:  84.67% (127/150)   Lines:  91.92% (421/458)
+\Illuminate\View::Factory
+  Methods:  79.25% (42/53)   Lines:  87.82% (137/156)
+\Illuminate\View::FileViewFinder
+  Methods:  53.33% ( 8/15)   Lines:  76.09% ( 35/ 46)
+\Illuminate\View::View
+  Methods:  96.30% (26/27)   Lines:  98.25% ( 56/ 57)
+\Illuminate\View\Compilers::BladeCompiler
+  Methods:  92.98% (53/57)   Lines:  92.25% (119/129)
+\Illuminate\View\Compilers::Compiler
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  9/  9)
+\Illuminate\View\Engines::CompilerEngine
+  Methods:  80.00% ( 4/ 5)   Lines:  92.86% ( 13/ 14)
+\Illuminate\View\Engines::EngineResolver
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  8/  8)
+\Illuminate\View\Engines::PhpEngine
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 11/ 11)

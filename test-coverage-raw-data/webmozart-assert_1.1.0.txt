@@ -1,0 +1,12 @@
+
+
+Code Coverage Report:      
+  2019-02-16 15:01:07      
+                           
+ Summary:                  
+  Classes:  0.00% (0/1)    
+  Methods: 92.31% (60/65)  
+  Lines:   96.43% (378/392)
+
+\Webmozart\Assert::Assert
+  Methods:  92.31% (60/65)   Lines:  96.43% (378/392)

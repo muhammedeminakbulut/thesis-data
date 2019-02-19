@@ -1,0 +1,4 @@
+repository,tag,coverage
+git@github.com:facebookarchive/facebook-php-sdk.git,v3.0.0,"no composer"
+git@github.com:facebookarchive/facebook-php-sdk.git,v3.1.0,"no composer"
+git@github.com:facebookarchive/facebook-php-sdk.git,v3.2.0,"no phpunit config"

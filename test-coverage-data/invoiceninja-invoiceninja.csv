@@ -1,0 +1,11 @@
+repository,tag,coverage
+git@github.com:invoiceninja/invoiceninja.git,v3.0.2,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:invoiceninja/invoiceninja.git,v4.1.0,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:invoiceninja/invoiceninja.git,v4.2.0,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:invoiceninja/invoiceninja.git,v4.3.0,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:invoiceninja/invoiceninja.git,v4.4.0,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:invoiceninja/invoiceninja.git,v4.5.0,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:invoiceninja/invoiceninja.git,v3.6.0,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:invoiceninja/invoiceninja.git,v3.7.0,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:invoiceninja/invoiceninja.git,v3.8.1,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:invoiceninja/invoiceninja.git,v3.9.0,"composer failed, Your requirements could not be resolved to an installable set of packages."

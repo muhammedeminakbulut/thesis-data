@@ -1,0 +1,10 @@
+repository,tag,coverage
+git@github.com:webonyx/graphql-php.git,v0.5.1,"no phpunit config"
+git@github.com:webonyx/graphql-php.git,v0.6.0,92.57
+git@github.com:webonyx/graphql-php.git,v0.7.0,90.56
+git@github.com:webonyx/graphql-php.git,v0.8.0,88.12
+git@github.com:webonyx/graphql-php.git,v0.9.0,92.61
+git@github.com:webonyx/graphql-php.git,v0.10.0,91.36
+git@github.com:webonyx/graphql-php.git,v0.11.0,92.14
+git@github.com:webonyx/graphql-php.git,v0.12.0,92.03
+git@github.com:webonyx/graphql-php.git,v0.13.0,83.02

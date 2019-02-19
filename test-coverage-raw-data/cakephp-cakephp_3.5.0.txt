@@ -1,0 +1,808 @@
+
+
+Code Coverage Report:          
+  2019-02-15 15:27:20          
+                               
+ Summary:                      
+  Classes: 39.08% (161/412)    
+  Methods: 79.87% (3353/4198)  
+  Lines:   90.58% (26778/29564)
+
+\Cake\Auth::Cake\Auth\AbstractPasswordHasher
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\Cake\Auth::Cake\Auth\BaseAuthenticate
+  Methods:  87.50% ( 7/ 8)   Lines:  95.24% ( 40/ 42)
+\Cake\Auth::Cake\Auth\BaseAuthorize
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\Cake\Auth::Cake\Auth\BasicAuthenticate
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 11/ 11)
+\Cake\Auth::Cake\Auth\ControllerAuthorize
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 11/ 11)
+\Cake\Auth::Cake\Auth\DefaultPasswordHasher
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  6/  6)
+\Cake\Auth::Cake\Auth\DigestAuthenticate
+  Methods:  66.67% ( 6/ 9)   Lines:  90.41% ( 66/ 73)
+\Cake\Auth::Cake\Auth\FallbackPasswordHasher
+  Methods:  75.00% ( 3/ 4)   Lines:  91.67% ( 11/ 12)
+\Cake\Auth::Cake\Auth\FormAuthenticate
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 11/ 11)
+\Cake\Auth::Cake\Auth\PasswordHasherFactory
+  Methods:   0.00% ( 0/ 1)   Lines:  92.31% ( 12/ 13)
+\Cake\Auth::Cake\Auth\WeakPasswordHasher
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  6/  6)
+\Cake\Auth\Storage::Cake\Auth\Storage\MemoryStorage
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 12/ 12)
+\Cake\Auth\Storage::Cake\Auth\Storage\SessionStorage
+  Methods:  80.00% ( 4/ 5)   Lines:  68.18% ( 15/ 22)
+\Cake\Cache::Cake\Cache\Cache
+  Methods:  65.22% (15/23)   Lines:  84.35% ( 97/115)
+\Cake\Cache::Cake\Cache\CacheEngine
+  Methods:  70.00% ( 7/10)   Lines:  75.68% ( 28/ 37)
+\Cake\Cache::Cake\Cache\CacheRegistry
+  Methods:  75.00% ( 3/ 4)   Lines:  95.24% ( 20/ 21)
+\Cake\Cache\Engine::Cake\Cache\Engine\FileEngine
+  Methods:  38.46% ( 5/13)   Lines:  90.59% (154/170)
+\Cake\Cache\Engine::Cake\Cache\Engine\NullEngine
+  Methods:  25.00% ( 3/12)   Lines:  25.00% (  3/ 12)
+\Cake\Collection::Cake\Collection\Collection
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 12/ 12)
+\Cake\Collection::CollectionTrait
+  Methods:  96.72% (59/61)   Lines:  99.18% (241/243)
+\Cake\Collection::ExtractTrait
+  Methods:  87.50% ( 7/ 8)   Lines:  95.12% ( 39/ 41)
+\Cake\Collection\Iterator::Cake\Collection\Iterator\BufferedIterator
+  Methods: 100.00% ( 9/ 9)   Lines: 100.00% ( 42/ 42)
+\Cake\Collection\Iterator::Cake\Collection\Iterator\ExtractIterator
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 15/ 15)
+\Cake\Collection\Iterator::Cake\Collection\Iterator\FilterIterator
+  Methods:  50.00% ( 1/ 2)   Lines:  94.44% ( 17/ 18)
+\Cake\Collection\Iterator::Cake\Collection\Iterator\InsertIterator
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 28/ 28)
+\Cake\Collection\Iterator::Cake\Collection\Iterator\MapReduce
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 24/ 24)
+\Cake\Collection\Iterator::Cake\Collection\Iterator\NestIterator
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 10/ 10)
+\Cake\Collection\Iterator::Cake\Collection\Iterator\NoChildrenIterator
+  Methods:  50.00% ( 1/ 2)   Lines:  50.00% (  1/  2)
+\Cake\Collection\Iterator::Cake\Collection\Iterator\ReplaceIterator
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 16/ 16)
+\Cake\Collection\Iterator::Cake\Collection\Iterator\SortIterator
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 15/ 15)
+\Cake\Collection\Iterator::Cake\Collection\Iterator\StoppableIterator
+  Methods:  33.33% ( 1/ 3)   Lines:  90.91% ( 20/ 22)
+\Cake\Collection\Iterator::Cake\Collection\Iterator\TreeIterator
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  7/  7)
+\Cake\Collection\Iterator::Cake\Collection\Iterator\TreePrinter
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 17/ 17)
+\Cake\Collection\Iterator::Cake\Collection\Iterator\UnfoldIterator
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  9/  9)
+\Cake\Collection\Iterator::Cake\Collection\Iterator\ZipIterator
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 11/ 11)
+\Cake\Console::Cake\Console\CommandCollection
+  Methods:  80.00% ( 8/10)   Lines:  94.12% ( 32/ 34)
+\Cake\Console::Cake\Console\CommandRunner
+  Methods:  60.00% ( 3/ 5)   Lines:  93.48% ( 43/ 46)
+\Cake\Console::Cake\Console\CommandScanner
+  Methods:  50.00% ( 1/ 2)   Lines:  94.87% ( 37/ 39)
+\Cake\Console::Cake\Console\ConsoleErrorHandler
+  Methods:  40.00% ( 2/ 5)   Lines:  91.67% ( 33/ 36)
+\Cake\Console::Cake\Console\ConsoleInput
+  Methods:  33.33% ( 1/ 3)   Lines:  25.00% (  3/ 12)
+\Cake\Console::Cake\Console\ConsoleInputArgument
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% ( 45/ 45)
+\Cake\Console::Cake\Console\ConsoleInputOption
+  Methods: 100.00% (10/10)   Lines: 100.00% ( 60/ 60)
+\Cake\Console::Cake\Console\ConsoleInputSubcommand
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 23/ 23)
+\Cake\Console::Cake\Console\ConsoleIo
+  Methods:  94.12% (16/17)   Lines:  97.65% ( 83/ 85)
+\Cake\Console::Cake\Console\ConsoleOptionParser
+  Methods:  76.92% (30/39)   Lines:  94.27% (263/279)
+\Cake\Console::Cake\Console\ConsoleOutput
+  Methods:  80.00% ( 8/10)   Lines:  96.15% ( 50/ 52)
+\Cake\Console::Cake\Console\HelpFormatter
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 91/ 91)
+\Cake\Console::Cake\Console\Helper
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\Cake\Console::Cake\Console\HelperRegistry
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  7/  7)
+\Cake\Console::Cake\Console\Shell
+  Methods:  89.74% (35/39)   Lines:  94.47% (188/199)
+\Cake\Console::Cake\Console\ShellDispatcher
+  Methods:  75.00% (12/16)   Lines:  86.21% (100/116)
+\Cake\Console::Cake\Console\TaskRegistry
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  7/  7)
+\Cake\Controller::Cake\Controller\Component
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 27/ 27)
+\Cake\Controller::Cake\Controller\ComponentRegistry
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 16/ 16)
+\Cake\Controller::Cake\Controller\Controller
+  Methods:  70.83% (17/24)   Lines:  94.61% (158/167)
+\Cake\Controller::Cake\Controller\ErrorController
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\Cake\Controller\Component::Cake\Controller\Component\AuthComponent
+  Methods:  70.00% (21/30)   Lines:  91.89% (238/259)
+\Cake\Controller\Component::Cake\Controller\Component\CookieComponent
+  Methods:  90.91% (10/11)   Lines:  98.70% ( 76/ 77)
+\Cake\Controller\Component::Cake\Controller\Component\CsrfComponent
+  Methods:  75.00% ( 3/ 4)   Lines:  97.14% ( 34/ 35)
+\Cake\Controller\Component::Cake\Controller\Component\FlashComponent
+  Methods:  66.67% ( 2/ 3)   Lines:  97.44% ( 38/ 39)
+\Cake\Controller\Component::Cake\Controller\Component\PaginatorComponent
+  Methods:  91.67% (11/12)   Lines:  95.12% ( 39/ 41)
+\Cake\Controller\Component::Cake\Controller\Component\RequestHandlerComponent
+  Methods:  72.73% (16/22)   Lines:  94.88% (204/215)
+\Cake\Controller\Component::Cake\Controller\Component\SecurityComponent
+  Methods:  85.71% (18/21)   Lines:  97.69% (211/216)
+\Cake\Controller\Exception::Cake\Controller\Exception\SecurityException
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  6/  6)
+\Cake\Core::Cake\Core\App
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 36/ 36)
+\Cake\Core::Cake\Core\ClassLoader
+  Methods:  40.00% ( 2/ 5)   Lines:  90.32% ( 28/ 31)
+\Cake\Core::Cake\Core\Configure
+  Methods:  81.25% (13/16)   Lines:  95.77% ( 68/ 71)
+\Cake\Core::Cake\Core\ObjectRegistry
+  Methods:  93.75% (15/16)   Lines:  97.59% ( 81/ 83)
+\Cake\Core::Cake\Core\Plugin
+  Methods:  63.64% ( 7/11)   Lines:  92.38% ( 97/105)
+\Cake\Core::ConventionsTrait
+  Methods:   9.09% ( 1/11)   Lines:  13.33% (  2/ 15)
+\Cake\Core::InstanceConfigTrait
+  Methods:  85.71% ( 6/ 7)   Lines:  95.77% ( 68/ 71)
+\Cake\Core::StaticConfigTrait
+  Methods:  77.78% ( 7/ 9)   Lines:  93.24% ( 69/ 74)
+\Cake\Core\Configure::FileConfigTrait
+  Methods:   0.00% ( 0/ 1)   Lines:  91.67% ( 11/ 12)
+\Cake\Core\Configure\Engine::Cake\Core\Configure\Engine\IniConfig
+  Methods:  80.00% ( 4/ 5)   Lines:  97.92% ( 47/ 48)
+\Cake\Core\Configure\Engine::Cake\Core\Configure\Engine\JsonConfig
+  Methods:  33.33% ( 1/ 3)   Lines:  77.78% ( 14/ 18)
+\Cake\Core\Configure\Engine::Cake\Core\Configure\Engine\PhpConfig
+  Methods:  66.67% ( 2/ 3)   Lines:  92.86% ( 13/ 14)
+\Cake\Core\Exception::Cake\Core\Exception\Exception
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 14/ 14)
+\Cake\Database::Cake\Database\Connection
+  Methods:  89.58% (43/48)   Lines:  91.37% (180/197)
+\Cake\Database::Cake\Database\Driver
+  Methods:  85.71% (12/14)   Lines:  95.00% ( 38/ 40)
+\Cake\Database::Cake\Database\FieldTypeConverter
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 15/ 15)
+\Cake\Database::Cake\Database\FunctionsBuilder
+  Methods:  82.35% (14/17)   Lines:  90.70% ( 39/ 43)
+\Cake\Database::Cake\Database\IdentifierQuoter
+  Methods: 100.00% (11/11)   Lines: 100.00% ( 82/ 82)
+\Cake\Database::Cake\Database\Query
+  Methods:  82.26% (51/62)   Lines:  94.53% (311/329)
+\Cake\Database::Cake\Database\QueryCompiler
+  Methods:  75.00% ( 9/12)   Lines:  94.74% ( 90/ 95)
+\Cake\Database::Cake\Database\SqlserverCompiler
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 11/ 11)
+\Cake\Database::Cake\Database\Type
+  Methods:  56.25% ( 9/16)   Lines:  61.22% ( 30/ 49)
+\Cake\Database::Cake\Database\TypeMap
+  Methods:  90.00% ( 9/10)   Lines:  95.45% ( 21/ 22)
+\Cake\Database::Cake\Database\ValueBinder
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 28/ 28)
+\Cake\Database::SqlDialectTrait
+  Methods:  85.71% (12/14)   Lines:  96.92% ( 63/ 65)
+\Cake\Database::TypeConverterTrait
+  Methods:  50.00% ( 1/ 2)   Lines:  54.55% (  6/ 11)
+\Cake\Database::TypeMapTrait
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 14/ 14)
+\Cake\Database::TypedResultTrait
+  Methods:  66.67% ( 2/ 3)   Lines:  71.43% (  5/  7)
+\Cake\Database\Dialect::MysqlDialectTrait
+  Methods:  33.33% ( 1/ 3)   Lines:  60.00% (  3/  5)
+\Cake\Database\Dialect::PostgresDialectTrait
+  Methods:  33.33% ( 3/ 9)   Lines:  29.63% (  8/ 27)
+\Cake\Database\Dialect::SqliteDialectTrait
+  Methods: 100.00% ( 9/ 9)   Lines: 100.00% ( 28/ 28)
+\Cake\Database\Dialect::SqlserverDialectTrait
+  Methods:  23.81% ( 5/21)   Lines:  36.84% ( 28/ 76)
+\Cake\Database\Dialect::TupleComparisonTranslatorTrait
+  Methods:  50.00% ( 1/ 2)   Lines:  66.67% ( 16/ 24)
+\Cake\Database\Driver::Cake\Database\Driver\Mysql
+  Methods:  16.67% ( 1/ 6)   Lines:  17.07% (  7/ 41)
+\Cake\Database\Driver::Cake\Database\Driver\Postgres
+  Methods:  40.00% ( 2/ 5)   Lines:  85.19% ( 23/ 27)
+\Cake\Database\Driver::Cake\Database\Driver\Sqlite
+  Methods:  75.00% ( 3/ 4)   Lines:  95.65% ( 22/ 23)
+\Cake\Database\Driver::Cake\Database\Driver\Sqlserver
+  Methods:   0.00% ( 0/ 4)   Lines:   5.00% (  2/ 40)
+\Cake\Database\Driver::PDODriverTrait
+  Methods:  36.36% ( 4/11)   Lines:  65.00% ( 26/ 40)
+\Cake\Database\Exception::Cake\Database\Exception\NestedTransactionRollbackException
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  4/  4)
+\Cake\Database\Expression::Cake\Database\Expression\BetweenExpression
+  Methods:  80.00% ( 4/ 5)   Lines:  86.67% ( 26/ 30)
+\Cake\Database\Expression::Cake\Database\Expression\CaseExpression
+  Methods:  71.43% ( 5/ 7)   Lines:  90.79% ( 69/ 76)
+\Cake\Database\Expression::Cake\Database\Expression\Comparison
+  Methods:  91.67% (11/12)   Lines:  98.70% ( 76/ 77)
+\Cake\Database\Expression::Cake\Database\Expression\FunctionExpression
+  Methods:  85.71% ( 6/ 7)   Lines:  97.50% ( 39/ 40)
+\Cake\Database\Expression::Cake\Database\Expression\IdentifierExpression
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% (  7/  7)
+\Cake\Database\Expression::Cake\Database\Expression\OrderByExpression
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 10/ 10)
+\Cake\Database\Expression::Cake\Database\Expression\OrderClauseExpression
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 14/ 14)
+\Cake\Database\Expression::Cake\Database\Expression\QueryExpression
+  Methods:  91.89% (34/37)   Lines:  98.37% (181/184)
+\Cake\Database\Expression::Cake\Database\Expression\TupleComparison
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 57/ 57)
+\Cake\Database\Expression::Cake\Database\Expression\UnaryExpression
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 17/ 17)
+\Cake\Database\Expression::Cake\Database\Expression\ValuesExpression
+  Methods:  53.33% ( 8/15)   Lines:  81.25% ( 78/ 96)
+\Cake\Database\Expression::FieldTrait
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\Cake\Database\Log::Cake\Database\Log\LoggedQuery
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Cake\Database\Log::Cake\Database\Log\LoggingStatement
+  Methods:  83.33% ( 5/ 6)   Lines:  96.55% ( 28/ 29)
+\Cake\Database\Log::Cake\Database\Log\QueryLogger
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 16/ 16)
+\Cake\Database\Schema::Cake\Database\Schema\BaseSchema
+  Methods:  57.14% ( 4/ 7)   Lines:  83.33% ( 25/ 30)
+\Cake\Database\Schema::Cake\Database\Schema\CachedCollection
+  Methods:  83.33% ( 5/ 6)   Lines:  86.96% ( 20/ 23)
+\Cake\Database\Schema::Cake\Database\Schema\Collection
+  Methods:  50.00% ( 2/ 4)   Lines:  90.91% ( 30/ 33)
+\Cake\Database\Schema::Cake\Database\Schema\MysqlSchema
+  Methods:  44.44% ( 8/18)   Lines:  78.97% (199/252)
+\Cake\Database\Schema::Cake\Database\Schema\PostgresSchema
+  Methods:  45.00% ( 9/20)   Lines:  74.45% (169/227)
+\Cake\Database\Schema::Cake\Database\Schema\SqliteSchema
+  Methods:  94.12% (16/17)   Lines:  99.48% (190/191)
+\Cake\Database\Schema::Cake\Database\Schema\SqlserverSchema
+  Methods:  47.37% ( 9/19)   Lines:  73.02% (157/215)
+\Cake\Database\Schema::Cake\Database\Schema\TableSchema
+  Methods:  84.21% (32/38)   Lines:  96.30% (156/162)
+\Cake\Database\Statement::BufferResultsTrait
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Cake\Database\Statement::Cake\Database\Statement\BufferedStatement
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 35/ 35)
+\Cake\Database\Statement::Cake\Database\Statement\CallbackStatement
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  7/  7)
+\Cake\Database\Statement::Cake\Database\Statement\PDOStatement
+  Methods:  75.00% ( 3/ 4)   Lines:  95.45% ( 21/ 22)
+\Cake\Database\Statement::Cake\Database\Statement\SqliteStatement
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 12/ 12)
+\Cake\Database\Statement::Cake\Database\Statement\StatementDecorator
+  Methods:  81.25% (13/16)   Lines:  92.68% ( 38/ 41)
+\Cake\Database\Type::Cake\Database\Type\BinaryType
+  Methods:  80.00% ( 4/ 5)   Lines:  92.86% ( 13/ 14)
+\Cake\Database\Type::Cake\Database\Type\BoolType
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 22/ 22)
+\Cake\Database\Type::Cake\Database\Type\DateTimeType
+  Methods:  84.62% (11/13)   Lines:  93.90% ( 77/ 82)
+\Cake\Database\Type::Cake\Database\Type\DateType
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 14/ 14)
+\Cake\Database\Type::Cake\Database\Type\DecimalType
+  Methods:  85.71% ( 6/ 7)   Lines:  93.94% ( 31/ 33)
+\Cake\Database\Type::Cake\Database\Type\FloatType
+  Methods:  85.71% ( 6/ 7)   Lines:  93.55% ( 29/ 31)
+\Cake\Database\Type::Cake\Database\Type\IntegerType
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 18/ 18)
+\Cake\Database\Type::Cake\Database\Type\JsonType
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% (  8/  8)
+\Cake\Database\Type::Cake\Database\Type\StringType
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 17/ 17)
+\Cake\Database\Type::Cake\Database\Type\TimeType
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Cake\Database\Type::Cake\Database\Type\UuidType
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  7/  7)
+\Cake\Database\Type::ExpressionTypeCasterTrait
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 17/ 17)
+\Cake\Datasource::Cake\Datasource\ConnectionManager
+  Methods:  80.00% ( 4/ 5)   Lines:  96.43% ( 27/ 28)
+\Cake\Datasource::Cake\Datasource\ConnectionRegistry
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 14/ 14)
+\Cake\Datasource::Cake\Datasource\FactoryLocator
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 11/ 11)
+\Cake\Datasource::Cake\Datasource\Paginator
+  Methods:  87.50% ( 7/ 8)   Lines:  98.29% (115/117)
+\Cake\Datasource::Cake\Datasource\QueryCacher
+  Methods:  80.00% ( 4/ 5)   Lines:  92.59% ( 25/ 27)
+\Cake\Datasource::Cake\Datasource\ResultSetDecorator
+  Methods:   0.00% ( 0/ 1)   Lines:  66.67% (  2/  3)
+\Cake\Datasource::Cake\Datasource\RuleInvoker
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 27/ 27)
+\Cake\Datasource::Cake\Datasource\RulesChecker
+  Methods:  90.91% (10/11)   Lines:  96.97% ( 32/ 33)
+\Cake\Datasource::EntityTrait
+  Methods:  96.49% (55/57)   Lines:  98.89% (268/271)
+\Cake\Datasource::ModelAwareTrait
+  Methods:  66.67% ( 4/ 6)   Lines:  93.10% ( 27/ 29)
+\Cake\Datasource::QueryTrait
+  Methods:  94.44% (17/18)   Lines:  97.70% ( 85/ 87)
+\Cake\Datasource::RulesAwareTrait
+  Methods:  66.67% ( 2/ 3)   Lines:  96.00% ( 24/ 25)
+\Cake\Datasource\Exception::Cake\Datasource\Exception\InvalidPrimaryKeyException
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Cake\Datasource\Exception::Cake\Datasource\Exception\PageOutOfBoundsException
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Cake\Datasource\Exception::Cake\Datasource\Exception\RecordNotFoundException
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Cake\Error::Cake\Error\BaseErrorHandler
+  Methods:  61.54% ( 8/13)   Lines:  82.69% (129/156)
+\Cake\Error::Cake\Error\Debugger
+  Methods:  58.33% (14/24)   Lines:  94.24% (311/330)
+\Cake\Error::Cake\Error\ErrorHandler
+  Methods:  40.00% ( 2/ 5)   Lines:  45.16% ( 14/ 31)
+\Cake\Error::Cake\Error\ExceptionRenderer
+  Methods:  83.33% (10/12)   Lines:  94.17% (113/120)
+\Cake\Error::Cake\Error\FatalErrorException
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  6/  6)
+\Cake\Error::Cake\Error\PHP7ErrorException
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 14/ 14)
+\Cake\Error\Middleware::Cake\Error\Middleware\ErrorHandlerMiddleware
+  Methods:  83.33% ( 5/ 6)   Lines:  98.18% ( 54/ 55)
+\Cake\Event::Cake\Event\Event
+  Methods:  80.00% (12/15)   Lines:  62.86% ( 22/ 35)
+\Cake\Event::Cake\Event\EventList
+  Methods:  75.00% ( 6/ 8)   Lines:  82.35% ( 14/ 17)
+\Cake\Event::Cake\Event\EventManager
+  Methods:  75.00% (15/20)   Lines:  96.23% (153/159)
+\Cake\Event::EventDispatcherTrait
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 13/ 13)
+\Cake\Event\Decorator::Cake\Event\Decorator\AbstractDecorator
+  Methods:  66.67% ( 2/ 3)   Lines:  83.33% (  5/  6)
+\Cake\Event\Decorator::Cake\Event\Decorator\ConditionDecorator
+  Methods:  66.67% ( 2/ 3)   Lines:  92.86% ( 13/ 14)
+\Cake\Event\Decorator::Cake\Event\Decorator\SubjectFilterDecorator
+  Methods:  50.00% ( 1/ 2)   Lines:  90.00% (  9/ 10)
+\Cake\Filesystem::Cake\Filesystem\File
+  Methods:  62.50% (20/32)   Lines:  85.62% (131/153)
+\Cake\Filesystem::Cake\Filesystem\Folder
+  Methods:  64.29% (18/28)   Lines:  90.06% (290/322)
+\Cake\Form::Cake\Form\Form
+  Methods:  88.89% ( 8/ 9)   Lines:  95.83% ( 23/ 24)
+\Cake\Form::Cake\Form\Schema
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 19/ 19)
+\Cake\Http::Cake\Http\ActionDispatcher
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 39/ 39)
+\Cake\Http::Cake\Http\BaseApplication
+  Methods:  83.33% ( 5/ 6)   Lines:  77.78% (  7/  9)
+\Cake\Http::Cake\Http\CallbackStream
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  5/  5)
+\Cake\Http::Cake\Http\Client
+  Methods: 100.00% (21/21)   Lines: 100.00% (128/128)
+\Cake\Http::Cake\Http\ControllerFactory
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 32/ 32)
+\Cake\Http::Cake\Http\MiddlewareQueue
+  Methods:  80.00% ( 8/10)   Lines:  92.16% ( 47/ 51)
+\Cake\Http::Cake\Http\RequestTransformer
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 45/ 45)
+\Cake\Http::Cake\Http\Response
+  Methods:  75.90% (63/83)   Lines:  92.45% (551/596)
+\Cake\Http::Cake\Http\ResponseEmitter
+  Methods:  75.00% ( 6/ 8)   Lines:  94.87% (111/117)
+\Cake\Http::Cake\Http\ResponseTransformer
+  Methods:  50.00% ( 4/ 8)   Lines:  79.00% ( 79/100)
+\Cake\Http::Cake\Http\Runner
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  8/  8)
+\Cake\Http::Cake\Http\Server
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 26/ 26)
+\Cake\Http::Cake\Http\ServerRequest
+  Methods:  91.58% (87/95)   Lines:  96.66% (492/509)
+\Cake\Http::Cake\Http\ServerRequestFactory
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 75/ 75)
+\Cake\Http\Client::Cake\Http\Client\CookieCollection
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 25/ 25)
+\Cake\Http\Client::Cake\Http\Client\FormData
+  Methods: 100.00% (11/11)   Lines: 100.00% ( 65/ 65)
+\Cake\Http\Client::Cake\Http\Client\FormDataPart
+  Methods:  44.44% ( 4/ 9)   Lines:  88.37% ( 38/ 43)
+\Cake\Http\Client::Cake\Http\Client\Request
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% ( 55/ 55)
+\Cake\Http\Client::Cake\Http\Client\Response
+  Methods:  75.00% (21/28)   Lines:  91.67% (121/132)
+\Cake\Http\Client\Adapter::Cake\Http\Client\Adapter\Stream
+  Methods:  90.00% ( 9/10)   Lines:  98.88% ( 88/ 89)
+\Cake\Http\Client\Auth::Cake\Http\Client\Auth\Basic
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  9/  9)
+\Cake\Http\Client\Auth::Cake\Http\Client\Auth\Digest
+  Methods:  50.00% ( 2/ 4)   Lines:  93.48% ( 43/ 46)
+\Cake\Http\Client\Auth::Cake\Http\Client\Auth\Oauth
+  Methods:  50.00% ( 5/10)   Lines:  91.30% (126/138)
+\Cake\Http\Cookie::Cake\Http\Cookie\Cookie
+  Methods:  96.97% (32/33)   Lines:  99.24% (131/132)
+\Cake\Http\Cookie::Cake\Http\Cookie\CookieCollection
+  Methods: 100.00% (16/16)   Lines: 100.00% (130/130)
+\Cake\Http\Middleware::Cake\Http\Middleware\CsrfProtectionMiddleware
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 43/ 43)
+\Cake\Http\Middleware::Cake\Http\Middleware\EncryptedCookieMiddleware
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 32/ 32)
+\Cake\Http\Middleware::Cake\Http\Middleware\SecurityHeadersMiddleware
+  Methods:  87.50% ( 7/ 8)   Lines:  97.06% ( 33/ 34)
+\Cake\I18n::Cake\I18n\ChainMessagesLoader
+  Methods:  50.00% ( 1/ 2)   Lines:  62.50% ( 10/ 16)
+\Cake\I18n::Cake\I18n\Date
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Cake\I18n::Cake\I18n\FrozenDate
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Cake\I18n::Cake\I18n\FrozenTime
+  Methods:  40.00% ( 2/ 5)   Lines:  82.35% ( 42/ 51)
+\Cake\I18n::Cake\I18n\I18n
+  Methods:  82.35% (14/17)   Lines:  90.91% ( 50/ 55)
+\Cake\I18n::Cake\I18n\MessagesFileLoader
+  Methods:  33.33% ( 1/ 3)   Lines:  95.24% ( 40/ 42)
+\Cake\I18n::Cake\I18n\Number
+  Methods:  83.33% (10/12)   Lines:  97.47% ( 77/ 79)
+\Cake\I18n::Cake\I18n\PluralRules
+  Methods:   0.00% ( 0/ 1)   Lines:  96.30% ( 52/ 54)
+\Cake\I18n::Cake\I18n\RelativeTimeFormatter
+  Methods:  40.00% ( 2/ 5)   Lines:  87.76% (172/196)
+\Cake\I18n::Cake\I18n\Time
+  Methods:  72.73% ( 8/11)   Lines:  91.30% ( 63/ 69)
+\Cake\I18n::Cake\I18n\Translator
+  Methods:  80.00% ( 4/ 5)   Lines:  97.73% ( 43/ 44)
+\Cake\I18n::Cake\I18n\TranslatorFactory
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  6/  6)
+\Cake\I18n::Cake\I18n\TranslatorRegistry
+  Methods:  86.67% (13/15)   Lines:  96.23% ( 51/ 53)
+\Cake\I18n::DateFormatTrait
+  Methods:  66.67% (10/15)   Lines:  93.02% ( 80/ 86)
+\Cake\I18n\Formatter::Cake\I18n\Formatter\IcuFormatter
+  Methods:  50.00% ( 1/ 2)   Lines:  66.67% (  8/ 12)
+\Cake\I18n\Formatter::Cake\I18n\Formatter\SprintfFormatter
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Cake\I18n\Middleware::Cake\I18n\Middleware\LocaleSelectorMiddleware
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  8/  8)
+\Cake\I18n\Parser::Cake\I18n\Parser\MoFileParser
+  Methods:  50.00% ( 1/ 2)   Lines:  92.73% ( 51/ 55)
+\Cake\I18n\Parser::Cake\I18n\Parser\PoFileParser
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 55/ 55)
+\Cake\Log::Cake\Log\Log
+  Methods:  86.67% (13/15)   Lines:  96.49% ( 55/ 57)
+\Cake\Log::Cake\Log\LogEngineRegistry
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 16/ 16)
+\Cake\Log::LogTrait
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Cake\Log\Engine::Cake\Log\Engine\BaseLog
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 20/ 20)
+\Cake\Log\Engine::Cake\Log\Engine\ConsoleLog
+  Methods:  50.00% ( 1/ 2)   Lines:  87.50% ( 14/ 16)
+\Cake\Log\Engine::Cake\Log\Engine\FileLog
+  Methods:  50.00% ( 2/ 4)   Lines:  88.52% ( 54/ 61)
+\Cake\Log\Engine::Cake\Log\Engine\SyslogLog
+  Methods:  50.00% ( 2/ 4)   Lines:  82.35% ( 14/ 17)
+\Cake\Mailer::Cake\Mailer\AbstractTransport
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 10/ 10)
+\Cake\Mailer::Cake\Mailer\Email
+  Methods:  93.39% (113/121)   Lines:  96.77% (689/712)
+\Cake\Mailer::Cake\Mailer\Mailer
+  Methods:  88.89% ( 8/ 9)   Lines:  97.14% ( 34/ 35)
+\Cake\Mailer::MailerAwareTrait
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  6/  6)
+\Cake\Mailer\Transport::Cake\Mailer\Transport\DebugTransport
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  4/  4)
+\Cake\Mailer\Transport::Cake\Mailer\Transport\MailTransport
+  Methods:   0.00% ( 0/ 2)   Lines:  70.00% ( 14/ 20)
+\Cake\Mailer\Transport::Cake\Mailer\Transport\SmtpTransport
+  Methods:  80.00% (16/20)   Lines:  92.62% (113/122)
+\Cake\Network::Cake\Network\CorsBuilder
+  Methods: 100.00% ( 9/ 9)   Lines: 100.00% ( 38/ 38)
+\Cake\Network::Cake\Network\Session
+  Methods:  47.37% ( 9/19)   Lines:  72.44% (113/156)
+\Cake\Network::Cake\Network\Socket
+  Methods:  75.00% (12/16)   Lines:  92.68% (114/123)
+\Cake\Network\Exception::Cake\Network\Exception\BadRequestException
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  4/  4)
+\Cake\Network\Exception::Cake\Network\Exception\ConflictException
+  Methods:   0.00% ( 0/ 1)   Lines:  75.00% (  3/  4)
+\Cake\Network\Exception::Cake\Network\Exception\ForbiddenException
+  Methods:   0.00% ( 0/ 1)   Lines:  75.00% (  3/  4)
+\Cake\Network\Exception::Cake\Network\Exception\GoneException
+  Methods:   0.00% ( 0/ 1)   Lines:  75.00% (  3/  4)
+\Cake\Network\Exception::Cake\Network\Exception\InternalErrorException
+  Methods:   0.00% ( 0/ 1)   Lines:  75.00% (  3/  4)
+\Cake\Network\Exception::Cake\Network\Exception\InvalidCsrfTokenException
+  Methods:   0.00% ( 0/ 1)   Lines:  75.00% (  3/  4)
+\Cake\Network\Exception::Cake\Network\Exception\MethodNotAllowedException
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  4/  4)
+\Cake\Network\Exception::Cake\Network\Exception\NotAcceptableException
+  Methods:   0.00% ( 0/ 1)   Lines:  75.00% (  3/  4)
+\Cake\Network\Exception::Cake\Network\Exception\NotFoundException
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  4/  4)
+\Cake\Network\Exception::Cake\Network\Exception\ServiceUnavailableException
+  Methods:   0.00% ( 0/ 1)   Lines:  75.00% (  3/  4)
+\Cake\Network\Exception::Cake\Network\Exception\UnauthorizedException
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  4/  4)
+\Cake\Network\Exception::Cake\Network\Exception\UnavailableForLegalReasonsException
+  Methods:   0.00% ( 0/ 1)   Lines:  75.00% (  3/  4)
+\Cake\Network\Session::Cake\Network\Session\CacheSession
+  Methods:  42.86% ( 3/ 7)   Lines:  70.59% ( 12/ 17)
+\Cake\Network\Session::Cake\Network\Session\DatabaseSession
+  Methods:  62.50% ( 5/ 8)   Lines:  89.47% ( 34/ 38)
+\Cake\ORM::AssociationsNormalizerTrait
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 23/ 23)
+\Cake\ORM::Cake\ORM\Association
+  Methods:  96.77% (60/62)   Lines:  98.25% (281/286)
+\Cake\ORM::Cake\ORM\AssociationCollection
+  Methods: 100.00% (17/17)   Lines: 100.00% ( 66/ 66)
+\Cake\ORM::Cake\ORM\Behavior
+  Methods:  77.78% ( 7/ 9)   Lines:  96.39% ( 80/ 83)
+\Cake\ORM::Cake\ORM\BehaviorRegistry
+  Methods: 100.00% (10/10)   Lines: 100.00% ( 62/ 62)
+\Cake\ORM::Cake\ORM\EagerLoadable
+  Methods:  78.57% (11/14)   Lines:  85.29% ( 29/ 34)
+\Cake\ORM::Cake\ORM\EagerLoader
+  Methods:  92.00% (23/25)   Lines:  98.10% (258/263)
+\Cake\ORM::Cake\ORM\Entity
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 15/ 15)
+\Cake\ORM::Cake\ORM\LazyEagerLoader
+  Methods:  85.71% ( 6/ 7)   Lines:  96.77% ( 30/ 31)
+\Cake\ORM::Cake\ORM\Marshaller
+  Methods:  87.50% (21/24)   Lines:  97.87% (230/235)
+\Cake\ORM::Cake\ORM\Query
+  Methods:  88.10% (37/42)   Lines:  97.00% (226/233)
+\Cake\ORM::Cake\ORM\ResultSet
+  Methods:  61.11% (11/18)   Lines:  85.12% (143/168)
+\Cake\ORM::Cake\ORM\RulesChecker
+  Methods:   0.00% ( 0/ 3)   Lines:  90.32% ( 28/ 31)
+\Cake\ORM::Cake\ORM\SaveOptionsBuilder
+  Methods:  91.67% (11/12)   Lines:  97.44% ( 38/ 39)
+\Cake\ORM::Cake\ORM\Table
+  Methods:  87.37% (83/95)   Lines:  96.17% (528/549)
+\Cake\ORM::Cake\ORM\TableRegistry
+  Methods: 100.00% (10/10)   Lines: 100.00% ( 17/ 17)
+\Cake\ORM\Association::Cake\ORM\Association\BelongsTo
+  Methods:  87.50% ( 7/ 8)   Lines:  96.00% ( 48/ 50)
+\Cake\ORM\Association::Cake\ORM\Association\BelongsToMany
+  Methods:  91.49% (43/47)   Lines:  98.86% (435/440)
+\Cake\ORM\Association::Cake\ORM\Association\DependentDeleteHelper
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 12/ 12)
+\Cake\ORM\Association::Cake\ORM\Association\HasMany
+  Methods:  96.55% (28/29)   Lines:  98.54% (135/137)
+\Cake\ORM\Association::Cake\ORM\Association\HasOne
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 30/ 30)
+\Cake\ORM\Association\Loader::Cake\ORM\Association\Loader\SelectLoader
+  Methods:  94.44% (17/18)   Lines:  99.35% (153/154)
+\Cake\ORM\Association\Loader::Cake\ORM\Association\Loader\SelectWithPivotLoader
+  Methods:  75.00% ( 3/ 4)   Lines:  94.23% ( 49/ 52)
+\Cake\ORM\Behavior::Cake\ORM\Behavior\CounterCacheBehavior
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 61/ 61)
+\Cake\ORM\Behavior::Cake\ORM\Behavior\TimestampBehavior
+  Methods:  83.33% ( 5/ 6)   Lines:  97.44% ( 38/ 39)
+\Cake\ORM\Behavior::Cake\ORM\Behavior\TranslateBehavior
+  Methods:  75.00% (15/20)   Lines:  97.86% (229/234)
+\Cake\ORM\Behavior::Cake\ORM\Behavior\TreeBehavior
+  Methods:  92.31% (36/39)   Lines:  99.05% (314/317)
+\Cake\ORM\Behavior\Translate::TranslateTrait
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 15/ 15)
+\Cake\ORM\Exception::Cake\ORM\Exception\PersistenceFailedException
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\Cake\ORM\Locator::Cake\ORM\Locator\TableLocator
+  Methods:  81.82% ( 9/11)   Lines:  95.24% ( 60/ 63)
+\Cake\ORM\Locator::LocatorAwareTrait
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  8/  8)
+\Cake\ORM\Rule::Cake\ORM\Rule\ExistsIn
+  Methods:  66.67% ( 2/ 3)   Lines:  97.83% ( 45/ 46)
+\Cake\ORM\Rule::Cake\ORM\Rule\IsUnique
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 20/ 20)
+\Cake\ORM\Rule::Cake\ORM\Rule\ValidCount
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  6/  6)
+\Cake\Routing::Cake\Routing\Dispatcher
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  8/  8)
+\Cake\Routing::Cake\Routing\DispatcherFactory
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 16/ 16)
+\Cake\Routing::Cake\Routing\DispatcherFilter
+  Methods:  83.33% ( 5/ 6)   Lines:  96.88% ( 31/ 32)
+\Cake\Routing::Cake\Routing\RouteBuilder
+  Methods:  96.88% (31/32)   Lines:  99.52% (209/210)
+\Cake\Routing::Cake\Routing\RouteCollection
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 63/ 63)
+\Cake\Routing::Cake\Routing\Router
+  Methods:  93.55% (29/31)   Lines:  98.39% (244/248)
+\Cake\Routing::RequestActionTrait
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 47/ 47)
+\Cake\Routing\Exception::Cake\Routing\Exception\DuplicateNamedRouteException
+  Methods:   0.00% ( 0/ 1)   Lines:  75.00% (  3/  4)
+\Cake\Routing\Exception::Cake\Routing\Exception\MissingControllerException
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Cake\Routing\Exception::Cake\Routing\Exception\MissingRouteException
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  7/  7)
+\Cake\Routing\Filter::Cake\Routing\Filter\AssetFilter
+  Methods:  50.00% ( 2/ 4)   Lines:  86.36% ( 38/ 44)
+\Cake\Routing\Filter::Cake\Routing\Filter\ControllerFactoryFilter
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  6/  6)
+\Cake\Routing\Filter::Cake\Routing\Filter\LocaleSelectorFilter
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 10/ 10)
+\Cake\Routing\Filter::Cake\Routing\Filter\RoutingFilter
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 13/ 13)
+\Cake\Routing\Middleware::Cake\Routing\Middleware\AssetMiddleware
+  Methods:  66.67% ( 4/ 6)   Lines:  94.00% ( 47/ 50)
+\Cake\Routing\Middleware::Cake\Routing\Middleware\RoutingMiddleware
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 32/ 32)
+\Cake\Routing\Route::Cake\Routing\Route\DashedRoute
+  Methods:  75.00% ( 3/ 4)   Lines:  96.30% ( 26/ 27)
+\Cake\Routing\Route::Cake\Routing\Route\InflectedRoute
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 21/ 21)
+\Cake\Routing\Route::Cake\Routing\Route\PluginShortRoute
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 11/ 11)
+\Cake\Routing\Route::Cake\Routing\Route\RedirectRoute
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 23/ 23)
+\Cake\Routing\Route::Cake\Routing\Route\Route
+  Methods:  92.31% (24/26)   Lines:  98.26% (283/288)
+\Cake\Shell::Cake\Shell\CacheShell
+  Methods:  25.00% ( 1/ 4)   Lines:  57.14% ( 16/ 28)
+\Cake\Shell::Cake\Shell\CommandListShell
+  Methods:  83.33% ( 5/ 6)   Lines:  98.31% ( 58/ 59)
+\Cake\Shell::Cake\Shell\CompletionShell
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% ( 33/ 33)
+\Cake\Shell::Cake\Shell\HelpShell
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 51/ 51)
+\Cake\Shell::Cake\Shell\I18nShell
+  Methods:  33.33% ( 1/ 3)   Lines:  53.33% ( 32/ 60)
+\Cake\Shell::Cake\Shell\OrmCacheShell
+  Methods:  25.00% ( 1/ 4)   Lines:  85.71% ( 42/ 49)
+\Cake\Shell::Cake\Shell\PluginShell
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 18/ 18)
+\Cake\Shell::Cake\Shell\RoutesShell
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 49/ 49)
+\Cake\Shell::Cake\Shell\ServerShell
+  Methods:  20.00% ( 1/ 5)   Lines:  22.22% ( 10/ 45)
+\Cake\Shell::Cake\Shell\VersionShell
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Cake\Shell\Helper::Cake\Shell\Helper\ProgressHelper
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 33/ 33)
+\Cake\Shell\Helper::Cake\Shell\Helper\TableHelper
+  Methods:  80.00% ( 4/ 5)   Lines:  97.62% ( 41/ 42)
+\Cake\Shell\Task::Cake\Shell\Task\AssetsTask
+  Methods:  37.50% ( 3/ 8)   Lines:  90.80% ( 79/ 87)
+\Cake\Shell\Task::Cake\Shell\Task\CommandTask
+  Methods:  57.14% ( 4/ 7)   Lines:  96.04% ( 97/101)
+\Cake\Shell\Task::Cake\Shell\Task\ExtractTask
+  Methods:  42.11% ( 8/19)   Lines:  74.36% (232/312)
+\Cake\Shell\Task::Cake\Shell\Task\LoadTask
+  Methods:  33.33% ( 1/ 3)   Lines:  89.47% ( 34/ 38)
+\Cake\Shell\Task::Cake\Shell\Task\UnloadTask
+  Methods:  33.33% ( 1/ 3)   Lines:  77.78% ( 21/ 27)
+\Cake\TestSuite::Cake\TestSuite\ConsoleIntegrationTestCase
+  Methods: 100.00% (10/10)   Lines: 100.00% ( 76/ 76)
+\Cake\TestSuite::Cake\TestSuite\IntegrationTestCase
+  Methods:  62.07% (36/58)   Lines:  87.73% (243/277)
+\Cake\TestSuite::Cake\TestSuite\LegacyCommandRunner
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Cake\TestSuite::Cake\TestSuite\LegacyRequestDispatcher
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 10/ 10)
+\Cake\TestSuite::Cake\TestSuite\LegacyShellDispatcher
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  7/  7)
+\Cake\TestSuite::Cake\TestSuite\MiddlewareDispatcher
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 30/ 30)
+\Cake\TestSuite::Cake\TestSuite\TestCase
+  Methods:  70.83% (17/24)   Lines:  90.52% (210/232)
+\Cake\TestSuite::Cake\TestSuite\TestSuite
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 12/ 12)
+\Cake\TestSuite::EmailAssertTrait
+  Methods:  60.00% ( 9/15)   Lines:  72.37% ( 55/ 76)
+\Cake\TestSuite\Constraint::Cake\TestSuite\Constraint\EventFired
+  Methods:  66.67% ( 2/ 3)   Lines:  85.71% (  6/  7)
+\Cake\TestSuite\Constraint::Cake\TestSuite\Constraint\EventFiredWith
+  Methods:  75.00% ( 3/ 4)   Lines:  93.75% ( 15/ 16)
+\Cake\TestSuite\Fixture::Cake\TestSuite\Fixture\FixtureManager
+  Methods:  44.44% ( 8/18)   Lines:  80.68% (142/176)
+\Cake\TestSuite\Fixture::Cake\TestSuite\Fixture\TestFixture
+  Methods:  61.11% (11/18)   Lines:  78.00% (117/150)
+\Cake\TestSuite\Stub::Cake\TestSuite\Stub\ConsoleOutput
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  8/  8)
+\Cake\TestSuite\Stub::Cake\TestSuite\Stub\Response
+  Methods:   0.00% ( 0/ 1)   Lines:  75.00% (  3/  4)
+\Cake\TestSuite\Stub::Cake\TestSuite\Stub\TestExceptionRenderer
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Cake\Utility::Cake\Utility\Hash
+  Methods:  70.00% (21/30)   Lines:  97.12% (439/452)
+\Cake\Utility::Cake\Utility\Inflector
+  Methods:  85.71% (12/14)   Lines:  97.30% (108/111)
+\Cake\Utility::Cake\Utility\Security
+  Methods:  69.23% ( 9/13)   Lines:  71.74% ( 66/ 92)
+\Cake\Utility::Cake\Utility\Text
+  Methods:  85.19% (23/27)   Lines:  96.96% (415/428)
+\Cake\Utility::Cake\Utility\Xml
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% (140/140)
+\Cake\Utility::CookieCryptTrait
+  Methods:  66.67% ( 4/ 6)   Lines:  96.00% ( 48/ 50)
+\Cake\Utility::MergeVariablesTrait
+  Methods:  33.33% ( 1/ 3)   Lines:  92.50% ( 37/ 40)
+\Cake\Utility\Crypto::Cake\Utility\Crypto\OpenSsl
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 10/ 10)
+\Cake\Validation::Cake\Validation\RulesProvider
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  9/  9)
+\Cake\Validation::Cake\Validation\Validation
+  Methods:  79.66% (47/59)   Lines:  94.52% (397/420)
+\Cake\Validation::Cake\Validation\ValidationRule
+  Methods:  83.33% ( 5/ 6)   Lines:  97.73% ( 43/ 44)
+\Cake\Validation::Cake\Validation\ValidationSet
+  Methods: 100.00% (12/12)   Lines: 100.00% ( 24/ 24)
+\Cake\Validation::Cake\Validation\Validator
+  Methods:  98.84% (85/86)   Lines:  99.73% (363/364)
+\Cake\Validation::ValidatorAwareTrait
+  Methods:  85.71% ( 6/ 7)   Lines:  96.55% ( 28/ 29)
+\Cake\View::Cake\View\AjaxView
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  4/  4)
+\Cake\View::Cake\View\Cell
+  Methods:  50.00% ( 3/ 6)   Lines:  84.62% ( 55/ 65)
+\Cake\View::Cake\View\Helper
+  Methods:  77.78% ( 7/ 9)   Lines:  92.31% ( 36/ 39)
+\Cake\View::Cake\View\HelperRegistry
+  Methods:  66.67% ( 4/ 6)   Lines:  93.33% ( 28/ 30)
+\Cake\View::Cake\View\JsonView
+  Methods:  66.67% ( 2/ 3)   Lines:  97.14% ( 34/ 35)
+\Cake\View::Cake\View\SerializedView
+  Methods:  66.67% ( 2/ 3)   Lines:  94.44% ( 17/ 18)
+\Cake\View::Cake\View\StringTemplate
+  Methods:  90.91% (10/11)   Lines:  98.80% ( 82/ 83)
+\Cake\View::Cake\View\View
+  Methods:  78.95% (45/57)   Lines:  92.06% (313/340)
+\Cake\View::Cake\View\ViewBlock
+  Methods:  88.89% ( 8/ 9)   Lines:  91.89% ( 34/ 37)
+\Cake\View::Cake\View\ViewBuilder
+  Methods: 100.00% (39/39)   Lines: 100.00% (102/102)
+\Cake\View::Cake\View\XmlView
+  Methods:   0.00% ( 0/ 1)   Lines:  92.59% ( 25/ 27)
+\Cake\View::CellTrait
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 34/ 34)
+\Cake\View::StringTemplateTrait
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 18/ 18)
+\Cake\View::ViewVarsTrait
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 45/ 45)
+\Cake\View\Form::Cake\View\Form\ArrayContext
+  Methods:  66.67% ( 8/12)   Lines:  93.10% ( 54/ 58)
+\Cake\View\Form::Cake\View\Form\ContextFactory
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 36/ 36)
+\Cake\View\Form::Cake\View\Form\EntityContext
+  Methods:  89.47% (17/19)   Lines:  97.33% (146/150)
+\Cake\View\Form::Cake\View\Form\FormContext
+  Methods:  81.82% ( 9/11)   Lines:  92.31% ( 24/ 26)
+\Cake\View\Form::Cake\View\Form\NullContext
+  Methods:  90.91% (10/11)   Lines:  91.67% ( 11/ 12)
+\Cake\View\Helper::Cake\View\Helper\BreadcrumbsHelper
+  Methods:  55.56% ( 5/ 9)   Lines:  94.44% ( 68/ 72)
+\Cake\View\Helper::Cake\View\Helper\FlashHelper
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 14/ 14)
+\Cake\View\Helper::Cake\View\Helper\FormHelper
+  Methods:  73.91% (51/69)   Lines:  96.50% (827/857)
+\Cake\View\Helper::Cake\View\Helper\HtmlHelper
+  Methods:  85.71% (24/28)   Lines:  98.60% (353/358)
+\Cake\View\Helper::Cake\View\Helper\NumberHelper
+  Methods:  90.91% (10/11)   Lines:  95.65% ( 22/ 23)
+\Cake\View\Helper::Cake\View\Helper\PaginatorHelper
+  Methods:  90.91% (30/33)   Lines:  99.18% (364/367)
+\Cake\View\Helper::Cake\View\Helper\RssHelper
+  Methods:  57.14% ( 4/ 7)   Lines:  97.14% (136/140)
+\Cake\View\Helper::Cake\View\Helper\TextHelper
+  Methods:  81.25% (13/16)   Lines:  96.05% ( 73/ 76)
+\Cake\View\Helper::Cake\View\Helper\TimeHelper
+  Methods:  90.91% (20/22)   Lines:  91.23% ( 52/ 57)
+\Cake\View\Helper::Cake\View\Helper\UrlHelper
+  Methods:  80.00% ( 8/10)   Lines:  97.44% ( 76/ 78)
+\Cake\View\Helper::IdGeneratorTrait
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 14/ 14)
+\Cake\View\Helper::SecureFieldTokenTrait
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 20/ 20)
+\Cake\View\Widget::Cake\View\Widget\BasicWidget
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 15/ 15)
+\Cake\View\Widget::Cake\View\Widget\ButtonWidget
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  5/  5)
+\Cake\View\Widget::Cake\View\Widget\CheckboxWidget
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 15/ 15)
+\Cake\View\Widget::Cake\View\Widget\DateTimeWidget
+  Methods:  86.67% (13/15)   Lines:  97.94% (190/194)
+\Cake\View\Widget::Cake\View\Widget\FileWidget
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 14/ 14)
+\Cake\View\Widget::Cake\View\Widget\LabelWidget
+  Methods:  66.67% ( 2/ 3)   Lines:  90.00% (  9/ 10)
+\Cake\View\Widget::Cake\View\Widget\MultiCheckboxWidget
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 70/ 70)
+\Cake\View\Widget::Cake\View\Widget\RadioWidget
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 74/ 74)
+\Cake\View\Widget::Cake\View\Widget\SelectBoxWidget
+  Methods:  85.71% ( 6/ 7)   Lines:  98.85% ( 86/ 87)
+\Cake\View\Widget::Cake\View\Widget\TextareaWidget
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  8/  8)
+\Cake\View\Widget::Cake\View\Widget\WidgetRegistry
+  Methods:  83.33% ( 5/ 6)   Lines:  97.87% ( 46/ 47)

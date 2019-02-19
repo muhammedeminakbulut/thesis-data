@@ -1,0 +1,15 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:ivanakimov/hashids.php.git,0.3.1,572,45,61,0.00%,8.2,0,256,22,34,0
+git@github.com:ivanakimov/hashids.php.git,1.0.0,601,45,61,0.00%,8.2,0,256,22,39,0
+git@github.com:ivanakimov/hashids.php.git,1.0.1,613,45,61,0.00%,8.047619047619,0,256,22,39,0
+git@github.com:ivanakimov/hashids.php.git,1.0.2,677,86,63,0.00%,8.0952380952381,0,256,22,39,0
+git@github.com:ivanakimov/hashids.php.git,1.0.3,677,86,63,0.00%,8.0952380952381,0,256,22,39,0
+git@github.com:ivanakimov/hashids.php.git,1.0.4,677,86,63,0.00%,8.0952380952381,0,256,22,39,0
+git@github.com:ivanakimov/hashids.php.git,1.0.5,687,86,63,0.00%,7.5652173913043,0,256,22,40,0
+git@github.com:ivanakimov/hashids.php.git,1.0.6,642,85,62,0.00%,7.6521739130435,0,256,22,38,0
+git@github.com:ivanakimov/hashids.php.git,2.0.0,831,247,47,0.00%,7.08,0,256,22,34,0
+git@github.com:ivanakimov/hashids.php.git,2.0.1,989,302,52,0.00%,5.1794871794872,0,256,22,63,0
+git@github.com:ivanakimov/hashids.php.git,2.0.2,1000,305,52,0.00%,5.15,0,256,22,63,0
+git@github.com:ivanakimov/hashids.php.git,2.0.3,1000,305,52,0.00%,5.175,0,256,22,63,0
+git@github.com:ivanakimov/hashids.php.git,2.0.4,1051,311,56,0.00%,5.0697674418605,0,256,22,63,0
+git@github.com:ivanakimov/hashids.php.git,3.0.0,1232,483,46,0.00%,4.3958333333333,0,256,22,91,0

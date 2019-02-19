@@ -1,0 +1,6 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:versionpress/versionpress.git,1.0.1,25821,5888,1338,0.33%,3.6728763040238,0,138,27,882,0
+git@github.com:versionpress/versionpress.git,2.0.1,32604,7857,1780,0.34%,3.8209230769231,0,138,27,1111,0
+git@github.com:versionpress/versionpress.git,2.1.1,32786,7895,1800,0.34%,3.8373235113567,0,138,27,1102,0
+git@github.com:versionpress/versionpress.git,3.0.1,45317,10000,2242,0.28%,3.9505494505495,0,138,27,1187,0
+git@github.com:versionpress/versionpress.git,3.0.2,45317,10000,2241,0.28%,3.9505494505495,0,138,27,1187,0

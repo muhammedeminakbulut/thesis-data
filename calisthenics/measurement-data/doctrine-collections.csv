@@ -1,0 +1,5 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:doctrine/collections.git,v1.2.1,2819,1071,57,0.00%,2.5314285714286,0,129,70,79,0
+git@github.com:doctrine/collections.git,v1.3.0,3137,1132,67,0.00%,2.7305699481865,0,129,70,87,0
+git@github.com:doctrine/collections.git,v1.4.0,3745,1276,73,0.00%,2.6594827586207,0,129,70,97,0
+git@github.com:doctrine/collections.git,v1.5.0,3728,1254,75,0.00%,2.676724137931,0,129,70,97,0

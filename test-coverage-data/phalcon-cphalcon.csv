@@ -1,0 +1,48 @@
+repository,tag,coverage
+git@github.com:phalcon/cphalcon.git,v0.4.5,"no composer"
+git@github.com:phalcon/cphalcon.git,v0.5.3,"no composer"
+git@github.com:phalcon/cphalcon.git,v0.6.1,"no composer"
+git@github.com:phalcon/cphalcon.git,v0.7.0,"no composer"
+git@github.com:phalcon/cphalcon.git,v0.8.0,"no composer"
+git@github.com:phalcon/cphalcon.git,v0.9.0,"no composer"
+git@github.com:phalcon/cphalcon.git,v3.0.0,"no phpunit config"
+git@github.com:phalcon/cphalcon.git,v3.1.0,"composer failed, Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Your requirements could not be resolved to an installable set of packages.
+
+  Problem 1
+    - Conclusion: don't install phpdocumentor/reflection-docblock 2.0.5
+    - Conclusion: don't install phpdocumentor/reflection-docblock 2.0.4
+    - Conclusion: don't install phpdocumentor/reflection-docblock 2.0.3
+    - Conclusion: don't install phpdocumentor/reflection-docblock 2.0.2
+    - Conclusion: don't install phpdocumentor/reflection-docblock 2.0.1
+    - phalcon/zephir dev-master requires symfony/framework-bundle 3.4.* -> satisfiable by symfony/framework-bundle[v3.4.22, v3.4.0, v3.4.1, v3.4.10, v3.4.11, v3.4.12, v3.4.13, v3.4.14, v3.4.15, v3.4.16, v3.4.17, v3.4.18, v3.4.19, v3.4.2, v3.4.20, v3.4.21, v3.4.3, v3.4.4, v3.4.5, v3.4.6, v3.4.7, v3.4.8, v3.4.9].
+    - phalcon/zephir dev-master requires symfony/framework-bundle 3.4.* -> satisfiable by symfony/framework-bundle[v3.4.22, v3.4.0, v3.4.1, v3.4.10, v3.4.11, v3.4.12, v3.4.13, v3.4.14, v3.4.15, v3.4.16, v3.4.17, v3.4.18, v3.4.19, v3.4.2, v3.4.20, v3.4.21, v3.4.3, v3.4.4, v3.4.5, v3.4.6, v3.4.7, v3.4.8, v3.4.9].
+    - symfony/framework-bundle v3.4.0 conflicts with phpdocumentor/reflection-docblock[2.0.0].
+    - symfony/framework-bundle v3.4.1 conflicts with phpdocumentor/reflection-docblock[2.0.0].
+    - symfony/framework-bundle v3.4.10 conflicts with phpdocumentor/reflection-docblock[2.0.0].
+    - symfony/framework-bundle v3.4.11 conflicts with phpdocumentor/reflection-docblock[2.0.0].
+    - symfony/framework-bundle v3.4.12 conflicts with phpdocumentor/reflection-docblock[2.0.0].
+    - symfony/framework-bundle v3.4.13 conflicts with phpdocumentor/reflection-docblock[2.0.0].
+    - symfony/framework-bundle v3.4.14 conflicts with phpdocumentor/reflection-docblock[2.0.0].
+    - symfony/framework-bundle v3.4.15 conflicts with phpdocumentor/reflection-docblock[2.0.0].
+    - symfony/framework-bundle v3.4.16 conflicts with phpdocumentor/reflection-docblock[2.0.0].
+    - symfony/framework-bundle v3.4.17 conflicts with phpdocumentor/reflection-docblock[2.0.0].
+    - symfony/framework-bundle v3.4.18 conflicts with phpdocumentor/reflection-docblock[2.0.0].
+    - symfony/framework-bundle v3.4.19 conflicts with phpdocumentor/reflection-docblock[2.0.0].
+    - symfony/framework-bundle v3.4.2 conflicts with phpdocumentor/reflection-docblock[2.0.0].
+    - symfony/framework-bundle v3.4.20 conflicts with phpdocumentor/reflection-docblock[2.0.0].
+    - symfony/framework-bundle v3.4.21 conflicts with phpdocumentor/reflection-docblock[2.0.0].
+    - symfony/framework-bundle v3.4.22 conflicts with phpdocumentor/reflection-docblock[2.0.0].
+    - symfony/framework-bundle v3.4.3 conflicts with phpdocumentor/reflection-docblock[2.0.0].
+    - symfony/framework-bundle v3.4.4 conflicts with phpdocumentor/reflection-docblock[2.0.0].
+    - symfony/framework-bundle v3.4.5 conflicts with phpdocumentor/reflection-docblock[2.0.0].
+    - symfony/framework-bundle v3.4.6 conflicts with phpdocumentor/reflection-docblock[2.0.0].
+    - symfony/framework-bundle v3.4.7 conflicts with phpdocumentor/reflection-docblock[2.0.0].
+    - symfony/framework-bundle v3.4.8 conflicts with phpdocumentor/reflection-docblock[2.0.0].
+    - symfony/framework-bundle v3.4.9 conflicts with phpdocumentor/reflection-docblock[2.0.0].
+    - phpdocumentor/reflection-docblock 2.0.0 conflicts with symfony/framework-bundle[v3.4.22].
+    - Installation request for phpdocumentor/reflection-docblock ^2.0 -> satisfiable by phpdocumentor/reflection-docblock[2.0.0, 2.0.1, 2.0.2, 2.0.3, 2.0.4, 2.0.5].
+    - Installation request for phalcon/zephir dev-master -> satisfiable by phalcon/zephir[dev-master]."
+git@github.com:phalcon/cphalcon.git,v3.2.0,"no phpunit config"
+git@github.com:phalcon/cphalcon.git,v3.3.0,"no phpunit config"

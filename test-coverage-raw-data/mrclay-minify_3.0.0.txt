@@ -1,0 +1,138 @@
+
+
+Code Coverage Report:         
+  2019-02-17 16:04:26         
+                              
+ Summary:                     
+  Classes: 25.79% (318/1233)  
+  Methods:  3.36% (198/5899)  
+  Lines:    5.70% (3437/60247)
+
+@Minify.Cache::Minify_Cache_File
+  Methods:  57.14% ( 4/ 7)   Lines:  85.00% ( 34/ 40)
+@Minify.HTTP::HTTP_ConditionalGet
+  Methods:  50.00% ( 6/12)   Lines:  69.57% ( 64/ 92)
+@Minify.HTTP::HTTP_Encoder
+  Methods:  22.22% ( 2/ 9)   Lines:  78.82% ( 67/ 85)
+@Minify.Source::Minify_Source_Factory
+  Methods:  40.00% ( 2/ 5)   Lines:  76.12% ( 51/ 67)
+@Minify::Minify
+  Methods:  25.00% ( 3/12)   Lines:  44.02% (114/259)
+@Minify::Minify_Build
+  Methods:  50.00% ( 1/ 2)   Lines:  92.31% ( 12/ 13)
+@Minify::Minify_CSS_UriRewriter
+  Methods:  77.78% ( 7/ 9)   Lines:  90.36% ( 75/ 83)
+@Minify::Minify_CSSmin
+  Methods:   0.00% ( 0/ 1)   Lines:  55.00% ( 11/ 20)
+@Minify::Minify_ClosureCompiler
+  Methods:  10.00% ( 1/10)   Lines:  12.77% (  6/ 47)
+@Minify::Minify_CommentPreserver
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 19/ 19)
+@Minify::Minify_Controller_Base
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  7/  7)
+@Minify::Minify_Controller_Files
+  Methods:   0.00% ( 0/ 1)   Lines:  61.54% (  8/ 13)
+@Minify::Minify_Env
+  Methods:  11.11% ( 1/ 9)   Lines:  61.90% ( 26/ 42)
+@Minify::Minify_HTML
+  Methods:  90.91% (10/11)   Lines:  97.75% ( 87/ 89)
+@Minify::Minify_HTML_Helper
+  Methods:  62.50% ( 5/ 8)   Lines:  94.57% ( 87/ 92)
+@Minify::Minify_ImportProcessor
+  Methods:  71.43% ( 5/ 7)   Lines:  94.87% ( 74/ 78)
+@Minify::Minify_LessCssSource
+  Methods:  71.43% ( 5/ 7)   Lines:  83.33% ( 25/ 30)
+@Minify::Minify_Lines
+  Methods:  75.00% ( 3/ 4)   Lines:  89.39% ( 59/ 66)
+@Minify::Minify_ScssCssSource
+  Methods:  57.14% ( 4/ 7)   Lines:  71.05% ( 27/ 38)
+@Minify::Minify_ServeConfiguration
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  7/  7)
+@Minify::Minify_Source
+  Methods:  54.55% ( 6/11)   Lines:  57.14% ( 32/ 56)
+@PHP::PHP_CodeCoverage
+  Methods:   0.00% ( 0/30)   Lines:   1.15% (  4/348)
+@PHP::PHP_Timer
+  Methods:  40.00% ( 2/ 5)   Lines:  21.43% (  3/ 14)
+@PHPUnit.Framework.Constraint::PHPUnit_Framework_Constraint_IsEqual
+  Methods:   0.00% ( 0/ 3)   Lines:  57.14% ( 28/ 49)
+@PHPUnit.Framework.Constraint::PHPUnit_Framework_Constraint_IsIdentical
+  Methods:  25.00% ( 1/ 4)   Lines:  35.71% ( 10/ 28)
+@PHPUnit.Framework.Constraint::PHPUnit_Framework_Constraint_IsInstanceOf
+  Methods:  40.00% ( 2/ 5)   Lines:  22.22% (  4/ 18)
+@PHPUnit.Framework.Constraint::PHPUnit_Framework_Constraint_IsTrue
+  Methods:  50.00% ( 1/ 2)   Lines:  50.00% (  1/  2)
+@PHPUnit.Framework.Constraint::PHPUnit_Framework_Constraint_LessThan
+  Methods:  66.67% ( 2/ 3)   Lines:  80.00% (  4/  5)
+@PHPUnit.Framework::PHPUnit_Framework_Assert
+  Methods:   5.30% ( 7/132)   Lines:   3.47% ( 28/807)
+@PHPUnit.Framework::PHPUnit_Framework_Constraint
+  Methods:  28.57% ( 2/ 7)   Lines:  36.00% (  9/ 25)
+@PHPUnit.Framework::PHPUnit_Framework_Exception
+  Methods:  25.00% ( 1/ 4)   Lines:  45.45% (  5/ 11)
+@PHPUnit.Framework::PHPUnit_Framework_ExpectationFailedException
+  Methods:  50.00% ( 1/ 2)   Lines:  75.00% (  3/  4)
+@PHPUnit.Framework::PHPUnit_Framework_TestCase
+  Methods:   7.95% ( 7/88)   Lines:  17.01% (108/635)
+@PHPUnit.Framework::PHPUnit_Framework_TestResult
+  Methods:   0.00% ( 0/52)   Lines:  10.16% ( 31/305)
+@PHPUnit.Util::PHPUnit_Util_Test
+  Methods:   3.23% ( 1/31)   Lines:  19.34% ( 76/393)
+@lessc.formatter::lessc_formatter_classic
+  Methods:  60.00% ( 3/ 5)   Lines:  81.58% ( 31/ 38)
+@lessc::lessc_parser
+  Methods:  34.78% (16/46)   Lines:  45.07% (311/690)
+CSSmin
+  Methods:  26.09% (12/46)   Lines:  60.37% (227/376)
+\Composer\Autoload::ClassLoader
+  Methods:   9.52% ( 2/21)   Lines:  33.08% ( 43/130)
+\JSMin::JSMin
+  Methods:  50.00% ( 6/12)   Lines:  87.78% (158/180)
+\Leafo\ScssPhp::Compiler
+  Methods:  15.22% ( 7/46)   Lines:  24.76% (203/820)
+\Leafo\ScssPhp::Formatter
+  Methods:  25.00% ( 2/ 8)   Lines:  17.07% (  7/ 41)
+\Leafo\ScssPhp::Parser
+  Methods:  27.12% (16/59)   Lines:  45.47% (442/972)
+\Leafo\ScssPhp\Formatter::Nested
+  Methods:  57.14% ( 4/ 7)   Lines:  93.06% ( 67/ 72)
+\Leafo\ScssPhp\Node::Number
+  Methods:   0.00% ( 0/13)   Lines:  13.83% ( 13/ 94)
+\Minify::App
+  Methods:   0.00% ( 0/ 4)   Lines:  44.35% ( 51/115)
+\Monolog::Logger
+  Methods:   2.33% ( 1/43)   Lines:   5.98% (  7/117)
+\Props::Container
+  Methods:  13.33% ( 2/15)   Lines:  33.93% ( 19/ 56)
+\SebastianBergmann\Comparator::ArrayComparator
+  Methods:  33.33% ( 1/ 3)   Lines:   1.72% (  1/ 58)
+\SebastianBergmann\Comparator::Comparator
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\SebastianBergmann\Comparator::ComparisonFailure
+  Methods:  14.29% ( 1/ 7)   Lines:  40.00% (  6/ 15)
+\SebastianBergmann\Comparator::DOMNodeComparator
+  Methods:  33.33% ( 1/ 3)   Lines:   3.33% (  1/ 30)
+\SebastianBergmann\Comparator::DateTimeComparator
+  Methods:  33.33% ( 1/ 3)   Lines:  11.76% (  2/ 17)
+\SebastianBergmann\Comparator::DoubleComparator
+  Methods:  50.00% ( 1/ 2)   Lines:  20.00% (  1/  5)
+\SebastianBergmann\Comparator::ExceptionComparator
+  Methods:  50.00% ( 1/ 2)   Lines:  12.50% (  1/  8)
+\SebastianBergmann\Comparator::Factory
+  Methods:  60.00% ( 3/ 5)   Lines:  81.48% ( 22/ 27)
+\SebastianBergmann\Comparator::MockObjectComparator
+  Methods:  50.00% ( 1/ 2)   Lines:  25.00% (  1/  4)
+\SebastianBergmann\Comparator::NumericComparator
+  Methods:  50.00% ( 1/ 2)   Lines:  15.79% (  3/ 19)
+\SebastianBergmann\Comparator::ObjectComparator
+  Methods:  33.33% ( 1/ 3)   Lines:   2.94% (  1/ 34)
+\SebastianBergmann\Comparator::ResourceComparator
+  Methods:  50.00% ( 1/ 2)   Lines:  12.50% (  1/  8)
+\SebastianBergmann\Comparator::ScalarComparator
+  Methods:   0.00% ( 0/ 2)   Lines:  56.25% ( 18/ 32)
+\SebastianBergmann\Comparator::SplObjectStorageComparator
+  Methods:  50.00% ( 1/ 2)   Lines:   5.00% (  1/ 20)
+\SebastianBergmann\Exporter::Exporter
+  Methods:  20.00% ( 1/ 5)   Lines:   9.43% ( 10/106)
+lessc
+  Methods:  13.70% (10/73)   Lines:  37.58% (224/596)

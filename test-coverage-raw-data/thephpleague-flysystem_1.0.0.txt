@@ -1,0 +1,58 @@
+
+
+Code Coverage Report:      
+  2019-02-15 15:26:11      
+                           
+ Summary:                  
+  Classes: 90.32% (28/31)  
+  Methods: 97.16% (205/211)
+  Lines:   97.52% (708/726)
+
+\League\Flysystem::Config
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 13/ 13)
+\League\Flysystem::Directory
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\League\Flysystem::File
+  Methods: 100.00% (10/10)   Lines: 100.00% ( 10/ 10)
+\League\Flysystem::FileExistsException
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\League\Flysystem::FileNotFoundException
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\League\Flysystem::Filesystem
+  Methods: 100.00% (31/31)   Lines: 100.00% (126/126)
+\League\Flysystem::Handler
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 12/ 12)
+\League\Flysystem::MountManager
+  Methods: 100.00% ( 9/ 9)   Lines: 100.00% ( 50/ 50)
+\League\Flysystem::Util
+  Methods: 100.00% (14/14)   Lines: 100.00% ( 65/ 65)
+\League\Flysystem\Adapter::AbstractAdapter
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 16/ 16)
+\League\Flysystem\Adapter::AbstractFtpAdapter
+  Methods: 100.00% (32/32)   Lines: 100.00% ( 80/ 80)
+\League\Flysystem\Adapter::Ftp
+  Methods: 100.00% (24/24)   Lines: 100.00% (109/109)
+\League\Flysystem\Adapter::Local
+  Methods: 100.00% (25/25)   Lines: 100.00% (111/111)
+\League\Flysystem\Adapter::NullAdapter
+  Methods: 100.00% (15/15)   Lines: 100.00% ( 20/ 20)
+\League\Flysystem\Adapter::SynologyFtp
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  9/  9)
+\League\Flysystem\Adapter\Polyfill::StreamedReadingTrait
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  8/  8)
+\League\Flysystem\Plugin::AbstractPlugin
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\League\Flysystem\Plugin::EmptyDir
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  7/  7)
+\League\Flysystem\Plugin::GetWithMetadata
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 10/ 10)
+\League\Flysystem\Plugin::ListFiles
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  4/  4)
+\League\Flysystem\Plugin::ListPaths
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  6/  6)
+\League\Flysystem\Plugin::ListWith
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 12/ 12)
+\League\Flysystem\Plugin::PluggableTrait
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 11/ 11)
+\League\Flysystem\Util::MimeType
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 12/ 12)

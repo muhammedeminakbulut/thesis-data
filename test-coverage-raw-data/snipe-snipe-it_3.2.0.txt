@@ -1,0 +1,12 @@
+
+
+Code Coverage Report:      
+  2019-02-17 15:58:00      
+                           
+ Summary:                  
+  Classes:  5.26% (5/95)   
+  Methods:  0.29% (2/679)  
+  Lines:    0.06% (6/10573)
+
+\App\Models::CustomField
+  Methods:  22.22% ( 2/ 9)   Lines:  19.23% (  5/ 26)

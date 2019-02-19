@@ -1,0 +1,238 @@
+
+
+Code Coverage Report:       
+  2019-02-15 07:32:09       
+                            
+ Summary:                   
+  Classes: 54.75% (121/221) 
+  Methods: 66.85% (369/552) 
+  Lines:   69.67% (960/1378)
+
+\Faker::DefaultGenerator
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  4/  4)
+\Faker::Factory
+  Methods:  66.67% ( 2/ 3)   Lines:  94.12% ( 16/ 17)
+\Faker::Generator
+  Methods:  88.89% ( 8/ 9)   Lines:  94.12% ( 16/ 17)
+\Faker::UniqueGenerator
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 14/ 14)
+\Faker\PHPUnit\Framework\Constraint::IsValidSiren
+  Methods:  50.00% ( 1/ 2)   Lines:  50.00% (  1/  2)
+\Faker\PHPUnit\Framework\Constraint::IsValidSirenSiret
+  Methods:   0.00% ( 0/ 2)   Lines:  83.33% ( 10/ 12)
+\Faker\PHPUnit\Framework\Constraint::IsValidSiret
+  Methods:  50.00% ( 1/ 2)   Lines:  50.00% (  1/  2)
+\Faker\Provider::Address
+  Methods:  81.82% ( 9/11)   Lines:  86.67% ( 13/ 15)
+\Faker\Provider::Base
+  Methods:  88.24% (15/17)   Lines:  92.00% ( 69/ 75)
+\Faker\Provider::Color
+  Methods:  57.14% ( 4/ 7)   Lines:  63.64% (  7/ 11)
+\Faker\Provider::Company
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\Faker\Provider::DateTime
+  Methods:  70.00% (14/20)   Lines:  77.42% ( 24/ 31)
+\Faker\Provider::Image
+  Methods:  50.00% ( 1/ 2)   Lines:  80.00% ( 20/ 25)
+\Faker\Provider::Internet
+  Methods:  75.00% (12/16)   Lines:  81.58% ( 31/ 38)
+\Faker\Provider::Lorem
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% ( 55/ 55)
+\Faker\Provider::Payment
+  Methods:  42.86% ( 3/ 7)   Lines:  30.16% ( 19/ 63)
+\Faker\Provider::Person
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% ( 21/ 21)
+\Faker\Provider::PhoneNumber
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Faker\Provider::Text
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 42/ 42)
+\Faker\Provider::UserAgent
+  Methods:  81.82% ( 9/11)   Lines:  93.55% ( 29/ 31)
+\Faker\Provider::Uuid
+  Methods:   0.00% ( 0/ 1)   Lines:  86.21% ( 25/ 29)
+\Faker\Provider\bg_BG::Internet
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  7/  7)
+\Faker\Provider\bg_BG::Person
+  Methods:  66.67% ( 2/ 3)   Lines:  71.43% (  5/  7)
+\Faker\Provider\bn_BD::Address
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  4/  4)
+\Faker\Provider\bn_BD::Company
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Faker\Provider\bn_BD::PhoneNumber
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\Faker\Provider\bn_BD::Utils
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\Faker\Provider\cs_CZ::Address
+  Methods:  66.67% ( 2/ 3)   Lines:  66.67% (  2/  3)
+\Faker\Provider\cs_CZ::Internet
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\Faker\Provider\cs_CZ::Person
+  Methods:  66.67% ( 4/ 6)   Lines:  70.00% (  7/ 10)
+\Faker\Provider\da_DK::Address
+  Methods:  42.86% ( 3/ 7)   Lines:  42.86% (  3/  7)
+\Faker\Provider\da_DK::Internet
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 10/ 10)
+\Faker\Provider\da_DK::Person
+  Methods:  50.00% ( 1/ 2)   Lines:  33.33% (  1/  3)
+\Faker\Provider\de_AT::Address
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  3/  3)
+\Faker\Provider\de_DE::Address
+  Methods:  75.00% ( 3/ 4)   Lines:  75.00% (  3/  4)
+\Faker\Provider\de_DE::Internet
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 10/ 10)
+\Faker\Provider\el_GR::Address
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Faker\Provider\el_GR::Person
+  Methods:  66.67% ( 2/ 3)   Lines:  71.43% (  5/  7)
+\Faker\Provider\en_AU::Address
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Faker\Provider\en_AU::PhoneNumber
+  Methods:  66.67% ( 2/ 3)   Lines:  75.00% (  3/  4)
+\Faker\Provider\en_CA::Address
+  Methods:  75.00% ( 3/ 4)   Lines:  85.71% (  6/  7)
+\Faker\Provider\en_GB::Address
+  Methods:  33.33% ( 1/ 3)   Lines:  33.33% (  1/  3)
+\Faker\Provider\en_PH::Address
+  Methods:  75.00% ( 3/ 4)   Lines:  75.00% (  3/  4)
+\Faker\Provider\en_US::Address
+  Methods:  75.00% ( 3/ 4)   Lines:  75.00% (  3/  4)
+\Faker\Provider\en_US::Person
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Faker\Provider\en_ZA::Address
+  Methods:  50.00% ( 2/ 4)   Lines:  50.00% (  2/  4)
+\Faker\Provider\es_AR::Address
+  Methods:  50.00% ( 2/ 4)   Lines:  50.00% (  2/  4)
+\Faker\Provider\es_AR::Person
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Faker\Provider\es_ES::Address
+  Methods:  60.00% ( 3/ 5)   Lines:  60.00% (  3/  5)
+\Faker\Provider\es_ES::Company
+  Methods:  33.33% ( 1/ 3)   Lines:  11.11% (  1/  9)
+\Faker\Provider\es_ES::Internet
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  8/  8)
+\Faker\Provider\es_ES::Person
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Faker\Provider\es_PE::Address
+  Methods:  75.00% ( 3/ 4)   Lines:  75.00% (  3/  4)
+\Faker\Provider\es_PE::Person
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Faker\Provider\fi_FI::Address
+  Methods:  66.67% ( 2/ 3)   Lines:  66.67% (  2/  3)
+\Faker\Provider\fr_BE::Address
+  Methods:  33.33% ( 1/ 3)   Lines:  33.33% (  1/  3)
+\Faker\Provider\fr_BE::Internet
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 10/ 10)
+\Faker\Provider\fr_CA::Address
+  Methods:  80.00% ( 4/ 5)   Lines:  80.00% (  4/  5)
+\Faker\Provider\fr_FR::Address
+  Methods:  20.00% ( 1/ 5)   Lines:  14.29% (  1/  7)
+\Faker\Provider\fr_FR::Company
+  Methods:  14.29% ( 1/ 7)   Lines:  81.03% ( 47/ 58)
+\Faker\Provider\fr_FR::Internet
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 10/ 10)
+\Faker\Provider\hu_HU::Person
+  Methods:  75.00% ( 3/ 4)   Lines:  75.00% (  3/  4)
+\Faker\Provider\hy_AM::Address
+  Methods: 100.00% (10/10)   Lines: 100.00% ( 11/ 11)
+\Faker\Provider\hy_AM::Internet
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 12/ 12)
+\Faker\Provider\is_IS::Address
+  Methods:  75.00% ( 3/ 4)   Lines:  75.00% (  3/  4)
+\Faker\Provider\is_IS::Internet
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 10/ 10)
+\Faker\Provider\is_IS::Person
+  Methods:  60.00% ( 3/ 5)   Lines:  34.78% (  8/ 23)
+\Faker\Provider\it_IT::Address
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  4/  4)
+\Faker\Provider\it_IT::Internet
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  5/  5)
+\Faker\Provider\ja_JP::Address
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% ( 13/ 13)
+\Faker\Provider\ja_JP::Company
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Faker\Provider\ja_JP::Internet
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  5/  5)
+\Faker\Provider\ja_JP::Person
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  4/  4)
+\Faker\Provider\lv_LV::Address
+  Methods: 100.00% (10/10)   Lines: 100.00% ( 11/ 11)
+\Faker\Provider\lv_LV::Internet
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  7/  7)
+\Faker\Provider\me_ME::Address
+  Methods:  60.00% ( 3/ 5)   Lines:  60.00% (  3/  5)
+\Faker\Provider\me_ME::Company
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Faker\Provider\nl_BE::Address
+  Methods:  50.00% ( 1/ 2)   Lines:  50.00% (  1/  2)
+\Faker\Provider\nl_BE::Internet
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 10/ 10)
+\Faker\Provider\nl_NL::Address
+  Methods:  66.67% ( 2/ 3)   Lines:  66.67% (  2/  3)
+\Faker\Provider\nl_NL::Person
+  Methods:  60.00% ( 3/ 5)   Lines:  85.71% ( 12/ 14)
+\Faker\Provider\pl_PL::Address
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Faker\Provider\pl_PL::Internet
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\Faker\Provider\pl_PL::Person
+  Methods:  33.33% ( 3/ 9)   Lines:  11.11% (  6/ 54)
+\Faker\Provider\pt_BR::Address
+  Methods:  40.00% ( 2/ 5)   Lines:  40.00% (  2/  5)
+\Faker\Provider\pt_BR::Internet
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 12/ 12)
+\Faker\Provider\pt_BR::Person
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Faker\Provider\pt_PT::Address
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  3/  3)
+\Faker\Provider\pt_PT::Internet
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  6/  6)
+\Faker\Provider\pt_PT::Person
+  Methods:  50.00% ( 1/ 2)   Lines:  94.44% ( 17/ 18)
+\Faker\Provider\pt_PT::PhoneNumber
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Faker\Provider\ro_MD::Address
+  Methods:  80.00% ( 8/10)   Lines:  84.62% ( 11/ 13)
+\Faker\Provider\ro_RO::Address
+  Methods:  63.64% ( 7/11)   Lines:  71.43% ( 10/ 14)
+\Faker\Provider\ro_RO::Person
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 46/ 46)
+\Faker\Provider\ro_RO::PhoneNumber
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  7/  7)
+\Faker\Provider\ru_RU::Address
+  Methods: 100.00% (10/10)   Lines: 100.00% ( 11/ 11)
+\Faker\Provider\ru_RU::Internet
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 10/ 10)
+\Faker\Provider\ru_RU::Person
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Faker\Provider\sk_SK::Address
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Faker\Provider\sk_SK::Internet
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\Faker\Provider\sk_SK::Person
+  Methods:  71.43% ( 5/ 7)   Lines:  72.73% (  8/ 11)
+\Faker\Provider\sr_Cyrl_RS::Address
+  Methods:  66.67% ( 2/ 3)   Lines:  66.67% (  2/  3)
+\Faker\Provider\sr_Latn_RS::Address
+  Methods:  66.67% ( 2/ 3)   Lines:  66.67% (  2/  3)
+\Faker\Provider\sr_RS::Address
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  3/  3)
+\Faker\Provider\tr_TR::Address
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Faker\Provider\tr_TR::Internet
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 10/ 10)
+\Faker\Provider\tr_TR::Person
+  Methods:  66.67% ( 2/ 3)   Lines:  66.67% (  2/  3)
+\Faker\Provider\uk_UA::Address
+  Methods: 100.00% (10/10)   Lines: 100.00% ( 14/ 14)
+\Faker\Provider\uk_UA::Company
+  Methods:  33.33% ( 1/ 3)   Lines:  25.00% (  1/  4)
+\Faker\Provider\uk_UA::Internet
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 10/ 10)
+\Faker\Provider\uk_UA::Person
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Faker\Provider\zh_CN::Address
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% (  7/  7)
+\Faker\Provider\zh_CN::Company
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Faker\Provider\zh_CN::PhoneNumber
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)

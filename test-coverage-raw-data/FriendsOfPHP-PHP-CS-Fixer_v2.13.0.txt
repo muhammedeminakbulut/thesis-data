@@ -1,0 +1,644 @@
+
+
+Code Coverage Report:          
+  2019-02-16 15:53:34          
+                               
+ Summary:                      
+  Classes: 16.47% (55/334)     
+  Methods: 65.57% (1301/1984)  
+  Lines:   81.19% (12233/15067)
+
+\PhpCsFixer::PhpCsFixer\AbstractDoctrineAnnotationFixer
+  Methods:  75.00% ( 3/ 4)   Lines:  96.88% ( 31/ 32)
+\PhpCsFixer::PhpCsFixer\AbstractFixer
+  Methods:   0.00% ( 0/11)   Lines:  15.28% ( 11/ 72)
+\PhpCsFixer::PhpCsFixer\AbstractFunctionReferenceFixer
+  Methods:  50.00% ( 1/ 2)   Lines:  94.44% ( 17/ 18)
+\PhpCsFixer::PhpCsFixer\AbstractLinesBeforeNamespaceFixer
+  Methods:   0.00% ( 0/ 1)   Lines:  88.10% ( 37/ 42)
+\PhpCsFixer::PhpCsFixer\AbstractPhpdocTypesFixer
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 26/ 26)
+\PhpCsFixer::PhpCsFixer\AbstractProxyFixer
+  Methods:  28.57% ( 2/ 7)   Lines:  48.15% ( 13/ 27)
+\PhpCsFixer::PhpCsFixer\AbstractPsrAutoloadingFixer
+  Methods:  25.00% ( 1/ 4)   Lines:  80.00% ( 12/ 15)
+\PhpCsFixer::PhpCsFixer\Config
+  Methods:  38.46% (10/26)   Lines:  52.00% ( 26/ 50)
+\PhpCsFixer::PhpCsFixer\FileReader
+  Methods:  66.67% ( 2/ 3)   Lines:  88.89% (  8/  9)
+\PhpCsFixer::PhpCsFixer\FileRemoval
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 16/ 16)
+\PhpCsFixer::PhpCsFixer\Finder
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  8/  8)
+\PhpCsFixer::PhpCsFixer\FixerFactory
+  Methods:  90.91% (10/11)   Lines:  91.43% ( 64/ 70)
+\PhpCsFixer::PhpCsFixer\FixerFileProcessedEvent
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\PhpCsFixer::PhpCsFixer\FixerNameValidator
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\PhpCsFixer::PhpCsFixer\PharChecker
+  Methods:   0.00% ( 0/ 1)   Lines:  85.71% (  6/  7)
+\PhpCsFixer::PhpCsFixer\Preg
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 45/ 45)
+\PhpCsFixer::PhpCsFixer\RuleSet
+  Methods: 100.00% ( 9/ 9)   Lines: 100.00% ( 40/ 40)
+\PhpCsFixer::PhpCsFixer\StdinFileInfo
+  Methods:  93.10% (27/29)   Lines:  93.10% ( 27/ 29)
+\PhpCsFixer::PhpCsFixer\ToolInfo
+  Methods:  57.14% ( 4/ 7)   Lines:  52.00% ( 13/ 25)
+\PhpCsFixer::PhpCsFixer\Utils
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% ( 46/ 46)
+\PhpCsFixer::PhpCsFixer\WhitespacesFixerConfig
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  9/  9)
+\PhpCsFixer::PhpCsFixer\WordMatcher
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 10/ 10)
+\PhpCsFixer\Cache::PhpCsFixer\Cache\Cache
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% ( 44/ 44)
+\PhpCsFixer\Cache::PhpCsFixer\Cache\Directory
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  8/  8)
+\PhpCsFixer\Cache::PhpCsFixer\Cache\FileCacheManager
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 25/ 25)
+\PhpCsFixer\Cache::PhpCsFixer\Cache\FileHandler
+  Methods:  75.00% ( 3/ 4)   Lines:  82.86% ( 29/ 35)
+\PhpCsFixer\Cache::PhpCsFixer\Cache\NullCacheManager
+  Methods:  50.00% ( 1/ 2)   Lines:  50.00% (  1/  2)
+\PhpCsFixer\Cache::PhpCsFixer\Cache\Signature
+  Methods:  83.33% ( 5/ 6)   Lines:  87.50% ( 14/ 16)
+\PhpCsFixer\ConfigurationException::PhpCsFixer\ConfigurationException\InvalidConfigurationException
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  5/  5)
+\PhpCsFixer\ConfigurationException::PhpCsFixer\ConfigurationException\InvalidFixerConfigurationException
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  7/  7)
+\PhpCsFixer\Console::PhpCsFixer\Console\Application
+  Methods:  50.00% ( 2/ 4)   Lines:  64.52% ( 20/ 31)
+\PhpCsFixer\Console::PhpCsFixer\Console\ConfigurationResolver
+  Methods:  61.29% (19/31)   Lines:  83.81% (264/315)
+\PhpCsFixer\Console::PhpCsFixer\Console\WarningsDetector
+  Methods:  75.00% ( 3/ 4)   Lines:  93.75% ( 15/ 16)
+\PhpCsFixer\Console\Command::PhpCsFixer\Console\Command\DescribeCommand
+  Methods:  50.00% ( 4/ 8)   Lines:  77.78% (133/171)
+\PhpCsFixer\Console\Command::PhpCsFixer\Console\Command\DescribeNameNotFoundException
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpCsFixer\Console\Command::PhpCsFixer\Console\Command\FixCommand
+  Methods:  50.00% ( 2/ 4)   Lines:  81.82% ( 99/121)
+\PhpCsFixer\Console\Command::PhpCsFixer\Console\Command\FixCommandExitStatusCalculator
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  9/  9)
+\PhpCsFixer\Console\Command::PhpCsFixer\Console\Command\HelpCommand
+  Methods:  12.50% ( 1/ 8)   Lines:   8.70% ( 14/161)
+\PhpCsFixer\Console\Command::PhpCsFixer\Console\Command\ReadmeCommand
+  Methods:  50.00% ( 1/ 2)   Lines:  97.56% ( 40/ 41)
+\PhpCsFixer\Console\Command::PhpCsFixer\Console\Command\SelfUpdateCommand
+  Methods:  66.67% ( 2/ 3)   Lines:  86.44% ( 51/ 59)
+\PhpCsFixer\Console\Output::PhpCsFixer\Console\Output\ErrorOutput
+  Methods:  25.00% ( 1/ 4)   Lines:  91.80% ( 56/ 61)
+\PhpCsFixer\Console\Output::PhpCsFixer\Console\Output\ProcessOutput
+  Methods:  50.00% ( 2/ 4)   Lines:  74.36% ( 29/ 39)
+\PhpCsFixer\Console\SelfUpdate::PhpCsFixer\Console\SelfUpdate\NewVersionChecker
+  Methods:  80.00% ( 4/ 5)   Lines:  92.86% ( 26/ 28)
+\PhpCsFixer\Differ::PhpCsFixer\Differ\DiffConsoleFormatter
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 26/ 26)
+\PhpCsFixer\Differ::PhpCsFixer\Differ\FullDiffer
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\PhpCsFixer\Differ::PhpCsFixer\Differ\NullDiffer
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\PhpCsFixer\Differ::PhpCsFixer\Differ\SebastianBergmannDiffer
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\PhpCsFixer\Differ::PhpCsFixer\Differ\SebastianBergmannShortDiffer
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\PhpCsFixer\Differ::PhpCsFixer\Differ\UnifiedDiffer
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\PhpCsFixer\DocBlock::PhpCsFixer\DocBlock\Annotation
+  Methods:  92.86% (13/14)   Lines:  98.08% ( 51/ 52)
+\PhpCsFixer\DocBlock::PhpCsFixer\DocBlock\DocBlock
+  Methods: 100.00% ( 9/ 9)   Lines: 100.00% ( 40/ 40)
+\PhpCsFixer\DocBlock::PhpCsFixer\DocBlock\Line
+  Methods:  80.00% ( 8/10)   Lines:  88.24% ( 15/ 17)
+\PhpCsFixer\DocBlock::PhpCsFixer\DocBlock\ShortDescription
+  Methods:  50.00% ( 1/ 2)   Lines:  90.91% ( 10/ 11)
+\PhpCsFixer\DocBlock::PhpCsFixer\DocBlock\Tag
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 15/ 15)
+\PhpCsFixer\DocBlock::PhpCsFixer\DocBlock\TagComparator
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  8/  8)
+\PhpCsFixer\Doctrine\Annotation::PhpCsFixer\Doctrine\Annotation\Token
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 14/ 14)
+\PhpCsFixer\Error::PhpCsFixer\Error\Error
+  Methods:  50.00% ( 3/ 6)   Lines:  72.73% (  8/ 11)
+\PhpCsFixer\Error::PhpCsFixer\Error\ErrorsManager
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% (  9/  9)
+\PhpCsFixer\FixerConfiguration::PhpCsFixer\FixerConfiguration\AliasedFixerOption
+  Methods: 100.00% ( 9/ 9)   Lines: 100.00% ( 11/ 11)
+\PhpCsFixer\FixerConfiguration::PhpCsFixer\FixerConfiguration\AliasedFixerOptionBuilder
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 14/ 14)
+\PhpCsFixer\FixerConfiguration::PhpCsFixer\FixerConfiguration\AllowedValueSubset
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  9/  9)
+\PhpCsFixer\FixerConfiguration::PhpCsFixer\FixerConfiguration\DeprecatedFixerOption
+  Methods: 100.00% ( 9/ 9)   Lines: 100.00% ( 11/ 11)
+\PhpCsFixer\FixerConfiguration::PhpCsFixer\FixerConfiguration\FixerConfigurationResolver
+  Methods:  75.00% ( 3/ 4)   Lines:  94.87% ( 37/ 39)
+\PhpCsFixer\FixerConfiguration::PhpCsFixer\FixerConfiguration\FixerConfigurationResolverRootless
+  Methods:  33.33% ( 1/ 3)   Lines:  91.67% ( 22/ 24)
+\PhpCsFixer\FixerConfiguration::PhpCsFixer\FixerConfiguration\FixerOption
+  Methods: 100.00% ( 9/ 9)   Lines: 100.00% ( 25/ 25)
+\PhpCsFixer\FixerConfiguration::PhpCsFixer\FixerConfiguration\FixerOptionBuilder
+  Methods:  71.43% ( 5/ 7)   Lines:  88.00% ( 22/ 25)
+\PhpCsFixer\FixerDefinition::PhpCsFixer\FixerDefinition\CodeSample
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\PhpCsFixer\FixerDefinition::PhpCsFixer\FixerDefinition\FileSpecificCodeSample
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  6/  6)
+\PhpCsFixer\FixerDefinition::PhpCsFixer\FixerDefinition\FixerDefinition
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 21/ 21)
+\PhpCsFixer\FixerDefinition::PhpCsFixer\FixerDefinition\VersionSpecificCodeSample
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  6/  6)
+\PhpCsFixer\FixerDefinition::PhpCsFixer\FixerDefinition\VersionSpecification
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 17/ 17)
+\PhpCsFixer\Fixer\Alias::PhpCsFixer\Fixer\Alias\BacktickToShellExecFixer
+  Methods:  60.00% ( 3/ 5)   Lines:  87.76% ( 43/ 49)
+\PhpCsFixer\Fixer\Alias::PhpCsFixer\Fixer\Alias\EregToPregFixer
+  Methods:  66.67% ( 4/ 6)   Lines:  87.23% ( 41/ 47)
+\PhpCsFixer\Fixer\Alias::PhpCsFixer\Fixer\Alias\MbStrFunctionsFixer
+  Methods:  66.67% ( 2/ 3)   Lines:  71.43% ( 15/ 21)
+\PhpCsFixer\Fixer\Alias::PhpCsFixer\Fixer\Alias\NoAliasFunctionsFixer
+  Methods:  66.67% ( 4/ 6)   Lines:  79.17% ( 38/ 48)
+\PhpCsFixer\Fixer\Alias::PhpCsFixer\Fixer\Alias\NoMixedEchoPrintFixer
+  Methods:  75.00% ( 6/ 8)   Lines:  88.10% ( 37/ 42)
+\PhpCsFixer\Fixer\Alias::PhpCsFixer\Fixer\Alias\PowToExponentiationFixer
+  Methods:  71.43% ( 5/ 7)   Lines:  89.55% ( 60/ 67)
+\PhpCsFixer\Fixer\Alias::PhpCsFixer\Fixer\Alias\RandomApiMigrationFixer
+  Methods:  60.00% ( 3/ 5)   Lines:  84.75% ( 50/ 59)
+\PhpCsFixer\Fixer\Alias::PhpCsFixer\Fixer\Alias\SetTypeToCastFixer
+  Methods:  71.43% ( 5/ 7)   Lines:  91.58% ( 87/ 95)
+\PhpCsFixer\Fixer\ArrayNotation::PhpCsFixer\Fixer\ArrayNotation\ArraySyntaxFixer
+  Methods:  80.00% ( 8/10)   Lines:  76.92% ( 30/ 39)
+\PhpCsFixer\Fixer\ArrayNotation::PhpCsFixer\Fixer\ArrayNotation\NoMultilineWhitespaceAroundDoubleArrowFixer
+  Methods:  60.00% ( 3/ 5)   Lines:  75.00% ( 12/ 16)
+\PhpCsFixer\Fixer\ArrayNotation::PhpCsFixer\Fixer\ArrayNotation\NoTrailingCommaInSinglelineArrayFixer
+  Methods:  75.00% ( 3/ 4)   Lines:  86.96% ( 20/ 23)
+\PhpCsFixer\Fixer\ArrayNotation::PhpCsFixer\Fixer\ArrayNotation\NoWhitespaceBeforeCommaInArrayFixer
+  Methods:  80.00% ( 4/ 5)   Lines:  89.29% ( 25/ 28)
+\PhpCsFixer\Fixer\ArrayNotation::PhpCsFixer\Fixer\ArrayNotation\NormalizeIndexBraceFixer
+  Methods:  66.67% ( 2/ 3)   Lines:  70.00% (  7/ 10)
+\PhpCsFixer\Fixer\ArrayNotation::PhpCsFixer\Fixer\ArrayNotation\TrailingCommaInMultilineArrayFixer
+  Methods:  75.00% ( 3/ 4)   Lines:  86.36% ( 19/ 22)
+\PhpCsFixer\Fixer\ArrayNotation::PhpCsFixer\Fixer\ArrayNotation\TrimArraySpacesFixer
+  Methods:  75.00% ( 3/ 4)   Lines:  90.62% ( 29/ 32)
+\PhpCsFixer\Fixer\ArrayNotation::PhpCsFixer\Fixer\ArrayNotation\WhitespaceAfterCommaInArrayFixer
+  Methods:  80.00% ( 4/ 5)   Lines:  88.46% ( 23/ 26)
+\PhpCsFixer\Fixer\Basic::PhpCsFixer\Fixer\Basic\BracesFixer
+  Methods:  75.00% (18/24)   Lines:  95.54% (407/426)
+\PhpCsFixer\Fixer\Basic::PhpCsFixer\Fixer\Basic\EncodingFixer
+  Methods:  40.00% ( 2/ 5)   Lines:  66.67% ( 12/ 18)
+\PhpCsFixer\Fixer\Basic::PhpCsFixer\Fixer\Basic\NonPrintableCharacterFixer
+  Methods:  50.00% ( 3/ 6)   Lines:  78.95% ( 45/ 57)
+\PhpCsFixer\Fixer\Basic::PhpCsFixer\Fixer\Basic\Psr0Fixer
+  Methods:  33.33% ( 1/ 3)   Lines:  78.57% ( 55/ 70)
+\PhpCsFixer\Fixer\Basic::PhpCsFixer\Fixer\Basic\Psr4Fixer
+  Methods:   0.00% ( 0/ 2)   Lines:  70.59% ( 24/ 34)
+\PhpCsFixer\Fixer\Casing::PhpCsFixer\Fixer\Casing\LowercaseConstantsFixer
+  Methods:  75.00% ( 3/ 4)   Lines:  81.25% ( 13/ 16)
+\PhpCsFixer\Fixer\Casing::PhpCsFixer\Fixer\Casing\LowercaseKeywordsFixer
+  Methods:  66.67% ( 2/ 3)   Lines:  55.56% (  5/  9)
+\PhpCsFixer\Fixer\Casing::PhpCsFixer\Fixer\Casing\LowercaseStaticReferenceFixer
+  Methods:  66.67% ( 2/ 3)   Lines:  73.91% ( 17/ 23)
+\PhpCsFixer\Fixer\Casing::PhpCsFixer\Fixer\Casing\MagicConstantCasingFixer
+  Methods:  40.00% ( 2/ 5)   Lines:  50.00% ( 13/ 26)
+\PhpCsFixer\Fixer\Casing::PhpCsFixer\Fixer\Casing\MagicMethodCasingFixer
+  Methods:  77.78% ( 7/ 9)   Lines:  88.14% ( 52/ 59)
+\PhpCsFixer\Fixer\Casing::PhpCsFixer\Fixer\Casing\NativeFunctionCasingFixer
+  Methods:  25.00% ( 1/ 4)   Lines:  68.75% ( 22/ 32)
+\PhpCsFixer\Fixer\CastNotation::PhpCsFixer\Fixer\CastNotation\CastSpacesFixer
+  Methods:  60.00% ( 3/ 5)   Lines:  65.62% ( 21/ 32)
+\PhpCsFixer\Fixer\CastNotation::PhpCsFixer\Fixer\CastNotation\LowercaseCastFixer
+  Methods:  66.67% ( 2/ 3)   Lines:  60.00% (  6/ 10)
+\PhpCsFixer\Fixer\CastNotation::PhpCsFixer\Fixer\CastNotation\ModernizeTypesCastingFixer
+  Methods:  66.67% ( 2/ 3)   Lines:  85.00% ( 34/ 40)
+\PhpCsFixer\Fixer\CastNotation::PhpCsFixer\Fixer\CastNotation\NoShortBoolCastFixer
+  Methods:  66.67% ( 4/ 6)   Lines:  81.82% ( 18/ 22)
+\PhpCsFixer\Fixer\CastNotation::PhpCsFixer\Fixer\CastNotation\ShortScalarCastFixer
+  Methods:  66.67% ( 2/ 3)   Lines:  81.25% ( 13/ 16)
+\PhpCsFixer\Fixer\ClassNotation::PhpCsFixer\Fixer\ClassNotation\ClassAttributesSeparationFixer
+  Methods:  75.00% ( 9/12)   Lines:  83.74% (103/123)
+\PhpCsFixer\Fixer\ClassNotation::PhpCsFixer\Fixer\ClassNotation\ClassDefinitionFixer
+  Methods:  91.67% (11/12)   Lines:  90.91% (160/176)
+\PhpCsFixer\Fixer\ClassNotation::PhpCsFixer\Fixer\ClassNotation\FinalInternalClassFixer
+  Methods:  57.14% ( 4/ 7)   Lines:  84.85% ( 56/ 66)
+\PhpCsFixer\Fixer\ClassNotation::PhpCsFixer\Fixer\ClassNotation\MethodSeparationFixer
+  Methods:  33.33% ( 1/ 3)   Lines:  37.50% (  3/  8)
+\PhpCsFixer\Fixer\ClassNotation::PhpCsFixer\Fixer\ClassNotation\NoBlankLinesAfterClassOpeningFixer
+  Methods:  75.00% ( 3/ 4)   Lines:  77.78% ( 14/ 18)
+\PhpCsFixer\Fixer\ClassNotation::PhpCsFixer\Fixer\ClassNotation\NoNullPropertyInitializationFixer
+  Methods:  66.67% ( 2/ 3)   Lines:  84.62% ( 22/ 26)
+\PhpCsFixer\Fixer\ClassNotation::PhpCsFixer\Fixer\ClassNotation\NoPhp4ConstructorFixer
+  Methods:  60.00% ( 6/10)   Lines:  94.24% (131/139)
+\PhpCsFixer\Fixer\ClassNotation::PhpCsFixer\Fixer\ClassNotation\NoUnneededFinalMethodFixer
+  Methods:  60.00% ( 3/ 5)   Lines:  81.58% ( 31/ 38)
+\PhpCsFixer\Fixer\ClassNotation::PhpCsFixer\Fixer\ClassNotation\OrderedClassElementsFixer
+  Methods:  75.00% ( 9/12)   Lines:  92.00% (138/150)
+\PhpCsFixer\Fixer\ClassNotation::PhpCsFixer\Fixer\ClassNotation\ProtectedToPrivateFixer
+  Methods:  66.67% ( 4/ 6)   Lines:  84.38% ( 27/ 32)
+\PhpCsFixer\Fixer\ClassNotation::PhpCsFixer\Fixer\ClassNotation\SelfAccessorFixer
+  Methods:  60.00% ( 3/ 5)   Lines:  84.78% ( 39/ 46)
+\PhpCsFixer\Fixer\ClassNotation::PhpCsFixer\Fixer\ClassNotation\SingleClassElementPerStatementFixer
+  Methods:  85.71% ( 6/ 7)   Lines:  90.79% ( 69/ 76)
+\PhpCsFixer\Fixer\ClassNotation::PhpCsFixer\Fixer\ClassNotation\VisibilityRequiredFixer
+  Methods:  81.82% ( 9/11)   Lines:  89.66% ( 78/ 87)
+\PhpCsFixer\Fixer\ClassUsage::PhpCsFixer\Fixer\ClassUsage\DateTimeImmutableFixer
+  Methods:  66.67% ( 4/ 6)   Lines:  90.62% ( 58/ 64)
+\PhpCsFixer\Fixer\Comment::PhpCsFixer\Fixer\Comment\CommentToPhpdocFixer
+  Methods:  70.00% ( 7/10)   Lines:  87.04% ( 47/ 54)
+\PhpCsFixer\Fixer\Comment::PhpCsFixer\Fixer\Comment\HashToSlashCommentFixer
+  Methods:  33.33% ( 1/ 3)   Lines:  42.86% (  3/  7)
+\PhpCsFixer\Fixer\Comment::PhpCsFixer\Fixer\Comment\HeaderCommentFixer
+  Methods:  80.00% ( 8/10)   Lines:  86.49% ( 96/111)
+\PhpCsFixer\Fixer\Comment::PhpCsFixer\Fixer\Comment\MultilineCommentOpeningClosingFixer
+  Methods:  66.67% ( 2/ 3)   Lines:  76.47% ( 13/ 17)
+\PhpCsFixer\Fixer\Comment::PhpCsFixer\Fixer\Comment\NoEmptyCommentFixer
+  Methods:  75.00% ( 6/ 8)   Lines:  90.24% ( 37/ 41)
+\PhpCsFixer\Fixer\Comment::PhpCsFixer\Fixer\Comment\NoTrailingWhitespaceInCommentFixer
+  Methods:  66.67% ( 2/ 3)   Lines:  77.78% ( 14/ 18)
+\PhpCsFixer\Fixer\Comment::PhpCsFixer\Fixer\Comment\SingleLineCommentStyleFixer
+  Methods:  80.00% ( 4/ 5)   Lines:  77.78% ( 35/ 45)
+\PhpCsFixer\Fixer\ConstantNotation::PhpCsFixer\Fixer\ConstantNotation\NativeConstantInvocationFixer
+  Methods:  85.71% ( 6/ 7)   Lines:  83.96% ( 89/106)
+\PhpCsFixer\Fixer\ControlStructure::PhpCsFixer\Fixer\ControlStructure\ElseifFixer
+  Methods:  66.67% ( 2/ 3)   Lines:  85.71% ( 18/ 21)
+\PhpCsFixer\Fixer\ControlStructure::PhpCsFixer\Fixer\ControlStructure\IncludeFixer
+  Methods:  83.33% ( 5/ 6)   Lines:  92.00% ( 46/ 50)
+\PhpCsFixer\Fixer\ControlStructure::PhpCsFixer\Fixer\ControlStructure\NoAlternativeSyntaxFixer
+  Methods:  33.33% ( 3/ 9)   Lines:  82.35% ( 70/ 85)
+\PhpCsFixer\Fixer\ControlStructure::PhpCsFixer\Fixer\ControlStructure\NoBreakCommentFixer
+  Methods:  90.91% (10/11)   Lines:  96.48% (137/142)
+\PhpCsFixer\Fixer\ControlStructure::PhpCsFixer\Fixer\ControlStructure\NoSuperfluousElseifFixer
+  Methods:  60.00% ( 3/ 5)   Lines:  84.62% ( 22/ 26)
+\PhpCsFixer\Fixer\ControlStructure::PhpCsFixer\Fixer\ControlStructure\NoTrailingCommaInListCallFixer
+  Methods:  66.67% ( 2/ 3)   Lines:  85.00% ( 17/ 20)
+\PhpCsFixer\Fixer\ControlStructure::PhpCsFixer\Fixer\ControlStructure\NoUnneededControlParenthesesFixer
+  Methods:  66.67% ( 4/ 6)   Lines:  83.67% ( 41/ 49)
+\PhpCsFixer\Fixer\ControlStructure::PhpCsFixer\Fixer\ControlStructure\NoUnneededCurlyBracesFixer
+  Methods:  71.43% ( 5/ 7)   Lines:  73.68% ( 14/ 19)
+\PhpCsFixer\Fixer\ControlStructure::PhpCsFixer\Fixer\ControlStructure\NoUselessElseFixer
+  Methods:  80.00% ( 4/ 5)   Lines:  91.18% ( 31/ 34)
+\PhpCsFixer\Fixer\ControlStructure::PhpCsFixer\Fixer\ControlStructure\SwitchCaseSemicolonToColonFixer
+  Methods:  75.00% ( 3/ 4)   Lines:  84.00% ( 21/ 25)
+\PhpCsFixer\Fixer\ControlStructure::PhpCsFixer\Fixer\ControlStructure\SwitchCaseSpaceFixer
+  Methods:  66.67% ( 2/ 3)   Lines:  80.95% ( 17/ 21)
+\PhpCsFixer\Fixer\ControlStructure::PhpCsFixer\Fixer\ControlStructure\YodaStyleFixer
+  Methods:  83.33% (15/18)   Lines:  88.77% (245/276)
+\PhpCsFixer\Fixer\DoctrineAnnotation::PhpCsFixer\Fixer\DoctrineAnnotation\DoctrineAnnotationArrayAssignmentFixer
+  Methods:  50.00% ( 2/ 4)   Lines:  72.41% ( 21/ 29)
+\PhpCsFixer\Fixer\DoctrineAnnotation::PhpCsFixer\Fixer\DoctrineAnnotation\DoctrineAnnotationBracesFixer
+  Methods:  60.00% ( 3/ 5)   Lines:  80.95% ( 34/ 42)
+\PhpCsFixer\Fixer\DoctrineAnnotation::PhpCsFixer\Fixer\DoctrineAnnotation\DoctrineAnnotationIndentationFixer
+  Methods:  33.33% ( 2/ 6)   Lines:  83.78% ( 62/ 74)
+\PhpCsFixer\Fixer\DoctrineAnnotation::PhpCsFixer\Fixer\DoctrineAnnotation\DoctrineAnnotationSpacesFixer
+  Methods:  90.00% ( 9/10)   Lines:  96.93% (158/163)
+\PhpCsFixer\Fixer\FunctionNotation::PhpCsFixer\Fixer\FunctionNotation\CombineNestedDirnameFixer
+  Methods:  42.86% ( 3/ 7)   Lines:  87.95% ( 73/ 83)
+\PhpCsFixer\Fixer\FunctionNotation::PhpCsFixer\Fixer\FunctionNotation\FopenFlagOrderFixer
+  Methods:   0.00% ( 0/ 3)   Lines:  84.44% ( 38/ 45)
+\PhpCsFixer\Fixer\FunctionNotation::PhpCsFixer\Fixer\FunctionNotation\FopenFlagsFixer
+  Methods:   0.00% ( 0/ 2)   Lines:  81.25% ( 26/ 32)
+\PhpCsFixer\Fixer\FunctionNotation::PhpCsFixer\Fixer\FunctionNotation\FunctionDeclarationFixer
+  Methods:  60.00% ( 3/ 5)   Lines:  84.91% ( 45/ 53)
+\PhpCsFixer\Fixer\FunctionNotation::PhpCsFixer\Fixer\FunctionNotation\FunctionTypehintSpaceFixer
+  Methods:  33.33% ( 1/ 3)   Lines:  83.33% ( 20/ 24)
+\PhpCsFixer\Fixer\FunctionNotation::PhpCsFixer\Fixer\FunctionNotation\ImplodeCallFixer
+  Methods:  50.00% ( 3/ 6)   Lines:  82.61% ( 38/ 46)
+\PhpCsFixer\Fixer\FunctionNotation::PhpCsFixer\Fixer\FunctionNotation\MethodArgumentSpaceFixer
+  Methods:  73.33% (11/15)   Lines:  85.64% (155/181)
+\PhpCsFixer\Fixer\FunctionNotation::PhpCsFixer\Fixer\FunctionNotation\NativeFunctionInvocationFixer
+  Methods:  72.73% ( 8/11)   Lines:  75.00% ( 90/120)
+\PhpCsFixer\Fixer\FunctionNotation::PhpCsFixer\Fixer\FunctionNotation\NoSpacesAfterFunctionNameFixer
+  Methods:  75.00% ( 6/ 8)   Lines:  90.24% ( 37/ 41)
+\PhpCsFixer\Fixer\FunctionNotation::PhpCsFixer\Fixer\FunctionNotation\NoUnreachableDefaultArgumentValueFixer
+  Methods:  80.00% ( 8/10)   Lines:  88.33% ( 53/ 60)
+\PhpCsFixer\Fixer\FunctionNotation::PhpCsFixer\Fixer\FunctionNotation\PhpdocToReturnTypeFixer
+  Methods:  55.56% ( 5/ 9)   Lines:  82.83% ( 82/ 99)
+\PhpCsFixer\Fixer\FunctionNotation::PhpCsFixer\Fixer\FunctionNotation\ReturnTypeDeclarationFixer
+  Methods:  75.00% ( 3/ 4)   Lines:  64.29% ( 27/ 42)
+\PhpCsFixer\Fixer\FunctionNotation::PhpCsFixer\Fixer\FunctionNotation\StaticLambdaFixer
+  Methods:  60.00% ( 3/ 5)   Lines:  84.62% ( 33/ 39)
+\PhpCsFixer\Fixer\FunctionNotation::PhpCsFixer\Fixer\FunctionNotation\VoidReturnFixer
+  Methods:  72.73% ( 8/11)   Lines:  87.84% ( 65/ 74)
+\PhpCsFixer\Fixer\Import::PhpCsFixer\Fixer\Import\FullyQualifiedStrictTypesFixer
+  Methods:  28.57% ( 2/ 7)   Lines:  73.81% ( 31/ 42)
+\PhpCsFixer\Fixer\Import::PhpCsFixer\Fixer\Import\NoLeadingImportSlashFixer
+  Methods:  50.00% ( 2/ 4)   Lines:  76.47% ( 13/ 17)
+\PhpCsFixer\Fixer\Import::PhpCsFixer\Fixer\Import\NoUnusedImportsFixer
+  Methods:  50.00% ( 4/ 8)   Lines:  93.81% ( 91/ 97)
+\PhpCsFixer\Fixer\Import::PhpCsFixer\Fixer\Import\OrderedImportsFixer
+  Methods:  60.00% ( 6/10)   Lines:  81.91% (163/199)
+\PhpCsFixer\Fixer\Import::PhpCsFixer\Fixer\Import\SingleImportPerStatementFixer
+  Methods:  77.78% ( 7/ 9)   Lines:  95.65% ( 88/ 92)
+\PhpCsFixer\Fixer\Import::PhpCsFixer\Fixer\Import\SingleLineAfterImportsFixer
+  Methods:  33.33% ( 1/ 3)   Lines:  84.78% ( 39/ 46)
+\PhpCsFixer\Fixer\LanguageConstruct::PhpCsFixer\Fixer\LanguageConstruct\ClassKeywordRemoveFixer
+  Methods:  87.50% ( 7/ 8)   Lines:  95.92% ( 94/ 98)
+\PhpCsFixer\Fixer\LanguageConstruct::PhpCsFixer\Fixer\LanguageConstruct\CombineConsecutiveIssetsFixer
+  Methods:  71.43% ( 5/ 7)   Lines:  92.00% ( 46/ 50)
+\PhpCsFixer\Fixer\LanguageConstruct::PhpCsFixer\Fixer\LanguageConstruct\CombineConsecutiveUnsetsFixer
+  Methods:  42.86% ( 3/ 7)   Lines:  83.61% ( 51/ 61)
+\PhpCsFixer\Fixer\LanguageConstruct::PhpCsFixer\Fixer\LanguageConstruct\DeclareEqualNormalizeFixer
+  Methods:  85.71% ( 6/ 7)   Lines:  87.88% ( 29/ 33)
+\PhpCsFixer\Fixer\LanguageConstruct::PhpCsFixer\Fixer\LanguageConstruct\DirConstantFixer
+  Methods:  25.00% ( 1/ 4)   Lines:  80.00% ( 28/ 35)
+\PhpCsFixer\Fixer\LanguageConstruct::PhpCsFixer\Fixer\LanguageConstruct\ErrorSuppressionFixer
+  Methods:  66.67% ( 4/ 6)   Lines:  78.33% ( 47/ 60)
+\PhpCsFixer\Fixer\LanguageConstruct::PhpCsFixer\Fixer\LanguageConstruct\ExplicitIndirectVariableFixer
+  Methods:  66.67% ( 2/ 3)   Lines:  79.17% ( 19/ 24)
+\PhpCsFixer\Fixer\LanguageConstruct::PhpCsFixer\Fixer\LanguageConstruct\FunctionToConstantFixer
+  Methods:  60.00% ( 6/10)   Lines:  79.49% ( 62/ 78)
+\PhpCsFixer\Fixer\LanguageConstruct::PhpCsFixer\Fixer\LanguageConstruct\IsNullFixer
+  Methods:  33.33% ( 2/ 6)   Lines:  88.16% ( 67/ 76)
+\PhpCsFixer\Fixer\LanguageConstruct::PhpCsFixer\Fixer\LanguageConstruct\NoUnsetOnPropertyFixer
+  Methods:  72.73% ( 8/11)   Lines:  89.39% ( 59/ 66)
+\PhpCsFixer\Fixer\LanguageConstruct::PhpCsFixer\Fixer\LanguageConstruct\SilencedDeprecationErrorFixer
+  Methods:  33.33% ( 1/ 3)   Lines:  14.29% (  1/  7)
+\PhpCsFixer\Fixer\ListNotation::PhpCsFixer\Fixer\ListNotation\ListSyntaxFixer
+  Methods:  75.00% ( 6/ 8)   Lines:  74.36% ( 29/ 39)
+\PhpCsFixer\Fixer\NamespaceNotation::PhpCsFixer\Fixer\NamespaceNotation\BlankLineAfterNamespaceFixer
+  Methods:  50.00% ( 2/ 4)   Lines:  79.17% ( 19/ 24)
+\PhpCsFixer\Fixer\NamespaceNotation::PhpCsFixer\Fixer\NamespaceNotation\NoBlankLinesBeforeNamespaceFixer
+  Methods:  66.67% ( 2/ 3)   Lines:  63.64% (  7/ 11)
+\PhpCsFixer\Fixer\NamespaceNotation::PhpCsFixer\Fixer\NamespaceNotation\NoLeadingNamespaceWhitespaceFixer
+  Methods:  50.00% ( 2/ 4)   Lines:  80.77% ( 21/ 26)
+\PhpCsFixer\Fixer\NamespaceNotation::PhpCsFixer\Fixer\NamespaceNotation\SingleBlankLineBeforeNamespaceFixer
+  Methods:  50.00% ( 2/ 4)   Lines:  54.55% (  6/ 11)
+\PhpCsFixer\Fixer\Naming::PhpCsFixer\Fixer\Naming\NoHomoglyphNamesFixer
+  Methods:  50.00% ( 2/ 4)   Lines:  64.71% ( 11/ 17)
+\PhpCsFixer\Fixer\Operator::PhpCsFixer\Fixer\Operator\BinaryOperatorSpacesFixer
+  Methods:  77.78% (14/18)   Lines:  92.21% (284/308)
+\PhpCsFixer\Fixer\Operator::PhpCsFixer\Fixer\Operator\ConcatSpaceFixer
+  Methods:  87.50% ( 7/ 8)   Lines:  77.78% ( 35/ 45)
+\PhpCsFixer\Fixer\Operator::PhpCsFixer\Fixer\Operator\IncrementStyleFixer
+  Methods:  83.33% ( 5/ 6)   Lines:  92.21% ( 71/ 77)
+\PhpCsFixer\Fixer\Operator::PhpCsFixer\Fixer\Operator\LogicalOperatorsFixer
+  Methods:  50.00% ( 2/ 4)   Lines:  50.00% (  7/ 14)
+\PhpCsFixer\Fixer\Operator::PhpCsFixer\Fixer\Operator\NewWithBracesFixer
+  Methods:  50.00% ( 2/ 4)   Lines:  37.31% ( 25/ 67)
+\PhpCsFixer\Fixer\Operator::PhpCsFixer\Fixer\Operator\NotOperatorWithSpaceFixer
+  Methods:  50.00% ( 2/ 4)   Lines:  64.29% (  9/ 14)
+\PhpCsFixer\Fixer\Operator::PhpCsFixer\Fixer\Operator\NotOperatorWithSuccessorSpaceFixer
+  Methods:  50.00% ( 2/ 4)   Lines:  61.54% (  8/ 13)
+\PhpCsFixer\Fixer\Operator::PhpCsFixer\Fixer\Operator\ObjectOperatorWithoutWhitespaceFixer
+  Methods:  66.67% ( 2/ 3)   Lines:  75.00% (  9/ 12)
+\PhpCsFixer\Fixer\Operator::PhpCsFixer\Fixer\Operator\PreIncrementFixer
+  Methods:  33.33% ( 1/ 3)   Lines:  42.86% (  3/  7)
+\PhpCsFixer\Fixer\Operator::PhpCsFixer\Fixer\Operator\StandardizeIncrementFixer
+  Methods:  50.00% ( 3/ 6)   Lines:  88.00% ( 44/ 50)
+\PhpCsFixer\Fixer\Operator::PhpCsFixer\Fixer\Operator\StandardizeNotEqualsFixer
+  Methods:  66.67% ( 2/ 3)   Lines:  62.50% (  5/  8)
+\PhpCsFixer\Fixer\Operator::PhpCsFixer\Fixer\Operator\TernaryOperatorSpacesFixer
+  Methods:  75.00% ( 3/ 4)   Lines:  90.32% ( 28/ 31)
+\PhpCsFixer\Fixer\Operator::PhpCsFixer\Fixer\Operator\TernaryToNullCoalescingFixer
+  Methods:  85.71% ( 6/ 7)   Lines:  90.91% ( 50/ 55)
+\PhpCsFixer\Fixer\Operator::PhpCsFixer\Fixer\Operator\UnaryOperatorSpacesFixer
+  Methods:  66.67% ( 2/ 3)   Lines:  78.57% ( 11/ 14)
+\PhpCsFixer\Fixer\PhpTag::PhpCsFixer\Fixer\PhpTag\BlankLineAfterOpeningTagFixer
+  Methods:  50.00% ( 2/ 4)   Lines:  80.95% ( 17/ 21)
+\PhpCsFixer\Fixer\PhpTag::PhpCsFixer\Fixer\PhpTag\FullOpeningTagFixer
+  Methods:  50.00% ( 2/ 4)   Lines:  88.10% ( 37/ 42)
+\PhpCsFixer\Fixer\PhpTag::PhpCsFixer\Fixer\PhpTag\LinebreakAfterOpeningTagFixer
+  Methods:  66.67% ( 2/ 3)   Lines:  81.25% ( 13/ 16)
+\PhpCsFixer\Fixer\PhpTag::PhpCsFixer\Fixer\PhpTag\NoClosingTagFixer
+  Methods:  33.33% ( 1/ 3)   Lines:  76.47% ( 13/ 17)
+\PhpCsFixer\Fixer\PhpUnit::PhpCsFixer\Fixer\PhpUnit\PhpUnitConstructFixer
+  Methods:  55.56% ( 5/ 9)   Lines:  78.57% ( 44/ 56)
+\PhpCsFixer\Fixer\PhpUnit::PhpCsFixer\Fixer\PhpUnit\PhpUnitDedicateAssertFixer
+  Methods:  54.55% ( 6/11)   Lines:  90.34% (131/145)
+\PhpCsFixer\Fixer\PhpUnit::PhpCsFixer\Fixer\PhpUnit\PhpUnitExpectationFixer
+  Methods:  57.14% ( 4/ 7)   Lines:  81.25% ( 65/ 80)
+\PhpCsFixer\Fixer\PhpUnit::PhpCsFixer\Fixer\PhpUnit\PhpUnitFqcnAnnotationFixer
+  Methods:  50.00% ( 2/ 4)   Lines:  61.54% (  8/ 13)
+\PhpCsFixer\Fixer\PhpUnit::PhpCsFixer\Fixer\PhpUnit\PhpUnitInternalClassFixer
+  Methods:  81.25% (13/16)   Lines:  93.90% ( 77/ 82)
+\PhpCsFixer\Fixer\PhpUnit::PhpCsFixer\Fixer\PhpUnit\PhpUnitMethodCasingFixer
+  Methods:  83.33% (10/12)   Lines:  89.61% ( 69/ 77)
+\PhpCsFixer\Fixer\PhpUnit::PhpCsFixer\Fixer\PhpUnit\PhpUnitMockFixer
+  Methods:  66.67% ( 4/ 6)   Lines:  73.68% ( 28/ 38)
+\PhpCsFixer\Fixer\PhpUnit::PhpCsFixer\Fixer\PhpUnit\PhpUnitNamespacedFixer
+  Methods:  71.43% ( 5/ 7)   Lines:  86.27% ( 44/ 51)
+\PhpCsFixer\Fixer\PhpUnit::PhpCsFixer\Fixer\PhpUnit\PhpUnitNoExpectationAnnotationFixer
+  Methods:  54.55% ( 6/11)   Lines:  86.32% ( 82/ 95)
+\PhpCsFixer\Fixer\PhpUnit::PhpCsFixer\Fixer\PhpUnit\PhpUnitOrderedCoversFixer
+  Methods:  50.00% ( 2/ 4)   Lines:  82.76% ( 24/ 29)
+\PhpCsFixer\Fixer\PhpUnit::PhpCsFixer\Fixer\PhpUnit\PhpUnitSetUpTearDownVisibilityFixer
+  Methods:  66.67% ( 4/ 6)   Lines:  80.00% ( 28/ 35)
+\PhpCsFixer\Fixer\PhpUnit::PhpCsFixer\Fixer\PhpUnit\PhpUnitStrictFixer
+  Methods:  60.00% ( 3/ 5)   Lines:  75.61% ( 31/ 41)
+\PhpCsFixer\Fixer\PhpUnit::PhpCsFixer\Fixer\PhpUnit\PhpUnitTargetVersion
+  Methods:  50.00% ( 1/ 2)   Lines:  83.33% (  5/  6)
+\PhpCsFixer\Fixer\PhpUnit::PhpCsFixer\Fixer\PhpUnit\PhpUnitTestAnnotationFixer
+  Methods:  85.71% (24/28)   Lines:  93.45% (157/168)
+\PhpCsFixer\Fixer\PhpUnit::PhpCsFixer\Fixer\PhpUnit\PhpUnitTestCaseStaticMethodCallsFixer
+  Methods:  75.00% ( 6/ 8)   Lines:  90.79% ( 69/ 76)
+\PhpCsFixer\Fixer\PhpUnit::PhpCsFixer\Fixer\PhpUnit\PhpUnitTestClassRequiresCoversFixer
+  Methods:  33.33% ( 1/ 3)   Lines:  81.48% ( 44/ 54)
+\PhpCsFixer\Fixer\Phpdoc::PhpCsFixer\Fixer\Phpdoc\AlignMultilineCommentFixer
+  Methods:  66.67% ( 4/ 6)   Lines:  78.85% ( 41/ 52)
+\PhpCsFixer\Fixer\Phpdoc::PhpCsFixer\Fixer\Phpdoc\GeneralPhpdocAnnotationRemoveFixer
+  Methods:  60.00% ( 3/ 5)   Lines:  78.57% ( 22/ 28)
+\PhpCsFixer\Fixer\Phpdoc::PhpCsFixer\Fixer\Phpdoc\NoBlankLinesAfterPhpdocFixer
+  Methods:  60.00% ( 3/ 5)   Lines:  73.68% ( 14/ 19)
+\PhpCsFixer\Fixer\Phpdoc::PhpCsFixer\Fixer\Phpdoc\NoEmptyPhpdocFixer
+  Methods:  50.00% ( 2/ 4)   Lines:  63.64% (  7/ 11)
+\PhpCsFixer\Fixer\Phpdoc::PhpCsFixer\Fixer\Phpdoc\NoSuperfluousPhpdocTagsFixer
+  Methods:  70.00% ( 7/10)   Lines:  92.55% ( 87/ 94)
+\PhpCsFixer\Fixer\Phpdoc::PhpCsFixer\Fixer\Phpdoc\PhpdocAddMissingParamAnnotationFixer
+  Methods:  42.86% ( 3/ 7)   Lines:  86.87% ( 86/ 99)
+\PhpCsFixer\Fixer\Phpdoc::PhpCsFixer\Fixer\Phpdoc\PhpdocAlignFixer
+  Methods:  63.64% ( 7/11)   Lines:  93.62% (132/141)
+\PhpCsFixer\Fixer\Phpdoc::PhpCsFixer\Fixer\Phpdoc\PhpdocAnnotationWithoutDotFixer
+  Methods:  33.33% ( 1/ 3)   Lines:  87.88% ( 29/ 33)
+\PhpCsFixer\Fixer\Phpdoc::PhpCsFixer\Fixer\Phpdoc\PhpdocIndentFixer
+  Methods:  66.67% ( 4/ 6)   Lines:  86.67% ( 26/ 30)
+\PhpCsFixer\Fixer\Phpdoc::PhpCsFixer\Fixer\Phpdoc\PhpdocInlineTagFixer
+  Methods:  66.67% ( 2/ 3)   Lines:  82.61% ( 19/ 23)
+\PhpCsFixer\Fixer\Phpdoc::PhpCsFixer\Fixer\Phpdoc\PhpdocNoAccessFixer
+  Methods:  50.00% ( 1/ 2)   Lines:  42.86% (  3/  7)
+\PhpCsFixer\Fixer\Phpdoc::PhpCsFixer\Fixer\Phpdoc\PhpdocNoAliasTagFixer
+  Methods:  60.00% ( 3/ 5)   Lines:  84.31% ( 43/ 51)
+\PhpCsFixer\Fixer\Phpdoc::PhpCsFixer\Fixer\Phpdoc\PhpdocNoEmptyReturnFixer
+  Methods:  60.00% ( 3/ 5)   Lines:  69.57% ( 16/ 23)
+\PhpCsFixer\Fixer\Phpdoc::PhpCsFixer\Fixer\Phpdoc\PhpdocNoPackageFixer
+  Methods:  50.00% ( 1/ 2)   Lines:  42.86% (  3/  7)
+\PhpCsFixer\Fixer\Phpdoc::PhpCsFixer\Fixer\Phpdoc\PhpdocNoUselessInheritdocFixer
+  Methods:  80.00% ( 8/10)   Lines:  89.58% ( 43/ 48)
+\PhpCsFixer\Fixer\Phpdoc::PhpCsFixer\Fixer\Phpdoc\PhpdocOrderFixer
+  Methods:  66.67% ( 4/ 6)   Lines:  88.10% ( 37/ 42)
+\PhpCsFixer\Fixer\Phpdoc::PhpCsFixer\Fixer\Phpdoc\PhpdocReturnSelfReferenceFixer
+  Methods:  50.00% ( 3/ 6)   Lines:  84.38% ( 54/ 64)
+\PhpCsFixer\Fixer\Phpdoc::PhpCsFixer\Fixer\Phpdoc\PhpdocScalarFixer
+  Methods:  50.00% ( 2/ 4)   Lines:  66.67% (  8/ 12)
+\PhpCsFixer\Fixer\Phpdoc::PhpCsFixer\Fixer\Phpdoc\PhpdocSeparationFixer
+  Methods:  75.00% ( 6/ 8)   Lines:  88.89% ( 40/ 45)
+\PhpCsFixer\Fixer\Phpdoc::PhpCsFixer\Fixer\Phpdoc\PhpdocSingleLineVarSpacingFixer
+  Methods:  60.00% ( 3/ 5)   Lines:  84.62% ( 22/ 26)
+\PhpCsFixer\Fixer\Phpdoc::PhpCsFixer\Fixer\Phpdoc\PhpdocSummaryFixer
+  Methods:  75.00% ( 3/ 4)   Lines:  84.21% ( 16/ 19)
+\PhpCsFixer\Fixer\Phpdoc::PhpCsFixer\Fixer\Phpdoc\PhpdocToCommentFixer
+  Methods:  50.00% ( 2/ 4)   Lines:  68.75% ( 11/ 16)
+\PhpCsFixer\Fixer\Phpdoc::PhpCsFixer\Fixer\Phpdoc\PhpdocTrimConsecutiveBlankLineSeparationFixer
+  Methods:  81.82% ( 9/11)   Lines:  91.07% ( 51/ 56)
+\PhpCsFixer\Fixer\Phpdoc::PhpCsFixer\Fixer\Phpdoc\PhpdocTrimFixer
+  Methods:  66.67% ( 4/ 6)   Lines:  80.95% ( 17/ 21)
+\PhpCsFixer\Fixer\Phpdoc::PhpCsFixer\Fixer\Phpdoc\PhpdocTypesFixer
+  Methods:  33.33% ( 1/ 3)   Lines:  44.44% (  4/  9)
+\PhpCsFixer\Fixer\Phpdoc::PhpCsFixer\Fixer\Phpdoc\PhpdocTypesOrderFixer
+  Methods:  66.67% ( 4/ 6)   Lines:  75.71% ( 53/ 70)
+\PhpCsFixer\Fixer\Phpdoc::PhpCsFixer\Fixer\Phpdoc\PhpdocVarWithoutNameFixer
+  Methods:  75.00% ( 3/ 4)   Lines:  85.71% ( 18/ 21)
+\PhpCsFixer\Fixer\ReturnNotation::PhpCsFixer\Fixer\ReturnNotation\BlankLineBeforeReturnFixer
+  Methods:  33.33% ( 1/ 3)   Lines:  42.86% (  3/  7)
+\PhpCsFixer\Fixer\ReturnNotation::PhpCsFixer\Fixer\ReturnNotation\NoUselessReturnFixer
+  Methods:  60.00% ( 3/ 5)   Lines:  81.48% ( 22/ 27)
+\PhpCsFixer\Fixer\ReturnNotation::PhpCsFixer\Fixer\ReturnNotation\ReturnAssignmentFixer
+  Methods:  62.50% ( 5/ 8)   Lines:  94.62% (123/130)
+\PhpCsFixer\Fixer\ReturnNotation::PhpCsFixer\Fixer\ReturnNotation\SimplifiedNullReturnFixer
+  Methods:  75.00% ( 6/ 8)   Lines:  82.93% ( 34/ 41)
+\PhpCsFixer\Fixer\Semicolon::PhpCsFixer\Fixer\Semicolon\MultilineWhitespaceBeforeSemicolonsFixer
+  Methods:  66.67% ( 6/ 9)   Lines:  88.04% ( 81/ 92)
+\PhpCsFixer\Fixer\Semicolon::PhpCsFixer\Fixer\Semicolon\NoEmptyStatementFixer
+  Methods:  60.00% ( 3/ 5)   Lines:  91.49% ( 43/ 47)
+\PhpCsFixer\Fixer\Semicolon::PhpCsFixer\Fixer\Semicolon\NoMultilineWhitespaceBeforeSemicolonsFixer
+  Methods:  33.33% ( 1/ 3)   Lines:  37.50% (  3/  8)
+\PhpCsFixer\Fixer\Semicolon::PhpCsFixer\Fixer\Semicolon\NoSinglelineWhitespaceBeforeSemicolonsFixer
+  Methods:  66.67% ( 2/ 3)   Lines:  76.92% ( 10/ 13)
+\PhpCsFixer\Fixer\Semicolon::PhpCsFixer\Fixer\Semicolon\SemicolonAfterInstructionFixer
+  Methods:  66.67% ( 2/ 3)   Lines:  75.00% (  9/ 12)
+\PhpCsFixer\Fixer\Semicolon::PhpCsFixer\Fixer\Semicolon\SpaceAfterSemicolonFixer
+  Methods:  60.00% ( 3/ 5)   Lines:  84.09% ( 37/ 44)
+\PhpCsFixer\Fixer\Strict::PhpCsFixer\Fixer\Strict\DeclareStrictTypesFixer
+  Methods:  37.50% ( 3/ 8)   Lines:  68.00% ( 34/ 50)
+\PhpCsFixer\Fixer\Strict::PhpCsFixer\Fixer\Strict\StrictComparisonFixer
+  Methods:  50.00% ( 2/ 4)   Lines:  53.85% (  7/ 13)
+\PhpCsFixer\Fixer\Strict::PhpCsFixer\Fixer\Strict\StrictParamFixer
+  Methods:  40.00% ( 2/ 5)   Lines:  79.66% ( 47/ 59)
+\PhpCsFixer\Fixer\StringNotation::PhpCsFixer\Fixer\StringNotation\EscapeImplicitBackslashesFixer
+  Methods:  60.00% ( 3/ 5)   Lines:  70.97% ( 44/ 62)
+\PhpCsFixer\Fixer\StringNotation::PhpCsFixer\Fixer\StringNotation\ExplicitStringVariableFixer
+  Methods:  75.00% ( 3/ 4)   Lines:  87.18% ( 34/ 39)
+\PhpCsFixer\Fixer\StringNotation::PhpCsFixer\Fixer\StringNotation\HeredocToNowdocFixer
+  Methods:  50.00% ( 2/ 4)   Lines:  80.77% ( 21/ 26)
+\PhpCsFixer\Fixer\StringNotation::PhpCsFixer\Fixer\StringNotation\NoBinaryStringFixer
+  Methods:  66.67% ( 2/ 3)   Lines:  66.67% (  8/ 12)
+\PhpCsFixer\Fixer\StringNotation::PhpCsFixer\Fixer\StringNotation\SingleQuoteFixer
+  Methods:  75.00% ( 3/ 4)   Lines:  75.00% ( 21/ 28)
+\PhpCsFixer\Fixer\StringNotation::PhpCsFixer\Fixer\StringNotation\StringLineEndingFixer
+  Methods:  50.00% ( 2/ 4)   Lines:  63.16% ( 12/ 19)
+\PhpCsFixer\Fixer\Whitespace::PhpCsFixer\Fixer\Whitespace\ArrayIndentationFixer
+  Methods:  68.75% (11/16)   Lines:  94.90% (149/157)
+\PhpCsFixer\Fixer\Whitespace::PhpCsFixer\Fixer\Whitespace\BlankLineBeforeStatementFixer
+  Methods:  66.67% ( 4/ 6)   Lines:  46.05% ( 35/ 76)
+\PhpCsFixer\Fixer\Whitespace::PhpCsFixer\Fixer\Whitespace\CompactNullableTypehintFixer
+  Methods:  66.67% ( 2/ 3)   Lines:  60.00% (  9/ 15)
+\PhpCsFixer\Fixer\Whitespace::PhpCsFixer\Fixer\Whitespace\IndentationTypeFixer
+  Methods:  66.67% ( 4/ 6)   Lines:  88.89% ( 32/ 36)
+\PhpCsFixer\Fixer\Whitespace::PhpCsFixer\Fixer\Whitespace\LineEndingFixer
+  Methods:  66.67% ( 2/ 3)   Lines:  84.00% ( 21/ 25)
+\PhpCsFixer\Fixer\Whitespace::PhpCsFixer\Fixer\Whitespace\MethodChainingIndentationFixer
+  Methods:  87.50% ( 7/ 8)   Lines:  95.00% ( 57/ 60)
+\PhpCsFixer\Fixer\Whitespace::PhpCsFixer\Fixer\Whitespace\NoExtraBlankLinesFixer
+  Methods:  66.67% ( 8/12)   Lines:  68.22% ( 88/129)
+\PhpCsFixer\Fixer\Whitespace::PhpCsFixer\Fixer\Whitespace\NoSpacesAroundOffsetFixer
+  Methods:  75.00% ( 3/ 4)   Lines:  83.87% ( 26/ 31)
+\PhpCsFixer\Fixer\Whitespace::PhpCsFixer\Fixer\Whitespace\NoSpacesInsideParenthesisFixer
+  Methods:  60.00% ( 3/ 5)   Lines:  73.91% ( 17/ 23)
+\PhpCsFixer\Fixer\Whitespace::PhpCsFixer\Fixer\Whitespace\NoTrailingWhitespaceFixer
+  Methods:  50.00% ( 2/ 4)   Lines:  87.88% ( 29/ 33)
+\PhpCsFixer\Fixer\Whitespace::PhpCsFixer\Fixer\Whitespace\NoWhitespaceInBlankLineFixer
+  Methods:  60.00% ( 3/ 5)   Lines:  84.00% ( 21/ 25)
+\PhpCsFixer\Fixer\Whitespace::PhpCsFixer\Fixer\Whitespace\SingleBlankLineAtEofFixer
+  Methods:  50.00% ( 2/ 4)   Lines:  55.56% (  5/  9)
+\PhpCsFixer\Indicator::PhpCsFixer\Indicator\PhpUnitTestCaseIndicator
+  Methods:  50.00% ( 1/ 2)   Lines:  95.83% ( 23/ 24)
+\PhpCsFixer\Linter::PhpCsFixer\Linter\CachingLinter
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 11/ 11)
+\PhpCsFixer\Linter::PhpCsFixer\Linter\Linter
+  Methods:  75.00% ( 3/ 4)   Lines:  71.43% (  5/  7)
+\PhpCsFixer\Linter::PhpCsFixer\Linter\ProcessLinter
+  Methods:  57.14% ( 4/ 7)   Lines:  75.00% ( 24/ 32)
+\PhpCsFixer\Linter::PhpCsFixer\Linter\ProcessLinterProcessBuilder
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  6/  6)
+\PhpCsFixer\Linter::PhpCsFixer\Linter\ProcessLintingResult
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  9/  9)
+\PhpCsFixer\Linter::PhpCsFixer\Linter\TokenizerLinter
+  Methods:  75.00% ( 3/ 4)   Lines:  90.91% ( 10/ 11)
+\PhpCsFixer\Linter::PhpCsFixer\Linter\TokenizerLintingResult
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  8/  8)
+\PhpCsFixer\Report::PhpCsFixer\Report\CheckstyleReporter
+  Methods:  66.67% ( 2/ 3)   Lines:  94.44% ( 17/ 18)
+\PhpCsFixer\Report::PhpCsFixer\Report\JsonReporter
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 17/ 17)
+\PhpCsFixer\Report::PhpCsFixer\Report\JunitReporter
+  Methods:  80.00% ( 4/ 5)   Lines:  98.31% ( 58/ 59)
+\PhpCsFixer\Report::PhpCsFixer\Report\ReportSummary
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 13/ 13)
+\PhpCsFixer\Report::PhpCsFixer\Report\ReporterFactory
+  Methods:  80.00% ( 4/ 5)   Lines:  68.00% ( 17/ 25)
+\PhpCsFixer\Report::PhpCsFixer\Report\TextReporter
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 28/ 28)
+\PhpCsFixer\Report::PhpCsFixer\Report\XmlReporter
+  Methods:  83.33% ( 5/ 6)   Lines:  97.78% ( 44/ 45)
+\PhpCsFixer\Runner::PhpCsFixer\Runner\FileFilterIterator
+  Methods:  66.67% ( 2/ 3)   Lines:  85.29% ( 29/ 34)
+\PhpCsFixer\Runner::PhpCsFixer\Runner\Runner
+  Methods:  20.00% ( 1/ 5)   Lines:  66.67% ( 68/102)
+\PhpCsFixer\Test::PhpCsFixer\Test\IntegrationCase
+  Methods:  16.67% ( 2/12)   Lines:  68.75% ( 22/ 32)
+\PhpCsFixer\Tokenizer::PhpCsFixer\Tokenizer\CT
+  Methods:  50.00% ( 2/ 4)   Lines:  75.00% (  9/ 12)
+\PhpCsFixer\Tokenizer::PhpCsFixer\Tokenizer\CodeHasher
+  Methods:  50.00% ( 1/ 2)   Lines:  50.00% (  1/  2)
+\PhpCsFixer\Tokenizer::PhpCsFixer\Tokenizer\Token
+  Methods:  67.74% (21/31)   Lines:  62.33% ( 91/146)
+\PhpCsFixer\Tokenizer::PhpCsFixer\Tokenizer\Tokens
+  Methods:  58.33% (35/60)   Lines:  79.86% (337/422)
+\PhpCsFixer\Tokenizer::PhpCsFixer\Tokenizer\TokensAnalyzer
+  Methods:  42.86% ( 6/14)   Lines:  78.02% (213/273)
+\PhpCsFixer\Tokenizer\Analyzer::PhpCsFixer\Tokenizer\Analyzer\ArgumentsAnalyzer
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 41/ 41)
+\PhpCsFixer\Tokenizer\Analyzer::PhpCsFixer\Tokenizer\Analyzer\CommentsAnalyzer
+  Methods: 100.00% ( 9/ 9)   Lines: 100.00% ( 79/ 79)
+\PhpCsFixer\Tokenizer\Analyzer::PhpCsFixer\Tokenizer\Analyzer\FunctionsAnalyzer
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 31/ 31)
+\PhpCsFixer\Tokenizer\Analyzer::PhpCsFixer\Tokenizer\Analyzer\NamespaceUsesAnalyzer
+  Methods:  66.67% ( 2/ 3)   Lines:  97.37% ( 37/ 38)
+\PhpCsFixer\Tokenizer\Analyzer::PhpCsFixer\Tokenizer\Analyzer\NamespacesAnalyzer
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 26/ 26)
+\PhpCsFixer\Tokenizer\Analyzer\Analysis::PhpCsFixer\Tokenizer\Analyzer\Analysis\ArgumentAnalysis
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 11/ 11)
+\PhpCsFixer\Tokenizer\Analyzer\Analysis::PhpCsFixer\Tokenizer\Analyzer\Analysis\NamespaceAnalysis
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 13/ 13)
+\PhpCsFixer\Tokenizer\Analyzer\Analysis::PhpCsFixer\Tokenizer\Analyzer\Analysis\NamespaceUseAnalysis
+  Methods: 100.00% ( 9/ 9)   Lines: 100.00% ( 15/ 15)
+\PhpCsFixer\Tokenizer\Analyzer\Analysis::PhpCsFixer\Tokenizer\Analyzer\Analysis\TypeAnalysis
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% (  8/  8)
+\PhpCsFixer\Tokenizer\Generator::PhpCsFixer\Tokenizer\Generator\NamespacedStringTokenGenerator
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  7/  7)
+\PhpCsFixer\Tokenizer\Resolver::PhpCsFixer\Tokenizer\Resolver\TypeShortNameResolver
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 24/ 24)
+\PhpCsFixer\Tokenizer\Transformer::PhpCsFixer\Tokenizer\Transformer\ArrayTypehintTransformer
+  Methods:  33.33% ( 1/ 3)   Lines:  77.78% (  7/  9)
+\PhpCsFixer\Tokenizer\Transformer::PhpCsFixer\Tokenizer\Transformer\BraceClassInstantiationTransformer
+  Methods:  25.00% ( 1/ 4)   Lines:  86.96% ( 20/ 23)
+\PhpCsFixer\Tokenizer\Transformer::PhpCsFixer\Tokenizer\Transformer\ClassConstantTransformer
+  Methods:  33.33% ( 1/ 3)   Lines:  83.33% ( 10/ 12)
+\PhpCsFixer\Tokenizer\Transformer::PhpCsFixer\Tokenizer\Transformer\CurlyBraceTransformer
+  Methods:  66.67% ( 6/ 9)   Lines:  94.87% ( 74/ 78)
+\PhpCsFixer\Tokenizer\Transformer::PhpCsFixer\Tokenizer\Transformer\ImportTransformer
+  Methods:  33.33% ( 1/ 3)   Lines:  80.00% (  8/ 10)
+\PhpCsFixer\Tokenizer\Transformer::PhpCsFixer\Tokenizer\Transformer\NamespaceOperatorTransformer
+  Methods:  33.33% ( 1/ 3)   Lines:  77.78% (  7/  9)
+\PhpCsFixer\Tokenizer\Transformer::PhpCsFixer\Tokenizer\Transformer\NullableTypeTransformer
+  Methods:  25.00% ( 1/ 4)   Lines:  70.00% (  7/ 10)
+\PhpCsFixer\Tokenizer\Transformer::PhpCsFixer\Tokenizer\Transformer\ReturnRefTransformer
+  Methods:  33.33% ( 1/ 3)   Lines:  66.67% (  4/  6)
+\PhpCsFixer\Tokenizer\Transformer::PhpCsFixer\Tokenizer\Transformer\SquareBraceTransformer
+  Methods:  71.43% ( 5/ 7)   Lines:  94.59% ( 35/ 37)
+\PhpCsFixer\Tokenizer\Transformer::PhpCsFixer\Tokenizer\Transformer\TypeAlternationTransformer
+  Methods:  33.33% ( 1/ 3)   Lines:  85.71% ( 12/ 14)
+\PhpCsFixer\Tokenizer\Transformer::PhpCsFixer\Tokenizer\Transformer\TypeColonTransformer
+  Methods:  25.00% ( 1/ 4)   Lines:  82.35% ( 14/ 17)
+\PhpCsFixer\Tokenizer\Transformer::PhpCsFixer\Tokenizer\Transformer\UseTransformer
+  Methods:  25.00% ( 1/ 4)   Lines:  86.36% ( 19/ 22)
+\PhpCsFixer\Tokenizer\Transformer::PhpCsFixer\Tokenizer\Transformer\WhitespacyCommentTransformer
+  Methods:   0.00% ( 0/ 3)   Lines:  71.43% ( 10/ 14)

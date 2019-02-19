@@ -1,0 +1,62 @@
+
+
+Code Coverage Report:      
+  2019-02-16 14:27:00      
+                           
+ Summary:                  
+  Classes: 78.57% (22/28)  
+  Methods: 84.77% (128/151)
+  Lines:   82.52% (590/715)
+
+\phpDocumentor\Reflection::DocBlock
+  Methods: 100.00% (11/11)   Lines: 100.00% ( 34/ 34)
+\phpDocumentor\Reflection::DocBlockFactory
+  Methods:  70.00% ( 7/10)   Lines:  91.94% ( 57/ 62)
+\phpDocumentor\Reflection\DocBlock::Description
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 11/ 11)
+\phpDocumentor\Reflection\DocBlock::DescriptionFactory
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 33/ 33)
+\phpDocumentor\Reflection\DocBlock::Serializer
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 37/ 37)
+\phpDocumentor\Reflection\DocBlock::StandardTagFactory
+  Methods:  83.33% (10/12)   Lines:  93.55% ( 58/ 62)
+\phpDocumentor\Reflection\DocBlock\Tags::Author
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 17/ 17)
+\phpDocumentor\Reflection\DocBlock\Tags::BaseTag
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\phpDocumentor\Reflection\DocBlock\Tags::Covers
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 11/ 11)
+\phpDocumentor\Reflection\DocBlock\Tags::Deprecated
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 15/ 15)
+\phpDocumentor\Reflection\DocBlock\Tags::Generic
+  Methods:  75.00% ( 3/ 4)   Lines:  80.00% ( 12/ 15)
+\phpDocumentor\Reflection\DocBlock\Tags::Link
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 11/ 11)
+\phpDocumentor\Reflection\DocBlock\Tags::Method
+  Methods:  87.50% ( 7/ 8)   Lines:  98.25% ( 56/ 57)
+\phpDocumentor\Reflection\DocBlock\Tags::Param
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 33/ 33)
+\phpDocumentor\Reflection\DocBlock\Tags::Property
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 25/ 25)
+\phpDocumentor\Reflection\DocBlock\Tags::PropertyRead
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 25/ 25)
+\phpDocumentor\Reflection\DocBlock\Tags::PropertyWrite
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 25/ 25)
+\phpDocumentor\Reflection\DocBlock\Tags::Return_
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 11/ 11)
+\phpDocumentor\Reflection\DocBlock\Tags::See
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 10/ 10)
+\phpDocumentor\Reflection\DocBlock\Tags::Since
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 15/ 15)
+\phpDocumentor\Reflection\DocBlock\Tags::Source
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 22/ 22)
+\phpDocumentor\Reflection\DocBlock\Tags::Throws
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 11/ 11)
+\phpDocumentor\Reflection\DocBlock\Tags::Uses
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 11/ 11)
+\phpDocumentor\Reflection\DocBlock\Tags::Var_
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 25/ 25)
+\phpDocumentor\Reflection\DocBlock\Tags::Version
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 15/ 15)
+\phpDocumentor\Reflection\DocBlock\Tags\Formatter::PassthroughFormatter
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)

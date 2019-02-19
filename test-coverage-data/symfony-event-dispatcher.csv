@@ -1,0 +1,10 @@
+repository,tag,coverage
+git@github.com:symfony/event-dispatcher.git,v4.0.0,"phpunit not installed"
+git@github.com:symfony/event-dispatcher.git,v4.1.0,"phpunit not installed"
+git@github.com:symfony/event-dispatcher.git,v4.2.0,"phpunit not installed"
+git@github.com:symfony/event-dispatcher.git,v3.3.0,"phpunit not installed"
+git@github.com:symfony/event-dispatcher.git,v3.4.0,"phpunit not installed"
+git@github.com:symfony/event-dispatcher.git,v2.5.0,"phpunit not installed"
+git@github.com:symfony/event-dispatcher.git,v2.6.0,"phpunit not installed"
+git@github.com:symfony/event-dispatcher.git,v2.7.0,"phpunit not installed"
+git@github.com:symfony/event-dispatcher.git,v2.8.0,"phpunit not installed"

@@ -1,0 +1,3 @@
+repository,tag,coverage
+git@github.com:theseer/tokenizer.git,1.0.0,"phpunit not installed"
+git@github.com:theseer/tokenizer.git,1.1.0,"phpunit not installed"

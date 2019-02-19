@@ -1,0 +1,4 @@
+repository,tag,coverage
+git@github.com:rmccue/Requests.git,v1.5.0,"no composer"
+git@github.com:rmccue/Requests.git,v1.6.0,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:rmccue/Requests.git,v1.7.0,"no phpunit config"

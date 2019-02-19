@@ -1,0 +1,252 @@
+
+
+Code Coverage Report:        
+  2019-02-16 13:25:22        
+                             
+ Summary:                    
+  Classes: 29.66% (43/145)   
+  Methods: 30.90% (551/1783) 
+  Lines:   38.71% (2447/6321)
+
+Mockery
+  Methods:  22.22% (10/45)   Lines:  30.77% ( 60/195)
+\Dingo\Api::Config
+  Methods:  63.64% ( 7/11)   Lines:  61.90% ( 13/ 21)
+\Dingo\Api::Dispatcher
+  Methods:  92.00% (23/25)   Lines:  89.00% ( 89/100)
+\Dingo\Api\Auth::Authenticator
+  Methods:  80.00% ( 8/10)   Lines:  85.71% ( 30/ 35)
+\Dingo\Api\Auth::AuthorizationProvider
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\Dingo\Api\Auth::BasicProvider
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  8/  8)
+\Dingo\Api\Auth::JWTProvider
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 14/ 14)
+\Dingo\Api\Auth::LeagueOAuth2Provider
+  Methods:  85.71% ( 6/ 7)   Lines:  89.29% ( 25/ 28)
+\Dingo\Api\Event::ExceptionHandler
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 15/ 15)
+\Dingo\Api\Exception::Handler
+  Methods:  80.00% ( 4/ 5)   Lines:  94.44% ( 17/ 18)
+\Dingo\Api\Exception::ResourceException
+  Methods:  75.00% ( 3/ 4)   Lines:  87.50% (  7/  8)
+\Dingo\Api\Http::Response
+  Methods:  57.14% ( 4/ 7)   Lines:  84.00% ( 21/ 25)
+\Dingo\Api\Http::ResponseBuilder
+  Methods: 100.00% (11/11)   Lines: 100.00% ( 18/ 18)
+\Dingo\Api\Http::ResponseFactory
+  Methods:  92.31% (12/13)   Lines:  97.06% ( 33/ 34)
+\Dingo\Api\Http\Filter::AuthFilter
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 11/ 11)
+\Dingo\Api\Http\Filter::Filter
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  3/  3)
+\Dingo\Api\Http\Filter::RateLimitFilter
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 18/ 18)
+\Dingo\Api\Http\RateLimit::AuthenticatedThrottle
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Dingo\Api\Http\RateLimit::RateLimiter
+  Methods:  93.33% (14/15)   Lines:  97.67% ( 42/ 43)
+\Dingo\Api\Http\RateLimit::Throttle
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  5/  5)
+\Dingo\Api\Http\RateLimit::UnauthenticatedThrottle
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Dingo\Api\Http\ResponseFormat::JsonResponseFormat
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 17/ 17)
+\Dingo\Api\Http\ResponseFormat::JsonpResponseFormat
+  Methods:  60.00% ( 3/ 5)   Lines:  80.00% (  8/ 10)
+\Dingo\Api\Http\ResponseFormat::ResponseFormat
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\Dingo\Api\Routing::ControllerDispatcher
+  Methods:  50.00% ( 1/ 2)   Lines:  87.50% (  7/  8)
+\Dingo\Api\Routing::ControllerInspector
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\Dingo\Api\Routing::ControllerReviser
+  Methods:  66.67% ( 4/ 6)   Lines:  92.31% ( 24/ 26)
+\Dingo\Api\Routing::ControllerTrait
+  Methods:  80.00% ( 8/10)   Lines:  76.92% ( 20/ 26)
+\Dingo\Api\Routing::GroupCollection
+  Methods:  72.73% ( 8/11)   Lines:  88.00% ( 22/ 25)
+\Dingo\Api\Routing::Route
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% ( 18/ 18)
+\Dingo\Api\Routing::RouteCollection
+  Methods:  81.82% ( 9/11)   Lines:  90.32% ( 28/ 31)
+\Dingo\Api\Routing::Router
+  Methods:  79.17% (19/24)   Lines:  95.33% (102/107)
+\Dingo\Api\Routing::UrlGenerator
+  Methods:  83.33% ( 5/ 6)   Lines:  93.75% ( 15/ 16)
+\Dingo\Api\Tests\Stubs::AuthorizationProviderStub
+  Methods:  50.00% ( 1/ 2)   Lines:  66.67% (  2/  3)
+\Dingo\Api\Tests\Stubs::ControllerStub
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  4/  4)
+\Dingo\Api\Tests\Stubs::EloquentModelStub
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Dingo\Api\Tests\Stubs::IndividualScopeControllerStub
+  Methods:  50.00% ( 1/ 2)   Lines:  66.67% (  2/  3)
+\Dingo\Api\Tests\Stubs::InternalControllerDispatchingStub
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Dingo\Api\Tests\Stubs::ProtectedControllerStub
+  Methods:  50.00% ( 1/ 2)   Lines:  66.67% (  2/  3)
+\Dingo\Api\Tests\Stubs::ThrottleStub
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\Dingo\Api\Tests\Stubs::TransformerStub
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\Dingo\Api\Tests\Stubs::UnprotectedControllerStub
+  Methods:  50.00% ( 1/ 2)   Lines:  66.67% (  2/  3)
+\Dingo\Api\Tests\Stubs::UserContractStub
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Dingo\Api\Tests\Stubs::UserTransformerStub
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Dingo\Api\Tests\Stubs::WildcardScopeControllerStub
+  Methods:  50.00% ( 1/ 2)   Lines:  66.67% (  2/  3)
+\Dingo\Api\Transformer::Binding
+  Methods:  14.29% ( 1/ 7)   Lines:  42.86% (  9/ 21)
+\Dingo\Api\Transformer::TransformerFactory
+  Methods:  76.92% (10/13)   Lines:  89.29% ( 25/ 28)
+\Illuminate\Cache::ArrayStore
+  Methods:  50.00% ( 4/ 8)   Lines:  64.29% (  9/ 14)
+\Illuminate\Cache::CacheManager
+  Methods:  20.00% ( 3/15)   Lines:  11.54% (  3/ 26)
+\Illuminate\Cache::Repository
+  Methods:  22.22% ( 4/18)   Lines:  37.50% ( 15/ 40)
+\Illuminate\Container::Container
+  Methods:  22.22% (10/45)   Lines:  46.15% ( 72/156)
+\Illuminate\Database\Eloquent::Model
+  Methods:   2.75% ( 5/182)   Lines:   5.43% ( 30/552)
+\Illuminate\Events::Dispatcher
+  Methods:  26.32% ( 5/19)   Lines:  53.12% ( 34/ 64)
+\Illuminate\Http::Request
+  Methods:  20.45% ( 9/44)   Lines:  18.09% ( 17/ 94)
+\Illuminate\Http::Response
+  Methods:  75.00% ( 3/ 4)   Lines:  92.31% ( 12/ 13)
+\Illuminate\Pagination::Paginator
+  Methods:   2.86% ( 1/35)   Lines:   9.46% (  7/ 74)
+\Illuminate\Routing::Controller
+  Methods:  18.75% ( 3/16)   Lines:  21.05% (  8/ 38)
+\Illuminate\Routing::ControllerDispatcher
+  Methods:  33.33% ( 4/12)   Lines:  45.95% ( 17/ 37)
+\Illuminate\Routing::ControllerInspector
+  Methods:  14.29% ( 1/ 7)   Lines:  10.53% (  2/ 19)
+\Illuminate\Routing::Route
+  Methods:  63.46% (33/52)   Lines:  76.03% ( 92/121)
+\Illuminate\Routing::RouteCollection
+  Methods:  62.50% (10/16)   Lines:  78.72% ( 37/ 47)
+\Illuminate\Routing::Router
+  Methods:  35.71% (35/98)   Lines:  41.55% (123/296)
+\Illuminate\Routing::UrlGenerator
+  Methods:  33.33% (10/30)   Lines:  47.30% ( 35/ 74)
+\Illuminate\Routing\Matching::HostValidator
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Illuminate\Routing\Matching::MethodValidator
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Illuminate\Routing\Matching::SchemeValidator
+  Methods:   0.00% ( 0/ 1)   Lines:  60.00% (  3/  5)
+\Illuminate\Routing\Matching::UriValidator
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Illuminate\Support::Arr
+  Methods:  27.78% ( 5/18)   Lines:  32.05% ( 25/ 78)
+\Illuminate\Support::Collection
+  Methods:  14.52% ( 9/62)   Lines:  12.50% ( 16/128)
+\Illuminate\Support::Manager
+  Methods:  42.86% ( 3/ 7)   Lines:  64.71% ( 11/ 17)
+\Illuminate\Support::MessageBag
+  Methods:  33.33% ( 7/21)   Lines:  21.43% (  9/ 42)
+\Illuminate\Support::Pluralizer
+  Methods:  60.00% ( 3/ 5)   Lines:  89.29% ( 25/ 28)
+\Illuminate\Support::Str
+  Methods:  19.05% ( 4/21)   Lines:  24.56% ( 14/ 57)
+\Illuminate\Support\Facades::Facade
+  Methods:   7.14% ( 1/14)   Lines:   4.55% (  2/ 44)
+\Illuminate\Support\Traits::MacroableTrait
+  Methods:  25.00% ( 1/ 4)   Lines:  14.29% (  1/  7)
+\League\OAuth2\Server\Exception::InvalidScopeException
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  6/  6)
+\League\OAuth2\Server\Exception::OAuthException
+  Methods:  25.00% ( 1/ 4)   Lines:   9.09% (  2/ 22)
+\Mockery::CompositeExpectation
+  Methods:  50.00% ( 4/ 8)   Lines:  39.13% (  9/ 23)
+\Mockery::Configuration
+  Methods:  25.00% ( 2/ 8)   Lines:  12.50% (  2/ 16)
+\Mockery::Container
+  Methods:  29.17% ( 7/24)   Lines:  36.22% ( 67/185)
+\Mockery::Expectation
+  Methods:  16.28% ( 7/43)   Lines:  37.35% ( 62/166)
+\Mockery::ExpectationDirector
+  Methods:  22.22% ( 2/ 9)   Lines:  38.64% ( 17/ 44)
+\Mockery::Instantiator
+  Methods:  12.50% ( 1/ 8)   Lines:  34.15% ( 14/ 41)
+\Mockery::MethodCall
+  Methods:  33.33% ( 1/ 3)   Lines:  60.00% (  3/  5)
+\Mockery::ReceivedMethodCalls
+  Methods:  50.00% ( 1/ 2)   Lines:  20.00% (  2/ 10)
+\Mockery\CountValidator::CountValidatorAbstract
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\Mockery\CountValidator::Exact
+  Methods:   0.00% ( 0/ 1)   Lines:  14.29% (  2/ 14)
+\Mockery\Generator::CachingGenerator
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  8/  8)
+\Mockery\Generator::DefinedTargetClass
+  Methods:  50.00% ( 7/14)   Lines:  66.67% ( 16/ 24)
+\Mockery\Generator::Method
+  Methods:  75.00% ( 3/ 4)   Lines:  53.85% (  7/ 13)
+\Mockery\Generator::MockConfiguration
+  Methods:  64.00% (16/25)   Lines:  80.12% (133/166)
+\Mockery\Generator::MockConfigurationBuilder
+  Methods:  25.00% ( 3/12)   Lines:  40.62% ( 13/ 32)
+\Mockery\Generator::MockDefinition
+  Methods:  50.00% ( 2/ 4)   Lines:  75.00% (  6/  8)
+\Mockery\Generator::Parameter
+  Methods:  57.14% ( 4/ 7)   Lines:  72.41% ( 21/ 29)
+\Mockery\Generator::StringManipulationGenerator
+  Methods:  66.67% ( 2/ 3)   Lines:  80.00% (  8/ 10)
+\Mockery\Generator::UndefinedTargetClass
+  Methods:  90.00% ( 9/10)   Lines:  92.86% ( 13/ 14)
+\Mockery\Generator\StringManipulation\Pass::CallTypeHintPass
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 11/ 11)
+\Mockery\Generator\StringManipulation\Pass::ClassNamePass
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 12/ 12)
+\Mockery\Generator\StringManipulation\Pass::ClassPass
+  Methods:   0.00% ( 0/ 1)   Lines:  95.00% ( 19/ 20)
+\Mockery\Generator\StringManipulation\Pass::InstanceMockPass
+  Methods:   0.00% ( 0/ 2)   Lines:  33.33% (  2/  6)
+\Mockery\Generator\StringManipulation\Pass::InterfacePass
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Mockery\Generator\StringManipulation\Pass::MethodDefinitionPass
+  Methods:  50.00% ( 3/ 6)   Lines:  76.47% ( 52/ 68)
+\Mockery\Generator\StringManipulation\Pass::RemoveBuiltinMethodsThatAreFinalPass
+  Methods:   0.00% ( 0/ 1)   Lines:  85.71% (  6/  7)
+\Mockery\Generator\StringManipulation\Pass::RemoveUnserializeForInternalSerializableClassesPass
+  Methods:   0.00% ( 0/ 2)   Lines:  50.00% (  5/ 10)
+\Mockery\Loader::EvalLoader
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  4/  4)
+\Symfony\Component\HttpFoundation::FileBag
+  Methods:  33.33% ( 2/ 6)   Lines:  17.07% (  7/ 41)
+\Symfony\Component\HttpFoundation::HeaderBag
+  Methods:  20.00% ( 4/20)   Lines:  57.53% ( 42/ 73)
+\Symfony\Component\HttpFoundation::ParameterBag
+  Methods:  25.00% ( 4/16)   Lines:  15.69% (  8/ 51)
+\Symfony\Component\HttpFoundation::Request
+  Methods:  22.67% (17/75)   Lines:  37.37% (176/471)
+\Symfony\Component\HttpFoundation::Response
+  Methods:  21.05% (12/57)   Lines:  31.96% ( 70/219)
+\Symfony\Component\HttpFoundation::ResponseHeaderBag
+  Methods:  14.29% ( 2/14)   Lines:  34.62% ( 27/ 78)
+\Symfony\Component\HttpFoundation::ServerBag
+  Methods:   0.00% ( 0/ 1)   Lines:  75.00% ( 21/ 28)
+\Symfony\Component\HttpKernel\Exception::AccessDeniedHttpException
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Symfony\Component\HttpKernel\Exception::BadRequestHttpException
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Symfony\Component\HttpKernel\Exception::HttpException
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  6/  6)
+\Symfony\Component\HttpKernel\Exception::NotAcceptableHttpException
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Symfony\Component\HttpKernel\Exception::NotFoundHttpException
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Symfony\Component\HttpKernel\Exception::UnauthorizedHttpException
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\Symfony\Component\Routing::CompiledRoute
+  Methods:  27.27% ( 3/11)   Lines:  30.56% ( 11/ 36)
+\Symfony\Component\Routing::Route
+  Methods:  32.35% (11/34)   Lines:  35.96% ( 41/114)
+\Symfony\Component\Routing::RouteCompiler
+  Methods:  25.00% ( 1/ 4)   Lines:  86.67% ( 78/ 90)

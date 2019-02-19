@@ -1,0 +1,17 @@
+repository,tag,coverage
+git@github.com:sebastianbergmann/phpunit-mock-objects.git,1.0.0,"no composer"
+git@github.com:sebastianbergmann/phpunit-mock-objects.git,1.1.0,"no composer"
+git@github.com:sebastianbergmann/phpunit-mock-objects.git,1.2.0,"phpunit not installed"
+git@github.com:sebastianbergmann/phpunit-mock-objects.git,2.0.0,"phpunit failed"
+git@github.com:sebastianbergmann/phpunit-mock-objects.git,2.1.0,"phpunit failed"
+git@github.com:sebastianbergmann/phpunit-mock-objects.git,2.2.0,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:sebastianbergmann/phpunit-mock-objects.git,2.3.0,"phpunit failed"
+git@github.com:sebastianbergmann/phpunit-mock-objects.git,3.0.0,"phpunit failed"
+git@github.com:sebastianbergmann/phpunit-mock-objects.git,3.1.0,"phpunit failed"
+git@github.com:sebastianbergmann/phpunit-mock-objects.git,3.2.1,"phpunit failed"
+git@github.com:sebastianbergmann/phpunit-mock-objects.git,3.3.0,"phpunit failed"
+git@github.com:sebastianbergmann/phpunit-mock-objects.git,3.4.0,"phpunit failed"
+git@github.com:sebastianbergmann/phpunit-mock-objects.git,4.0.0,64.19
+git@github.com:sebastianbergmann/phpunit-mock-objects.git,5.0.0,69.68
+git@github.com:sebastianbergmann/phpunit-mock-objects.git,6.0.0,"phpunit failed"
+git@github.com:sebastianbergmann/phpunit-mock-objects.git,6.1.0,69.70

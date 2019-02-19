@@ -1,0 +1,12 @@
+
+
+Code Coverage Report:     
+  2019-02-16 21:09:04     
+                          
+ Summary:                 
+  Classes:  0.00% (0/1)   
+  Methods: 33.33% (3/9)   
+  Lines:   77.23% (78/101)
+
+\JakubOnderka\PhpConsoleHighlighter::Highlighter
+  Methods:  33.33% ( 3/ 9)   Lines:  77.23% ( 78/101)

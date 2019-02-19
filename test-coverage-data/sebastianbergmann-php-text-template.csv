@@ -1,0 +1,4 @@
+repository,tag,coverage
+git@github.com:sebastianbergmann/php-text-template.git,1.0.0,"no composer"
+git@github.com:sebastianbergmann/php-text-template.git,1.1.0,"no composer"
+git@github.com:sebastianbergmann/php-text-template.git,1.2.0,"no phpunit config"

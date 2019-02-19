@@ -1,0 +1,42 @@
+
+
+Code Coverage Report:      
+  2019-02-15 14:47:10      
+                           
+ Summary:                  
+  Classes: 87.50% (14/16)  
+  Methods: 96.04% (97/101) 
+  Lines:   97.68% (253/259)
+
+\Dotenv::Dotenv\Dotenv
+  Methods: 100.00% ( 9/ 9)   Lines: 100.00% ( 17/ 17)
+\Dotenv::Dotenv\Lines
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 22/ 22)
+\Dotenv::Dotenv\Loader
+  Methods: 100.00% (14/14)   Lines: 100.00% ( 44/ 44)
+\Dotenv::Dotenv\Parser
+  Methods: 100.00% (10/10)   Lines: 100.00% ( 42/ 42)
+\Dotenv::Dotenv\Validator
+  Methods: 100.00% (11/11)   Lines: 100.00% ( 28/ 28)
+\Dotenv\Environment::Dotenv\Environment\AbstractVariables
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 10/ 10)
+\Dotenv\Environment::Dotenv\Environment\DotenvFactory
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  4/  4)
+\Dotenv\Environment::Dotenv\Environment\DotenvVariables
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 18/ 18)
+\Dotenv\Environment\Adapter::Dotenv\Environment\Adapter\ApacheAdapter
+  Methods:  25.00% ( 1/ 4)   Lines:  16.67% (  1/  6)
+\Dotenv\Environment\Adapter::Dotenv\Environment\Adapter\EnvConstAdapter
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  8/  8)
+\Dotenv\Environment\Adapter::Dotenv\Environment\Adapter\PutenvAdapter
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  6/  6)
+\Dotenv\Environment\Adapter::Dotenv\Environment\Adapter\ServerConstAdapter
+  Methods:  75.00% ( 3/ 4)   Lines:  87.50% (  7/  8)
+\Dotenv\Regex::Dotenv\Regex\Error
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% (  7/  7)
+\Dotenv\Regex::Dotenv\Regex\Regex
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 16/ 16)
+\Dotenv\Regex::Dotenv\Regex\Result
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Dotenv\Regex::Dotenv\Regex\Success
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% (  7/  7)

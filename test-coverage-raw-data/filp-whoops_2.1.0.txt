@@ -1,0 +1,38 @@
+
+
+Code Coverage Report:      
+  2019-02-15 14:45:44      
+                           
+ Summary:                  
+  Classes:  6.67% (1/15)   
+  Methods: 64.79% (92/142) 
+  Lines:   57.29% (436/761)
+
+\Whoops::Run
+  Methods:  70.59% (12/17)   Lines:  77.55% ( 76/ 98)
+\Whoops\Exception::Formatter
+  Methods:  50.00% ( 1/ 2)   Lines:  70.59% ( 24/ 34)
+\Whoops\Exception::Frame
+  Methods:  66.67% (10/15)   Lines:  76.27% ( 45/ 59)
+\Whoops\Exception::FrameCollection
+  Methods:  92.86% (13/14)   Lines:  93.55% ( 29/ 31)
+\Whoops\Exception::Inspector
+  Methods:  54.55% ( 6/11)   Lines:  72.73% ( 48/ 66)
+\Whoops\Handler::CallbackHandler
+  Methods:  50.00% ( 1/ 2)   Lines:  80.00% (  8/ 10)
+\Whoops\Handler::Handler
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% (  9/  9)
+\Whoops\Handler::JsonResponseHandler
+  Methods:  50.00% ( 1/ 2)   Lines:  90.91% ( 10/ 11)
+\Whoops\Handler::PlainTextHandler
+  Methods:  58.33% ( 7/12)   Lines:  84.21% ( 64/ 76)
+\Whoops\Handler::PrettyPageHandler
+  Methods:  40.91% ( 9/22)   Lines:  35.20% ( 44/125)
+\Whoops\Handler::XmlResponseHandler
+  Methods:  50.00% ( 2/ 4)   Lines:  85.71% ( 18/ 21)
+\Whoops\Util::Misc
+  Methods:  40.00% ( 2/ 5)   Lines:  41.18% (  7/ 17)
+\Whoops\Util::SystemFacade
+  Methods:  92.86% (13/14)   Lines:  95.00% ( 19/ 20)
+\Whoops\Util::TemplateHelper
+  Methods:  69.23% ( 9/13)   Lines:  51.92% ( 27/ 52)

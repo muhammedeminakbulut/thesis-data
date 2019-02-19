@@ -1,0 +1,5 @@
+repository,tag,coverage
+git@github.com:php-fig/simple-cache.git,0.1.0,"no phpunit config"
+git@github.com:php-fig/simple-cache.git,0.2.0,"no phpunit config"
+git@github.com:php-fig/simple-cache.git,0.3.0,"no phpunit config"
+git@github.com:php-fig/simple-cache.git,1.0.0,"no phpunit config"

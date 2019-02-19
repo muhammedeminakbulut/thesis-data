@@ -1,0 +1,54 @@
+repository,tag,coverage
+git@github.com:geocoder-php/Geocoder.git,1.0.0,"phpunit not installed"
+git@github.com:geocoder-php/Geocoder.git,1.1.0,"composer failed, 
+                                                                                                                                                                           
+  [Composer\Downloader\TransportException]                                                                                                                                 
+  Your configuration does not allow connections to http://packages.zendframework.com/packages.json. See https://getcomposer.org/doc/06-config.md#secure-http for details.  
+                                                                                                                                                                           
+
+install [--prefer-source] [--prefer-dist] [--dry-run] [--dev] [--no-dev] [--no-custom-installers] [--no-autoloader] [--no-scripts] [--no-progress] [--no-suggest] [-v|vv|vvv|--verbose] [-o|--optimize-autoloader] [-a|--classmap-authoritative] [--apcu-autoloader] [--ignore-platform-reqs] [--] [<packages>]..."
+git@github.com:geocoder-php/Geocoder.git,1.2.0,"composer failed, 
+                                                                                                                                                                           
+  [Composer\Downloader\TransportException]                                                                                                                                 
+  Your configuration does not allow connections to http://packages.zendframework.com/packages.json. See https://getcomposer.org/doc/06-config.md#secure-http for details.  
+                                                                                                                                                                           
+
+install [--prefer-source] [--prefer-dist] [--dry-run] [--dev] [--no-dev] [--no-custom-installers] [--no-autoloader] [--no-scripts] [--no-progress] [--no-suggest] [-v|vv|vvv|--verbose] [-o|--optimize-autoloader] [-a|--classmap-authoritative] [--apcu-autoloader] [--ignore-platform-reqs] [--] [<packages>]..."
+git@github.com:geocoder-php/Geocoder.git,1.3.0,"phpunit failed"
+git@github.com:geocoder-php/Geocoder.git,1.4.0,"phpunit failed"
+git@github.com:geocoder-php/Geocoder.git,1.5.0,"phpunit failed"
+git@github.com:geocoder-php/Geocoder.git,1.6.0,"composer failed, 
+                                                                                                                                       
+  [RuntimeException]                                                                                                                   
+  Failed to clone https://github.com/maxromanovsky/php-maxmind-geoip.git via https, ssh protocols, aborting.                           
+                                                                                                                                       
+  - https://github.com/maxromanovsky/php-maxmind-geoip.git                                                                             
+    Cloning into '/home/muhammed/projects/thesis/data/git/b7a6c47eede634848a4c497030b49df8/vendor/maxromanovsky/php-maxmind-geoip'...  
+    remote: Invalid username or password.                                                                                              
+    fatal: Authentication failed for 'https://github.com/maxromanovsky/php-maxmind-geoip.git/'                                         
+                                                                                                                                       
+  - git@github.com:maxromanovsky/php-maxmind-geoip.git                                                                                 
+    Cloning into '/home/muhammed/projects/thesis/data/git/b7a6c47eede634848a4c497030b49df8/vendor/maxromanovsky/php-maxmind-geoip'...  
+    ERROR: Repository not found.                                                                                                       
+    fatal: Could not read from remote repository.                                                                                      
+                                                                                                                                       
+    Please make sure you have the correct access rights                                                                                
+    and the repository exists.                                                                                                         
+                                                                                                                                       
+
+install [--prefer-source] [--prefer-dist] [--dry-run] [--dev] [--no-dev] [--no-custom-installers] [--no-autoloader] [--no-scripts] [--no-progress] [--no-suggest] [-v|vv|vvv|--verbose] [-o|--optimize-autoloader] [-a|--classmap-authoritative] [--apcu-autoloader] [--ignore-platform-reqs] [--] [<packages>]..."
+git@github.com:geocoder-php/Geocoder.git,1.7.0,"phpunit failed"
+git@github.com:geocoder-php/Geocoder.git,2.0.0,"phpunit failed"
+git@github.com:geocoder-php/Geocoder.git,2.1.0,"phpunit not installed"
+git@github.com:geocoder-php/Geocoder.git,2.2.0,"phpunit not installed"
+git@github.com:geocoder-php/Geocoder.git,2.3.0,"phpunit not installed"
+git@github.com:geocoder-php/Geocoder.git,2.4.0,"phpunit not installed"
+git@github.com:geocoder-php/Geocoder.git,2.5.0,"phpunit not installed"
+git@github.com:geocoder-php/Geocoder.git,2.6.0,"phpunit not installed"
+git@github.com:geocoder-php/Geocoder.git,2.7.0,"phpunit not installed"
+git@github.com:geocoder-php/Geocoder.git,2.8.0,"phpunit not installed"
+git@github.com:geocoder-php/Geocoder.git,v3.0.0,"phpunit not installed"
+git@github.com:geocoder-php/Geocoder.git,v3.1.0,"phpunit not installed"
+git@github.com:geocoder-php/Geocoder.git,v3.2.0,"phpunit not installed"
+git@github.com:geocoder-php/Geocoder.git,v3.3.0,"phpunit not installed"
+git@github.com:geocoder-php/Geocoder.git,4.0.0,68.81

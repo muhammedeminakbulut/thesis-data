@@ -1,0 +1,60 @@
+
+
+Code Coverage Report:       
+  2019-02-16 21:10:15       
+                            
+ Summary:                   
+  Classes: 11.11% (3/27)    
+  Methods: 52.08% (75/144)  
+  Lines:   64.59% (715/1107)
+
+@PHPUnit.Framework.MockObject.Builder::PHPUnit_Framework_MockObject_Builder_InvocationMocker
+  Methods:  72.22% (13/18)   Lines:  75.41% ( 46/ 61)
+@PHPUnit.Framework.MockObject.Invocation::PHPUnit_Framework_MockObject_Invocation_Object
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+@PHPUnit.Framework.MockObject.Invocation::PHPUnit_Framework_MockObject_Invocation_Static
+  Methods:  50.00% ( 2/ 4)   Lines:  67.92% ( 36/ 53)
+@PHPUnit.Framework.MockObject.Matcher::PHPUnit_Framework_MockObject_Matcher_AnyInvokedCount
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+@PHPUnit.Framework.MockObject.Matcher::PHPUnit_Framework_MockObject_Matcher_ConsecutiveParameters
+  Methods:  60.00% ( 3/ 5)   Lines:  88.57% ( 31/ 35)
+@PHPUnit.Framework.MockObject.Matcher::PHPUnit_Framework_MockObject_Matcher_InvokedAtLeastCount
+  Methods:  33.33% ( 1/ 3)   Lines:  55.56% (  5/  9)
+@PHPUnit.Framework.MockObject.Matcher::PHPUnit_Framework_MockObject_Matcher_InvokedAtLeastOnce
+  Methods:   0.00% ( 0/ 2)   Lines:  50.00% (  3/  6)
+@PHPUnit.Framework.MockObject.Matcher::PHPUnit_Framework_MockObject_Matcher_InvokedAtMostCount
+  Methods:  33.33% ( 1/ 3)   Lines:  55.56% (  5/  9)
+@PHPUnit.Framework.MockObject.Matcher::PHPUnit_Framework_MockObject_Matcher_InvokedCount
+  Methods:  80.00% ( 4/ 5)   Lines:  78.57% ( 22/ 28)
+@PHPUnit.Framework.MockObject.Matcher::PHPUnit_Framework_MockObject_Matcher_InvokedRecorder
+  Methods:  60.00% ( 3/ 5)   Lines:  66.67% (  4/  6)
+@PHPUnit.Framework.MockObject.Matcher::PHPUnit_Framework_MockObject_Matcher_MethodName
+  Methods:  66.67% ( 2/ 3)   Lines:  92.31% ( 12/ 13)
+@PHPUnit.Framework.MockObject.Matcher::PHPUnit_Framework_MockObject_Matcher_Parameters
+  Methods:  60.00% ( 3/ 5)   Lines:  80.95% ( 34/ 42)
+@PHPUnit.Framework.MockObject.Matcher::PHPUnit_Framework_MockObject_Matcher_StatelessInvocation
+  Methods:  50.00% ( 1/ 2)   Lines:  50.00% (  1/  2)
+@PHPUnit.Framework.MockObject.Stub::PHPUnit_Framework_MockObject_Stub_ConsecutiveCalls
+  Methods:  33.33% ( 1/ 3)   Lines:  50.00% (  5/ 10)
+@PHPUnit.Framework.MockObject.Stub::PHPUnit_Framework_MockObject_Stub_Exception
+  Methods:  33.33% ( 1/ 3)   Lines:  40.00% (  4/ 10)
+@PHPUnit.Framework.MockObject.Stub::PHPUnit_Framework_MockObject_Stub_Return
+  Methods:  66.67% ( 2/ 3)   Lines:  42.86% (  3/  7)
+@PHPUnit.Framework.MockObject.Stub::PHPUnit_Framework_MockObject_Stub_ReturnArgument
+  Methods:  33.33% ( 1/ 3)   Lines:  66.67% (  4/  6)
+@PHPUnit.Framework.MockObject.Stub::PHPUnit_Framework_MockObject_Stub_ReturnCallback
+  Methods:  66.67% ( 2/ 3)   Lines:  18.75% (  3/ 16)
+@PHPUnit.Framework.MockObject.Stub::PHPUnit_Framework_MockObject_Stub_ReturnReference
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+@PHPUnit.Framework.MockObject.Stub::PHPUnit_Framework_MockObject_Stub_ReturnSelf
+  Methods:   0.00% ( 0/ 2)   Lines:  40.00% (  2/  5)
+@PHPUnit.Framework.MockObject.Stub::PHPUnit_Framework_MockObject_Stub_ReturnValueMap
+  Methods:  66.67% ( 2/ 3)   Lines:  90.91% ( 10/ 11)
+@PHPUnit.Framework.MockObject::PHPUnit_Framework_MockObject_Generator
+  Methods:  40.91% ( 9/22)   Lines:  67.74% (317/468)
+@PHPUnit.Framework.MockObject::PHPUnit_Framework_MockObject_InvocationMocker
+  Methods:  66.67% ( 6/ 9)   Lines:  73.33% ( 33/ 45)
+@PHPUnit.Framework.MockObject::PHPUnit_Framework_MockObject_Matcher
+  Methods:  33.33% ( 2/ 6)   Lines:  47.06% ( 48/102)
+@PHPUnit.Framework.MockObject::PHPUnit_Framework_MockObject_MockBuilder
+  Methods:  57.14% (12/21)   Lines:  53.16% ( 42/ 79)

@@ -1,0 +1,4 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:jokkedk/webgrind.git,v1.3.1,1112,311,119,0.00%,7.1851851851852,0,335,31,68,0
+git@github.com:jokkedk/webgrind.git,v1.4.0,1112,311,119,0.00%,7.1851851851852,0,335,31,68,0
+git@github.com:jokkedk/webgrind.git,v1.5.0,1112,311,119,0.00%,7.1851851851852,0,335,31,68,0

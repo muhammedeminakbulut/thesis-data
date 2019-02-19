@@ -1,0 +1,9 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:michelf/php-markdown.git,v1.0.2,1750,509,70,0.00%,6.0892857142857,0,493,44,63,0
+git@github.com:michelf/php-markdown.git,1.4.0,3241,847,163,1.94%,7.5368421052632,0,493,44,139,0
+git@github.com:michelf/php-markdown.git,1.4.1,3252,852,166,1.94%,7.5684210526316,0,493,44,140,0
+git@github.com:michelf/php-markdown.git,1.5.0,3318,862,184,1.90%,7.71875,0,493,44,150,0
+git@github.com:michelf/php-markdown.git,1.5.1,3336,866,187,1.89%,7.75,0,493,44,154,0
+git@github.com:michelf/php-markdown.git,1.6.0,3336,866,187,1.89%,7.75,0,493,44,154,0
+git@github.com:michelf/php-markdown.git,1.7.0,3780,1292,191,1.93%,7.75,0,493,44,155,0
+git@github.com:michelf/php-markdown.git,1.8.0,3805,1303,193,1.92%,7.8947368421053,0,493,44,158,0

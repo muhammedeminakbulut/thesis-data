@@ -1,0 +1,79 @@
+repository,tag,coverage
+git@github.com:thephpleague/flysystem.git,0.1.0,"phpunit not installed"
+git@github.com:thephpleague/flysystem.git,0.2.0,"phpunit not installed"
+git@github.com:thephpleague/flysystem.git,0.3.0,"phpunit failed"
+git@github.com:thephpleague/flysystem.git,0.4.0,"phpunit failed"
+git@github.com:thephpleague/flysystem.git,0.5.0,"phpunit failed"
+git@github.com:thephpleague/flysystem.git,1.0.0,97.52
+Contents($directory, array $contents, $recursive = false) in /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/src/Cache/Noop.php on line 173
+PHP Stack trace:
+PHP   1. {main}() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/vendor/phpunit/phpunit/phpunit:0
+PHP   2. PHPUnit_TextUI_Command::main() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/vendor/phpunit/phpunit/phpunit:52
+PHP   3. PHPUnit_TextUI_Command->run() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/vendor/phpunit/phpunit/src/TextUI/Command.php:100
+PHP   4. PHPUnit_TextUI_TestRunner->doRun() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/vendor/phpunit/phpunit/src/TextUI/Command.php:149
+PHP   5. PHPUnit_Framework_TestSuite->run() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/vendor/phpunit/phpunit/src/TextUI/TestRunner.php:440
+PHP   6. PHPUnit_Framework_TestSuite->run() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/vendor/phpunit/phpunit/src/Framework/TestSuite.php:722
+PHP   7. League\Flysystem\FilesystemTests->run() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/vendor/phpunit/phpunit/src/Framework/TestSuite.php:722
+PHP   8. PHPUnit_Framework_TestResult->run() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/vendor/phpunit/phpunit/src/Framework/TestCase.php:724
+PHP   9. League\Flysystem\FilesystemTests->runBare() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/vendor/phpunit/phpunit/src/Framework/TestResult.php:612
+PHP  10. League\Flysystem\FilesystemTests->runTest() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/vendor/phpunit/phpunit/src/Framework/TestCase.php:768
+PHP  11. ReflectionMethod->invokeArgs() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/vendor/phpunit/phpunit/src/Framework/TestCase.php:908
+PHP  12. League\Flysystem\FilesystemTests->testNoop() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/vendor/phpunit/phpunit/src/Framework/TestCase.php:908
+PHP  13. spl_autoload_call() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/tests/FilesystemTests.php:389
+PHP  14. Composer\Autoload\ClassLoader->loadClass() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/tests/FilesystemTests.php:389
+PHP  15. Composer\Autoload\includeFile() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/vendor/composer/ClassLoader.php:322PHPUnit 4.8.36 by Sebastian Bergmann and contributors.
+Warning:	No whitelist configured for code coverage
+
+...............................................................  63 / 157 ( 40%)
+.............
+
+Collecting CodeCoverage information...
+Sending coverage output..."
+git@github.com:thephpleague/flysystem.git,0.4.0,"phpunit failed, PHP Fatal error:  Declaration of League\Flysystem\Cache\Noop::storeContents($directory, array $contents, $recursive) must be compatible with League\Flysystem\Cache\AbstractCache::storeContents($directory, array $contents, $recursive = false) in /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/src/Cache/Noop.php on line 189
+PHP Stack trace:
+PHP   1. {main}() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/vendor/phpunit/phpunit/phpunit:0
+PHP   2. PHPUnit_TextUI_Command::main() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/vendor/phpunit/phpunit/phpunit:52
+PHP   3. PHPUnit_TextUI_Command->run() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/vendor/phpunit/phpunit/src/TextUI/Command.php:100
+PHP   4. PHPUnit_TextUI_TestRunner->doRun() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/vendor/phpunit/phpunit/src/TextUI/Command.php:149
+PHP   5. PHPUnit_Framework_TestSuite->run() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/vendor/phpunit/phpunit/src/TextUI/TestRunner.php:440
+PHP   6. PHPUnit_Framework_TestSuite->run() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/vendor/phpunit/phpunit/src/Framework/TestSuite.php:722
+PHP   7. League\Flysystem\FilesystemTests->run() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/vendor/phpunit/phpunit/src/Framework/TestSuite.php:722
+PHP   8. PHPUnit_Framework_TestResult->run() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/vendor/phpunit/phpunit/src/Framework/TestCase.php:724
+PHP   9. League\Flysystem\FilesystemTests->runBare() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/vendor/phpunit/phpunit/src/Framework/TestResult.php:612
+PHP  10. League\Flysystem\FilesystemTests->runTest() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/vendor/phpunit/phpunit/src/Framework/TestCase.php:768
+PHP  11. ReflectionMethod->invokeArgs() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/vendor/phpunit/phpunit/src/Framework/TestCase.php:908
+PHP  12. League\Flysystem\FilesystemTests->testNoop() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/vendor/phpunit/phpunit/src/Framework/TestCase.php:908
+PHP  13. spl_autoload_call() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/tests/FilesystemTests.php:436
+PHP  14. Composer\Autoload\ClassLoader->loadClass() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/tests/FilesystemTests.php:436
+PHP  15. Composer\Autoload\includeFile() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/vendor/composer/ClassLoader.php:322PHPUnit 4.8.36 by Sebastian Bergmann and contributors.
+
+...............................................................  63 / 209 ( 30%)
+......................
+
+Collecting CodeCoverage information...
+Sending coverage output..."
+git@github.com:thephpleague/flysystem.git,0.5.0,"phpunit failed, PHP Fatal error:  Declaration of League\Flysystem\Cache\Noop::storeContents($directory, array $contents, $recursive) must be compatible with League\Flysystem\Cache\AbstractCache::storeContents($directory, array $contents, $recursive = false) in /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/src/Cache/Noop.php on line 189
+PHP Stack trace:
+PHP   1. {main}() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/vendor/phpunit/phpunit/phpunit:0
+PHP   2. PHPUnit_TextUI_Command::main() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/vendor/phpunit/phpunit/phpunit:52
+PHP   3. PHPUnit_TextUI_Command->run() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/vendor/phpunit/phpunit/src/TextUI/Command.php:100
+PHP   4. PHPUnit_TextUI_TestRunner->doRun() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/vendor/phpunit/phpunit/src/TextUI/Command.php:149
+PHP   5. PHPUnit_Framework_TestSuite->run() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/vendor/phpunit/phpunit/src/TextUI/TestRunner.php:440
+PHP   6. PHPUnit_Framework_TestSuite->run() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/vendor/phpunit/phpunit/src/Framework/TestSuite.php:722
+PHP   7. League\Flysystem\FilesystemTests->run() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/vendor/phpunit/phpunit/src/Framework/TestSuite.php:722
+PHP   8. PHPUnit_Framework_TestResult->run() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/vendor/phpunit/phpunit/src/Framework/TestCase.php:724
+PHP   9. League\Flysystem\FilesystemTests->runBare() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/vendor/phpunit/phpunit/src/Framework/TestResult.php:612
+PHP  10. League\Flysystem\FilesystemTests->runTest() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/vendor/phpunit/phpunit/src/Framework/TestCase.php:768
+PHP  11. ReflectionMethod->invokeArgs() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/vendor/phpunit/phpunit/src/Framework/TestCase.php:908
+PHP  12. League\Flysystem\FilesystemTests->testNoop() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/vendor/phpunit/phpunit/src/Framework/TestCase.php:908
+PHP  13. spl_autoload_call() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/tests/FilesystemTests.php:436
+PHP  14. Composer\Autoload\ClassLoader->loadClass() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/tests/FilesystemTests.php:436
+PHP  15. Composer\Autoload\includeFile() /home/muhammed/projects/thesis/data/git/98a0eab2c2c750a449e56f0de7ac8bb6/vendor/composer/ClassLoader.php:322PHPUnit 4.8.36 by Sebastian Bergmann and contributors.
+
+...............................................................  63 / 285 ( 22%)
+............................................................... 126 / 285 ( 44%)
+........
+
+Collecting CodeCoverage information...
+Sending coverage output..."
+git@github.com:thephpleague/flysystem.git,1.0.0,97.52

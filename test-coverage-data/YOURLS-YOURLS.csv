@@ -1,0 +1,5 @@
+repository,tag,coverage
+git@github.com:YOURLS/YOURLS.git,1.0.1,"no composer"
+git@github.com:YOURLS/YOURLS.git,1.4.1,"no composer"
+git@github.com:YOURLS/YOURLS.git,1.5.1,"no composer"
+git@github.com:YOURLS/YOURLS.git,1.7.1,"no phpunit config"

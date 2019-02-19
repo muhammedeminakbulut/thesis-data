@@ -1,0 +1,20 @@
+
+
+Code Coverage Report:       
+  2019-02-17 15:46:20       
+                            
+ Summary:                   
+  Classes:  0.00% (0/349)   
+  Methods:  0.52% (9/1745)  
+  Lines:    0.35% (37/10594)
+
+\Behat\Behat\Definition\Exception::Behat\Behat\Definition\Exception\UnknownPatternException
+  Methods:  50.00% ( 1/ 2)   Lines:  75.00% (  3/  4)
+\Behat\Behat\Definition\Pattern::Behat\Behat\Definition\Pattern\PatternTransformer
+  Methods:  75.00% ( 3/ 4)   Lines:  71.43% ( 10/ 14)
+\Behat\Testwork\Specification::Behat\Testwork\Specification\GroupedSpecificationIterator
+  Methods:  33.33% ( 3/ 9)   Lines:  65.52% ( 19/ 29)
+\Behat\Testwork\Specification::Behat\Testwork\Specification\NoSpecificationsIterator
+  Methods:  50.00% ( 1/ 2)   Lines:  66.67% (  2/  3)
+\Behat\Testwork\Specification::Behat\Testwork\Specification\SpecificationArrayIterator
+  Methods:  50.00% ( 1/ 2)   Lines:  75.00% (  3/  4)

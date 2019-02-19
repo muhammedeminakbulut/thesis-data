@@ -1,0 +1,9 @@
+repository,tag,coverage
+git@github.com:andersao/l5-repository.git,1.0.0,40.77
+git@github.com:andersao/l5-repository.git,2.0.0,0.00
+git@github.com:andersao/l5-repository.git,2.1.0,"phpunit not installed"
+git@github.com:andersao/l5-repository.git,2.2.0,"phpunit not installed"
+git@github.com:andersao/l5-repository.git,2.3.0,"phpunit not installed"
+git@github.com:andersao/l5-repository.git,2.4.0,"phpunit not installed"
+git@github.com:andersao/l5-repository.git,2.5.0,"phpunit not installed"
+git@github.com:andersao/l5-repository.git,2.6.1,"phpunit not installed"

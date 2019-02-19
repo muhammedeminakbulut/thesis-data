@@ -1,0 +1,7 @@
+repository,tag,coverage
+git@github.com:z-song/laravel-admin.git,v1.1.6,"phpunit failed"
+git@github.com:z-song/laravel-admin.git,v1.2.6,"phpunit failed"
+git@github.com:z-song/laravel-admin.git,v1.3.3,"phpunit failed"
+git@github.com:z-song/laravel-admin.git,v1.4.1,"phpunit failed"
+git@github.com:z-song/laravel-admin.git,v1.5.5,"phpunit failed"
+git@github.com:z-song/laravel-admin.git,v1.6.0,"phpunit failed"

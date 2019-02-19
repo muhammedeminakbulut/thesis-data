@@ -1,0 +1,11 @@
+repository,tag,coverage
+git@github.com:emojione/emojione.git,v3.0.0,"no phpunit config"
+git@github.com:emojione/emojione.git,v3.1.0,"no phpunit config"
+git@github.com:emojione/emojione.git,v2.2.0,"no phpunit config"
+git@github.com:emojione/emojione.git,v1.3.0,"no phpunit config"
+git@github.com:emojione/emojione.git,v1.4.0,"no phpunit config"
+git@github.com:emojione/emojione.git,v1.5.0,"no phpunit config"
+git@github.com:emojione/emojione.git,1.0.1,"no phpunit config"
+git@github.com:emojione/emojione.git,3.1.2,"no phpunit config"
+git@github.com:emojione/emojione.git,4.0.0,"no phpunit config"
+git@github.com:emojione/emojione.git,4.5.0,"no phpunit config"

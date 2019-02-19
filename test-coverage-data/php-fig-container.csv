@@ -1,0 +1,2 @@
+repository,tag,coverage
+git@github.com:php-fig/container.git,1.0.0,"no phpunit config"

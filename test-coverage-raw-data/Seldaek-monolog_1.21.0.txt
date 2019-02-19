@@ -1,0 +1,146 @@
+
+
+Code Coverage Report:        
+  2019-02-16 13:21:44        
+                             
+ Summary:                    
+  Classes: 22.22% (18/81)    
+  Methods: 56.60% (266/470)  
+  Lines:   65.69% (1733/2638)
+
+\Monolog::ErrorHandler
+  Methods:  20.00% ( 2/10)   Lines:  41.58% ( 42/101)
+\Monolog::Logger
+  Methods:  89.47% (34/38)   Lines:  95.79% ( 91/ 95)
+\Monolog::Registry
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 20/ 20)
+\Monolog\Formatter::ChromePHPFormatter
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 19/ 19)
+\Monolog\Formatter::ElasticaFormatter
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 13/ 13)
+\Monolog\Formatter::FlowdockFormatter
+  Methods:  50.00% ( 2/ 4)   Lines:  88.57% ( 31/ 35)
+\Monolog\Formatter::FluentdFormatter
+  Methods:  50.00% ( 2/ 4)   Lines:  72.22% ( 13/ 18)
+\Monolog\Formatter::GelfMessageFormatter
+  Methods:  50.00% ( 1/ 2)   Lines:  95.74% ( 45/ 47)
+\Monolog\Formatter::JsonFormatter
+  Methods:  72.73% ( 8/11)   Lines:  75.00% ( 36/ 48)
+\Monolog\Formatter::LineFormatter
+  Methods:  50.00% ( 5/10)   Lines:  79.66% ( 47/ 59)
+\Monolog\Formatter::LogglyFormatter
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  5/  5)
+\Monolog\Formatter::LogstashFormatter
+  Methods:  50.00% ( 2/ 4)   Lines:  92.98% ( 53/ 57)
+\Monolog\Formatter::NormalizerFormatter
+  Methods:  50.00% ( 5/10)   Lines:  85.42% ( 82/ 96)
+\Monolog\Formatter::ScalarFormatter
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  7/  7)
+\Monolog\Formatter::WildfireFormatter
+  Methods:  66.67% ( 2/ 3)   Lines:  92.31% ( 36/ 39)
+\Monolog\Handler::AbstractHandler
+  Methods:  92.86% (13/14)   Lines:  93.55% ( 29/ 31)
+\Monolog\Handler::AbstractProcessingHandler
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 10/ 10)
+\Monolog\Handler::AbstractSyslogHandler
+  Methods:   0.00% ( 0/ 2)   Lines:  64.00% ( 16/ 25)
+\Monolog\Handler::BufferHandler
+  Methods:  50.00% ( 3/ 6)   Lines:  84.38% ( 27/ 32)
+\Monolog\Handler::ChromePHPHandler
+  Methods:  22.22% ( 2/ 9)   Lines:  55.56% ( 30/ 54)
+\Monolog\Handler::DeduplicationHandler
+  Methods:  20.00% ( 1/ 5)   Lines:  85.19% ( 46/ 54)
+\Monolog\Handler::DoctrineCouchDBHandler
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  6/  6)
+\Monolog\Handler::DynamoDbHandler
+  Methods:  75.00% ( 3/ 4)   Lines:  93.33% ( 14/ 15)
+\Monolog\Handler::ElasticSearchHandler
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 21/ 21)
+\Monolog\Handler::ErrorLogHandler
+  Methods:  25.00% ( 1/ 4)   Lines:  62.50% ( 10/ 16)
+\Monolog\Handler::FilterHandler
+  Methods:  71.43% ( 5/ 7)   Lines:  61.29% ( 19/ 31)
+\Monolog\Handler::FingersCrossedHandler
+  Methods:  75.00% ( 6/ 8)   Lines:  86.67% ( 39/ 45)
+\Monolog\Handler::FirePHPHandler
+  Methods:  33.33% ( 3/ 9)   Lines:  61.11% ( 22/ 36)
+\Monolog\Handler::FleepHookHandler
+  Methods:  16.67% ( 1/ 6)   Lines:  30.00% (  6/ 20)
+\Monolog\Handler::FlowdockHandler
+  Methods:  57.14% ( 4/ 7)   Lines:  85.71% ( 18/ 21)
+\Monolog\Handler::GelfHandler
+  Methods:  75.00% ( 3/ 4)   Lines:  90.00% (  9/ 10)
+\Monolog\Handler::GroupHandler
+  Methods:  60.00% ( 3/ 5)   Lines:  71.43% ( 20/ 28)
+\Monolog\Handler::HandlerWrapper
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% ( 11/ 11)
+\Monolog\Handler::HipChatHandler
+  Methods:  44.44% ( 4/ 9)   Lines:  87.25% ( 89/102)
+\Monolog\Handler::LogEntriesHandler
+  Methods:  50.00% ( 1/ 2)   Lines:  85.71% (  6/  7)
+\Monolog\Handler::MailHandler
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 15/ 15)
+\Monolog\Handler::MongoDBHandler
+  Methods:  66.67% ( 2/ 3)   Lines:  90.00% (  9/ 10)
+\Monolog\Handler::NativeMailerHandler
+  Methods:  50.00% ( 4/ 8)   Lines:  80.56% ( 29/ 36)
+\Monolog\Handler::NewRelicHandler
+  Methods:  66.67% ( 6/ 9)   Lines:  91.11% ( 41/ 45)
+\Monolog\Handler::NullHandler
+  Methods:  50.00% ( 1/ 2)   Lines:  60.00% (  3/  5)
+\Monolog\Handler::PHPConsoleHandler
+  Methods:  83.33% (10/12)   Lines:  97.62% ( 82/ 84)
+\Monolog\Handler::PsrHandler
+  Methods:   0.00% ( 0/ 2)   Lines:  42.86% (  3/  7)
+\Monolog\Handler::PushoverHandler
+  Methods:  62.50% ( 5/ 8)   Lines:  90.20% ( 46/ 51)
+\Monolog\Handler::RavenHandler
+  Methods:  70.00% ( 7/10)   Lines:  88.52% ( 54/ 61)
+\Monolog\Handler::RedisHandler
+  Methods:  80.00% ( 4/ 5)   Lines:  95.45% ( 21/ 22)
+\Monolog\Handler::RotatingFileHandler
+  Methods:  71.43% ( 5/ 7)   Lines:  94.83% ( 55/ 58)
+\Monolog\Handler::SamplingHandler
+  Methods:   0.00% ( 0/ 3)   Lines:  29.41% (  5/ 17)
+\Monolog\Handler::SlackHandler
+  Methods:  62.50% ( 5/ 8)   Lines:  63.22% ( 55/ 87)
+\Monolog\Handler::SocketHandler
+  Methods:  89.29% (25/28)   Lines:  93.55% ( 87/ 93)
+\Monolog\Handler::StreamHandler
+  Methods:  25.00% ( 2/ 8)   Lines:  55.56% ( 30/ 54)
+\Monolog\Handler::SwiftMailerHandler
+  Methods:  50.00% ( 2/ 4)   Lines:  79.17% ( 19/ 24)
+\Monolog\Handler::SyslogHandler
+  Methods:  33.33% ( 1/ 3)   Lines:  40.00% (  4/ 10)
+\Monolog\Handler::SyslogUdpHandler
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 17/ 17)
+\Monolog\Handler::TestHandler
+  Methods:  66.67% ( 6/ 9)   Lines:  83.87% ( 26/ 31)
+\Monolog\Handler::WhatFailureGroupHandler
+  Methods:   0.00% ( 0/ 2)   Lines:  76.92% ( 10/ 13)
+\Monolog\Handler\FingersCrossed::ChannelLevelActivationStrategy
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  6/  6)
+\Monolog\Handler\FingersCrossed::ErrorLevelActivationStrategy
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\Monolog\Handler\SyslogUdp::UdpSocket
+  Methods:  80.00% ( 4/ 5)   Lines:  87.50% ( 14/ 16)
+\Monolog\Processor::GitProcessor
+  Methods:   0.00% ( 0/ 3)   Lines:  21.43% (  3/ 14)
+\Monolog\Processor::IntrospectionProcessor
+  Methods:  33.33% ( 1/ 3)   Lines:  87.10% ( 27/ 31)
+\Monolog\Processor::MemoryPeakUsageProcessor
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  4/  4)
+\Monolog\Processor::MemoryProcessor
+  Methods:   0.00% ( 0/ 2)   Lines:  45.45% (  5/ 11)
+\Monolog\Processor::MemoryUsageProcessor
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  4/  4)
+\Monolog\Processor::ProcessIdProcessor
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Monolog\Processor::PsrLogMessageProcessor
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 11/ 11)
+\Monolog\Processor::TagProcessor
+  Methods:  25.00% ( 1/ 4)   Lines:  25.00% (  2/  8)
+\Monolog\Processor::UidProcessor
+  Methods:  66.67% ( 2/ 3)   Lines:  85.71% (  6/  7)
+\Monolog\Processor::WebProcessor
+  Methods:  75.00% ( 3/ 4)   Lines:  91.30% ( 21/ 23)

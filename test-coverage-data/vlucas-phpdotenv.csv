@@ -1,0 +1,8 @@
+repository,tag,coverage
+git@github.com:vlucas/phpdotenv.git,v3.0.0,94.98
+git@github.com:vlucas/phpdotenv.git,v3.1.0,97.68
+git@github.com:vlucas/phpdotenv.git,v3.2.0,96.62
+git@github.com:vlucas/phpdotenv.git,v3.3.0,92.36
+git@github.com:vlucas/phpdotenv.git,v2.4.0,90.55
+git@github.com:vlucas/phpdotenv.git,v2.5.0,94.33
+git@github.com:vlucas/phpdotenv.git,v2.6.0,94.08

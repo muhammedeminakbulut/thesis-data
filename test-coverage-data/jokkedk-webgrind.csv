@@ -1,0 +1,10 @@
+repository,tag,coverage
+git@github.com:jokkedk/webgrind.git,v1.3.1,"composer failed, 
+                                                           
+  [UnexpectedValueException]                               
+  ""./composer.json"" is not UTF-8, could not parse as JSON"
+git@github.com:jokkedk/webgrind.git,v1.4.0,"composer failed, 
+                                                           
+  [UnexpectedValueException]                               
+  ""./composer.json"" is not UTF-8, could not parse as JSON"
+git@github.com:jokkedk/webgrind.git,v1.5.0,"no phpunit config"

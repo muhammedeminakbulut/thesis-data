@@ -1,0 +1,4 @@
+repository,tag,coverage
+git@github.com:top-think/thinkphp.git,3.1.0,"no composer"
+git@github.com:top-think/thinkphp.git,3.2.0,"no composer"
+git@github.com:top-think/thinkphp.git,v3.2.5,"no phpunit config"

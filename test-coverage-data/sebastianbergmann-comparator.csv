@@ -1,0 +1,7 @@
+repository,tag,coverage
+git@github.com:sebastianbergmann/comparator.git,1.0.0,"phpunit failed"
+git@github.com:sebastianbergmann/comparator.git,1.1.0,"phpunit failed"
+git@github.com:sebastianbergmann/comparator.git,1.2.0,"phpunit failed"
+git@github.com:sebastianbergmann/comparator.git,2.0.0,0.00
+git@github.com:sebastianbergmann/comparator.git,2.1.0,80.61
+git@github.com:sebastianbergmann/comparator.git,3.0.0,81.06

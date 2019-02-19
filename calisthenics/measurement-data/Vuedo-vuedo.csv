@@ -1,0 +1,2 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:Vuedo/vuedo.git,v0.0.1,17788,9617,52,0.00%,1.2169403630078,0,469,11,344,16

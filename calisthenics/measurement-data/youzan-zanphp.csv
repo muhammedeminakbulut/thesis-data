@@ -1,0 +1,2 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:youzan/zanphp.git,v0.1.0,33965,10490,1680,0.34%,3.3609329446064,0,265,52,1779,12

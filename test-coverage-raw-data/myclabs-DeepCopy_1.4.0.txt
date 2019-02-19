@@ -1,0 +1,32 @@
+
+
+Code Coverage Report:      
+  2019-02-16 14:36:36      
+                           
+ Summary:                  
+  Classes: 83.33% (10/12)  
+  Methods: 50.00% (28/56)  
+  Lines:   60.12% (104/173)
+
+\DeepCopy::DeepCopy
+  Methods:  75.00% ( 6/ 8)   Lines:  95.56% ( 43/ 45)
+\DeepCopy\Filter::KeepFilter
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\DeepCopy\Filter::ReplaceFilter
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  7/  7)
+\DeepCopy\Filter::SetNullFilter
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  4/  4)
+\DeepCopy\Filter\Doctrine::DoctrineCollectionFilter
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  6/  6)
+\DeepCopy\Filter\Doctrine::DoctrineEmptyCollectionFilter
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  4/  4)
+\DeepCopy\Matcher::PropertyMatcher
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\DeepCopy\Matcher::PropertyNameMatcher
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\DeepCopy\Matcher::PropertyTypeMatcher
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  5/  5)
+\DeepCopy\Reflection::ReflectionHelper
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 10/ 10)
+\Doctrine\Common\Collections::ArrayCollection
+  Methods:  23.53% ( 8/34)   Lines:  12.99% ( 10/ 77)

@@ -1,0 +1,18 @@
+repository,tag,coverage
+git@github.com:barryvdh/laravel-cors.git,v0.1.1,"phpunit not installed"
+git@github.com:barryvdh/laravel-cors.git,v0.2.0,"no phpunit config"
+git@github.com:barryvdh/laravel-cors.git,v0.3.0,"no phpunit config"
+git@github.com:barryvdh/laravel-cors.git,v0.4.0,"no phpunit config"
+git@github.com:barryvdh/laravel-cors.git,v0.5.0,"no phpunit config"
+git@github.com:barryvdh/laravel-cors.git,v0.6.0,"no phpunit config"
+git@github.com:barryvdh/laravel-cors.git,v0.7.0,"no phpunit config"
+git@github.com:barryvdh/laravel-cors.git,v0.8.0,48.45
+git@github.com:barryvdh/laravel-cors.git,v0.9.0,"composer failed, 
+                                                                                                                                               
+  [RuntimeException]                                                                                                                           
+  Source directory /home/muhammed/projects/thesis/data/git/319d71368a1efaadd5fe47a1a9d3212e/vendor/laravel/framework has uncommitted changes.  
+                                                                                                                                               
+
+install [--prefer-source] [--prefer-dist] [--dry-run] [--dev] [--no-dev] [--no-custom-installers] [--no-autoloader] [--no-scripts] [--no-progress] [--no-suggest] [-v|vv|vvv|--verbose] [-o|--optimize-autoloader] [-a|--classmap-authoritative] [--apcu-autoloader] [--ignore-platform-reqs] [--] [<packages>]..."
+git@github.com:barryvdh/laravel-cors.git,v0.10.0,94.64
+git@github.com:barryvdh/laravel-cors.git,v0.11.0,87.50

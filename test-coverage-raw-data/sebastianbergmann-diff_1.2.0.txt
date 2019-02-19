@@ -1,0 +1,16 @@
+
+
+Code Coverage Report:     
+  2019-02-16 15:01:11     
+                          
+ Summary:                 
+  Classes:  0.00% (0/7)   
+  Methods:  0.00% (0/25)  
+  Lines:   36.61% (82/224)
+
+\SebastianBergmann\Diff::Differ
+  Methods:   0.00% ( 0/ 5)   Lines:  61.11% ( 55/ 90)
+\SebastianBergmann\Diff\LCS::MemoryEfficientImplementation
+  Methods:   0.00% ( 0/ 2)   Lines:  17.14% (  6/ 35)
+\SebastianBergmann\Diff\LCS::TimeEfficientImplementation
+  Methods:   0.00% ( 0/ 1)   Lines:  84.00% ( 21/ 25)

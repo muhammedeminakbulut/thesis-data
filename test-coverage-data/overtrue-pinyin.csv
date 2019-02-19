@@ -1,0 +1,8 @@
+repository,tag,coverage
+git@github.com:overtrue/pinyin.git,2.2.1,"no phpunit config"
+git@github.com:overtrue/pinyin.git,2.3.0,"no phpunit config"
+git@github.com:overtrue/pinyin.git,2.4.0,"no phpunit config"
+git@github.com:overtrue/pinyin.git,2.5.0,"no phpunit config"
+git@github.com:overtrue/pinyin.git,2.6.0,"phpunit not installed"
+git@github.com:overtrue/pinyin.git,3.0.0,100.00
+git@github.com:overtrue/pinyin.git,4.0.0,98.53

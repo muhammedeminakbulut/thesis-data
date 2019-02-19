@@ -1,0 +1,4 @@
+repository,tag,coverage
+git@github.com:mtdowling/cron-expression.git,v1.0.0,"phpunit not installed"
+git@github.com:mtdowling/cron-expression.git,v1.1.0,92.64
+git@github.com:mtdowling/cron-expression.git,v1.2.0,90.17

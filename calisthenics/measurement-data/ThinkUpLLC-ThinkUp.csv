@@ -1,0 +1,13 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:ThinkUpLLC/ThinkUp.git,v0.8.1,89423,29746,4676,0.72%,5.7144190387308,0,751,128,4856,1
+git@github.com:ThinkUpLLC/ThinkUp.git,v1.0.1,128686,38801,6920,2.33%,6.4395754878466,0,751,128,7257,1
+git@github.com:ThinkUpLLC/ThinkUp.git,v1.0.2,128751,38810,6922,2.35%,6.4425051334702,0,751,128,7262,1
+git@github.com:ThinkUpLLC/ThinkUp.git,v1.0.3,129311,39033,6956,2.31%,6.452868852459,0,751,128,7291,1
+git@github.com:ThinkUpLLC/ThinkUp.git,v1.0.4,130661,39392,7073,2.14%,6.4729889923793,0,751,128,7388,1
+git@github.com:ThinkUpLLC/ThinkUp.git,v1.0.5,131029,39504,7106,2.15%,6.4848484848485,0,751,128,7405,1
+git@github.com:ThinkUpLLC/ThinkUp.git,v1.0.6,131035,39505,7106,2.15%,6.4848484848485,0,751,128,7405,1
+git@github.com:ThinkUpLLC/ThinkUp.git,v1.0.7,131253,39603,7116,2.15%,6.4953460822474,0,751,128,7435,1
+git@github.com:ThinkUpLLC/ThinkUp.git,v1.0.8,132480,40030,7193,2.17%,6.5271043771044,0,751,128,7555,2
+git@github.com:ThinkUpLLC/ThinkUp.git,v1.1.1,136582,41512,7369,2.25%,6.6455780059622,0,751,128,7984,2
+git@github.com:ThinkUpLLC/ThinkUp.git,v1.2.1,138129,41719,7508,2.67%,6.7411745298581,0,751,128,8176,2
+git@github.com:ThinkUpLLC/ThinkUp.git,v1.3.1,137251,41760,7348,2.62%,6.6582028029678,0,751,128,8098,2

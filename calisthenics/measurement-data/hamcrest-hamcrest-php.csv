@@ -1,0 +1,7 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:hamcrest/hamcrest-php.git,v1.1.0,9427,1831,232,0.31%,1.9706632653061,0,27,18,287,0
+git@github.com:hamcrest/hamcrest-php.git,v1.1.1,9457,1878,233,0.31%,1.9706632653061,0,27,18,285,0
+git@github.com:hamcrest/hamcrest-php.git,v1.2.0,9487,1878,233,0.38%,1.9706632653061,0,27,18,291,0
+git@github.com:hamcrest/hamcrest-php.git,v1.2.1,9490,1878,234,0.38%,1.9719387755102,0,27,18,291,0
+git@github.com:hamcrest/hamcrest-php.git,v1.2.2,9576,1878,311,0.38%,1.9745222929936,0,27,18,291,0
+git@github.com:hamcrest/hamcrest-php.git,v2.0.0,9597,1887,314,0.38%,1.9796696315121,0,27,18,291,0

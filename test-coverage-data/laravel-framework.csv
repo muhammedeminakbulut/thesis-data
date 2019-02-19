@@ -1,0 +1,53 @@
+repository,tag,coverage
+git@github.com:laravel/framework.git,v5.0.0,"phpunit failed"
+git@github.com:laravel/framework.git,v5.1.0,"phpunit failed"
+git@github.com:laravel/framework.git,v5.2.0,"composer failed, 
+                                                                                                                                                           
+  [RuntimeException]                                                                                                                                       
+  Source directory /home/muhammed/projects/thesis/data/git/8bc0b133347aac01ebd64b1505415938/vendor/classpreloader/classpreloader has uncommitted changes.  
+                                                                                                                                                           
+
+install [--prefer-source] [--prefer-dist] [--dry-run] [--dev] [--no-dev] [--no-custom-installers] [--no-autoloader] [--no-scripts] [--no-progress] [--no-suggest] [-v|vv|vvv|--verbose] [-o|--optimize-autoloader] [-a|--classmap-authoritative] [--apcu-autoloader] [--ignore-platform-reqs] [--] [<packages>]..."
+git@github.com:laravel/framework.git,v5.3.0,"composer failed, 
+                                                                                                                                                           
+  [RuntimeException]                                                                                                                                       
+  Source directory /home/muhammed/projects/thesis/data/git/8bc0b133347aac01ebd64b1505415938/vendor/classpreloader/classpreloader has uncommitted changes.  
+                                                                                                                                                           
+
+install [--prefer-source] [--prefer-dist] [--dry-run] [--dev] [--no-dev] [--no-custom-installers] [--no-autoloader] [--no-scripts] [--no-progress] [--no-suggest] [-v|vv|vvv|--verbose] [-o|--optimize-autoloader] [-a|--classmap-authoritative] [--apcu-autoloader] [--ignore-platform-reqs] [--] [<packages>]..."
+git@github.com:laravel/framework.git,v5.4.0,"composer failed, 
+                                                                                                                                                           
+  [RuntimeException]                                                                                                                                       
+  Source directory /home/muhammed/projects/thesis/data/git/8bc0b133347aac01ebd64b1505415938/vendor/classpreloader/classpreloader has uncommitted changes.  
+                                                                                                                                                           
+
+install [--prefer-source] [--prefer-dist] [--dry-run] [--dev] [--no-dev] [--no-custom-installers] [--no-autoloader] [--no-scripts] [--no-progress] [--no-suggest] [-v|vv|vvv|--verbose] [-o|--optimize-autoloader] [-a|--classmap-authoritative] [--apcu-autoloader] [--ignore-platform-reqs] [--] [<packages>]..."
+git@github.com:laravel/framework.git,v5.5.0,"composer failed, 
+                                                                                                                                                           
+  [RuntimeException]                                                                                                                                       
+  Source directory /home/muhammed/projects/thesis/data/git/8bc0b133347aac01ebd64b1505415938/vendor/classpreloader/classpreloader has uncommitted changes.  
+                                                                                                                                                           
+
+install [--prefer-source] [--prefer-dist] [--dry-run] [--dev] [--no-dev] [--no-custom-installers] [--no-autoloader] [--no-scripts] [--no-progress] [--no-suggest] [-v|vv|vvv|--verbose] [-o|--optimize-autoloader] [-a|--classmap-authoritative] [--apcu-autoloader] [--ignore-platform-reqs] [--] [<packages>]..."
+git@github.com:laravel/framework.git,v5.6.0,"composer failed, 
+                                                                                                                                                           
+  [RuntimeException]                                                                                                                                       
+  Source directory /home/muhammed/projects/thesis/data/git/8bc0b133347aac01ebd64b1505415938/vendor/classpreloader/classpreloader has uncommitted changes.  
+                                                                                                                                                           
+
+install [--prefer-source] [--prefer-dist] [--dry-run] [--dev] [--no-dev] [--no-custom-installers] [--no-autoloader] [--no-scripts] [--no-progress] [--no-suggest] [-v|vv|vvv|--verbose] [-o|--optimize-autoloader] [-a|--classmap-authoritative] [--apcu-autoloader] [--ignore-platform-reqs] [--] [<packages>]..."
+git@github.com:laravel/framework.git,v5.7.0,"composer failed, 
+                                                                                                                                                           
+  [RuntimeException]                                                                                                                                       
+  Source directory /home/muhammed/projects/thesis/data/git/8bc0b133347aac01ebd64b1505415938/vendor/classpreloader/classpreloader has uncommitted changes.  
+                                                                                                                                                           
+
+install [--prefer-source] [--prefer-dist] [--dry-run] [--dev] [--no-dev] [--no-custom-installers] [--no-autoloader] [--no-scripts] [--no-progress] [--no-suggest] [-v|vv|vvv|--verbose] [-o|--optimize-autoloader] [-a|--classmap-authoritative] [--apcu-autoloader] [--ignore-platform-reqs] [--] [<packages>]..."
+git@github.com:laravel/framework.git,5.0.30,"phpunit failed"
+git@github.com:laravel/framework.git,5.2.41,"composer failed, 
+                                                                                                                                                           
+  [RuntimeException]                                                                                                                                       
+  Source directory /home/muhammed/projects/thesis/data/git/8bc0b133347aac01ebd64b1505415938/vendor/classpreloader/classpreloader has uncommitted changes.  
+                                                                                                                                                           
+
+install [--prefer-source] [--prefer-dist] [--dry-run] [--dev] [--no-dev] [--no-custom-installers] [--no-autoloader] [--no-scripts] [--no-progress] [--no-suggest] [-v|vv|vvv|--verbose] [-o|--optimize-autoloader] [-a|--classmap-authoritative] [--apcu-autoloader] [--ignore-platform-reqs] [--] [<packages>]..."

@@ -1,0 +1,16 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:doctrine/annotations.git,v1.1.1,9527,2263,404,20.05%,7.4457142857143,0,144,171,338,0
+git@github.com:doctrine/annotations.git,v1.1.2,9547,2267,405,20.01%,7.4415954415954,0,144,171,338,0
+git@github.com:doctrine/annotations.git,v1.2.0,10126,2410,421,18.86%,7.2493297587131,0,144,171,346,0
+git@github.com:doctrine/annotations.git,v1.2.1,10153,2414,425,18.81%,7.2453333333333,0,144,171,347,0
+git@github.com:doctrine/annotations.git,v1.2.2,10180,2417,428,18.76%,7.2473404255319,0,144,171,347,0
+git@github.com:doctrine/annotations.git,v1.2.3,10249,2427,429,18.64%,7.2486772486772,0,144,171,350,0
+git@github.com:doctrine/annotations.git,v1.2.4,10249,2427,429,18.64%,7.2486772486772,0,144,171,350,0
+git@github.com:doctrine/annotations.git,v1.2.5,10250,2427,426,18.63%,7.2486772486772,0,144,171,350,0
+git@github.com:doctrine/annotations.git,v1.2.6,10258,2427,431,18.62%,7.2539682539683,0,144,171,351,0
+git@github.com:doctrine/annotations.git,v1.2.7,10272,2430,432,18.59%,7.2592592592593,0,144,171,351,0
+git@github.com:doctrine/annotations.git,v1.3.0,10832,2573,441,17.63%,6.960687960688,0,144,171,356,0
+git@github.com:doctrine/annotations.git,v1.3.1,10901,2587,442,17.52%,6.9440389294404,0,144,171,369,0
+git@github.com:doctrine/annotations.git,v1.4.0,10994,2605,442,17.37%,6.9443099273608,0,144,171,369,0
+git@github.com:doctrine/annotations.git,v1.5.0,11109,2614,443,17.19%,6.956416464891,0,144,171,371,0
+git@github.com:doctrine/annotations.git,v1.6.0,11168,2637,444,17.10%,6.9421686746988,0,144,171,372,0

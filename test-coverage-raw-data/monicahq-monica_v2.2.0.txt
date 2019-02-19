@@ -1,0 +1,38 @@
+
+
+Code Coverage Report:       
+  2019-02-16 08:48:18       
+                            
+ Summary:                   
+  Classes:  2.61% (6/230)   
+  Methods:  2.93% (26/888)  
+  Lines:    2.91% (153/5257)
+
+\App\Console::App\Console\Kernel
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  6/  6)
+\App\Exceptions::App\Exceptions\Handler
+  Methods:   0.00% ( 0/ 2)   Lines:  71.43% (  5/  7)
+\App\Helpers::App\Helpers\DBHelper
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\App\Helpers::App\Helpers\DateHelper
+  Methods:  85.71% (12/14)   Lines:  77.97% ( 46/ 59)
+\App\Helpers::App\Helpers\LocaleHelper
+  Methods:   0.00% ( 0/ 4)   Lines:  45.00% ( 18/ 40)
+\App\Http\Controllers\Auth::App\Http\Controllers\Auth\LoginController
+  Methods:  50.00% ( 1/ 2)   Lines:  33.33% (  2/  6)
+\App\Http\Middleware::App\Http\Middleware\CheckLocale
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  4/  4)
+\App\Http\Middleware::App\Http\Middleware\CheckVersion
+  Methods:   0.00% ( 0/ 1)   Lines:  14.29% (  1/  7)
+\App\Http\Middleware::App\Http\Middleware\TrustProxies
+  Methods:   0.00% ( 0/ 1)   Lines:  83.33% (  5/  6)
+\App\Providers::App\Providers\AppServiceProvider
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  8/  8)
+\App\Providers::App\Providers\AuthServiceProvider
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\App\Providers::App\Providers\EventServiceProvider
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\App\Providers::App\Providers\IdHasherServiceProvider
+  Methods:   0.00% ( 0/ 2)   Lines:  50.00% (  2/  4)
+\App\Providers::App\Providers\RouteServiceProvider
+  Methods:  83.33% ( 5/ 6)   Lines:  43.12% ( 47/109)

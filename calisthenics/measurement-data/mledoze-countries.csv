@@ -1,0 +1,15 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:mledoze/countries.git,v1.5.1,243,101,8,0.00%,1.8571428571429,0,910,87,8,0
+git@github.com:mledoze/countries.git,v1.6.1,294,121,7,0.00%,1.7857142857143,0,910,87,8,0
+git@github.com:mledoze/countries.git,v1.6.2,294,121,7,0.00%,1.7857142857143,0,910,87,8,0
+git@github.com:mledoze/countries.git,v1.7.0,425,138,13,0.00%,2.3,0,910,87,11,0
+git@github.com:mledoze/countries.git,v1.7.1,451,168,13,0.00%,2.3,0,910,87,11,0
+git@github.com:mledoze/countries.git,v1.7.2,451,168,13,0.00%,2.3,0,910,87,11,0
+git@github.com:mledoze/countries.git,v1.7.3,452,168,13,0.00%,2.3,0,910,87,11,0
+git@github.com:mledoze/countries.git,v1.7.4,452,168,13,0.00%,2.3,0,910,87,11,0
+git@github.com:mledoze/countries.git,v1.7.5,452,168,13,0.00%,2.3,0,910,87,11,0
+git@github.com:mledoze/countries.git,v1.7.6,453,168,14,0.00%,2.3,0,910,87,11,0
+git@github.com:mledoze/countries.git,v1.7.7,453,168,14,0.00%,2.3,0,910,87,11,0
+git@github.com:mledoze/countries.git,v1.8.0,453,168,14,0.00%,2.3,0,910,87,10,0
+git@github.com:mledoze/countries.git,v2.0.0,485,168,16,0.00%,2.6,0,910,87,14,0
+git@github.com:mledoze/countries.git,v2.1.0,536,170,19,0.00%,2.65,0,910,87,14,0

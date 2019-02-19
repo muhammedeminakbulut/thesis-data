@@ -1,0 +1,112 @@
+
+
+Code Coverage Report:        
+  2019-02-17 15:44:13        
+                             
+ Summary:                    
+  Classes: 29.17% (21/72)    
+  Methods: 61.22% (251/410)  
+  Lines:   68.81% (1562/2270)
+
+\Geocoder::GeocoderTrait
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Geocoder::Geocoder\Assert
+  Methods:  20.00% ( 1/ 5)   Lines:  68.75% ( 11/ 16)
+\Geocoder::Geocoder\ProviderAggregator
+  Methods:  72.73% ( 8/11)   Lines:  90.00% ( 27/ 30)
+\Geocoder::Geocoder\TimedGeocoder
+  Methods:  60.00% ( 3/ 5)   Lines:  89.47% ( 17/ 19)
+\Geocoder\Dumper::Geocoder\Dumper\AbstractArrayDumper
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Geocoder\Dumper::Geocoder\Dumper\AbstractDumper
+  Methods:   0.00% ( 0/ 1)   Lines:  90.00% (  9/ 10)
+\Geocoder\Dumper::Geocoder\Dumper\GeoArray
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Geocoder\Dumper::Geocoder\Dumper\GeoJson
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Geocoder\Dumper::Geocoder\Dumper\Gpx
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 17/ 17)
+\Geocoder\Dumper::Geocoder\Dumper\Kml
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  8/  8)
+\Geocoder\Dumper::Geocoder\Dumper\Wkb
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  6/  6)
+\Geocoder\Dumper::Geocoder\Dumper\Wkt
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  6/  6)
+\Geocoder\Exception::Geocoder\Exception\InvalidServerResponse
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Geocoder\Exception::Geocoder\Exception\ProviderNotRegistered
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  5/  5)
+\Geocoder\Formatter::Geocoder\Formatter\StringFormatter
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 17/ 17)
+\Geocoder\Http\Provider::Geocoder\Http\Provider\AbstractHttpProvider
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 18/ 18)
+\Geocoder\Model::Geocoder\Model\Address
+  Methods:  93.75% (15/16)   Lines:  97.75% ( 87/ 89)
+\Geocoder\Model::Geocoder\Model\AddressBuilder
+  Methods:  82.35% (14/17)   Lines:  90.57% ( 48/ 53)
+\Geocoder\Model::Geocoder\Model\AddressCollection
+  Methods:  66.67% ( 6/ 9)   Lines:  78.57% ( 11/ 14)
+\Geocoder\Model::Geocoder\Model\AdminLevel
+  Methods:  80.00% ( 4/ 5)   Lines:  87.50% (  7/  8)
+\Geocoder\Model::Geocoder\Model\AdminLevelCollection
+  Methods:  44.44% ( 4/ 9)   Lines:  68.00% ( 17/ 25)
+\Geocoder\Model::Geocoder\Model\Bounds
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 25/ 25)
+\Geocoder\Model::Geocoder\Model\Coordinates
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 11/ 11)
+\Geocoder\Model::Geocoder\Model\Country
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  6/  6)
+\Geocoder\Provider::Geocoder\Provider\AbstractProvider
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  4/  4)
+\Geocoder\Provider\ArcGISOnline::Geocoder\Provider\ArcGISOnline\ArcGISOnline
+  Methods:  66.67% ( 4/ 6)   Lines:  97.18% ( 69/ 71)
+\Geocoder\Provider\BingMaps::Geocoder\Provider\BingMaps\BingMaps
+  Methods:  60.00% ( 3/ 5)   Lines:  94.87% ( 37/ 39)
+\Geocoder\Provider\Cache::Geocoder\Provider\Cache\ProviderCache
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 19/ 19)
+\Geocoder\Provider\Chain::Geocoder\Provider\Chain\Chain
+  Methods:  50.00% ( 3/ 6)   Lines:  89.66% ( 26/ 29)
+\Geocoder\Provider\FreeGeoIp::Geocoder\Provider\FreeGeoIp\FreeGeoIp
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 23/ 23)
+\Geocoder\Provider\GeoIP2::Geocoder\Provider\GeoIP2\GeoIP2
+  Methods:  80.00% ( 4/ 5)   Lines:  97.83% ( 45/ 46)
+\Geocoder\Provider\GeoIP2::Geocoder\Provider\GeoIP2\GeoIP2Adapter
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 20/ 20)
+\Geocoder\Provider\GeoIPs::Geocoder\Provider\GeoIPs\GeoIPs
+  Methods:  66.67% ( 4/ 6)   Lines:  73.58% ( 39/ 53)
+\Geocoder\Provider\GeoPlugin::Geocoder\Provider\GeoPlugin\GeoPlugin
+  Methods:  75.00% ( 3/ 4)   Lines:  96.77% ( 30/ 31)
+\Geocoder\Provider\Geonames::Geocoder\Provider\Geonames\Geonames
+  Methods:  60.00% ( 3/ 5)   Lines:  96.08% ( 49/ 51)
+\Geocoder\Provider\Geonames\Model::Geocoder\Provider\Geonames\Model\GeonamesAddress
+  Methods: 100.00% (14/14)   Lines: 100.00% ( 28/ 28)
+\Geocoder\Provider\GoogleMaps::Geocoder\Provider\GoogleMaps\GoogleMaps
+  Methods:  63.64% ( 7/11)   Lines:  92.31% (144/156)
+\Geocoder\Provider\GoogleMaps\Model::Geocoder\Provider\GoogleMaps\Model\GoogleAddress
+  Methods:  85.29% (29/34)   Lines:  92.65% ( 63/ 68)
+\Geocoder\Provider\HostIp::Geocoder\Provider\HostIp\HostIp
+  Methods:  75.00% ( 3/ 4)   Lines:  95.65% ( 22/ 23)
+\Geocoder\Provider\IpInfoDb::Geocoder\Provider\IpInfoDb\IpInfoDb
+  Methods:  60.00% ( 3/ 5)   Lines:  95.45% ( 42/ 44)
+\Geocoder\Provider\MapQuest::Geocoder\Provider\MapQuest\MapQuest
+  Methods:  20.00% ( 1/ 5)   Lines:  91.84% ( 45/ 49)
+\Geocoder\Provider\Mapzen::Geocoder\Provider\Mapzen\Mapzen
+  Methods:  33.33% ( 3/ 9)   Lines:  81.82% ( 54/ 66)
+\Geocoder\Provider\MaxMind::Geocoder\Provider\MaxMind\MaxMind
+  Methods:  90.00% ( 9/10)   Lines:  97.67% ( 42/ 43)
+\Geocoder\Provider\Nominatim::Geocoder\Provider\Nominatim\Nominatim
+  Methods: 100.00% (10/10)   Lines: 100.00% ( 62/ 62)
+\Geocoder\Provider\OpenCage::Geocoder\Provider\OpenCage\OpenCage
+  Methods:  77.78% ( 7/ 9)   Lines:  94.44% ( 68/ 72)
+\Geocoder\Provider\PickPoint::Geocoder\Provider\PickPoint\PickPoint
+  Methods:  88.89% ( 8/ 9)   Lines:  98.31% ( 58/ 59)
+\Geocoder\Provider\TomTom::Geocoder\Provider\TomTom\TomTom
+  Methods:  50.00% ( 2/ 4)   Lines:  96.49% ( 55/ 57)
+\Geocoder\Provider\Yandex::Geocoder\Provider\Yandex\Yandex
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 34/ 34)
+\Geocoder\Provider\Yandex\Model::Geocoder\Provider\Yandex\Model\YandexAddress
+  Methods:  75.00% ( 3/ 4)   Lines:  87.50% (  7/  8)
+\Geocoder\Query::Geocoder\Query\GeocodeQuery
+  Methods:  71.43% (10/14)   Lines:  76.47% ( 26/ 34)
+\Geocoder\Query::Geocoder\Query\ReverseQuery
+  Methods:  84.62% (11/13)   Lines:  86.21% ( 25/ 29)

@@ -1,0 +1,8 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:bshaffer/oauth2-server-php.git,v1.7.0,13791,2434,724,1.81%,4.9742857142857,0,813,103,466,0
+git@github.com:bshaffer/oauth2-server-php.git,v1.7.1,13799,2437,726,1.80%,4.9757142857143,0,813,103,466,0
+git@github.com:bshaffer/oauth2-server-php.git,v1.8.0,14298,2513,745,1.77%,4.9426229508197,0,813,103,469,0
+git@github.com:bshaffer/oauth2-server-php.git,v1.9.0,15116,2623,795,2.88%,4.9066496163683,0,813,103,517,0
+git@github.com:bshaffer/oauth2-server-php.git,v1.10.0,16615,3989,800,3.13%,4.9097839898348,0,813,103,522,0
+git@github.com:bshaffer/oauth2-server-php.git,v1.11.0,16675,3989,803,3.12%,4.9187817258883,0,813,103,523,0
+git@github.com:bshaffer/oauth2-server-php.git,v1.11.1,16696,3989,803,3.11%,4.9226869455006,0,813,103,523,0

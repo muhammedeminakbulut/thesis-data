@@ -1,0 +1,4 @@
+repository,tag,coverage
+git@github.com:hirak/prestissimo.git,0.1.1,13.46
+git@github.com:hirak/prestissimo.git,0.2.0,"phpunit failed"
+git@github.com:hirak/prestissimo.git,0.3.0,66.04

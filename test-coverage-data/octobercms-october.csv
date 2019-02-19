@@ -1,0 +1,10 @@
+repository,tag,coverage
+git@github.com:octobercms/october.git,v1.0.319,"composer failed, Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Your requirements could not be resolved to an installable set of packages.
+
+  Problem 1
+    - Installation request for october/rain dev-develop -> satisfiable by october/rain[dev-develop].
+    - october/system dev-develop requires october/rain ~1.0 -> satisfiable by october/rain[1.0.x-dev].
+    - Can only install one of: october/rain[1.0.x-dev, dev-develop].
+    - Installation request for october/system dev-develop -> satisfiable by october/system[dev-develop]."

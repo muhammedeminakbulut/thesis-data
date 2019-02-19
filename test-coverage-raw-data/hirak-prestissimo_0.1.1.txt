@@ -1,0 +1,16 @@
+
+
+Code Coverage Report:     
+  2019-02-16 21:01:07     
+                          
+ Summary:                 
+  Classes:  9.09% (1/11)  
+  Methods: 28.30% (15/53) 
+  Lines:   13.46% (79/587)
+
+\Hirak\Prestissimo::Factory
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 16/ 16)
+\Hirak\Prestissimo\Aspects::HttpGetRequest
+  Methods:  71.43% ( 5/ 7)   Lines:  87.10% ( 54/ 62)
+\Hirak\Prestissimo\Aspects::JoinPoint
+  Methods:  36.36% ( 4/11)   Lines:  37.50% (  9/ 24)

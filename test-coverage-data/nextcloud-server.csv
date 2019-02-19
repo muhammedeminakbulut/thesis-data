@@ -1,0 +1,5 @@
+repository,tag,coverage
+git@github.com:nextcloud/server.git,v15.0.1,"no phpunit config"
+git@github.com:nextcloud/server.git,v4.5.0,"composer failed, "
+git@github.com:nextcloud/server.git,v9.1.0,"no phpunit config"
+git@github.com:nextcloud/server.git,v8.2.0,"composer failed, "

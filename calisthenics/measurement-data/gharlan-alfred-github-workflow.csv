@@ -1,0 +1,4 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:gharlan/alfred-github-workflow.git,v1.4.1,1453,20,203,0.00%,5.0576923076923,0,81,15,106,0
+git@github.com:gharlan/alfred-github-workflow.git,v1.6.1,1633,65,229,0.00%,5.0701754385965,0,81,15,131,0
+git@github.com:gharlan/alfred-github-workflow.git,v1.6.2,1633,65,229,0.00%,5.0701754385965,0,81,15,131,0

@@ -1,0 +1,6 @@
+repository,tag,coverage
+git@github.com:jenssegers/laravel-mongodb.git,v3.0.0,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:jenssegers/laravel-mongodb.git,v3.1.0,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:jenssegers/laravel-mongodb.git,v3.2.0,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:jenssegers/laravel-mongodb.git,v3.3.0,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:jenssegers/laravel-mongodb.git,v3.4.0,"composer failed, Your requirements could not be resolved to an installable set of packages."

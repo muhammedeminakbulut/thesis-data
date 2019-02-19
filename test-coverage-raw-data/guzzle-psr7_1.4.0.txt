@@ -1,0 +1,54 @@
+
+
+Code Coverage Report:        
+  2019-02-16 21:14:38        
+                             
+ Summary:                    
+  Classes: 45.45% (10/22)    
+  Methods: 89.49% (230/257)  
+  Lines:   96.69% (1343/1389)
+
+\GuzzleHttp\Psr7::AppendStream
+  Methods:  94.12% (16/17)   Lines:  97.26% ( 71/ 73)
+\GuzzleHttp\Psr7::BufferStream
+  Methods:  87.50% (14/16)   Lines:  90.91% ( 30/ 33)
+\GuzzleHttp\Psr7::CachingStream
+  Methods:  88.89% ( 8/ 9)   Lines:  95.56% ( 43/ 45)
+\GuzzleHttp\Psr7::DroppingStream
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  9/  9)
+\GuzzleHttp\Psr7::FnStream
+  Methods: 100.00% (19/19)   Lines: 100.00% ( 29/ 29)
+\GuzzleHttp\Psr7::InflateStream
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 13/ 13)
+\GuzzleHttp\Psr7::LazyOpenStream
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\GuzzleHttp\Psr7::LimitStream
+  Methods:  87.50% ( 7/ 8)   Lines:  97.67% ( 42/ 43)
+\GuzzleHttp\Psr7::MessageTrait
+  Methods:  84.62% (11/13)   Lines:  95.31% ( 61/ 64)
+\GuzzleHttp\Psr7::MultipartStream
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% ( 52/ 52)
+\GuzzleHttp\Psr7::NoSeekStream
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\GuzzleHttp\Psr7::PumpStream
+  Methods:  82.35% (14/17)   Lines:  89.58% ( 43/ 48)
+\GuzzleHttp\Psr7::Request
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% ( 48/ 48)
+\GuzzleHttp\Psr7::Response
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 17/ 17)
+\GuzzleHttp\Psr7::ServerRequest
+  Methods: 100.00% (19/19)   Lines: 100.00% ( 95/ 95)
+\GuzzleHttp\Psr7::Stream
+  Methods:  66.67% (12/18)   Lines:  92.31% ( 84/ 91)
+\GuzzleHttp\Psr7::StreamDecoratorTrait
+  Methods:  89.47% (17/19)   Lines:  90.91% ( 30/ 33)
+\GuzzleHttp\Psr7::StreamWrapper
+  Methods: 100.00% ( 9/ 9)   Lines: 100.00% ( 38/ 38)
+\GuzzleHttp\Psr7::UploadedFile
+  Methods:  94.12% (16/17)   Lines:  97.22% ( 70/ 72)
+\GuzzleHttp\Psr7::Uri
+  Methods:  83.78% (31/37)   Lines:  96.74% (178/184)
+\GuzzleHttp\Psr7::UriNormalizer
+  Methods:  83.33% ( 5/ 6)   Lines:  96.88% ( 31/ 32)
+\GuzzleHttp\Psr7::UriResolver
+  Methods:  80.00% ( 4/ 5)   Lines:  98.72% ( 77/ 78)

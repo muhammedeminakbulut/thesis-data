@@ -1,0 +1,7 @@
+repository,tag,coverage
+git@github.com:mgp25/Instagram-API.git,v5.0.0,"no phpunit config"
+git@github.com:mgp25/Instagram-API.git,v4.1.0,"no phpunit config"
+git@github.com:mgp25/Instagram-API.git,v1.2.0,"no phpunit config"
+git@github.com:mgp25/Instagram-API.git,v1.4.2,"no phpunit config"
+git@github.com:mgp25/Instagram-API.git,v1.5.1,"no phpunit config"
+git@github.com:mgp25/Instagram-API.git,v1.6.1,"no phpunit config"

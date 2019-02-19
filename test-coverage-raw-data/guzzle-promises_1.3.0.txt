@@ -1,0 +1,26 @@
+
+
+Code Coverage Report:      
+  2019-02-17 15:19:06      
+                           
+ Summary:                  
+  Classes: 33.33% (3/9)    
+  Methods: 82.26% (51/62)  
+  Lines:   92.08% (407/442)
+
+\GuzzleHttp\Promise::AggregateException
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  4/  4)
+\GuzzleHttp\Promise::Coroutine
+  Methods:  83.33% (10/12)   Lines:  88.89% ( 32/ 36)
+\GuzzleHttp\Promise::EachPromise
+  Methods:  66.67% ( 6/ 9)   Lines:  89.66% ( 78/ 87)
+\GuzzleHttp\Promise::FulfilledPromise
+  Methods:  88.89% ( 8/ 9)   Lines:  92.00% ( 23/ 25)
+\GuzzleHttp\Promise::Promise
+  Methods:  85.71% (12/14)   Lines:  96.58% (113/117)
+\GuzzleHttp\Promise::RejectedPromise
+  Methods:  88.89% ( 8/ 9)   Lines:  92.59% ( 25/ 27)
+\GuzzleHttp\Promise::RejectionException
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 12/ 12)
+\GuzzleHttp\Promise::TaskQueue
+  Methods:  66.67% ( 4/ 6)   Lines:  57.14% (  8/ 14)

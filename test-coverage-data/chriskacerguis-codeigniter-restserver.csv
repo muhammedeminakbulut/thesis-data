@@ -1,0 +1,5 @@
+repository,tag,coverage
+git@github.com:chriskacerguis/codeigniter-restserver.git,2.6.0,"no composer"
+git@github.com:chriskacerguis/codeigniter-restserver.git,2.7.0,"no composer"
+git@github.com:chriskacerguis/codeigniter-restserver.git,2.8.0,"no phpunit config"
+git@github.com:chriskacerguis/codeigniter-restserver.git,3.0.0,"no phpunit config"

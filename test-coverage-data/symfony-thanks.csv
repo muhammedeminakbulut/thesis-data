@@ -1,0 +1,3 @@
+repository,tag,coverage
+git@github.com:symfony/thanks.git,v1.0.0,"no phpunit config"
+git@github.com:symfony/thanks.git,v1.1.0,"no phpunit config"

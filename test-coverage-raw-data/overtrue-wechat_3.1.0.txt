@@ -1,0 +1,90 @@
+
+
+Code Coverage Report:       
+  2019-02-15 15:40:57       
+                            
+ Summary:                   
+  Classes: 73.08% (38/52)   
+  Methods: 84.66% (265/313) 
+  Lines:   85.46% (858/1004)
+
+\EasyWeChat\Broadcast::Broadcast
+  Methods: 100.00% (24/24)   Lines: 100.00% ( 29/ 29)
+\EasyWeChat\Broadcast::MessageBuilder
+  Methods:  50.00% ( 4/ 8)   Lines:  80.95% ( 34/ 42)
+\EasyWeChat\Broadcast::Transformer
+  Methods: 100.00% ( 9/ 9)   Lines: 100.00% ( 23/ 23)
+\EasyWeChat\Core::AbstractAPI
+  Methods:  72.73% ( 8/11)   Lines:  60.87% ( 28/ 46)
+\EasyWeChat\Core::AccessToken
+  Methods: 100.00% (12/12)   Lines: 100.00% ( 31/ 31)
+\EasyWeChat\Core::Http
+  Methods:  92.86% (13/14)   Lines:  98.00% ( 49/ 50)
+\EasyWeChat\Foundation::Application
+  Methods:  60.00% ( 6/10)   Lines:  65.00% ( 26/ 40)
+\EasyWeChat\Js::Js
+  Methods: 100.00% ( 9/ 9)   Lines: 100.00% ( 31/ 31)
+\EasyWeChat\Material::Material
+  Methods:  92.86% (13/14)   Lines:  97.78% ( 44/ 45)
+\EasyWeChat\Material::Temporary
+  Methods:  85.71% ( 6/ 7)   Lines:  88.89% ( 16/ 18)
+\EasyWeChat\Menu::Menu
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 11/ 11)
+\EasyWeChat\Message::AbstractMessage
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  8/  8)
+\EasyWeChat\Message::Image
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\EasyWeChat\Message::Material
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\EasyWeChat\Message::Raw
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\EasyWeChat\Message::Video
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\EasyWeChat\Message::Voice
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\EasyWeChat\Notice::Notice
+  Methods: 100.00% ( 9/ 9)   Lines: 100.00% ( 50/ 50)
+\EasyWeChat\POI::POI
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 11/ 11)
+\EasyWeChat\Payment::API
+  Methods:  69.57% (16/23)   Lines:  75.41% ( 46/ 61)
+\EasyWeChat\Payment::Merchant
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\EasyWeChat\Payment::Notify
+  Methods:  66.67% ( 2/ 3)   Lines:  80.00% ( 12/ 15)
+\EasyWeChat\Payment::Order
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\EasyWeChat\Payment::Payment
+  Methods: 100.00% (12/12)   Lines: 100.00% ( 61/ 61)
+\EasyWeChat\Payment\LuckyMoney::API
+  Methods:  90.00% ( 9/10)   Lines:  96.97% ( 32/ 33)
+\EasyWeChat\Payment\LuckyMoney::LuckyMoney
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% (  8/  8)
+\EasyWeChat\QRCode::QRCode
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 17/ 17)
+\EasyWeChat\Reply::Reply
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\EasyWeChat\Semantic::Semantic
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  4/  4)
+\EasyWeChat\Server::Guard
+  Methods:  58.82% (10/17)   Lines:  88.54% ( 85/ 96)
+\EasyWeChat\Server::Transformer
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 30/ 30)
+\EasyWeChat\Staff::MessageBuilder
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 24/ 24)
+\EasyWeChat\Staff::Session
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% (  9/  9)
+\EasyWeChat\Staff::Staff
+  Methods:  60.00% ( 6/10)   Lines:  48.00% ( 12/ 25)
+\EasyWeChat\Staff::Transformer
+  Methods:  71.43% ( 5/ 7)   Lines:  87.10% ( 27/ 31)
+\EasyWeChat\Stats::Stats
+  Methods: 100.00% (18/18)   Lines: 100.00% ( 20/ 20)
+\EasyWeChat\Url::Url
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\EasyWeChat\User::Group
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 16/ 16)
+\EasyWeChat\User::Tag
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% ( 18/ 18)
+\EasyWeChat\User::User
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 15/ 15)

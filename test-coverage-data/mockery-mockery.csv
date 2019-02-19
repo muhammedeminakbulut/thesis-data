@@ -1,0 +1,13 @@
+repository,tag,coverage
+git@github.com:mockery/mockery.git,0.6.0,"no composer"
+git@github.com:mockery/mockery.git,0.7.0,"no composer"
+git@github.com:mockery/mockery.git,0.8.0,"composer failed, 
+                                                                                                                            
+  [Composer\Downloader\TransportException]                                                                                  
+  The ""https://hamcrest.googlecode.com/files/hamcrest-php-1.1.0.zip"" file could not be downloaded (HTTP/1.1 404 Not Found)  
+                                                                                                                            
+
+install [--prefer-source] [--prefer-dist] [--dry-run] [--dev] [--no-dev] [--no-custom-installers] [--no-autoloader] [--no-scripts] [--no-progress] [--no-suggest] [-v|vv|vvv|--verbose] [-o|--optimize-autoloader] [-a|--classmap-authoritative] [--apcu-autoloader] [--ignore-platform-reqs] [--] [<packages>]..."
+git@github.com:mockery/mockery.git,0.9.0,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:mockery/mockery.git,1.1.0,76.11
+git@github.com:mockery/mockery.git,1.2.0,77.63

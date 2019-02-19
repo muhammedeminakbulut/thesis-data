@@ -1,0 +1,8 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:kriswallsmith/Buzz.git,v0.15.1,5639,995,282,0.00%,3.3692722371968,0,234,58,229,0
+git@github.com:kriswallsmith/Buzz.git,v0.15.2,5650,995,283,0.00%,3.3736559139785,0,234,58,229,0
+git@github.com:kriswallsmith/Buzz.git,v0.16.0,6404,1183,312,0.00%,3.4447236180905,0,234,58,257,0
+git@github.com:kriswallsmith/Buzz.git,v0.16.1,6877,1281,325,0.00%,3.4486873508353,0,234,58,266,0
+git@github.com:kriswallsmith/Buzz.git,v0.17.0,4744,885,267,0.00%,3.3099173553719,0,234,58,182,0
+git@github.com:kriswallsmith/Buzz.git,v0.17.1,4744,885,267,0.00%,3.3099173553719,0,234,58,182,0
+git@github.com:kriswallsmith/Buzz.git,0.17.2,4784,891,273,0.00%,3.3429752066116,0,234,58,186,0

@@ -1,0 +1,17 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:silexphp/Pimple.git,v1.0.0,481,190,6,0.00%,2.0769230769231,0,287,42,9,0
+git@github.com:silexphp/Pimple.git,v1.0.1,593,243,7,0.00%,2.1052631578947,0,287,42,11,0
+git@github.com:silexphp/Pimple.git,v1.0.2,593,243,7,0.00%,2.1052631578947,0,287,42,11,0
+git@github.com:silexphp/Pimple.git,v1.1.0,669,274,14,0.00%,2.375,0,287,42,10,0
+git@github.com:silexphp/Pimple.git,v1.1.1,669,274,14,0.00%,2.375,0,287,42,10,0
+git@github.com:silexphp/Pimple.git,v2.0.0,816,282,22,0.00%,2.7692307692308,0,287,42,17,0
+git@github.com:silexphp/Pimple.git,v2.1.0,1022,392,24,0.00%,3.2758620689655,0,287,42,19,0
+git@github.com:silexphp/Pimple.git,v2.1.1,1025,392,24,0.00%,3.3448275862069,0,287,42,19,0
+git@github.com:silexphp/Pimple.git,v3.0.0,998,369,24,0.00%,3.3448275862069,0,287,42,19,0
+git@github.com:silexphp/Pimple.git,v3.0.1,1004,369,22,0.00%,3.3,0,287,42,19,0
+git@github.com:silexphp/Pimple.git,v3.0.2,1005,370,22,0.00%,3.3,0,287,42,19,0
+git@github.com:silexphp/Pimple.git,v3.1.0,1318,543,23,0.00%,2.972972972973,0,287,42,19,0
+git@github.com:silexphp/Pimple.git,v3.2.0,1797,734,28,0.00%,2.5686274509804,0,287,42,19,0
+git@github.com:silexphp/Pimple.git,v3.2.1,1797,734,28,0.00%,2.5686274509804,0,287,42,19,0
+git@github.com:silexphp/Pimple.git,v3.2.2,1805,734,28,0.00%,2.5686274509804,0,287,42,19,0
+git@github.com:silexphp/Pimple.git,v3.2.3,1805,734,28,0.00%,2.5686274509804,0,287,42,19,0

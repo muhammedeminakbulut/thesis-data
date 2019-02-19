@@ -1,0 +1,12 @@
+
+
+Code Coverage Report:    
+  2019-02-16 21:07:39    
+                         
+ Summary:                
+  Classes:  0.00% (0/1)  
+  Methods: 75.00% (6/8)  
+  Lines:   74.42% (32/43)
+
+\SebastianBergmann\RecursionContext::SebastianBergmann\RecursionContext\Context
+  Methods:  75.00% ( 6/ 8)   Lines:  74.42% ( 32/ 43)

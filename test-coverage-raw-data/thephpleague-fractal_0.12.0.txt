@@ -1,0 +1,38 @@
+
+
+Code Coverage Report:      
+  2019-02-17 15:50:50      
+                           
+ Summary:                  
+  Classes: 80.00% (12/15)  
+  Methods: 95.41% (104/109)
+  Lines:   98.26% (282/287)
+
+\League\Fractal::Manager
+  Methods: 100.00% ( 9/ 9)   Lines: 100.00% ( 53/ 53)
+\League\Fractal::ParamBag
+  Methods: 100.00% (10/10)   Lines: 100.00% ( 11/ 11)
+\League\Fractal::Scope
+  Methods: 100.00% (16/16)   Lines: 100.00% ( 67/ 67)
+\League\Fractal::TransformerAbstract
+  Methods: 100.00% (12/12)   Lines: 100.00% ( 43/ 43)
+\League\Fractal\Pagination::Cursor
+  Methods: 100.00% ( 9/ 9)   Lines: 100.00% ( 17/ 17)
+\League\Fractal\Pagination::IlluminatePaginatorAdapter
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% (  9/  9)
+\League\Fractal\Pagination::PagerfantaPaginatorAdapter
+  Methods:  77.78% ( 7/ 9)   Lines:  81.82% (  9/ 11)
+\League\Fractal\Pagination::ZendFrameworkPaginatorAdapter
+  Methods:  77.78% ( 7/ 9)   Lines:  81.82% (  9/ 11)
+\League\Fractal\Resource::Collection
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% (  8/  8)
+\League\Fractal\Resource::ResourceAbstract
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% ( 13/ 13)
+\League\Fractal\Serializer::ArraySerializer
+  Methods:  83.33% ( 5/ 6)   Lines:  95.83% ( 23/ 24)
+\League\Fractal\Serializer::DataArraySerializer
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\League\Fractal\Serializer::JsonApiSerializer
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 17/ 17)
+\League\Fractal\Serializer::SerializerAbstract
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)

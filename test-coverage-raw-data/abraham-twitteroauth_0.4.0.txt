@@ -1,0 +1,24 @@
+
+
+Code Coverage Report:      
+  2019-02-16 21:16:51      
+                           
+ Summary:                  
+  Classes: 44.44% (4/9)    
+  Methods: 49.09% (27/55)  
+  Lines:   63.92% (202/316)
+
+\Abraham\TwitterOAuth::Consumer
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  5/  5)
+\Abraham\TwitterOAuth::HmacSha1
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  7/  7)
+\Abraham\TwitterOAuth::Request
+  Methods:  38.89% ( 7/18)   Lines:  56.18% ( 50/ 89)
+\Abraham\TwitterOAuth::Token
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  6/  6)
+\Abraham\TwitterOAuth::TwitterOAuth
+  Methods:  56.52% (13/23)   Lines:  82.73% (115/139)
+\Abraham\TwitterOAuth::Util
+  Methods:  16.67% ( 1/ 6)   Lines:  29.31% ( 17/ 58)
+\Abraham\TwitterOAuth\Util::JsonDecoder
+  Methods:   0.00% ( 0/ 1)   Lines:  66.67% (  2/  3)

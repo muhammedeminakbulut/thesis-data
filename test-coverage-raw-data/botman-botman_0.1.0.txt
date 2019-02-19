@@ -1,0 +1,28 @@
+
+
+Code Coverage Report:      
+  2019-02-16 21:07:03      
+                           
+ Summary:                  
+  Classes: 66.67% (6/9)    
+  Methods: 92.06% (58/63)  
+  Lines:   96.22% (178/185)
+
+\Mpociot\SlackBot::Answer
+  Methods: 100.00% (10/10)   Lines: 100.00% ( 14/ 14)
+\Mpociot\SlackBot::Button
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 12/ 12)
+\Mpociot\SlackBot::Conversation
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  9/  9)
+\Mpociot\SlackBot::Question
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% ( 17/ 17)
+\Mpociot\SlackBot::SlackBot
+  Methods:  96.00% (24/25)   Lines:  97.17% (103/106)
+\Mpociot\SlackBot::SlackBotServiceProvider
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 10/ 10)
+\Mpociot\SlackBot\Cache::ArrayCache
+  Methods:  50.00% ( 2/ 4)   Lines:  81.82% (  9/ 11)
+\Mpociot\SlackBot\Cache::LaravelCache
+  Methods:  50.00% ( 2/ 4)   Lines:  60.00% (  3/  5)
+\Mpociot\SlackBot\Facades::SlackBot
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)

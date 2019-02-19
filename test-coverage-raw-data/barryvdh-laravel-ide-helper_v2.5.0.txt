@@ -1,0 +1,12 @@
+
+
+Code Coverage Report:      
+  2019-02-15 15:41:43      
+                           
+ Summary:                  
+  Classes:  0.00% (0/10)   
+  Methods:  7.95% (7/88)   
+  Lines:    4.56% (59/1293)
+
+\Barryvdh\LaravelIdeHelper::Method
+  Methods:  50.00% ( 7/14)   Lines:  63.44% ( 59/ 93)

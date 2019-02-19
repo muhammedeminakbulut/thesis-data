@@ -1,0 +1,12 @@
+
+
+Code Coverage Report:     
+  2019-02-16 21:08:42     
+                          
+ Summary:                 
+  Classes: 100.00% (1/1)  
+  Methods: 100.00% (1/1)  
+  Lines:   100.00% (30/30)
+
+\SebastianBergmann\ObjectEnumerator::Enumerator
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 30/ 30)

@@ -1,0 +1,7 @@
+repository,tag,coverage
+git@github.com:nikic/PHP-Parser.git,v0.9.0,"phpunit not installed"
+git@github.com:nikic/PHP-Parser.git,v4.0.0,94.91
+git@github.com:nikic/PHP-Parser.git,v4.1.0,"phpunit failed"
+git@github.com:nikic/PHP-Parser.git,v4.2.0,"phpunit failed"
+git@github.com:nikic/PHP-Parser.git,v1.3.0,"phpunit not installed"
+git@github.com:nikic/PHP-Parser.git,v1.4.0,"phpunit not installed"

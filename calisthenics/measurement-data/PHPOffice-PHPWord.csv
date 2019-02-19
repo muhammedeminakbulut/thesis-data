@@ -1,0 +1,16 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:PHPOffice/PHPWord.git,0.7.0,13388,5110,770,3.44%,5.4971751412429,0,1629,117,577,0
+git@github.com:PHPOffice/PHPWord.git,0.8.0,21702,7306,1187,3.18%,5.6248624862486,0,1629,117,772,0
+git@github.com:PHPOffice/PHPWord.git,0.8.1,21759,7321,1190,3.17%,5.6304824561404,0,1629,117,772,0
+git@github.com:PHPOffice/PHPWord.git,0.9.0,22033,7749,1138,2.75%,5.6545866364666,0,1629,117,755,0
+git@github.com:PHPOffice/PHPWord.git,0.9.1,22033,7749,1138,2.75%,5.6545866364666,0,1629,117,755,0
+git@github.com:PHPOffice/PHPWord.git,0.10.0,34433,12698,1764,0.20%,5.9594370860927,0,1629,117,943,0
+git@github.com:PHPOffice/PHPWord.git,0.10.1,34433,12698,1764,0.20%,5.9594370860927,0,1629,117,943,0
+git@github.com:PHPOffice/PHPWord.git,0.11.0,44703,18545,1759,0.00%,5.6531147540984,0,1629,117,1110,0
+git@github.com:PHPOffice/PHPWord.git,0.11.1,44706,18549,1758,0.00%,5.6531147540984,0,1629,117,1110,0
+git@github.com:PHPOffice/PHPWord.git,0.12.0,53256,22227,2055,0.00%,6.0875,0,1629,117,1279,0
+git@github.com:PHPOffice/PHPWord.git,0.12.1,53310,22263,2055,0.00%,6.0857954545455,0,1629,117,1280,0
+git@github.com:PHPOffice/PHPWord.git,0.13.0,52992,22227,2061,0.00%,6.1617391304348,0,1629,117,1300,0
+git@github.com:PHPOffice/PHPWord.git,0.14.0,58261,24110,2272,0.00%,5.9904185577408,0,1629,117,1510,0
+git@github.com:PHPOffice/PHPWord.git,0.15.0,63084,25517,2463,0.00%,5.9881115683585,0,1629,117,1770,0
+git@github.com:PHPOffice/PHPWord.git,0.16.0,64454,25823,2531,0.00%,6.0218554861731,0,1629,117,1840,0

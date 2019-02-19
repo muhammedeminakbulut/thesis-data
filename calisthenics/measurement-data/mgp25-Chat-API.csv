@@ -1,0 +1,6 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:mgp25/Chat-API.git,v2.5.1,10710,2506,732,0.32%,4.7611464968153,0,2033,70,728,0
+git@github.com:mgp25/Chat-API.git,v2.5.2,10711,2506,732,0.32%,4.7643312101911,0,2033,70,729,0
+git@github.com:mgp25/Chat-API.git,v2.5.3,10771,2507,737,0.32%,4.7611464968153,0,2033,70,742,0
+git@github.com:mgp25/Chat-API.git,v2.5.4,10743,2511,731,0.32%,4.7507987220447,0,2033,70,742,0
+git@github.com:mgp25/Chat-API.git,v2.5.5,21053,4800,1203,2.05%,3.4311431143114,0,2033,70,1567,0

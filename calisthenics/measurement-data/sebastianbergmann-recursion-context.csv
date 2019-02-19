@@ -1,0 +1,7 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:sebastianbergmann/recursion-context.git,1.0.0,346,134,10,0.00%,3.6666666666667,0,6,3,3,0
+git@github.com:sebastianbergmann/recursion-context.git,1.0.1,331,118,10,0.00%,3.6666666666667,0,6,3,3,0
+git@github.com:sebastianbergmann/recursion-context.git,1.0.2,331,118,10,0.00%,3.6666666666667,0,6,3,3,0
+git@github.com:sebastianbergmann/recursion-context.git,1.0.5,330,121,10,0.00%,3.6666666666667,0,6,3,3,0
+git@github.com:sebastianbergmann/recursion-context.git,2.0.0,345,122,15,0.00%,3.8125,0,6,3,5,0
+git@github.com:sebastianbergmann/recursion-context.git,3.0.0,343,122,15,0.00%,3.9375,0,6,3,5,0

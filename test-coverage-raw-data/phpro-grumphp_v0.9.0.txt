@@ -1,0 +1,34 @@
+
+
+Code Coverage Report:      
+  2019-02-17 16:04:53      
+                           
+ Summary:                  
+  Classes:  7.14% (1/14)   
+  Methods: 41.05% (39/95)  
+  Lines:   61.34% (357/582)
+
+\Doctrine\Common\Collections::ArrayCollection
+  Methods:  14.71% ( 5/34)   Lines:  12.99% ( 10/ 77)
+\GrumPHP\Linter::LintError
+  Methods:  16.67% ( 1/ 6)   Lines:  33.33% (  5/ 15)
+\GrumPHP\Linter\Json::JsonLintError
+  Methods:  50.00% ( 1/ 2)   Lines:  16.67% (  1/  6)
+\GrumPHP\Linter\Json::JsonLinter
+  Methods:  75.00% ( 3/ 4)   Lines:  92.86% ( 13/ 14)
+\GrumPHP\Linter\Xml::XmlLintError
+  Methods:  20.00% ( 1/ 5)   Lines:  53.85% ( 14/ 26)
+\GrumPHP\Linter\Xml::XmlLinter
+  Methods:  92.86% (13/14)   Lines:  97.01% ( 65/ 67)
+\GrumPHP\Linter\Yaml::YamlLintError
+  Methods:  50.00% ( 2/ 4)   Lines:  81.82% (  9/ 11)
+\GrumPHP\Linter\Yaml::YamlLinter
+  Methods:  75.00% ( 3/ 4)   Lines:  91.67% ( 11/ 12)
+\Seld\JsonLint::DuplicateKeyException
+  Methods:  50.00% ( 1/ 2)   Lines:  75.00% (  3/  4)
+\Seld\JsonLint::JsonParser
+  Methods:  25.00% ( 2/ 8)   Lines:  58.70% (145/247)
+\Seld\JsonLint::Lexer
+  Methods:  66.67% ( 6/ 9)   Lines:  82.11% ( 78/ 95)
+\Seld\JsonLint::ParsingException
+  Methods:  50.00% ( 1/ 2)   Lines:  75.00% (  3/  4)

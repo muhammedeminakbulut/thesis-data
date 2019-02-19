@@ -1,0 +1,5 @@
+repository,tag,coverage
+git@github.com:ratchetphp/Ratchet.git,v0.1.1,"phpunit not installed"
+git@github.com:ratchetphp/Ratchet.git,v0.2.0,"phpunit not installed"
+git@github.com:ratchetphp/Ratchet.git,v0.3.0,"phpunit not installed"
+git@github.com:ratchetphp/Ratchet.git,v0.4.1,"phpunit failed"

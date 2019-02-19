@@ -1,0 +1,11 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:EasyEngine/easyengine.git,v4.0.0,15700,4372,1350,1.53%,5.6370808678501,0,384,64,802,0
+git@github.com:EasyEngine/easyengine.git,v4.0.1,15733,4376,1356,1.53%,5.6594488188976,0,384,64,804,0
+git@github.com:EasyEngine/easyengine.git,v4.0.2,15619,4360,1330,1.54%,5.6581027667984,0,384,64,800,0
+git@github.com:EasyEngine/easyengine.git,v4.0.3,15619,4360,1330,1.54%,5.6581027667984,0,384,64,800,0
+git@github.com:EasyEngine/easyengine.git,v4.0.4,15620,4360,1330,1.54%,5.6581027667984,0,384,64,801,0
+git@github.com:EasyEngine/easyengine.git,v4.0.5,15658,4375,1331,1.53%,5.6581027667984,0,384,64,801,0
+git@github.com:EasyEngine/easyengine.git,v4.0.6,15664,4375,1334,1.53%,5.6660079051383,0,384,64,801,0
+git@github.com:EasyEngine/easyengine.git,v4.0.7,15664,4375,1334,1.53%,5.6660079051383,0,384,64,801,0
+git@github.com:EasyEngine/easyengine.git,v4.0.8,15803,4410,1344,1.52%,5.6745098039216,0,384,64,801,0
+git@github.com:EasyEngine/easyengine.git,v4.0.9,15811,4410,1345,1.52%,5.678431372549,0,384,64,802,0

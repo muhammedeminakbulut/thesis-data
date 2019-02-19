@@ -1,0 +1,36 @@
+
+
+Code Coverage Report:      
+  2019-02-17 15:28:00      
+                           
+ Summary:                  
+  Classes: 100.00% (13/13) 
+  Methods: 100.00% (40/40) 
+  Lines:   91.84% (259/282)
+
+\FastRoute::Route
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  7/  7)
+\FastRoute::RouteCollector
+  Methods: 100.00% (10/10)   Lines: 100.00% ( 28/ 28)
+\FastRoute\DataGenerator::CharCountBased
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 13/ 13)
+\FastRoute\DataGenerator::GroupCountBased
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 12/ 12)
+\FastRoute\DataGenerator::GroupPosBased
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 10/ 10)
+\FastRoute\DataGenerator::MarkBased
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 10/ 10)
+\FastRoute\DataGenerator::RegexBasedAbstract
+  Methods: 100.00% ( 9/ 9)   Lines: 100.00% ( 59/ 59)
+\FastRoute\Dispatcher::CharCountBased
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 12/ 12)
+\FastRoute\Dispatcher::GroupCountBased
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 12/ 12)
+\FastRoute\Dispatcher::GroupPosBased
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 12/ 12)
+\FastRoute\Dispatcher::MarkBased
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 12/ 12)
+\FastRoute\Dispatcher::RegexBasedAbstract
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 36/ 36)
+\FastRoute\RouteParser::Std
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 31/ 31)

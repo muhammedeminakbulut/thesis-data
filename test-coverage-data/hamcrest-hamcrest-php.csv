@@ -1,0 +1,4 @@
+repository,tag,coverage
+git@github.com:hamcrest/hamcrest-php.git,v1.1.0,"no phpunit config"
+git@github.com:hamcrest/hamcrest-php.git,v1.2.0,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:hamcrest/hamcrest-php.git,v2.0.0,"no phpunit config"

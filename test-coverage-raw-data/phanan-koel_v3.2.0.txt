@@ -1,0 +1,44 @@
+
+
+Code Coverage Report:       
+  2019-02-16 13:23:17       
+                            
+ Summary:                   
+  Classes: 20.19% (21/104)  
+  Methods:  9.69% (25/258)  
+  Lines:    6.95% (108/1554)
+
+\App::Application
+  Methods:  25.00% ( 1/ 4)   Lines:   5.26% (  1/ 19)
+\App\Console::Kernel
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\App\Console\Commands::SyncMedia
+  Methods:  20.00% ( 1/ 5)   Lines:   6.25% (  2/ 32)
+\App\Facades::Lastfm
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\App\Facades::YouTube
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\App\Providers::AppServiceProvider
+  Methods:  50.00% ( 1/ 2)   Lines:  66.67% (  2/  3)
+\App\Providers::AuthServiceProvider
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\App\Providers::DownloadServiceProvider
+  Methods:  50.00% ( 1/ 2)   Lines:  66.67% (  2/  3)
+\App\Providers::EventServiceProvider
+  Methods:   0.00% ( 0/ 2)   Lines:  50.00% (  3/  6)
+\App\Providers::LastfmServiceProvider
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\App\Providers::MediaServiceProvider
+  Methods:  50.00% ( 1/ 2)   Lines:  66.67% (  2/  3)
+\App\Providers::RouteServiceProvider
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  6/  6)
+\App\Providers::UtilServiceProvider
+  Methods:  50.00% ( 1/ 2)   Lines:  66.67% (  2/  3)
+\App\Providers::YouTubeServiceProvider
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\App\Services::Lastfm
+  Methods:  16.67% ( 2/12)   Lines:   7.53% (  7/ 93)
+\App\Services::RESTfulService
+  Methods:  41.67% ( 5/12)   Lines:  30.95% ( 13/ 42)
+\App\Services::YouTube
+  Methods:  50.00% ( 2/ 4)   Lines:  30.43% (  7/ 23)

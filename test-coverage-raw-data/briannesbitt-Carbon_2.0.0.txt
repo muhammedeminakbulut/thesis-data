@@ -1,0 +1,60 @@
+
+
+Code Coverage Report:        
+  2019-02-15 08:03:59        
+                             
+ Summary:                    
+  Classes: 92.00% (23/25)    
+  Methods: 99.54% (432/434)  
+  Lines:   99.94% (5421/5424)
+
+\Carbon::Carbon\Carbon
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Carbon::Carbon\CarbonInterval
+  Methods:  97.50% (39/40)   Lines:  99.79% (474/475)
+\Carbon::Carbon\CarbonPeriod
+  Methods: 100.00% (65/65)   Lines: 100.00% (355/355)
+\Carbon::Carbon\CarbonTimeZone
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 32/ 32)
+\Carbon::Carbon\Factory
+  Methods: 100.00% ( 9/ 9)   Lines: 100.00% ( 16/ 16)
+\Carbon::Carbon\Translator
+  Methods: 100.00% (14/14)   Lines: 100.00% ( 85/ 85)
+\Carbon\Exceptions::Carbon\Exceptions\InvalidDateException
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  6/  6)
+\Carbon\Laravel::Carbon\Laravel\ServiceProvider
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 12/ 12)
+\Carbon\Traits::Boundaries
+  Methods: 100.00% (24/24)   Lines: 100.00% ( 45/ 45)
+\Carbon\Traits::Comparison
+  Methods: 100.00% (38/38)   Lines: 100.00% ( 69/ 69)
+\Carbon\Traits::Converter
+  Methods: 100.00% (28/28)   Lines: 100.00% ( 54/ 54)
+\Carbon\Traits::Creator
+  Methods:  95.00% (19/20)   Lines:  98.32% (117/119)
+\Carbon\Traits::Date
+  Methods: 100.00% (54/54)   Lines: 100.00% (503/503)
+\Carbon\Traits::Difference
+  Methods: 100.00% (28/28)   Lines: 100.00% ( 81/ 81)
+\Carbon\Traits::Localization
+  Methods: 100.00% (19/19)   Lines: 100.00% ( 63/ 63)
+\Carbon\Traits::Macro
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  9/  9)
+\Carbon\Traits::Modifiers
+  Methods: 100.00% (26/26)   Lines: 100.00% ( 51/ 51)
+\Carbon\Traits::Mutability
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  4/  4)
+\Carbon\Traits::Options
+  Methods: 100.00% ( 9/ 9)   Lines: 100.00% ( 26/ 26)
+\Carbon\Traits::Rounding
+  Methods: 100.00% ( 9/ 9)   Lines: 100.00% ( 55/ 55)
+\Carbon\Traits::Serialization
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 30/ 30)
+\Carbon\Traits::Test
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  4/  4)
+\Carbon\Traits::Timestamp
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% (  8/  8)
+\Carbon\Traits::Units
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% (119/119)
+\Carbon\Traits::Week
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 62/ 62)

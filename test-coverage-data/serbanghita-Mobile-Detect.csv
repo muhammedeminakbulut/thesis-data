@@ -1,0 +1,5 @@
+repository,tag,coverage
+git@github.com:serbanghita/Mobile-Detect.git,2.5.0,"no phpunit config"
+git@github.com:serbanghita/Mobile-Detect.git,2.6.0,"no phpunit config"
+git@github.com:serbanghita/Mobile-Detect.git,2.7.0,"no phpunit config"
+git@github.com:serbanghita/Mobile-Detect.git,2.8.0,"no phpunit config"

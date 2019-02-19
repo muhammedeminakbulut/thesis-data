@@ -1,0 +1,24 @@
+repository,tag,coverage
+git@github.com:kriswallsmith/assetic.git,v1.0.0,"no composer"
+git@github.com:kriswallsmith/assetic.git,v1.1.0,"composer failed, 
+                                                                                                                                                                                
+  [Composer\Downloader\TransportException]                                                                                                                                      
+  Your configuration does not allow connections to http://cssmin.googlecode.com/files/cssmin-v3.0.1.php. See https://getcomposer.org/doc/06-config.md#secure-http for details.  
+                                                                                                                                                                                
+
+install [--prefer-source] [--prefer-dist] [--dry-run] [--dev] [--no-dev] [--no-custom-installers] [--no-autoloader] [--no-scripts] [--no-progress] [--no-suggest] [-v|vv|vvv|--verbose] [-o|--optimize-autoloader] [-a|--classmap-authoritative] [--apcu-autoloader] [--ignore-platform-reqs] [--] [<packages>]..."
+git@github.com:kriswallsmith/assetic.git,v1.2.0,"composer failed, 
+                                                                                                                                                                                
+  [Composer\Downloader\TransportException]                                                                                                                                      
+  Your configuration does not allow connections to http://cssmin.googlecode.com/files/cssmin-v3.0.1.php. See https://getcomposer.org/doc/06-config.md#secure-http for details.  
+                                                                                                                                                                                
+
+install [--prefer-source] [--prefer-dist] [--dry-run] [--dev] [--no-dev] [--no-custom-installers] [--no-autoloader] [--no-scripts] [--no-progress] [--no-suggest] [-v|vv|vvv|--verbose] [-o|--optimize-autoloader] [-a|--classmap-authoritative] [--apcu-autoloader] [--ignore-platform-reqs] [--] [<packages>]..."
+git@github.com:kriswallsmith/assetic.git,v1.3.0,"composer failed, 
+                                                                                                                                                                                
+  [Composer\Downloader\TransportException]                                                                                                                                      
+  Your configuration does not allow connections to http://cssmin.googlecode.com/files/cssmin-v3.0.1.php. See https://getcomposer.org/doc/06-config.md#secure-http for details.  
+                                                                                                                                                                                
+
+install [--prefer-source] [--prefer-dist] [--dry-run] [--dev] [--no-dev] [--no-custom-installers] [--no-autoloader] [--no-scripts] [--no-progress] [--no-suggest] [-v|vv|vvv|--verbose] [-o|--optimize-autoloader] [-a|--classmap-authoritative] [--apcu-autoloader] [--ignore-platform-reqs] [--] [<packages>]..."
+git@github.com:kriswallsmith/assetic.git,v1.4.0,"phpunit failed"

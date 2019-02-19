@@ -1,0 +1,9 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:kint-php/kint.git,v0.9.1,2524,552,377,0.00%,10.563636363636,0,247,26,252,0
+git@github.com:kint-php/kint.git,1.0.0,3446,607,556,1.22%,11.371794871795,0,247,26,290,0
+git@github.com:kint-php/kint.git,1.0.2,3445,607,556,1.22%,11.358974358974,0,247,26,289,0
+git@github.com:kint-php/kint.git,1.0.3,3453,608,557,1.22%,11.371794871795,0,247,26,290,0
+git@github.com:kint-php/kint.git,1.0.6,3453,608,557,1.22%,11.371794871795,0,247,26,290,0
+git@github.com:kint-php/kint.git,1.0.10,3473,617,559,1.21%,11.371794871795,0,247,26,290,0
+git@github.com:kint-php/kint.git,2.1.1,10489,863,1032,1.51%,6.804347826087,0,247,26,2467,4
+git@github.com:kint-php/kint.git,2.1.2,10515,871,1037,1.49%,6.7250673854447,0,247,26,2459,4

@@ -1,0 +1,64 @@
+
+
+Code Coverage Report:      
+  2019-02-16 14:00:55      
+                           
+ Summary:                  
+  Classes: 86.67% (26/30)  
+  Methods: 89.13% (82/92)  
+  Lines:   87.06% (350/402)
+
+\Maatwebsite\Excel::DelegatedMacroable
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  4/  4)
+\Maatwebsite\Excel::HasEventBus
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  9/  9)
+\Maatwebsite\Excel::Maatwebsite\Excel\Excel
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 19/ 19)
+\Maatwebsite\Excel::Maatwebsite\Excel\ExcelServiceProvider
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 20/ 20)
+\Maatwebsite\Excel::Maatwebsite\Excel\QueuedWriter
+  Methods:  60.00% ( 3/ 5)   Lines:  64.29% ( 27/ 42)
+\Maatwebsite\Excel::Maatwebsite\Excel\Sheet
+  Methods:  75.00% (12/16)   Lines:  89.61% ( 69/ 77)
+\Maatwebsite\Excel::Maatwebsite\Excel\Writer
+  Methods: 100.00% (14/14)   Lines: 100.00% ( 52/ 52)
+\Maatwebsite\Excel\Concerns::Exportable
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 21/ 21)
+\Maatwebsite\Excel\Concerns::RegistersEventListeners
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 10/ 10)
+\Maatwebsite\Excel\Events::Maatwebsite\Excel\Events\AfterSheet
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\Maatwebsite\Excel\Events::Maatwebsite\Excel\Events\BeforeExport
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\Maatwebsite\Excel\Events::Maatwebsite\Excel\Events\BeforeSheet
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\Maatwebsite\Excel\Events::Maatwebsite\Excel\Events\BeforeWriting
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\Maatwebsite\Excel\Exceptions::Maatwebsite\Excel\Exceptions\ConcernConflictException
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Maatwebsite\Excel\Exceptions::Maatwebsite\Excel\Exceptions\NoFilePathGivenException
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Maatwebsite\Excel\Exceptions::Maatwebsite\Excel\Exceptions\NoFilenameGivenException
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Maatwebsite\Excel\Facades::Maatwebsite\Excel\Facades\Excel
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\Maatwebsite\Excel\Fakes::Maatwebsite\Excel\Fakes\AnonymousClass:58#304
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Maatwebsite\Excel\Fakes::Maatwebsite\Excel\Fakes\ExcelFake
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 43/ 43)
+\Maatwebsite\Excel\Jobs::ExtendedQueueable
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\Maatwebsite\Excel\Jobs::Maatwebsite\Excel\Jobs\AppendDataToSheet
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 11/ 11)
+\Maatwebsite\Excel\Jobs::Maatwebsite\Excel\Jobs\CloseSheet
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 12/ 12)
+\Maatwebsite\Excel\Jobs::Maatwebsite\Excel\Jobs\QueueExport
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 13/ 13)
+\Maatwebsite\Excel\Jobs::Maatwebsite\Excel\Jobs\StoreQueuedExport
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  6/  6)
+\Maatwebsite\Excel\Mixins::Maatwebsite\Excel\Mixins\
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\Maatwebsite\Excel\Mixins::Maatwebsite\Excel\Mixins\DownloadCollection
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Maatwebsite\Excel\Mixins::Maatwebsite\Excel\Mixins\StoreCollection
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)

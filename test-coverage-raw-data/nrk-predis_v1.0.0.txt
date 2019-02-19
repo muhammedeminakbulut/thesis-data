@@ -1,0 +1,448 @@
+
+
+Code Coverage Report:        
+  2019-02-16 14:20:21        
+                             
+ Summary:                    
+  Classes: 83.12% (192/231)  
+  Methods: 77.75% (594/764)  
+  Lines:   72.02% (2152/2988)
+
+\Predis::Autoloader
+  Methods:   0.00% ( 0/ 3)   Lines:  16.67% (  2/ 12)
+\Predis::Client
+  Methods:  80.77% (21/26)   Lines:  95.65% (110/115)
+\Predis::CommunicationException
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 10/ 10)
+\Predis\Cluster::ClusterStrategy
+  Methods:  64.29% ( 9/14)   Lines:  95.88% (163/170)
+\Predis\Cluster::PredisStrategy
+  Methods:  75.00% ( 3/ 4)   Lines:  88.24% ( 15/ 17)
+\Predis\Cluster::RedisStrategy
+  Methods:  66.67% ( 2/ 3)   Lines:  75.00% (  6/  8)
+\Predis\Cluster\Distributor::HashRing
+  Methods:  87.50% (14/16)   Lines:  97.18% ( 69/ 71)
+\Predis\Cluster\Distributor::KetamaRing
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 13/ 13)
+\Predis\Cluster\Hash::CRC16
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  6/  6)
+\Predis\Collection\Iterator::CursorBasedIterator
+  Methods: 100.00% (11/11)   Lines: 100.00% ( 44/ 44)
+\Predis\Collection\Iterator::HashKey
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  8/  8)
+\Predis\Collection\Iterator::Keyspace
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\Predis\Collection\Iterator::ListKey
+  Methods:  90.91% (10/11)   Lines:  97.37% ( 37/ 38)
+\Predis\Collection\Iterator::SetKey
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  5/  5)
+\Predis\Collection\Iterator::SortedSetKey
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  8/  8)
+\Predis\Command::Command
+  Methods: 100.00% (10/10)   Lines: 100.00% ( 23/ 23)
+\Predis\Command::ConnectionAuth
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::ConnectionEcho
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::ConnectionPing
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::ConnectionQuit
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::ConnectionSelect
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::HashDelete
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Predis\Command::HashExists
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Predis\Command::HashGet
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::HashGetAll
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  5/  5)
+\Predis\Command::HashGetMultiple
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Predis\Command::HashIncrementBy
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::HashIncrementByFloat
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::HashKeys
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::HashLength
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::HashScan
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 21/ 21)
+\Predis\Command::HashSet
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Predis\Command::HashSetMultiple
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  9/  9)
+\Predis\Command::HashSetPreserve
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Predis\Command::HashValues
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::HyperLogLogAdd
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  3/  3)
+\Predis\Command::HyperLogLogCount
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Predis\Command::HyperLogLogMerge
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Predis\Command::KeyDelete
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Predis\Command::KeyDump
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::KeyExists
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Predis\Command::KeyExpire
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Predis\Command::KeyExpireAt
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Predis\Command::KeyKeys
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::KeyMove
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Predis\Command::KeyPersist
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Predis\Command::KeyPreciseExpire
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::KeyPreciseExpireAt
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::KeyPreciseTimeToLive
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::KeyRandom
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Predis\Command::KeyRename
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::KeyRenamePreserve
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Predis\Command::KeyRestore
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::KeyScan
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 14/ 14)
+\Predis\Command::KeySort
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 30/ 30)
+\Predis\Command::KeyTimeToLive
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::KeyType
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::ListIndex
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::ListInsert
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::ListLength
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::ListPopFirst
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::ListPopFirstBlocking
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  5/  5)
+\Predis\Command::ListPopLast
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::ListPopLastBlocking
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::ListPopLastPushHead
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::ListPopLastPushHeadBlocking
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::ListPushHead
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::ListPushHeadX
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::ListPushTail
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Predis\Command::ListPushTailX
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::ListRange
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::ListRemove
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::ListSet
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::ListTrim
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::PubSubPublish
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::PubSubPubsub
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 10/ 10)
+\Predis\Command::PubSubSubscribe
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Predis\Command::PubSubSubscribeByPattern
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::PubSubUnsubscribe
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Predis\Command::PubSubUnsubscribeByPattern
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::RawCommand
+  Methods:  80.00% ( 8/10)   Lines:  92.00% ( 23/ 25)
+\Predis\Command::ScriptCommand
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  8/  8)
+\Predis\Command::ServerBackgroundRewriteAOF
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Predis\Command::ServerBackgroundSave
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Predis\Command::ServerClient
+  Methods:  66.67% ( 2/ 3)   Lines:  88.24% ( 15/ 17)
+\Predis\Command::ServerCommand
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::ServerConfig
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  7/  7)
+\Predis\Command::ServerDatabaseSize
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::ServerEval
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Predis\Command::ServerEvalSHA
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Predis\Command::ServerFlushAll
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::ServerFlushDatabase
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::ServerInfo
+  Methods:  80.00% ( 4/ 5)   Lines:  69.23% ( 18/ 26)
+\Predis\Command::ServerInfoV26x
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 15/ 15)
+\Predis\Command::ServerLastSave
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::ServerMonitor
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::ServerObject
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::ServerSave
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::ServerScript
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::ServerSentinel
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 13/ 13)
+\Predis\Command::ServerShutdown
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::ServerSlaveOf
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\Predis\Command::ServerSlowlog
+  Methods:  50.00% ( 1/ 2)   Lines:  90.91% ( 10/ 11)
+\Predis\Command::ServerTime
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::SetAdd
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Predis\Command::SetCardinality
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::SetDifference
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::SetDifferenceStore
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::SetIntersection
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Predis\Command::SetIntersectionStore
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\Predis\Command::SetIsMember
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Predis\Command::SetMembers
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::SetMove
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Predis\Command::SetPop
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::SetRandomMember
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::SetRemove
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Predis\Command::SetScan
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 14/ 14)
+\Predis\Command::SetUnion
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::SetUnionStore
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::StringAppend
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::StringBitCount
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::StringBitOp
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  6/  6)
+\Predis\Command::StringDecrement
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::StringDecrementBy
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::StringGet
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::StringGetBit
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::StringGetMultiple
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Predis\Command::StringGetRange
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::StringGetSet
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::StringIncrement
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::StringIncrementBy
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::StringIncrementByFloat
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::StringPreciseSetExpire
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::StringSet
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::StringSetBit
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::StringSetExpire
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::StringSetMultiple
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  9/  9)
+\Predis\Command::StringSetMultiplePreserve
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Predis\Command::StringSetPreserve
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Predis\Command::StringSetRange
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::StringStrlen
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::StringSubstr
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::TransactionDiscard
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::TransactionExec
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::TransactionMulti
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::TransactionUnwatch
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::TransactionWatch
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\Predis\Command::ZSetAdd
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  8/  8)
+\Predis\Command::ZSetCardinality
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::ZSetCount
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::ZSetIncrementBy
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::ZSetIntersectionStore
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::ZSetLexCount
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::ZSetRange
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 25/ 25)
+\Predis\Command::ZSetRangeByLex
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 10/ 10)
+\Predis\Command::ZSetRangeByScore
+  Methods:  66.67% ( 2/ 3)   Lines:  83.33% ( 15/ 18)
+\Predis\Command::ZSetRank
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::ZSetRemove
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Predis\Command::ZSetRemoveRangeByLex
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::ZSetRemoveRangeByRank
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::ZSetRemoveRangeByScore
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::ZSetReverseRange
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::ZSetReverseRangeByScore
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::ZSetReverseRank
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::ZSetScan
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 21/ 21)
+\Predis\Command::ZSetScore
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Command::ZSetUnionStore
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 20/ 20)
+\Predis\Command\Processor::KeyPrefixProcessor
+  Methods:  92.86% (13/14)   Lines:  97.47% ( 77/ 79)
+\Predis\Command\Processor::ProcessorChain
+  Methods:  63.64% ( 7/11)   Lines:  66.67% ( 16/ 24)
+\Predis\Configuration::ClusterOption
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 15/ 15)
+\Predis\Configuration::ConnectionFactoryOption
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 10/ 10)
+\Predis\Configuration::ExceptionsOption
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Predis\Configuration::Options
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 30/ 30)
+\Predis\Configuration::PrefixOption
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\Predis\Configuration::ProfileOption
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 12/ 12)
+\Predis\Configuration::ReplicationOption
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 10/ 10)
+\Predis\Connection::AbstractConnection
+  Methods:  43.75% ( 7/16)   Lines:  61.90% ( 26/ 42)
+\Predis\Connection::CompositeStreamConnection
+  Methods:  25.00% ( 2/ 8)   Lines:  21.43% (  6/ 28)
+\Predis\Connection::Factory
+  Methods:  85.71% ( 6/ 7)   Lines:  94.59% ( 35/ 37)
+\Predis\Connection::Parameters
+  Methods: 100.00% ( 9/ 9)   Lines: 100.00% ( 22/ 22)
+\Predis\Connection::StreamConnection
+  Methods:   0.00% ( 0/ 9)   Lines:  26.26% ( 26/ 99)
+\Predis\Connection\Aggregate::MasterSlaveReplication
+  Methods:  95.00% (19/20)   Lines:  95.52% ( 64/ 67)
+\Predis\Connection\Aggregate::PredisCluster
+  Methods: 100.00% (17/17)   Lines: 100.00% ( 50/ 50)
+\Predis\Connection\Aggregate::RedisCluster
+  Methods:  80.00% (24/30)   Lines:  90.98% (121/133)
+\Predis\Monitor::Consumer
+  Methods:  66.67% ( 8/12)   Lines:  85.71% ( 30/ 35)
+\Predis\Pipeline::Atomic
+  Methods:  33.33% ( 1/ 3)   Lines:  80.49% ( 33/ 41)
+\Predis\Pipeline::FireAndForget
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  4/  4)
+\Predis\Pipeline::Pipeline
+  Methods: 100.00% (12/12)   Lines: 100.00% ( 53/ 53)
+\Predis\Profile::Factory
+  Methods:  80.00% ( 4/ 5)   Lines:  91.67% ( 11/ 12)
+\Predis\Profile::RedisProfile
+  Methods: 100.00% ( 9/ 9)   Lines: 100.00% ( 28/ 28)
+\Predis\Profile::RedisUnstable
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Predis\Profile::RedisVersion200
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Predis\Profile::RedisVersion220
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Predis\Profile::RedisVersion240
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Predis\Profile::RedisVersion260
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Predis\Profile::RedisVersion280
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Predis\Profile::RedisVersion300
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Predis\Protocol\Text::CompositeProtocolProcessor
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 12/ 12)
+\Predis\Protocol\Text::ProtocolProcessor
+  Methods:  75.00% ( 3/ 4)   Lines:  83.33% ( 30/ 36)
+\Predis\Protocol\Text::RequestSerializer
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 10/ 10)
+\Predis\Protocol\Text::ResponseReader
+  Methods:  83.33% ( 5/ 6)   Lines:  95.65% ( 22/ 23)
+\Predis\Protocol\Text\Handler::BulkResponse
+  Methods:   0.00% ( 0/ 1)   Lines:  72.73% (  8/ 11)
+\Predis\Protocol\Text\Handler::ErrorResponse
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Protocol\Text\Handler::IntegerResponse
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  6/  6)
+\Predis\Protocol\Text\Handler::MultiBulkResponse
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 19/ 19)
+\Predis\Protocol\Text\Handler::StatusResponse
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Predis\Protocol\Text\Handler::StreamableMultiBulkResponse
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  5/  5)
+\Predis\PubSub::AbstractConsumer
+  Methods:  78.57% (11/14)   Lines:  89.19% ( 33/ 37)
+\Predis\PubSub::Consumer
+  Methods:  85.71% ( 6/ 7)   Lines:  95.65% ( 44/ 46)
+\Predis\Replication::ReplicationStrategy
+  Methods:  87.50% ( 7/ 8)   Lines:  97.06% ( 33/ 34)
+\Predis\Response::Error
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  6/  6)
+\Predis\Response::ServerException
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\Predis\Response::Status
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 11/ 11)
+\Predis\Response\Iterator::MultiBulk
+  Methods:  75.00% ( 3/ 4)   Lines:  86.67% ( 13/ 15)
+\Predis\Response\Iterator::MultiBulkIterator
+  Methods:  57.14% ( 4/ 7)   Lines:  66.67% (  6/  9)
+\Predis\Response\Iterator::MultiBulkTuple
+  Methods:   0.00% ( 0/ 5)   Lines:  30.00% (  6/ 20)
+\Predis\Transaction::AbortedMultiExecException
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\Predis\Transaction::MultiExec
+  Methods:  70.59% (12/17)   Lines:  93.57% (131/140)
+\Predis\Transaction::MultiExecState
+  Methods: 100.00% (14/14)   Lines: 100.00% ( 19/ 19)

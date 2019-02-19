@@ -1,0 +1,5 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:phar-io/version.git,1.0.0,1446,548,32,0.00%,2.2191780821918,0,8,5,57,0
+git@github.com:phar-io/version.git,1.0.1,1446,548,32,0.00%,2.2191780821918,0,8,5,57,0
+git@github.com:phar-io/version.git,2.0.0,1595,573,42,0.00%,2.253164556962,0,8,5,57,0
+git@github.com:phar-io/version.git,2.0.1,1597,573,42,0.00%,2.253164556962,0,8,5,57,0

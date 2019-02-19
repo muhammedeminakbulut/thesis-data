@@ -1,0 +1,46 @@
+
+
+Code Coverage Report:        
+  2019-02-17 15:55:54        
+                             
+ Summary:                    
+  Classes: 46.15% (12/26)    
+  Methods: 75.51% (259/343)  
+  Lines:   89.76% (1727/1924)
+
+\libphonenumber::DefaultMetadataLoader
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\libphonenumber::Matcher
+  Methods:  66.67% ( 8/12)   Lines:  89.47% ( 34/ 38)
+\libphonenumber::NumberFormat
+  Methods:  90.00% (18/20)   Lines:  81.13% ( 43/ 53)
+\libphonenumber::NumberParseException
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  6/  6)
+\libphonenumber::PhoneMetadata
+  Methods:  69.70% (69/99)   Lines:  65.54% (175/267)
+\libphonenumber::PhoneNumber
+  Methods: 100.00% (38/38)   Lines: 100.00% (114/114)
+\libphonenumber::PhoneNumberDesc
+  Methods:  69.23% ( 9/13)   Lines:  57.50% ( 23/ 40)
+\libphonenumber::PhoneNumberToCarrierMapper
+  Methods:  83.33% ( 5/ 6)   Lines:  95.45% ( 21/ 22)
+\libphonenumber::PhoneNumberToTimeZonesMapper
+  Methods:  44.44% ( 4/ 9)   Lines:  75.00% ( 21/ 28)
+\libphonenumber::PhoneNumberUtil
+  Methods:  76.92% (70/91)   Lines:  96.05% (1020/1062)
+\libphonenumber::RegexBasedMatcher
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  6/  6)
+\libphonenumber::ShortNumberInfo
+  Methods:  59.09% (13/22)   Lines:  91.88% (147/160)
+\libphonenumber\geocoding::Locale
+  Methods:   0.00% ( 0/ 1)   Lines:  70.00% (  7/ 10)
+\libphonenumber\geocoding::PhoneNumberOfflineGeocoder
+  Methods:  75.00% ( 6/ 8)   Lines:  93.88% ( 46/ 49)
+\libphonenumber\prefixmapper::MappingFileProvider
+  Methods:  66.67% ( 2/ 3)   Lines:  87.50% (  7/  8)
+\libphonenumber\prefixmapper::PhonePrefixMap
+  Methods:  66.67% ( 2/ 3)   Lines:  91.67% ( 11/ 12)
+\libphonenumber\prefixmapper::PrefixFileReader
+  Methods:  66.67% ( 4/ 6)   Lines:  94.59% ( 35/ 37)
+\libphonenumber\prefixmapper::PrefixTimeZonesMap
+  Methods:  80.00% ( 4/ 5)   Lines:  90.91% ( 10/ 11)

@@ -1,0 +1,9 @@
+repository,tag,coverage
+git@github.com:barryvdh/laravel-dompdf.git,v0.1.0,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:barryvdh/laravel-dompdf.git,v0.2.0,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:barryvdh/laravel-dompdf.git,v0.3.0,"no phpunit config"
+git@github.com:barryvdh/laravel-dompdf.git,v0.4.0,"no phpunit config"
+git@github.com:barryvdh/laravel-dompdf.git,v0.5.0,"no phpunit config"
+git@github.com:barryvdh/laravel-dompdf.git,v0.6.0,"no phpunit config"
+git@github.com:barryvdh/laravel-dompdf.git,v0.7.0,"no phpunit config"
+git@github.com:barryvdh/laravel-dompdf.git,v0.8.0,"no phpunit config"

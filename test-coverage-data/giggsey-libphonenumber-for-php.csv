@@ -1,0 +1,26 @@
+repository,tag,coverage
+git@github.com:giggsey/libphonenumber-for-php.git,5.7.2,"no phpunit config"
+git@github.com:giggsey/libphonenumber-for-php.git,5.8.4,"no phpunit config"
+git@github.com:giggsey/libphonenumber-for-php.git,5.9.1,"phpunit failed"
+git@github.com:giggsey/libphonenumber-for-php.git,6.1.1,89.34
+git@github.com:giggsey/libphonenumber-for-php.git,6.2.1,89.30
+git@github.com:giggsey/libphonenumber-for-php.git,6.3.1,"phpunit failed"
+git@github.com:giggsey/libphonenumber-for-php.git,7.0.1,"phpunit failed"
+git@github.com:giggsey/libphonenumber-for-php.git,7.1.0,"phpunit failed"
+git@github.com:giggsey/libphonenumber-for-php.git,7.2.1,"phpunit failed"
+git@github.com:giggsey/libphonenumber-for-php.git,7.3.0,"phpunit failed"
+git@github.com:giggsey/libphonenumber-for-php.git,7.4.1,"phpunit failed"
+git@github.com:giggsey/libphonenumber-for-php.git,7.5.0,"phpunit failed"
+git@github.com:giggsey/libphonenumber-for-php.git,7.6.0,"phpunit failed"
+git@github.com:giggsey/libphonenumber-for-php.git,7.7.1,"phpunit failed"
+git@github.com:giggsey/libphonenumber-for-php.git,8.0.1,"phpunit failed"
+git@github.com:giggsey/libphonenumber-for-php.git,8.1.0,"phpunit failed"
+git@github.com:giggsey/libphonenumber-for-php.git,8.2.0,"phpunit failed"
+git@github.com:giggsey/libphonenumber-for-php.git,8.3.0,"phpunit failed"
+git@github.com:giggsey/libphonenumber-for-php.git,8.4.1,95.64
+git@github.com:giggsey/libphonenumber-for-php.git,8.5.1,95.65
+git@github.com:giggsey/libphonenumber-for-php.git,8.6.0,95.62
+git@github.com:giggsey/libphonenumber-for-php.git,8.7.0,95.86
+git@github.com:giggsey/libphonenumber-for-php.git,8.8.0,95.86
+git@github.com:giggsey/libphonenumber-for-php.git,8.9.0,95.83
+git@github.com:giggsey/libphonenumber-for-php.git,8.10.0,95.93

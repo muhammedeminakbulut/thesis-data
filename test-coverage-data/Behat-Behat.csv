@@ -1,0 +1,7 @@
+repository,tag,coverage
+git@github.com:Behat/Behat.git,v3.1.0,0.26
+git@github.com:Behat/Behat.git,v3.2.0,0.24
+git@github.com:Behat/Behat.git,v3.3.0,0.24
+git@github.com:Behat/Behat.git,v3.0.0,"phpunit failed"
+git@github.com:Behat/Behat.git,v3.4.0,0.23
+git@github.com:Behat/Behat.git,v3.5.0,0.35

@@ -1,0 +1,6 @@
+repository,tag,coverage
+git@github.com:webmozart/assert.git,1.0.0,"phpunit not installed"
+git@github.com:webmozart/assert.git,1.1.0,96.43
+git@github.com:webmozart/assert.git,1.2.0,96.38
+git@github.com:webmozart/assert.git,1.3.0,96.65
+git@github.com:webmozart/assert.git,1.4.0,96.91

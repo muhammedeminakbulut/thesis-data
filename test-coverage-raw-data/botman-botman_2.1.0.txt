@@ -1,0 +1,90 @@
+
+
+Code Coverage Report:       
+  2019-02-16 21:11:33       
+                            
+ Summary:                   
+  Classes: 34.78% (16/46)   
+  Methods: 72.35% (259/358) 
+  Lines:   78.41% (821/1047)
+
+\BotMan\BotMan::BotMan
+  Methods:  75.61% (31/41)   Lines:  90.00% (135/150)
+\BotMan\BotMan::BotManFactory
+  Methods:  33.33% ( 2/ 6)   Lines:  30.77% ( 12/ 39)
+\BotMan\BotMan::BotManServiceProvider
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  4/  4)
+\BotMan\BotMan\Cache::ArrayCache
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 11/ 11)
+\BotMan\BotMan\Cache::CodeIgniterCache
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 16/ 16)
+\BotMan\BotMan\Cache::DoctrineCache
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 17/ 17)
+\BotMan\BotMan\Cache::LaravelCache
+  Methods:  25.00% ( 1/ 4)   Lines:  40.00% (  2/  5)
+\BotMan\BotMan\Cache::Psr6Cache
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 19/ 19)
+\BotMan\BotMan\Cache::SymfonyCache
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\BotMan\BotMan\Commands::Command
+  Methods:  93.75% (15/16)   Lines:  87.18% ( 34/ 39)
+\BotMan\BotMan\Commands::ConversationManager
+  Methods:  75.00% ( 3/ 4)   Lines:  94.12% ( 16/ 17)
+\BotMan\BotMan\Drivers::DriverManager
+  Methods:  77.78% ( 7/ 9)   Lines:  91.30% ( 42/ 46)
+\BotMan\BotMan\Drivers::HttpDriver
+  Methods:  42.86% ( 3/ 7)   Lines:  63.64% (  7/ 11)
+\BotMan\BotMan\Drivers::NullDriver
+  Methods:  50.00% ( 6/12)   Lines:  50.00% (  6/ 12)
+\BotMan\BotMan\Drivers\Events::GenericEvent
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  6/  6)
+\BotMan\BotMan\Drivers\Tests::FakeDriver
+  Methods:  86.36% (19/22)   Lines:  91.30% ( 42/ 46)
+\BotMan\BotMan\Drivers\Tests::ProxyDriver
+  Methods:  78.57% (11/14)   Lines:  82.35% ( 14/ 17)
+\BotMan\BotMan\Facades::BotMan
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\BotMan\BotMan\Handlers::ExceptionHandler
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 15/ 15)
+\BotMan\BotMan\Messages::Matcher
+  Methods:  83.33% ( 5/ 6)   Lines:  95.24% ( 20/ 21)
+\BotMan\BotMan\Messages\Attachments::Attachment
+  Methods:  50.00% ( 1/ 2)   Lines:  66.67% (  2/  3)
+\BotMan\BotMan\Messages\Attachments::Image
+  Methods:  83.33% ( 5/ 6)   Lines:  72.73% (  8/ 11)
+\BotMan\BotMan\Messages\Attachments::Location
+  Methods:  60.00% ( 3/ 5)   Lines:  60.00% (  6/ 10)
+\BotMan\BotMan\Messages\Attachments::Video
+  Methods:  75.00% ( 3/ 4)   Lines:  71.43% (  5/  7)
+\BotMan\BotMan\Messages\Conversations::Conversation
+  Methods:  83.33% (10/12)   Lines:  87.80% ( 36/ 41)
+\BotMan\BotMan\Messages\Incoming::Answer
+  Methods: 100.00% (13/13)   Lines: 100.00% ( 19/ 19)
+\BotMan\BotMan\Messages\Incoming::IncomingMessage
+  Methods:  90.48% (19/21)   Lines:  91.18% ( 31/ 34)
+\BotMan\BotMan\Messages\Matching::MatchingMessage
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  7/  7)
+\BotMan\BotMan\Messages\Outgoing::OutgoingMessage
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 10/ 10)
+\BotMan\BotMan\Messages\Outgoing::Question
+  Methods:  61.54% ( 8/13)   Lines:  62.96% ( 17/ 27)
+\BotMan\BotMan\Messages\Outgoing\Actions::Button
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% ( 18/ 18)
+\BotMan\BotMan\Middleware::ApiAi
+  Methods:  55.56% ( 5/ 9)   Lines:  88.24% ( 30/ 34)
+\BotMan\BotMan\Middleware::MiddlewareManager
+  Methods:  42.86% ( 3/ 7)   Lines:  83.33% ( 20/ 24)
+\BotMan\BotMan\Middleware::Wit
+  Methods:  62.50% ( 5/ 8)   Lines:  86.96% ( 20/ 23)
+\BotMan\BotMan\Storages::Storage
+  Methods: 100.00% (11/11)   Lines: 100.00% ( 20/ 20)
+\BotMan\BotMan\Storages\Drivers::FileStorage
+  Methods:  83.33% ( 5/ 6)   Lines:  95.65% ( 22/ 23)
+\BotMan\BotMan\Traits::HandlesConversations
+  Methods:  61.54% ( 8/13)   Lines:  85.29% ( 58/ 68)
+\BotMan\BotMan\Traits::HandlesExceptions
+  Methods:  50.00% ( 1/ 2)   Lines:  50.00% (  2/  4)
+\BotMan\BotMan\Traits::ProvidesStorage
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  9/  9)
+\BotMan\BotMan\Users::User
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 11/ 11)

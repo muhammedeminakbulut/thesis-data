@@ -1,0 +1,4 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:fuel/fuel.git,v1.0.1,658,259,10,0.00%,2.5,0,290,61,5,0
+git@github.com:fuel/fuel.git,1.8.0,942,436,15,0.00%,1.5714285714286,0,290,61,20,0
+git@github.com:fuel/fuel.git,1.8.1,957,446,17,0.00%,1.5714285714286,0,290,61,22,0

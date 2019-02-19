@@ -1,0 +1,4 @@
+repository,tag,coverage
+git@github.com:sebastianbergmann/recursion-context.git,1.0.0,97.14
+git@github.com:sebastianbergmann/recursion-context.git,2.0.0,"phpunit failed"
+git@github.com:sebastianbergmann/recursion-context.git,3.0.0,74.42

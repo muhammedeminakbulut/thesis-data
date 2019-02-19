@@ -1,0 +1,4 @@
+repository,tag,coverage
+git@github.com:caouecs/Laravel-lang.git,1.0.2,"no phpunit config"
+git@github.com:caouecs/Laravel-lang.git,2.0.1,"no phpunit config"
+git@github.com:caouecs/Laravel-lang.git,3.0.0,"no phpunit config"

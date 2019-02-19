@@ -1,0 +1,7 @@
+repository,tag,coverage
+git@github.com:directus/directus.git,6.0.5,"no composer"
+git@github.com:directus/directus.git,6.1.0,"no composer"
+git@github.com:directus/directus.git,6.2.0,"no composer"
+git@github.com:directus/directus.git,6.3.0,"phpunit failed"
+git@github.com:directus/directus.git,6.4.0,"phpunit failed"
+git@github.com:directus/directus.git,v7.0.1,"no composer"

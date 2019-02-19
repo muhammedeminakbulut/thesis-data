@@ -1,0 +1,5 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:JeffreyWay/Laravel-4-Generators.git,2.6.1,2222,745,43,0.00%,2.1926605504587,0,674,47,14,0
+git@github.com:JeffreyWay/Laravel-4-Generators.git,3.0.1,2239,752,43,0.00%,2.1909090909091,0,674,47,14,0
+git@github.com:JeffreyWay/Laravel-4-Generators.git,3.0.2,2365,822,43,0.00%,2.0081300813008,0,674,47,14,0
+git@github.com:JeffreyWay/Laravel-4-Generators.git,3.0.3,2365,822,43,0.00%,2.0081300813008,0,674,47,14,0

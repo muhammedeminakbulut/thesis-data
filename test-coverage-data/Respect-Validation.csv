@@ -1,0 +1,102 @@
+repository,tag,coverage
+git@github.com:Respect/Validation.git,0.3.9,"composer failed, 
+                                                              
+  [Composer\Json\JsonValidationException]                     
+  ""./composer.json"" does not match the expected JSON schema:  
+   - homepage : Invalid URL format                            
+   - authors[1].email : Invalid email                         
+   - authors[3].email : Invalid email                         
+   - authors[6].email : Invalid email                         
+   - authors[24].email : Invalid email"
+git@github.com:Respect/Validation.git,0.4.0,"composer failed, 
+                                                              
+  [Composer\Json\JsonValidationException]                     
+  ""./composer.json"" does not match the expected JSON schema:  
+   - homepage : Invalid URL format                            
+   - authors[1].email : Invalid email                         
+   - authors[3].email : Invalid email                         
+   - authors[6].email : Invalid email                         
+   - authors[24].email : Invalid email"
+git@github.com:Respect/Validation.git,0.5.0,"no phpunit config"
+git@github.com:Respect/Validation.git,0.6.0,"no phpunit config"
+git@github.com:Respect/Validation.git,0.7.0,"phpunit failed"
+git@github.com:Respect/Validation.git,0.8.0,"composer failed, 
+                                                                                                                          
+  [RuntimeException]                                                                                                      
+  Failed to clone https://github.com/malkusch/php-index.git via https, ssh protocols, aborting.                           
+                                                                                                                          
+  - https://github.com/malkusch/php-index.git                                                                             
+    Cloning into '/home/muhammed/projects/thesis/data/git/3cd07f733bf5c384de0a2abf427ad848/vendor/malkusch/php-index'...  
+    remote: Invalid username or password.                                                                                 
+    fatal: Authentication failed for 'https://github.com/malkusch/php-index.git/'                                         
+                                                                                                                          
+  - git@github.com:malkusch/php-index.git                                                                                 
+    Cloning into '/home/muhammed/projects/thesis/data/git/3cd07f733bf5c384de0a2abf427ad848/vendor/malkusch/php-index'...  
+    ERROR: Repository not found.                                                                                          
+    fatal: Could not read from remote repository.                                                                         
+                                                                                                                          
+    Please make sure you have the correct access rights                                                                   
+    and the repository exists.                                                                                            
+                                                                                                                          
+
+install [--prefer-source] [--prefer-dist] [--dry-run] [--dev] [--no-dev] [--no-custom-installers] [--no-autoloader] [--no-scripts] [--no-progress] [--no-suggest] [-v|vv|vvv|--verbose] [-o|--optimize-autoloader] [-a|--classmap-authoritative] [--apcu-autoloader] [--ignore-platform-reqs] [--] [<packages>]..."
+git@github.com:Respect/Validation.git,0.9.0,"composer failed, 
+                                                                                                                          
+  [RuntimeException]                                                                                                      
+  Failed to clone https://github.com/malkusch/php-index.git via https, ssh protocols, aborting.                           
+                                                                                                                          
+  - https://github.com/malkusch/php-index.git                                                                             
+    Cloning into '/home/muhammed/projects/thesis/data/git/3cd07f733bf5c384de0a2abf427ad848/vendor/malkusch/php-index'...  
+    remote: Invalid username or password.                                                                                 
+    fatal: Authentication failed for 'https://github.com/malkusch/php-index.git/'                                         
+                                                                                                                          
+  - git@github.com:malkusch/php-index.git                                                                                 
+    Cloning into '/home/muhammed/projects/thesis/data/git/3cd07f733bf5c384de0a2abf427ad848/vendor/malkusch/php-index'...  
+    ERROR: Repository not found.                                                                                          
+    fatal: Could not read from remote repository.                                                                         
+                                                                                                                          
+    Please make sure you have the correct access rights                                                                   
+    and the repository exists.                                                                                            
+                                                                                                                          
+
+install [--prefer-source] [--prefer-dist] [--dry-run] [--dev] [--no-dev] [--no-custom-installers] [--no-autoloader] [--no-scripts] [--no-progress] [--no-suggest] [-v|vv|vvv|--verbose] [-o|--optimize-autoloader] [-a|--classmap-authoritative] [--apcu-autoloader] [--ignore-platform-reqs] [--] [<packages>]..."
+git@github.com:Respect/Validation.git,1.0.0,"composer failed, 
+                                                                                                                          
+  [RuntimeException]                                                                                                      
+  Failed to clone https://github.com/malkusch/php-index.git via https, ssh protocols, aborting.                           
+                                                                                                                          
+  - https://github.com/malkusch/php-index.git                                                                             
+    Cloning into '/home/muhammed/projects/thesis/data/git/3cd07f733bf5c384de0a2abf427ad848/vendor/malkusch/php-index'...  
+    remote: Invalid username or password.                                                                                 
+    fatal: Authentication failed for 'https://github.com/malkusch/php-index.git/'                                         
+                                                                                                                          
+  - git@github.com:malkusch/php-index.git                                                                                 
+    Cloning into '/home/muhammed/projects/thesis/data/git/3cd07f733bf5c384de0a2abf427ad848/vendor/malkusch/php-index'...  
+    ERROR: Repository not found.                                                                                          
+    fatal: Could not read from remote repository.                                                                         
+                                                                                                                          
+    Please make sure you have the correct access rights                                                                   
+    and the repository exists.                                                                                            
+                                                                                                                          
+
+install [--prefer-source] [--prefer-dist] [--dry-run] [--dev] [--no-dev] [--no-custom-installers] [--no-autoloader] [--no-scripts] [--no-progress] [--no-suggest] [-v|vv|vvv|--verbose] [-o|--optimize-autoloader] [-a|--classmap-authoritative] [--apcu-autoloader] [--ignore-platform-reqs] [--] [<packages>]..."
+git@github.com:Respect/Validation.git,1.1.0,"composer failed, 
+                                                                                                                          
+  [RuntimeException]                                                                                                      
+  Failed to clone https://github.com/malkusch/php-index.git via https, ssh protocols, aborting.                           
+                                                                                                                          
+  - https://github.com/malkusch/php-index.git                                                                             
+    Cloning into '/home/muhammed/projects/thesis/data/git/3cd07f733bf5c384de0a2abf427ad848/vendor/malkusch/php-index'...  
+    remote: Invalid username or password.                                                                                 
+    fatal: Authentication failed for 'https://github.com/malkusch/php-index.git/'                                         
+                                                                                                                          
+  - git@github.com:malkusch/php-index.git                                                                                 
+    Cloning into '/home/muhammed/projects/thesis/data/git/3cd07f733bf5c384de0a2abf427ad848/vendor/malkusch/php-index'...  
+    ERROR: Repository not found.                                                                                          
+    fatal: Could not read from remote repository.                                                                         
+                                                                                                                          
+    Please make sure you have the correct access rights                                                                   
+    and the repository exists.                                                                                            
+                                                                                                                          
+
+install [--prefer-source] [--prefer-dist] [--dry-run] [--dev] [--no-dev] [--no-custom-installers] [--no-autoloader] [--no-scripts] [--no-progress] [--no-suggest] [-v|vv|vvv|--verbose] [-o|--optimize-autoloader] [-a|--classmap-authoritative] [--apcu-autoloader] [--ignore-platform-reqs] [--] [<packages>]..."

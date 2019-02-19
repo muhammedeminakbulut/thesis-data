@@ -1,0 +1,304 @@
+
+
+Code Coverage Report:        
+  2019-02-15 15:41:52        
+                             
+ Summary:                    
+  Classes: 86.71% (137/158)  
+  Methods: 93.75% (750/800)  
+  Lines:   88.94% (2156/2424)
+
+\EasyWeChat::EasyWeChat\Factory
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\EasyWeChat\BasicService\ContentSecurity::EasyWeChat\BasicService\ContentSecurity\Client
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\EasyWeChat\BasicService\Jssdk::EasyWeChat\BasicService\Jssdk\Client
+  Methods: 100.00% ( 9/ 9)   Lines: 100.00% ( 29/ 29)
+\EasyWeChat\BasicService\Media::EasyWeChat\BasicService\Media\Client
+  Methods: 100.00% ( 9/ 9)   Lines: 100.00% ( 28/ 28)
+\EasyWeChat\BasicService\QrCode::EasyWeChat\BasicService\QrCode\Client
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 21/ 21)
+\EasyWeChat\BasicService\Url::EasyWeChat\BasicService\Url\Client
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\EasyWeChat\Kernel::EasyWeChat\Kernel\AccessToken
+  Methods: 100.00% (11/11)   Lines: 100.00% ( 33/ 33)
+\EasyWeChat\Kernel::EasyWeChat\Kernel\BaseClient
+  Methods:  92.86% (13/14)   Lines:  83.33% ( 35/ 42)
+\EasyWeChat\Kernel::EasyWeChat\Kernel\Encryptor
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 44/ 44)
+\EasyWeChat\Kernel::EasyWeChat\Kernel\ServerGuard
+  Methods:  92.31% (12/13)   Lines:  97.44% ( 76/ 78)
+\EasyWeChat\Kernel::EasyWeChat\Kernel\ServiceContainer
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 17/ 17)
+\EasyWeChat\Kernel\Clauses::EasyWeChat\Kernel\Clauses\Clause
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  8/  8)
+\EasyWeChat\Kernel\Decorators::EasyWeChat\Kernel\Decorators\FinallyResult
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\EasyWeChat\Kernel\Decorators::EasyWeChat\Kernel\Decorators\TerminateResult
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\EasyWeChat\Kernel\Http::EasyWeChat\Kernel\Http\Response
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% ( 22/ 22)
+\EasyWeChat\Kernel\Http::EasyWeChat\Kernel\Http\StreamResponse
+  Methods:  50.00% ( 1/ 2)   Lines:  94.12% ( 16/ 17)
+\EasyWeChat\Kernel\Log::EasyWeChat\Kernel\Log\LogManager
+  Methods: 100.00% (32/32)   Lines: 100.00% ( 76/ 76)
+\EasyWeChat\Kernel\Messages::EasyWeChat\Kernel\Messages\Card
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\EasyWeChat\Kernel\Messages::EasyWeChat\Kernel\Messages\DeviceText
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  4/  4)
+\EasyWeChat\Kernel\Messages::EasyWeChat\Kernel\Messages\Media
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  7/  7)
+\EasyWeChat\Kernel\Messages::EasyWeChat\Kernel\Messages\Message
+  Methods: 100.00% (10/10)   Lines: 100.00% ( 29/ 29)
+\EasyWeChat\Kernel\Messages::EasyWeChat\Kernel\Messages\Music
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  7/  7)
+\EasyWeChat\Kernel\Messages::EasyWeChat\Kernel\Messages\News
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 11/ 11)
+\EasyWeChat\Kernel\Messages::EasyWeChat\Kernel\Messages\NewsItem
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  8/  8)
+\EasyWeChat\Kernel\Messages::EasyWeChat\Kernel\Messages\Raw
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  4/  4)
+\EasyWeChat\Kernel\Messages::EasyWeChat\Kernel\Messages\Text
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\EasyWeChat\Kernel\Messages::EasyWeChat\Kernel\Messages\Transfer
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\EasyWeChat\Kernel\Messages::EasyWeChat\Kernel\Messages\Video
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  5/  5)
+\EasyWeChat\Kernel\Support::EasyWeChat\Kernel\Support\AES
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 13/ 13)
+\EasyWeChat\Kernel\Support::EasyWeChat\Kernel\Support\Arr
+  Methods: 100.00% (20/20)   Lines: 100.00% (110/110)
+\EasyWeChat\Kernel\Support::EasyWeChat\Kernel\Support\ArrayAccessible
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 12/ 12)
+\EasyWeChat\Kernel\Support::EasyWeChat\Kernel\Support\Collection
+  Methods: 100.00% (29/29)   Lines: 100.00% ( 49/ 49)
+\EasyWeChat\Kernel\Support::EasyWeChat\Kernel\Support\File
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 11/ 11)
+\EasyWeChat\Kernel\Support::EasyWeChat\Kernel\Support\Str
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 24/ 24)
+\EasyWeChat\Kernel\Support::EasyWeChat\Kernel\Support\XML
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 37/ 37)
+\EasyWeChat\Kernel\Traits::HasAttributes
+  Methods: 100.00% (17/17)   Lines: 100.00% ( 29/ 29)
+\EasyWeChat\Kernel\Traits::HasHttpRequests
+  Methods: 100.00% (10/10)   Lines: 100.00% ( 36/ 36)
+\EasyWeChat\Kernel\Traits::InteractsWithCache
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  9/  9)
+\EasyWeChat\Kernel\Traits::Observable
+  Methods: 100.00% (13/13)   Lines: 100.00% ( 55/ 55)
+\EasyWeChat\Kernel\Traits::ResponseCastable
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 27/ 27)
+\EasyWeChat\MiniProgram::EasyWeChat\MiniProgram\Encryptor
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  6/  6)
+\EasyWeChat\MiniProgram\AppCode::EasyWeChat\MiniProgram\AppCode\Client
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 10/ 10)
+\EasyWeChat\MiniProgram\Auth::EasyWeChat\MiniProgram\Auth\AccessToken
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\EasyWeChat\MiniProgram\Auth::EasyWeChat\MiniProgram\Auth\Client
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  5/  5)
+\EasyWeChat\MiniProgram\DataCube::EasyWeChat\MiniProgram\DataCube\Client
+  Methods: 100.00% (11/11)   Lines: 100.00% ( 13/ 13)
+\EasyWeChat\MiniProgram\Store::EasyWeChat\MiniProgram\Store\Client
+  Methods:  91.67% (11/12)   Lines:  94.12% ( 16/ 17)
+\EasyWeChat\MiniProgram\TemplateMessage::EasyWeChat\MiniProgram\TemplateMessage\Client
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% (  8/  8)
+\EasyWeChat\OfficialAccount\Auth::EasyWeChat\OfficialAccount\Auth\AccessToken
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\EasyWeChat\OfficialAccount\AutoReply::EasyWeChat\OfficialAccount\AutoReply\Client
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\EasyWeChat\OfficialAccount\Base::EasyWeChat\OfficialAccount\Base\Client
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\EasyWeChat\OfficialAccount\Broadcasting::EasyWeChat\OfficialAccount\Broadcasting\Client
+  Methods: 100.00% (18/18)   Lines: 100.00% ( 29/ 29)
+\EasyWeChat\OfficialAccount\Broadcasting::EasyWeChat\OfficialAccount\Broadcasting\MessageBuilder
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 22/ 22)
+\EasyWeChat\OfficialAccount\Card::EasyWeChat\OfficialAccount\Card\BoardingPassClient
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\EasyWeChat\OfficialAccount\Card::EasyWeChat\OfficialAccount\Card\Card
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\EasyWeChat\OfficialAccount\Card::EasyWeChat\OfficialAccount\Card\Client
+  Methods: 100.00% (19/19)   Lines: 100.00% ( 51/ 51)
+\EasyWeChat\OfficialAccount\Card::EasyWeChat\OfficialAccount\Card\CodeClient
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% ( 25/ 25)
+\EasyWeChat\OfficialAccount\Card::EasyWeChat\OfficialAccount\Card\CoinClient
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 13/ 13)
+\EasyWeChat\OfficialAccount\Card::EasyWeChat\OfficialAccount\Card\GeneralCardClient
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\EasyWeChat\OfficialAccount\Card::EasyWeChat\OfficialAccount\Card\JssdkClient
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 12/ 12)
+\EasyWeChat\OfficialAccount\Card::EasyWeChat\OfficialAccount\Card\MeetingTicketClient
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\EasyWeChat\OfficialAccount\Card::EasyWeChat\OfficialAccount\Card\MemberCardClient
+  Methods:  83.33% ( 5/ 6)   Lines:  80.00% (  8/ 10)
+\EasyWeChat\OfficialAccount\Card::EasyWeChat\OfficialAccount\Card\MovieTicketClient
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\EasyWeChat\OfficialAccount\Card::EasyWeChat\OfficialAccount\Card\SubMerchantClient
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 12/ 12)
+\EasyWeChat\OfficialAccount\Comment::EasyWeChat\OfficialAccount\Comment\Client
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% ( 33/ 33)
+\EasyWeChat\OfficialAccount\CustomerService::EasyWeChat\OfficialAccount\CustomerService\Client
+  Methods: 100.00% (10/10)   Lines: 100.00% ( 21/ 21)
+\EasyWeChat\OfficialAccount\CustomerService::EasyWeChat\OfficialAccount\CustomerService\Messenger
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 23/ 23)
+\EasyWeChat\OfficialAccount\CustomerService::EasyWeChat\OfficialAccount\CustomerService\SessionClient
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% (  9/  9)
+\EasyWeChat\OfficialAccount\DataCube::EasyWeChat\OfficialAccount\DataCube\Client
+  Methods: 100.00% (22/22)   Lines: 100.00% ( 31/ 31)
+\EasyWeChat\OfficialAccount\Device::EasyWeChat\OfficialAccount\Device\Client
+  Methods: 100.00% (12/12)   Lines: 100.00% ( 38/ 38)
+\EasyWeChat\OfficialAccount\Material::EasyWeChat\OfficialAccount\Material\Client
+  Methods: 100.00% (14/14)   Lines: 100.00% ( 39/ 39)
+\EasyWeChat\OfficialAccount\Menu::EasyWeChat\OfficialAccount\Menu\Client
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 11/ 11)
+\EasyWeChat\OfficialAccount\POI::EasyWeChat\OfficialAccount\POI\Client
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 11/ 11)
+\EasyWeChat\OfficialAccount\Semantic::EasyWeChat\OfficialAccount\Semantic\Client
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  4/  4)
+\EasyWeChat\OfficialAccount\Server::EasyWeChat\OfficialAccount\Server\Guard
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\EasyWeChat\OfficialAccount\Server\Handlers::EasyWeChat\OfficialAccount\Server\Handlers\EchoStrHandler
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  5/  5)
+\EasyWeChat\OfficialAccount\ShakeAround::EasyWeChat\OfficialAccount\ShakeAround\Client
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  7/  7)
+\EasyWeChat\OfficialAccount\ShakeAround::EasyWeChat\OfficialAccount\ShakeAround\DeviceClient
+  Methods: 100.00% ( 9/ 9)   Lines: 100.00% ( 27/ 27)
+\EasyWeChat\OfficialAccount\ShakeAround::EasyWeChat\OfficialAccount\ShakeAround\GroupClient
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 20/ 20)
+\EasyWeChat\OfficialAccount\ShakeAround::EasyWeChat\OfficialAccount\ShakeAround\MaterialClient
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\EasyWeChat\OfficialAccount\ShakeAround::EasyWeChat\OfficialAccount\ShakeAround\PageClient
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 11/ 11)
+\EasyWeChat\OfficialAccount\ShakeAround::EasyWeChat\OfficialAccount\ShakeAround\RelationClient
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 11/ 11)
+\EasyWeChat\OfficialAccount\ShakeAround::EasyWeChat\OfficialAccount\ShakeAround\ShakeAround
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\EasyWeChat\OfficialAccount\ShakeAround::EasyWeChat\OfficialAccount\ShakeAround\StatsClient
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 14/ 14)
+\EasyWeChat\OfficialAccount\TemplateMessage::EasyWeChat\OfficialAccount\TemplateMessage\Client
+  Methods: 100.00% (10/10)   Lines: 100.00% ( 36/ 36)
+\EasyWeChat\OfficialAccount\User::EasyWeChat\OfficialAccount\User\TagClient
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% ( 19/ 19)
+\EasyWeChat\OfficialAccount\User::EasyWeChat\OfficialAccount\User\UserClient
+  Methods: 100.00% ( 9/ 9)   Lines: 100.00% ( 21/ 21)
+\EasyWeChat\OpenPlatform::EasyWeChat\OpenPlatform\Application
+  Methods:  83.33% (10/12)   Lines:  72.97% ( 27/ 37)
+\EasyWeChat\OpenPlatform\Auth::EasyWeChat\OpenPlatform\Auth\AccessToken
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\EasyWeChat\OpenPlatform\Auth::EasyWeChat\OpenPlatform\Auth\VerifyTicket
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  8/  8)
+\EasyWeChat\OpenPlatform\Authorizer\Aggregate\Account::EasyWeChat\OpenPlatform\Authorizer\Aggregate\Account\Client
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 10/ 10)
+\EasyWeChat\OpenPlatform\Authorizer\Auth::EasyWeChat\OpenPlatform\Authorizer\Auth\AccessToken
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  8/  8)
+\EasyWeChat\OpenPlatform\Authorizer\MiniProgram::EasyWeChat\OpenPlatform\Authorizer\MiniProgram\Application
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  5/  5)
+\EasyWeChat\OpenPlatform\Authorizer\MiniProgram\Auth::EasyWeChat\OpenPlatform\Authorizer\MiniProgram\Auth\Client
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  9/  9)
+\EasyWeChat\OpenPlatform\Authorizer\MiniProgram\Code::EasyWeChat\OpenPlatform\Authorizer\MiniProgram\Code\Client
+  Methods:  85.71% (12/14)   Lines:  91.30% ( 21/ 23)
+\EasyWeChat\OpenPlatform\Authorizer\MiniProgram\Domain::EasyWeChat\OpenPlatform\Authorizer\MiniProgram\Domain\Client
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\EasyWeChat\OpenPlatform\Authorizer\MiniProgram\Tester::EasyWeChat\OpenPlatform\Authorizer\MiniProgram\Tester\Client
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  6/  6)
+\EasyWeChat\OpenPlatform\Authorizer\OfficialAccount::EasyWeChat\OpenPlatform\Authorizer\OfficialAccount\Application
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  5/  5)
+\EasyWeChat\OpenPlatform\Authorizer\OfficialAccount\Account::EasyWeChat\OpenPlatform\Authorizer\OfficialAccount\Account\Client
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 10/ 10)
+\EasyWeChat\OpenPlatform\Authorizer\OfficialAccount\MiniProgram::EasyWeChat\OpenPlatform\Authorizer\OfficialAccount\MiniProgram\Client
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  7/  7)
+\EasyWeChat\OpenPlatform\Authorizer\OfficialAccount\OAuth::EasyWeChat\OpenPlatform\Authorizer\OfficialAccount\OAuth\ComponentDelegate
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  4/  4)
+\EasyWeChat\OpenPlatform\Authorizer\Server::EasyWeChat\OpenPlatform\Authorizer\Server\Guard
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\EasyWeChat\OpenPlatform\Base::EasyWeChat\OpenPlatform\Base\Client
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 21/ 21)
+\EasyWeChat\OpenPlatform\CodeTemplate::EasyWeChat\OpenPlatform\CodeTemplate\Client
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  6/  6)
+\EasyWeChat\OpenPlatform\Server::EasyWeChat\OpenPlatform\Server\Guard
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 10/ 10)
+\EasyWeChat\OpenPlatform\Server\Handlers::EasyWeChat\OpenPlatform\Server\Handlers\Authorized
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\EasyWeChat\OpenPlatform\Server\Handlers::EasyWeChat\OpenPlatform\Server\Handlers\Unauthorized
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\EasyWeChat\OpenPlatform\Server\Handlers::EasyWeChat\OpenPlatform\Server\Handlers\UpdateAuthorized
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\EasyWeChat\OpenPlatform\Server\Handlers::EasyWeChat\OpenPlatform\Server\Handlers\VerifyTicketRefreshed
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  5/  5)
+\EasyWeChat\Payment::EasyWeChat\Payment\Application
+  Methods:  80.00% ( 4/ 5)   Lines:  94.44% ( 17/ 18)
+\EasyWeChat\Payment\Base::EasyWeChat\Payment\Base\Client
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  5/  5)
+\EasyWeChat\Payment\Bill::EasyWeChat\Payment\Bill\Client
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  8/  8)
+\EasyWeChat\Payment\Coupon::EasyWeChat\Payment\Coupon\Client
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  7/  7)
+\EasyWeChat\Payment\Jssdk::EasyWeChat\Payment\Jssdk\Client
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 34/ 34)
+\EasyWeChat\Payment\Kernel::EasyWeChat\Payment\Kernel\BaseClient
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 22/ 22)
+\EasyWeChat\Payment\Merchant::EasyWeChat\Payment\Merchant\Client
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 11/ 11)
+\EasyWeChat\Payment\Notify::EasyWeChat\Payment\Notify\Handler
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% ( 36/ 36)
+\EasyWeChat\Payment\Notify::EasyWeChat\Payment\Notify\Paid
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\EasyWeChat\Payment\Notify::EasyWeChat\Payment\Notify\Refunded
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\EasyWeChat\Payment\Notify::EasyWeChat\Payment\Notify\Scanned
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 11/ 11)
+\EasyWeChat\Payment\Order::EasyWeChat\Payment\Order\Client
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 14/ 14)
+\EasyWeChat\Payment\Redpack::EasyWeChat\Payment\Redpack\Client
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 11/ 11)
+\EasyWeChat\Payment\Refund::EasyWeChat\Payment\Refund\Client
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% ( 16/ 16)
+\EasyWeChat\Payment\Reverse::EasyWeChat\Payment\Reverse\Client
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\EasyWeChat\Payment\Sandbox::EasyWeChat\Payment\Sandbox\Client
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  8/  8)
+\EasyWeChat\Payment\Security::EasyWeChat\Payment\Security\Client
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\EasyWeChat\Payment\Transfer::EasyWeChat\Payment\Transfer\Client
+  Methods:  75.00% ( 3/ 4)   Lines:  95.00% ( 19/ 20)
+\EasyWeChat\Work::EasyWeChat\Work\Application
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\EasyWeChat\Work\Agent::EasyWeChat\Work\Agent\Client
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  4/  4)
+\EasyWeChat\Work\Auth::EasyWeChat\Work\Auth\AccessToken
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\EasyWeChat\Work\Base::EasyWeChat\Work\Base\Client
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\EasyWeChat\Work\Chat::EasyWeChat\Work\Chat\Client
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  4/  4)
+\EasyWeChat\Work\Crm::EasyWeChat\Work\Crm\Client
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\EasyWeChat\Work\Department::EasyWeChat\Work\Department\Client
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  4/  4)
+\EasyWeChat\Work\Invoice::EasyWeChat\Work\Invoice\Client
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 13/ 13)
+\EasyWeChat\Work\Jssdk::EasyWeChat\Work\Jssdk\Client
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\EasyWeChat\Work\Media::EasyWeChat\Work\Media\Client
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 11/ 11)
+\EasyWeChat\Work\Menu::EasyWeChat\Work\Menu\Client
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  3/  3)
+\EasyWeChat\Work\Message::EasyWeChat\Work\Message\Client
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\EasyWeChat\Work\Message::EasyWeChat\Work\Message\Messenger
+  Methods: 100.00% (10/10)   Lines: 100.00% ( 34/ 34)
+\EasyWeChat\Work\MiniProgram::EasyWeChat\Work\MiniProgram\Application
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\EasyWeChat\Work\MiniProgram\Auth::EasyWeChat\Work\MiniProgram\Auth\Client
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\EasyWeChat\Work\OA::EasyWeChat\Work\OA\Client
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  9/  9)
+\EasyWeChat\Work\OAuth::EasyWeChat\Work\OAuth\AccessTokenDelegate
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\EasyWeChat\Work\Server::EasyWeChat\Work\Server\Guard
+  Methods:  66.67% ( 2/ 3)   Lines:  66.67% (  2/  3)
+\EasyWeChat\Work\Server\Handlers::EasyWeChat\Work\Server\Handlers\EchoStrHandler
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 10/ 10)
+\EasyWeChat\Work\User::EasyWeChat\Work\User\Client
+  Methods: 100.00% (10/10)   Lines: 100.00% ( 20/ 20)
+\EasyWeChat\Work\User::EasyWeChat\Work\User\TagClient
+  Methods: 100.00% (10/10)   Lines: 100.00% ( 17/ 17)

@@ -1,0 +1,66 @@
+
+
+Code Coverage Report:        
+  2019-02-17 16:10:16        
+                             
+ Summary:                    
+  Classes: 46.43% (13/28)    
+  Methods: 84.99% (385/453)  
+  Lines:   95.64% (2566/2683)
+
+\libphonenumber::AsYouTypeFormatter
+  Methods:  89.29% (25/28)   Lines:  98.86% (261/264)
+\libphonenumber::DefaultMetadataLoader
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\libphonenumber::Leniency
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  4/  4)
+\libphonenumber::Matcher
+  Methods:  75.00% ( 9/12)   Lines:  94.00% ( 47/ 50)
+\libphonenumber::MultiFileMetadataSourceImpl
+  Methods:  75.00% ( 3/ 4)   Lines:  95.45% ( 21/ 22)
+\libphonenumber::NumberFormat
+  Methods: 100.00% (24/24)   Lines: 100.00% ( 68/ 68)
+\libphonenumber::NumberParseException
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  6/  6)
+\libphonenumber::PhoneMetadata
+  Methods:  97.20% (104/107)   Lines:  98.62% (286/290)
+\libphonenumber::PhoneNumber
+  Methods:  94.74% (36/38)   Lines:  95.35% (123/129)
+\libphonenumber::PhoneNumberDesc
+  Methods:  80.77% (21/26)   Lines:  88.61% ( 70/ 79)
+\libphonenumber::PhoneNumberMatch
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 13/ 13)
+\libphonenumber::PhoneNumberMatcher
+  Methods:  54.17% (13/24)   Lines:  92.89% (235/253)
+\libphonenumber::PhoneNumberToCarrierMapper
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 20/ 20)
+\libphonenumber::PhoneNumberToTimeZonesMapper
+  Methods:  62.50% ( 5/ 8)   Lines:  88.00% ( 22/ 25)
+\libphonenumber::PhoneNumberType
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 15/ 15)
+\libphonenumber::PhoneNumberUtil
+  Methods:  80.39% (82/102)   Lines:  95.55% (1073/1123)
+\libphonenumber::RegexBasedMatcher
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\libphonenumber::ShortNumberInfo
+  Methods:  54.17% (13/24)   Lines:  92.53% (161/174)
+\libphonenumber\Leniency::AbstractLeniency
+  Methods:  66.67% ( 2/ 3)   Lines:  80.00% (  4/  5)
+\libphonenumber\Leniency::ExactGrouping
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  9/  9)
+\libphonenumber\Leniency::Possible
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\libphonenumber\Leniency::StrictGrouping
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 10/ 10)
+\libphonenumber\Leniency::Valid
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  4/  4)
+\libphonenumber\geocoding::PhoneNumberOfflineGeocoder
+  Methods:  85.71% ( 6/ 7)   Lines:  95.65% ( 44/ 46)
+\libphonenumber\prefixmapper::MappingFileProvider
+  Methods:  66.67% ( 2/ 3)   Lines:  92.31% ( 12/ 13)
+\libphonenumber\prefixmapper::PhonePrefixMap
+  Methods:  66.67% ( 2/ 3)   Lines:  91.67% ( 11/ 12)
+\libphonenumber\prefixmapper::PrefixFileReader
+  Methods:  66.67% ( 4/ 6)   Lines:  93.75% ( 30/ 32)
+\libphonenumber\prefixmapper::PrefixTimeZonesMap
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 11/ 11)

@@ -1,0 +1,3 @@
+repository,tag,coverage
+git@github.com:sebastianbergmann/object-reflector.git,1.0.0,68.75
+git@github.com:sebastianbergmann/object-reflector.git,1.1.0,100.00

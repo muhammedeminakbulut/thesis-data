@@ -1,0 +1,40 @@
+
+
+Code Coverage Report:       
+  2019-02-17 15:45:51       
+                            
+ Summary:                   
+  Classes:  5.13% (2/39)    
+  Methods: 25.70% (119/463) 
+  Lines:   31.35% (723/2306)
+
+\DebugBar::DebugBar
+  Methods:  50.00% (15/30)   Lines:  77.69% ( 94/121)
+\DebugBar::JavascriptRenderer
+  Methods:  62.50% (35/56)   Lines:  78.36% (239/305)
+\DebugBar::OpenHandler
+  Methods:  40.00% ( 2/ 5)   Lines:  73.53% ( 25/ 34)
+\DebugBar::RequestIdGenerator
+  Methods:   0.00% ( 0/ 1)   Lines:  28.57% (  2/  7)
+\DebugBar\Bridge::Propel2Collector
+  Methods:  40.00% ( 6/15)   Lines:  66.28% ( 57/ 86)
+\DebugBar\DataCollector::AggregatedCollector
+  Methods:  60.00% ( 9/15)   Lines:  80.65% ( 25/ 31)
+\DebugBar\DataCollector::ConfigCollector
+  Methods:  75.00% ( 6/ 8)   Lines:  88.89% ( 24/ 27)
+\DebugBar\DataCollector::DataCollector
+  Methods:  33.33% ( 4/12)   Lines:  46.15% ( 12/ 26)
+\DebugBar\DataCollector::MessagesCollector
+  Methods:  72.22% (13/18)   Lines:  86.21% ( 50/ 58)
+\DebugBar\DataCollector::TimeDataCollector
+  Methods:  28.57% ( 4/14)   Lines:  69.64% ( 39/ 56)
+\DebugBar\DataCollector\PDO::TracedStatement
+  Methods:   5.00% ( 1/20)   Lines:  33.33% ( 16/ 48)
+\DebugBar\DataFormatter::DataFormatter
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 21/ 21)
+\DebugBar\DataFormatter::DebugBarVarDumper
+  Methods:  92.86% (13/14)   Lines:  98.48% ( 65/ 66)
+\DebugBar\DataFormatter\VarDumper::DebugBarHtmlDumper
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\DebugBar\Storage::FileStorage
+  Methods:  62.50% ( 5/ 8)   Lines:  83.33% ( 20/ 24)

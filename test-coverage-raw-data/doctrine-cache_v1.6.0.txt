@@ -1,0 +1,24 @@
+
+
+Code Coverage Report:      
+  2019-02-17 15:21:14      
+                           
+ Summary:                  
+  Classes: 20.00% (4/20)   
+  Methods: 30.95% (52/168) 
+  Lines:   25.62% (226/882)
+
+\Doctrine\Common\Cache::ArrayCache
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 25/ 25)
+\Doctrine\Common\Cache::CacheProvider
+  Methods: 100.00% (16/16)   Lines: 100.00% ( 47/ 47)
+\Doctrine\Common\Cache::ChainCache
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% ( 33/ 33)
+\Doctrine\Common\Cache::FileCache
+  Methods:  72.73% ( 8/11)   Lines:  84.29% ( 59/ 70)
+\Doctrine\Common\Cache::FilesystemCache
+  Methods:  75.00% ( 3/ 4)   Lines:  93.55% ( 29/ 31)
+\Doctrine\Common\Cache::PhpFileCache
+  Methods:  80.00% ( 4/ 5)   Lines:  96.43% ( 27/ 28)
+\Doctrine\Common\Cache::VoidCache
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% (  6/  6)

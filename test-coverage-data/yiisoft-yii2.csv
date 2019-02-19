@@ -1,0 +1,27 @@
+repository,tag,coverage
+git@github.com:yiisoft/yii2.git,2.0.0,"composer failed, Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Your requirements could not be resolved to an installable set of packages.
+
+  Problem 1
+    - The requested package bower-asset/jquery could not be found in any version, there may be a typo in the package name.
+  Problem 2
+    - The requested package bower-asset/jquery.inputmask could not be found in any version, there may be a typo in the package name.
+  Problem 3
+    - The requested package bower-asset/punycode could not be found in any version, there may be a typo in the package name.
+  Problem 4
+    - The requested package bower-asset/yii2-pjax could not be found in any version, there may be a typo in the package name.
+  Problem 5
+    - The requested package bower-asset/bootstrap could not be found in any version, there may be a typo in the package name.
+  Problem 6
+    - The requested package bower-asset/jquery-ui could not be found in any version, there may be a typo in the package name.
+  Problem 7
+    - The requested package bower-asset/typeahead.js could not be found in any version, there may be a typo in the package name.
+
+Potential causes:
+ - A typo in the package name
+ - The package is not available in a stable-enough version according to your minimum-stability setting
+   see <https://getcomposer.org/doc/04-schema.md#minimum-stability> for more details.
+ - It's a private package and you forgot to add a custom repository to find it
+
+Read <https://getcomposer.org/doc/articles/troubleshooting.md> for further common problems."

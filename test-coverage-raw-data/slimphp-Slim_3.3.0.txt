@@ -1,0 +1,68 @@
+
+
+Code Coverage Report:        
+  2019-02-15 09:45:45        
+                             
+ Summary:                    
+  Classes: 60.61% (20/33)    
+  Methods: 84.10% (238/283)  
+  Lines:   84.58% (1185/1401)
+
+\Slim::App
+  Methods:  78.26% (18/23)   Lines:  86.84% (132/152)
+\Slim::CallableResolver
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 22/ 22)
+\Slim::CallableResolverAwareTrait
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  4/  4)
+\Slim::Collection
+  Methods: 100.00% (15/15)   Lines: 100.00% ( 24/ 24)
+\Slim::Container
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 12/ 12)
+\Slim::DefaultServicesProvider
+  Methods:  50.00% ( 1/ 2)   Lines:  95.45% ( 21/ 22)
+\Slim::DeferredCallable
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  8/  8)
+\Slim::MiddlewareAwareTrait
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 25/ 25)
+\Slim::Routable
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  6/  6)
+\Slim::Route
+  Methods: 100.00% (17/17)   Lines: 100.00% ( 66/ 66)
+\Slim::RouteGroup
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  8/  8)
+\Slim::Router
+  Methods:  86.67% (13/15)   Lines:  95.71% ( 67/ 70)
+\Slim\Exception::MethodNotAllowedException
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\Slim\Exception::SlimException
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  6/  6)
+\Slim\Handlers::Error
+  Methods:  20.00% ( 2/10)   Lines:  74.26% ( 75/101)
+\Slim\Handlers::NotAllowed
+  Methods:  83.33% ( 5/ 6)   Lines:  97.37% ( 37/ 38)
+\Slim\Handlers::NotFound
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 25/ 25)
+\Slim\Handlers\Strategies::RequestResponse
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\Slim\Handlers\Strategies::RequestResponseArgs
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Slim\Http::Cookies
+  Methods:  28.57% ( 2/ 7)   Lines:  30.43% ( 14/ 46)
+\Slim\Http::Environment
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 18/ 18)
+\Slim\Http::Headers
+  Methods:  88.89% ( 8/ 9)   Lines:  91.43% ( 32/ 35)
+\Slim\Http::Message
+  Methods: 100.00% (12/12)   Lines: 100.00% ( 25/ 25)
+\Slim\Http::Request
+  Methods:  91.30% (42/46)   Lines:  97.20% (208/214)
+\Slim\Http::RequestBody
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  5/  5)
+\Slim\Http::Response
+  Methods:  95.00% (19/20)   Lines:  98.33% ( 59/ 60)
+\Slim\Http::Stream
+  Methods:  88.89% (16/18)   Lines:  96.20% ( 76/ 79)
+\Slim\Http::UploadedFile
+  Methods:  55.56% ( 5/ 9)   Lines:  71.88% ( 46/ 64)
+\Slim\Http::Uri
+  Methods:  96.43% (27/28)   Lines:  99.32% (147/148)

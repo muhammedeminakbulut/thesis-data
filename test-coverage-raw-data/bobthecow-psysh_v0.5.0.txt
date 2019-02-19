@@ -1,0 +1,156 @@
+
+
+Code Coverage Report:        
+  2019-02-16 13:36:11        
+                             
+ Summary:                    
+  Classes: 33.70% (31/92)    
+  Methods: 52.78% (247/468)  
+  Lines:   45.58% (1383/3034)
+
+\Psy::Autoloader
+  Methods:  50.00% ( 1/ 2)   Lines:  25.00% (  2/  8)
+\Psy::CodeCleaner
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% ( 49/ 49)
+\Psy::Configuration
+  Methods:  60.34% (35/58)   Lines:  71.43% (155/217)
+\Psy::Context
+  Methods:  42.86% ( 3/ 7)   Lines:  77.78% ( 21/ 27)
+\Psy::Shell
+  Methods:  54.55% (24/44)   Lines:  55.40% (118/213)
+\Psy\CodeCleaner::AbstractClassPass
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 20/ 20)
+\Psy\CodeCleaner::AssignThisVariablePass
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\Psy\CodeCleaner::CallTimePassByReferencePass
+  Methods:   0.00% ( 0/ 1)   Lines:  87.50% (  7/  8)
+\Psy\CodeCleaner::CalledClassPass
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 18/ 18)
+\Psy\CodeCleaner::FunctionReturnInWriteContextPass
+  Methods:  66.67% ( 2/ 3)   Lines:  85.00% ( 17/ 20)
+\Psy\CodeCleaner::ImplicitReturnPass
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  6/  6)
+\Psy\CodeCleaner::InstanceOfPass
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  5/  5)
+\Psy\CodeCleaner::LeavePsyshAlonePass
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\Psy\CodeCleaner::LegacyEmptyPass
+  Methods:   0.00% ( 0/ 2)   Lines:  12.50% (  2/ 16)
+\Psy\CodeCleaner::MagicConstantsPass
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  5/  5)
+\Psy\CodeCleaner::NamespaceAwarePass
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 13/ 13)
+\Psy\CodeCleaner::NamespacePass
+  Methods:  66.67% ( 2/ 3)   Lines:  92.86% ( 13/ 14)
+\Psy\CodeCleaner::StaticConstructorPass
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 22/ 22)
+\Psy\CodeCleaner::UseStatementPass
+  Methods:  66.67% ( 2/ 3)   Lines:  96.00% ( 24/ 25)
+\Psy\CodeCleaner::ValidClassNamePass
+  Methods:  88.89% (16/18)   Lines:  97.40% ( 75/ 77)
+\Psy\CodeCleaner::ValidConstantPass
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 17/ 17)
+\Psy\CodeCleaner::ValidFunctionNamePass
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 15/ 15)
+\Psy\Command::BufferCommand
+  Methods:  25.00% ( 1/ 4)   Lines:  47.06% (  8/ 17)
+\Psy\Command::ClearCommand
+  Methods:  50.00% ( 1/ 2)   Lines:  75.00% (  6/  8)
+\Psy\Command::Command
+  Methods:   0.00% ( 0/ 9)   Lines:   5.41% (  2/ 37)
+\Psy\Command::DocCommand
+  Methods:  25.00% ( 1/ 4)   Lines:  25.00% (  8/ 32)
+\Psy\Command::DumpCommand
+  Methods:  50.00% ( 2/ 4)   Lines:  57.89% ( 11/ 19)
+\Psy\Command::ExitCommand
+  Methods:  50.00% ( 1/ 2)   Lines:  87.50% (  7/  8)
+\Psy\Command::HelpCommand
+  Methods:  33.33% ( 1/ 3)   Lines:  21.88% (  7/ 32)
+\Psy\Command::HistoryCommand
+  Methods:  22.22% ( 2/ 9)   Lines:  17.92% ( 19/106)
+\Psy\Command::ListCommand
+  Methods:  25.00% ( 2/ 8)   Lines:  28.12% ( 27/ 96)
+\Psy\Command::ReflectingCommand
+  Methods:  14.29% ( 1/ 7)   Lines:   5.71% (  2/ 35)
+\Psy\Command::ShowCommand
+  Methods:  50.00% ( 1/ 2)   Lines:  53.85% (  7/ 13)
+\Psy\Command::ThrowUpCommand
+  Methods:  66.67% ( 2/ 3)   Lines:  60.00% (  9/ 15)
+\Psy\Command::TraceCommand
+  Methods:  25.00% ( 1/ 4)   Lines:  18.18% (  8/ 44)
+\Psy\Command::WhereamiCommand
+  Methods:  20.00% ( 1/ 5)   Lines:  28.57% ( 10/ 35)
+\Psy\Command::WtfCommand
+  Methods:  40.00% ( 2/ 5)   Lines:  44.00% ( 11/ 25)
+\Psy\Exception::BreakException
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\Psy\Exception::ErrorException
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 19/ 19)
+\Psy\Exception::FatalErrorException
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  5/  5)
+\Psy\Exception::ParseErrorException
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\Psy\Exception::RuntimeException
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\Psy\ExecutionLoop::Loop
+  Methods:  20.00% ( 1/ 5)   Lines:   2.17% (  1/ 46)
+\Psy\Formatter::CodeFormatter
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 11/ 11)
+\Psy\Formatter::DocblockFormatter
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 44/ 44)
+\Psy\Formatter::SignatureFormatter
+  Methods:  72.73% ( 8/11)   Lines:  88.24% ( 75/ 85)
+\Psy\Output::PassthruPager
+  Methods:  50.00% ( 1/ 2)   Lines:  66.67% (  2/  3)
+\Psy\Output::ProcOutputPager
+  Methods:  25.00% ( 1/ 4)   Lines:  13.64% (  3/ 22)
+\Psy\Output::ShellOutput
+  Methods:  12.50% ( 1/ 8)   Lines:  42.65% ( 29/ 68)
+\Psy\Readline::GNUReadline
+  Methods:  55.56% ( 5/ 9)   Lines:  77.78% ( 28/ 36)
+\Psy\Readline::Libedit
+  Methods:  66.67% ( 2/ 3)   Lines:  85.71% ( 12/ 14)
+\Psy\Readline::Transient
+  Methods:  70.00% ( 7/10)   Lines:  71.43% ( 20/ 28)
+\Psy\Reflection::ReflectionConstant
+  Methods: 100.00% (10/10)   Lines: 100.00% ( 18/ 18)
+\Psy\TabCompletion::AutoCompleter
+  Methods:  83.33% ( 5/ 6)   Lines:  91.67% ( 11/ 12)
+\Psy\TabCompletion\Matcher::AbstractContextAwareMatcher
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  4/  4)
+\Psy\TabCompletion\Matcher::AbstractMatcher
+  Methods:  75.00% ( 6/ 8)   Lines:  80.77% ( 21/ 26)
+\Psy\TabCompletion\Matcher::ClassAttributesMatcher
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 25/ 25)
+\Psy\TabCompletion\Matcher::ClassMethodsMatcher
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 20/ 20)
+\Psy\TabCompletion\Matcher::ClassNamesMatcher
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 26/ 26)
+\Psy\TabCompletion\Matcher::CommandsMatcher
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 24/ 24)
+\Psy\TabCompletion\Matcher::ConstantsMatcher
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 12/ 12)
+\Psy\TabCompletion\Matcher::FunctionsMatcher
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 13/ 13)
+\Psy\TabCompletion\Matcher::KeywordsMatcher
+  Methods:  60.00% ( 3/ 5)   Lines:  84.62% ( 11/ 13)
+\Psy\TabCompletion\Matcher::ObjectAttributesMatcher
+  Methods:  33.33% ( 1/ 3)   Lines:  78.95% ( 15/ 19)
+\Psy\TabCompletion\Matcher::ObjectMethodsMatcher
+  Methods:  66.67% ( 2/ 3)   Lines:  84.21% ( 16/ 19)
+\Psy\TabCompletion\Matcher::VariablesMatcher
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  9/  9)
+\Psy\Util::Docblock
+  Methods:  88.89% ( 8/ 9)   Lines:  96.55% ( 28/ 29)
+\Psy\Util::Json
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\Psy\Util::Mirror
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 24/ 24)
+\Psy\Util::Str
+  Methods:  50.00% ( 1/ 2)   Lines:  95.45% ( 21/ 22)
+\Psy\VarDumper::Cloner
+  Methods:  50.00% ( 1/ 2)   Lines:  66.67% (  2/  3)
+\Psy\VarDumper::Dumper
+  Methods:  33.33% ( 2/ 6)   Lines:  36.36% ( 16/ 44)
+\Psy\VarDumper::Presenter
+  Methods:   0.00% ( 0/ 5)   Lines:  54.55% ( 12/ 22)

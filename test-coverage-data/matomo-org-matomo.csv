@@ -1,0 +1,74 @@
+repository,tag,coverage
+git@github.com:matomo-org/matomo.git,0.1.1,"no composer"
+git@github.com:matomo-org/matomo.git,0.2.1,"no composer"
+git@github.com:matomo-org/matomo.git,0.4.1,"no composer"
+git@github.com:matomo-org/matomo.git,0.5.1,"no composer"
+git@github.com:matomo-org/matomo.git,0.6.1,"no composer"
+git@github.com:matomo-org/matomo.git,0.9.9,"no composer"
+git@github.com:matomo-org/matomo.git,1.1.1,"no composer"
+git@github.com:matomo-org/matomo.git,1.2.1,"no composer"
+git@github.com:matomo-org/matomo.git,1.5.1,"no composer"
+git@github.com:matomo-org/matomo.git,1.7.1,"no composer"
+git@github.com:matomo-org/matomo.git,1.8.1,"no composer"
+git@github.com:matomo-org/matomo.git,1.9.1,"no phpunit config"
+git@github.com:matomo-org/matomo.git,1.10.1,"no phpunit config"
+git@github.com:matomo-org/matomo.git,1.11.1,"no phpunit config"
+git@github.com:matomo-org/matomo.git,2.0.1,"no phpunit config"
+git@github.com:matomo-org/matomo.git,2.1.0,"no phpunit config"
+git@github.com:matomo-org/matomo.git,2.2.0,"no phpunit config"
+git@github.com:matomo-org/matomo.git,2.3.0,"no phpunit config"
+git@github.com:matomo-org/matomo.git,2.4.0,"no phpunit config"
+git@github.com:matomo-org/matomo.git,2.5.0,"no phpunit config"
+git@github.com:matomo-org/matomo.git,2.6.0,"composer failed, > misc/composer/clean-xhprof.sh
+Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Package operations: 1 install, 1 update, 0 removals
+  - Downgrading leafo/lessphp (v0.5.0 => v0.4.0): Downloading (connecting...)Downloading (100%)         
+  - Installing facebook/xhprof (master master): Cloning master from cache
+Writing lock file
+Generating autoload files
+> misc/composer/build-xhprof.sh
+Script misc/composer/build-xhprof.sh handling the post-update-cmd event returned with error code 1"
+git@github.com:matomo-org/matomo.git,2.7.0,"composer failed, > misc/composer/clean-xhprof.sh
+Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Nothing to install or update
+Writing lock file
+Generating autoload files
+> misc/composer/build-xhprof.sh
+Script misc/composer/build-xhprof.sh handling the post-update-cmd event returned with error code 1"
+git@github.com:matomo-org/matomo.git,2.8.0,"composer failed, > misc/composer/clean-xhprof.sh
+Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Package operations: 1 install, 0 updates, 0 removals
+  - Installing piwik/decompress (0.1.1): Downloading (connecting...)Downloading (100%)         
+Package piwik/decompress is abandoned, you should avoid using it. Use matomo/decompress instead.
+Writing lock file
+Generating autoload files
+> misc/composer/build-xhprof.sh
+Script misc/composer/build-xhprof.sh handling the post-update-cmd event returned with error code 1"
+git@github.com:matomo-org/matomo.git,2.9.0,"no phpunit config"
+git@github.com:matomo-org/matomo.git,2.10.0,"composer failed, > Piwik\Composer\ScriptHandler::cleanXhprof
+Loading composer repositories with package information
+Reading composer.json of doctrine/cache (v1.0)        Reading composer.json of doctrine/cache (v1.1)Reading composer.json of doctrine/cache (v1.2.0)Reading composer.json of doctrine/cache (v1.3.0)Reading composer.json of doctrine/cache (v1.3.1)Reading composer.json of doctrine/cache (v1.4.0)                                                Reading composer.json of doctrine/cache (dev-filecache-race-condition-fix)Reading composer.json of doctrine/cache (master)                                                                          Updating dependencies (including require-dev)
+Your requirements could not be resolved to an installable set of packages.
+
+  Problem 1
+    - The requested package doctrine/cache dev-filecache-race-condition-fix as 1.3.1 exists as doctrine/cache[1.4.x-dev, 1.5.3, 1.5.x-dev, 1.6.x-dev, 1.7.x-dev, 1.8.x-dev, dev-fix/#148-fix-cache-provider-negative-ttl-handling, dev-fix/#152-#147-silence-file-access-attempts-in-file-based-caches, dev-master, 1.9.x-dev, v1.0, v1.1, v1.2.0, v1.3.0, v1.3.1, v1.3.2, v1.4.0, v1.4.1, v1.4.2, v1.4.3, v1.4.4, v1.5.0, v1.5.1, v1.5.2, v1.5.4, v1.6.0, v1.6.1, v1.6.2, v1.7.0, v1.7.1, v1.8.0, dev-dev-filecache-race-condition-fix] but these are rejected by your constraint."
+git@github.com:matomo-org/matomo.git,2.11.0,"no phpunit config"
+git@github.com:matomo-org/matomo.git,2.12.0,"no phpunit config"
+git@github.com:matomo-org/matomo.git,2.13.0,"no phpunit config"
+git@github.com:matomo-org/matomo.git,2.14.0,"no phpunit config"
+git@github.com:matomo-org/matomo.git,2.15.0,"no phpunit config"
+git@github.com:matomo-org/matomo.git,2.16.0,"no phpunit config"
+git@github.com:matomo-org/matomo.git,2.17.0,"no phpunit config"
+git@github.com:matomo-org/matomo.git,2.18.0,"no phpunit config"
+git@github.com:matomo-org/matomo.git,3.0.0,"no phpunit config"
+git@github.com:matomo-org/matomo.git,3.1.0,"no phpunit config"
+git@github.com:matomo-org/matomo.git,3.2.0,"no phpunit config"
+git@github.com:matomo-org/matomo.git,3.3.0,"no phpunit config"
+git@github.com:matomo-org/matomo.git,3.4.0,"no phpunit config"
+git@github.com:matomo-org/matomo.git,3.5.0,"no phpunit config"
+git@github.com:matomo-org/matomo.git,3.6.0,"no phpunit config"
+git@github.com:matomo-org/matomo.git,3.7.0,"no phpunit config"
+git@github.com:matomo-org/matomo.git,3.8.0,"no phpunit config"

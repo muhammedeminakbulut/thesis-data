@@ -1,0 +1,7 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:php-pm/php-pm.git,1.0.0,3372,923,169,0.00%,3.5172413793103,0,310,61,121,0
+git@github.com:php-pm/php-pm.git,1.0.1,3390,922,170,0.00%,3.5826086956522,0,310,61,124,0
+git@github.com:php-pm/php-pm.git,1.0.2,3798,1036,193,0.00%,3.5666666666667,0,310,61,139,0
+git@github.com:php-pm/php-pm.git,1.0.3,3853,1061,198,0.00%,3.5901639344262,0,310,61,142,0
+git@github.com:php-pm/php-pm.git,1.0.4,3981,1098,205,0.00%,3.6269841269841,0,310,61,147,0
+git@github.com:php-pm/php-pm.git,1.0.5,4110,1144,213,0.00%,3.618320610687,0,310,61,157,0

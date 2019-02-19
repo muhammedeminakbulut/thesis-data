@@ -1,0 +1,16 @@
+
+
+Code Coverage Report:      
+  2019-02-15 14:47:20      
+                           
+ Summary:                  
+  Classes: 33.33% (1/3)    
+  Methods: 84.21% (32/38)  
+  Lines:   94.33% (133/141)
+
+\Dotenv::Dotenv
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% ( 15/ 15)
+\Dotenv::Loader
+  Methods:  84.21% (16/19)   Lines:  96.55% ( 84/ 87)
+\Dotenv::Validator
+  Methods:  72.73% ( 8/11)   Lines:  87.10% ( 27/ 31)

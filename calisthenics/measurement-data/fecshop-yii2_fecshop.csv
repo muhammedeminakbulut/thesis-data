@@ -1,0 +1,2 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:fecshop/yii2_fecshop.git,1.1.1,51025,13180,3751,3.69%,5.0972037283622,0,728,11,5222,40

@@ -1,0 +1,30 @@
+
+
+Code Coverage Report:      
+  2019-02-17 15:32:12      
+                           
+ Summary:                  
+  Classes: 27.27% (3/11)   
+  Methods: 76.62% (59/77)  
+  Lines:   90.12% (438/486)
+
+\Doctrine\Common::Doctrine\Common\ClassLoader
+  Methods:  71.43% (10/14)   Lines:  90.24% ( 37/ 41)
+\Doctrine\Common\Proxy::Doctrine\Common\Proxy\AbstractProxyFactory
+  Methods:  20.00% ( 1/ 5)   Lines:  62.50% ( 35/ 56)
+\Doctrine\Common\Proxy::Doctrine\Common\Proxy\Autoloader
+  Methods:  66.67% ( 2/ 3)   Lines:  92.86% ( 13/ 14)
+\Doctrine\Common\Proxy::Doctrine\Common\Proxy\ProxyDefinition
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  6/  6)
+\Doctrine\Common\Proxy::Doctrine\Common\Proxy\ProxyGenerator
+  Methods:  89.66% (26/29)   Lines:  97.76% (262/268)
+\Doctrine\Common\Proxy\Exception::Doctrine\Common\Proxy\Exception\InvalidArgumentException
+  Methods:  88.89% ( 8/ 9)   Lines:  90.00% (  9/ 10)
+\Doctrine\Common\Proxy\Exception::Doctrine\Common\Proxy\Exception\OutOfBoundsException
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Doctrine\Common\Proxy\Exception::Doctrine\Common\Proxy\Exception\UnexpectedValueException
+  Methods:  66.67% ( 2/ 3)   Lines:  93.75% ( 15/ 16)
+\Doctrine\Common\Util::Doctrine\Common\Util\ClassUtils
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% (  8/  8)
+\Doctrine\Common\Util::Doctrine\Common\Util\Debug
+  Methods:  40.00% ( 2/ 5)   Lines:  90.38% ( 47/ 52)

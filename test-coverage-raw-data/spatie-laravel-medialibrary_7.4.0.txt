@@ -1,0 +1,122 @@
+
+
+Code Coverage Report:        
+  2019-02-17 16:31:14        
+                             
+ Summary:                    
+  Classes: 48.44% (31/64)    
+  Methods: 77.67% (247/318)  
+  Lines:   86.55% (1145/1323)
+
+\Spatie\MediaLibrary::Spatie\MediaLibrary\File
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  6/  6)
+\Spatie\MediaLibrary::Spatie\MediaLibrary\FileManipulator
+  Methods:  80.00% ( 4/ 5)   Lines:  98.53% ( 67/ 68)
+\Spatie\MediaLibrary::Spatie\MediaLibrary\MediaLibraryServiceProvider
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 31/ 31)
+\Spatie\MediaLibrary::Spatie\MediaLibrary\MediaObserver
+  Methods:  50.00% ( 2/ 4)   Lines:  83.33% ( 15/ 18)
+\Spatie\MediaLibrary::Spatie\MediaLibrary\MediaRepository
+  Methods: 100.00% ( 9/ 9)   Lines: 100.00% ( 23/ 23)
+\Spatie\MediaLibrary::Spatie\MediaLibrary\MediaStream
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 39/ 39)
+\Spatie\MediaLibrary\Commands::Spatie\MediaLibrary\Commands\CleanCommand
+  Methods:  75.00% ( 6/ 8)   Lines:  97.37% ( 74/ 76)
+\Spatie\MediaLibrary\Commands::Spatie\MediaLibrary\Commands\ClearCommand
+  Methods:  66.67% ( 2/ 3)   Lines:  94.74% ( 18/ 19)
+\Spatie\MediaLibrary\Commands::Spatie\MediaLibrary\Commands\RegenerateCommand
+  Methods:  25.00% ( 1/ 4)   Lines:  91.89% ( 34/ 37)
+\Spatie\MediaLibrary\Conversion::Spatie\MediaLibrary\Conversion\Conversion
+  Methods:  90.91% (20/22)   Lines:  96.49% ( 55/ 57)
+\Spatie\MediaLibrary\Conversion::Spatie\MediaLibrary\Conversion\ConversionCollection
+  Methods:  90.00% ( 9/10)   Lines:  94.29% ( 33/ 35)
+\Spatie\MediaLibrary\Events::Spatie\MediaLibrary\Events\CollectionHasBeenCleared
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\Spatie\MediaLibrary\Events::Spatie\MediaLibrary\Events\ConversionHasBeenCompleted
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\Spatie\MediaLibrary\Events::Spatie\MediaLibrary\Events\ConversionWillStart
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  4/  4)
+\Spatie\MediaLibrary\Events::Spatie\MediaLibrary\Events\MediaHasBeenAdded
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Spatie\MediaLibrary\Events::Spatie\MediaLibrary\Events\ResponsiveImagesGenerated
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Spatie\MediaLibrary\Exceptions::Spatie\MediaLibrary\Exceptions\InvalidConversion
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Spatie\MediaLibrary\Exceptions::Spatie\MediaLibrary\Exceptions\UrlCannotBeDetermined
+  Methods:  50.00% ( 1/ 2)   Lines:  50.00% (  1/  2)
+\Spatie\MediaLibrary\Exceptions\FileCannotBeAdded::Spatie\MediaLibrary\Exceptions\FileCannotBeAdded\DiskDoesNotExist
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Spatie\MediaLibrary\Exceptions\FileCannotBeAdded::Spatie\MediaLibrary\Exceptions\FileCannotBeAdded\FileDoesNotExist
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Spatie\MediaLibrary\Exceptions\FileCannotBeAdded::Spatie\MediaLibrary\Exceptions\FileCannotBeAdded\FileIsTooBig
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\Spatie\MediaLibrary\Exceptions\FileCannotBeAdded::Spatie\MediaLibrary\Exceptions\FileCannotBeAdded\FileUnacceptableForCollection
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Spatie\MediaLibrary\Exceptions\FileCannotBeAdded::Spatie\MediaLibrary\Exceptions\FileCannotBeAdded\InvalidBase64Data
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Spatie\MediaLibrary\Exceptions\FileCannotBeAdded::Spatie\MediaLibrary\Exceptions\FileCannotBeAdded\MimeTypeNotAllowed
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\Spatie\MediaLibrary\Exceptions\FileCannotBeAdded::Spatie\MediaLibrary\Exceptions\FileCannotBeAdded\RequestDoesNotHaveFile
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Spatie\MediaLibrary\Exceptions\FileCannotBeAdded::Spatie\MediaLibrary\Exceptions\FileCannotBeAdded\UnknownType
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Spatie\MediaLibrary\Exceptions\FileCannotBeAdded::Spatie\MediaLibrary\Exceptions\FileCannotBeAdded\UnreachableUrl
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Spatie\MediaLibrary\FileAdder::Spatie\MediaLibrary\FileAdder\FileAdder
+  Methods:  86.96% (20/23)   Lines:  92.59% (100/108)
+\Spatie\MediaLibrary\FileAdder::Spatie\MediaLibrary\FileAdder\FileAdderFactory
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 16/ 16)
+\Spatie\MediaLibrary\Filesystem::Spatie\MediaLibrary\Filesystem\Filesystem
+  Methods:  87.50% (14/16)   Lines:  92.13% ( 82/ 89)
+\Spatie\MediaLibrary\HasMedia::HasMediaTrait
+  Methods:  75.00% (24/32)   Lines:  88.89% (136/153)
+\Spatie\MediaLibrary\Helpers::Spatie\MediaLibrary\Helpers\File
+  Methods:  66.67% ( 2/ 3)   Lines:  90.91% ( 10/ 11)
+\Spatie\MediaLibrary\Helpers::Spatie\MediaLibrary\Helpers\ImageFactory
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Spatie\MediaLibrary\Helpers::Spatie\MediaLibrary\Helpers\TemporaryDirectory
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\Spatie\MediaLibrary\ImageGenerators::Spatie\MediaLibrary\ImageGenerators\BaseGenerator
+  Methods:  75.00% ( 3/ 4)   Lines:  90.00% (  9/ 10)
+\Spatie\MediaLibrary\ImageGenerators\FileTypes::Spatie\MediaLibrary\ImageGenerators\FileTypes\Image
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  4/  4)
+\Spatie\MediaLibrary\ImageGenerators\FileTypes::Spatie\MediaLibrary\ImageGenerators\FileTypes\Pdf
+  Methods:  25.00% ( 1/ 4)   Lines:  30.00% (  3/ 10)
+\Spatie\MediaLibrary\ImageGenerators\FileTypes::Spatie\MediaLibrary\ImageGenerators\FileTypes\Svg
+  Methods:  50.00% ( 2/ 4)   Lines:  20.00% (  2/ 10)
+\Spatie\MediaLibrary\ImageGenerators\FileTypes::Spatie\MediaLibrary\ImageGenerators\FileTypes\Video
+  Methods:  50.00% ( 2/ 4)   Lines:  16.67% (  2/ 12)
+\Spatie\MediaLibrary\ImageGenerators\FileTypes::Spatie\MediaLibrary\ImageGenerators\FileTypes\Webp
+  Methods:  75.00% ( 3/ 4)   Lines:  78.57% ( 11/ 14)
+\Spatie\MediaLibrary\Jobs::Spatie\MediaLibrary\Jobs\GenerateResponsiveImages
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\Spatie\MediaLibrary\Jobs::Spatie\MediaLibrary\Jobs\PerformConversions
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  5/  5)
+\Spatie\MediaLibrary\MediaCollection::Spatie\MediaLibrary\MediaCollection\MediaCollection
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 13/ 13)
+\Spatie\MediaLibrary\Models::Spatie\MediaLibrary\Models\Media
+  Methods:  87.10% (27/31)   Lines:  93.27% ( 97/104)
+\Spatie\MediaLibrary\Models\Concerns::IsSorted
+  Methods:  50.00% ( 3/ 6)   Lines:  38.46% (  5/ 13)
+\Spatie\MediaLibrary\Models\Traits::CustomMediaProperties
+  Methods:  50.00% ( 1/ 2)   Lines:  66.67% (  2/  3)
+\Spatie\MediaLibrary\PathGenerator::Spatie\MediaLibrary\PathGenerator\BasePathGenerator
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  4/  4)
+\Spatie\MediaLibrary\PathGenerator::Spatie\MediaLibrary\PathGenerator\PathGeneratorFactory
+  Methods:  50.00% ( 1/ 2)   Lines:  81.82% (  9/ 11)
+\Spatie\MediaLibrary\ResponsiveImages::Spatie\MediaLibrary\ResponsiveImages\RegisteredResponsiveImages
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 31/ 31)
+\Spatie\MediaLibrary\ResponsiveImages::Spatie\MediaLibrary\ResponsiveImages\ResponsiveImage
+  Methods: 100.00% (10/10)   Lines: 100.00% ( 39/ 39)
+\Spatie\MediaLibrary\ResponsiveImages::Spatie\MediaLibrary\ResponsiveImages\ResponsiveImageGenerator
+  Methods:  87.50% ( 7/ 8)   Lines:  96.88% ( 62/ 64)
+\Spatie\MediaLibrary\ResponsiveImages\TinyPlaceholderGenerator::Spatie\MediaLibrary\ResponsiveImages\TinyPlaceholderGenerator\Blurred
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\Spatie\MediaLibrary\ResponsiveImages\WidthCalculator::Spatie\MediaLibrary\ResponsiveImages\WidthCalculator\FileSizeOptimizedWidthCalculator
+  Methods:  33.33% ( 1/ 3)   Lines:  91.30% ( 21/ 23)
+\Spatie\MediaLibrary\UrlGenerator::Spatie\MediaLibrary\UrlGenerator\BaseUrlGenerator
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 16/ 16)
+\Spatie\MediaLibrary\UrlGenerator::Spatie\MediaLibrary\UrlGenerator\LocalUrlGenerator
+  Methods:  75.00% ( 6/ 8)   Lines:  83.33% ( 15/ 18)
+\Spatie\MediaLibrary\UrlGenerator::Spatie\MediaLibrary\UrlGenerator\UrlGeneratorFactory
+  Methods:  50.00% ( 1/ 2)   Lines:  87.50% ( 14/ 16)

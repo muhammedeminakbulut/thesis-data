@@ -1,0 +1,7 @@
+repository,tag,coverage
+git@github.com:doctrine/annotations.git,v1.1.1,"phpunit not installed"
+git@github.com:doctrine/annotations.git,v1.2.0,"phpunit failed"
+git@github.com:doctrine/annotations.git,v1.3.0,83.51
+git@github.com:doctrine/annotations.git,v1.4.0,84.00
+git@github.com:doctrine/annotations.git,v1.5.0,84.54
+git@github.com:doctrine/annotations.git,v1.6.0,84.59

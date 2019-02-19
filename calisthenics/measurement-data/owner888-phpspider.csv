@@ -1,0 +1,17 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:owner888/phpspider.git,v1.0.1,16246,4795,2023,0.00%,6.4506769825919,0,1038,6,1373,0
+git@github.com:owner888/phpspider.git,v2.0.1,20654,5796,2376,19.25%,7.0313531353135,0,1038,6,1658,0
+git@github.com:owner888/phpspider.git,v2.0.2,19479,5796,2376,20.41%,7.0313531353135,0,1038,6,1658,0
+git@github.com:owner888/phpspider.git,v2.0.3,19487,5818,2375,20.40%,7.0313531353135,0,1038,6,1658,0
+git@github.com:owner888/phpspider.git,v2.0.4,19492,5821,2377,20.36%,7.036303630363,0,1038,6,1658,0
+git@github.com:owner888/phpspider.git,v2.0.5,19546,5846,2377,20.04%,7.0346534653465,0,1038,6,1658,0
+git@github.com:owner888/phpspider.git,v2.0.6,19554,5848,2378,20.00%,7.0247116968699,0,1038,6,1658,0
+git@github.com:owner888/phpspider.git,v2.0.7,19581,5891,2378,19.85%,7.0263591433278,0,1038,6,1658,0
+git@github.com:owner888/phpspider.git,v2.0.8,19631,5899,2388,19.80%,7.0246710526316,0,1038,6,1662,0
+git@github.com:owner888/phpspider.git,v2.1.0,19970,5958,2458,19.41%,7.1339869281046,0,1038,6,1719,0
+git@github.com:owner888/phpspider.git,v2.1.1,19973,5963,2456,19.24%,7.1372549019608,0,1038,6,1720,0
+git@github.com:owner888/phpspider.git,v2.1.2,19977,5967,2457,19.06%,7.1372549019608,0,1038,6,1721,0
+git@github.com:owner888/phpspider.git,v2.1.3,19977,5967,2457,19.06%,7.1372549019608,0,1038,6,1721,0
+git@github.com:owner888/phpspider.git,v2.1.4,20439,6044,2505,18.67%,7.1698717948718,0,1038,6,1751,0
+git@github.com:owner888/phpspider.git,v2.1.5,21294,6192,2640,10.69%,7.3453689167975,0,1038,6,1827,0
+git@github.com:owner888/phpspider.git,v2.1.6,21341,6227,2643,10.67%,7.3485086342229,0,1038,6,1829,0

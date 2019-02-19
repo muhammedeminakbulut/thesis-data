@@ -1,0 +1,18 @@
+
+
+Code Coverage Report:      
+  2019-02-16 14:28:42      
+                           
+ Summary:                  
+  Classes:  0.00% (0/23)   
+  Methods: 40.00% (22/55)  
+  Lines:   65.80% (127/193)
+
+\phpDocumentor\Reflection::TypeResolver
+  Methods:  92.86% (13/14)   Lines:  97.83% ( 45/ 46)
+\phpDocumentor\Reflection\Types::Context
+  Methods:  66.67% ( 2/ 3)   Lines:  92.31% ( 12/ 13)
+\phpDocumentor\Reflection\Types::ContextFactory
+  Methods:  83.33% ( 5/ 6)   Lines:  97.10% ( 67/ 69)
+\phpDocumentor\Reflection\Types::Nullable
+  Methods:  66.67% ( 2/ 3)   Lines:  75.00% (  3/  4)

@@ -1,0 +1,13 @@
+repository,tag,coverage
+git@github.com:mledoze/countries.git,v1.5.1,"no composer"
+git@github.com:mledoze/countries.git,v1.6.1,"no phpunit config"
+git@github.com:mledoze/countries.git,v1.7.0,"no phpunit config"
+git@github.com:mledoze/countries.git,v1.8.0,"composer failed, 
+                                             
+  [Composer\Downloader\TransportException]   
+  Could not authenticate against github.com  
+                                             
+
+install [--prefer-source] [--prefer-dist] [--dry-run] [--dev] [--no-dev] [--no-custom-installers] [--no-autoloader] [--no-scripts] [--no-progress] [--no-suggest] [-v|vv|vvv|--verbose] [-o|--optimize-autoloader] [-a|--classmap-authoritative] [--apcu-autoloader] [--ignore-platform-reqs] [--] [<packages>]..."
+git@github.com:mledoze/countries.git,v2.0.0,"no phpunit config"
+git@github.com:mledoze/countries.git,v2.1.0,"no phpunit config"

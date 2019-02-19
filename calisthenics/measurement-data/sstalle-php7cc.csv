@@ -1,0 +1,7 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:sstalle/php7cc.git,1.0.0,4804,835,262,0.00%,2.2165898617512,0,102,11,140,0
+git@github.com:sstalle/php7cc.git,1.0.1,4813,839,263,0.00%,2.2165898617512,0,102,11,142,0
+git@github.com:sstalle/php7cc.git,1.0.2,4849,849,264,0.00%,2.2293577981651,0,102,11,143,0
+git@github.com:sstalle/php7cc.git,1.1.0,5626,993,298,0.00%,2.3052208835341,0,102,11,151,0
+git@github.com:sstalle/php7cc.git,1.2.0,6548,1316,339,0.00%,2.3710247349823,0,102,11,170,0
+git@github.com:sstalle/php7cc.git,1.2.1,6549,1316,339,0.00%,2.3710247349823,0,102,11,170,0

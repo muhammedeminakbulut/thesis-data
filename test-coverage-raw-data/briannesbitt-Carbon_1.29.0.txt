@@ -1,0 +1,20 @@
+
+
+Code Coverage Report:         
+  2019-02-15 07:57:06         
+                              
+ Summary:                     
+  Classes: 100.00% (5/5)      
+  Methods: 100.00% (417/417)  
+  Lines:   100.00% (1494/1494)
+
+\Carbon::Carbon
+  Methods: 100.00% (301/301)   Lines: 100.00% (676/676)
+\Carbon::CarbonInterval
+  Methods: 100.00% (42/42)   Lines: 100.00% (370/370)
+\Carbon::CarbonPeriod
+  Methods: 100.00% (64/64)   Lines: 100.00% (337/337)
+\Carbon::Translator
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 26/ 26)
+\Carbon\Exceptions::InvalidDateException
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  6/  6)

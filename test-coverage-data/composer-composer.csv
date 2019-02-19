@@ -1,0 +1,10 @@
+repository,tag,coverage
+git@github.com:composer/composer.git,1.0.0,"phpunit failed"
+git@github.com:composer/composer.git,1.1.0,"phpunit failed"
+git@github.com:composer/composer.git,1.2.0,"phpunit failed"
+git@github.com:composer/composer.git,1.3.0,"phpunit failed"
+git@github.com:composer/composer.git,1.4.0,"phpunit failed"
+git@github.com:composer/composer.git,1.5.0,55.40
+git@github.com:composer/composer.git,1.6.0,55.27
+git@github.com:composer/composer.git,1.7.0,54.23
+git@github.com:composer/composer.git,1.8.0,53.89

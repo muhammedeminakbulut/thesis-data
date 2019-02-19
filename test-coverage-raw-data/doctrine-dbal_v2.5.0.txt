@@ -1,0 +1,318 @@
+
+
+Code Coverage Report:        
+  2019-02-16 21:08:30        
+                             
+ Summary:                    
+  Classes: 33.70% (61/181)   
+  Methods: 58.62% (1085/1851)
+  Lines:   68.96% (5219/7568)
+
+\Doctrine\Common::EventManager
+  Methods:  42.86% ( 3/ 7)   Lines:  50.00% ( 10/ 20)
+\Doctrine\Common\Cache::ArrayCache
+  Methods:  42.86% ( 3/ 7)   Lines:  56.00% ( 14/ 25)
+\Doctrine\Common\Cache::CacheProvider
+  Methods:  27.78% ( 5/18)   Lines:  17.24% ( 10/ 58)
+\Doctrine\DBAL::Configuration
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% ( 18/ 18)
+\Doctrine\DBAL::Connection
+  Methods:  68.18% (45/66)   Lines:  86.63% (337/389)
+\Doctrine\DBAL::ConnectionException
+  Methods:  75.00% ( 3/ 4)   Lines:  75.00% (  3/  4)
+\Doctrine\DBAL::DBALException
+  Methods:  70.59% (12/17)   Lines:  73.91% ( 34/ 46)
+\Doctrine\DBAL::DriverManager
+  Methods:  40.00% ( 2/ 5)   Lines:  94.74% ( 54/ 57)
+\Doctrine\DBAL::SQLParserUtils
+  Methods:  75.00% ( 3/ 4)   Lines:  98.91% ( 91/ 92)
+\Doctrine\DBAL::SQLParserUtilsException
+  Methods:  50.00% ( 1/ 2)   Lines:  50.00% (  1/  2)
+\Doctrine\DBAL::Statement
+  Methods:  60.00% ( 9/15)   Lines:  74.51% ( 38/ 51)
+\Doctrine\DBAL\Cache::ArrayStatement
+  Methods:  62.50% ( 5/ 8)   Lines:  82.35% ( 28/ 34)
+\Doctrine\DBAL\Cache::QueryCacheProfile
+  Methods:  37.50% ( 3/ 8)   Lines:  58.82% ( 10/ 17)
+\Doctrine\DBAL\Cache::ResultCacheStatement
+  Methods:  44.44% ( 4/ 9)   Lines:  73.91% ( 34/ 46)
+\Doctrine\DBAL\Driver::AbstractDB2Driver
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  4/  4)
+\Doctrine\DBAL\Driver::AbstractMySQLDriver
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 76/ 76)
+\Doctrine\DBAL\Driver::AbstractOracleDriver
+  Methods:  80.00% ( 4/ 5)   Lines:  62.50% ( 30/ 48)
+\Doctrine\DBAL\Driver::AbstractPostgreSQLDriver
+  Methods:  80.00% ( 4/ 5)   Lines:  91.11% ( 41/ 45)
+\Doctrine\DBAL\Driver::AbstractSQLAnywhereDriver
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 49/ 49)
+\Doctrine\DBAL\Driver::AbstractSQLServerDriver
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 23/ 23)
+\Doctrine\DBAL\Driver::AbstractSQLiteDriver
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 26/ 26)
+\Doctrine\DBAL\Driver::PDOConnection
+  Methods:  75.00% ( 6/ 8)   Lines:  85.19% ( 23/ 27)
+\Doctrine\DBAL\Driver::PDOException
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  8/  8)
+\Doctrine\DBAL\Driver::PDOStatement
+  Methods:  37.50% ( 3/ 8)   Lines:  60.53% ( 23/ 38)
+\Doctrine\DBAL\Driver\DrizzlePDOMySql::Driver
+  Methods:  80.00% ( 4/ 5)   Lines:  40.00% (  4/ 10)
+\Doctrine\DBAL\Driver\IBMDB2::DB2Driver
+  Methods:  50.00% ( 1/ 2)   Lines:   6.67% (  1/ 15)
+\Doctrine\DBAL\Driver\Mysqli::Driver
+  Methods:  50.00% ( 1/ 2)   Lines:  25.00% (  1/  4)
+\Doctrine\DBAL\Driver\OCI8::Driver
+  Methods:  33.33% ( 1/ 3)   Lines:   9.09% (  1/ 11)
+\Doctrine\DBAL\Driver\OCI8::OCI8Statement
+  Methods:   6.67% ( 1/15)   Lines:  20.00% ( 15/ 75)
+\Doctrine\DBAL\Driver\PDOIbm::Driver
+  Methods:  33.33% ( 1/ 3)   Lines:   6.25% (  1/ 16)
+\Doctrine\DBAL\Driver\PDOMySql::Driver
+  Methods:  33.33% ( 1/ 3)   Lines:  80.95% ( 17/ 21)
+\Doctrine\DBAL\Driver\PDOOracle::Driver
+  Methods:  33.33% ( 1/ 3)   Lines:   8.33% (  1/ 12)
+\Doctrine\DBAL\Driver\PDOPgSql::Driver
+  Methods:  33.33% ( 1/ 3)   Lines:   4.00% (  1/ 25)
+\Doctrine\DBAL\Driver\PDOSqlite::Driver
+  Methods:  66.67% ( 2/ 3)   Lines:  85.71% ( 18/ 21)
+\Doctrine\DBAL\Driver\PDOSqlsrv::Driver
+  Methods:  33.33% ( 1/ 3)   Lines:   6.25% (  1/ 16)
+\Doctrine\DBAL\Driver\SQLAnywhere::Driver
+  Methods:  25.00% ( 1/ 4)   Lines:   3.70% (  1/ 27)
+\Doctrine\DBAL\Driver\SQLSrv::Driver
+  Methods:  50.00% ( 1/ 2)   Lines:   6.67% (  1/ 15)
+\Doctrine\DBAL\Event::ConnectionEventArgs
+  Methods:  40.00% ( 2/ 5)   Lines:  50.00% (  3/  6)
+\Doctrine\DBAL\Event::SchemaAlterTableAddColumnEventArgs
+  Methods:  33.33% ( 2/ 6)   Lines:  41.67% (  5/ 12)
+\Doctrine\DBAL\Event::SchemaAlterTableChangeColumnEventArgs
+  Methods:  33.33% ( 2/ 6)   Lines:  41.67% (  5/ 12)
+\Doctrine\DBAL\Event::SchemaAlterTableEventArgs
+  Methods:  40.00% ( 2/ 5)   Lines:  40.00% (  4/ 10)
+\Doctrine\DBAL\Event::SchemaAlterTableRemoveColumnEventArgs
+  Methods:  33.33% ( 2/ 6)   Lines:  41.67% (  5/ 12)
+\Doctrine\DBAL\Event::SchemaAlterTableRenameColumnEventArgs
+  Methods:  28.57% ( 2/ 7)   Lines:  42.86% (  6/ 14)
+\Doctrine\DBAL\Event::SchemaColumnDefinitionEventArgs
+  Methods:  25.00% ( 2/ 8)   Lines:  46.15% (  6/ 13)
+\Doctrine\DBAL\Event::SchemaCreateTableColumnEventArgs
+  Methods:  33.33% ( 2/ 6)   Lines:  41.67% (  5/ 12)
+\Doctrine\DBAL\Event::SchemaCreateTableEventArgs
+  Methods:  14.29% ( 1/ 7)   Lines:  35.71% (  5/ 14)
+\Doctrine\DBAL\Event::SchemaDropTableEventArgs
+  Methods:   0.00% ( 0/ 5)   Lines:  40.00% (  4/ 10)
+\Doctrine\DBAL\Event::SchemaEventArgs
+  Methods:  50.00% ( 1/ 2)   Lines:  33.33% (  1/  3)
+\Doctrine\DBAL\Event::SchemaIndexDefinitionEventArgs
+  Methods:  28.57% ( 2/ 7)   Lines:  45.45% (  5/ 11)
+\Doctrine\DBAL\Event\Listeners::OracleSessionInit
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 11/ 11)
+\Doctrine\DBAL\Event\Listeners::SQLSessionInit
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  6/  6)
+\Doctrine\DBAL\Exception::DriverException
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  8/  8)
+\Doctrine\DBAL\Exception::InvalidArgumentException
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Doctrine\DBAL\Logging::DebugStack
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  7/  7)
+\Doctrine\DBAL\Platforms::AbstractPlatform
+  Methods:  54.68% (111/203)   Lines:  78.58% (455/579)
+\Doctrine\DBAL\Platforms::DB2Platform
+  Methods:  80.36% (45/56)   Lines:  86.91% (166/191)
+\Doctrine\DBAL\Platforms::MySQL57Platform
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Doctrine\DBAL\Platforms::MySqlPlatform
+  Methods:  50.94% (27/53)   Lines:  78.54% (194/247)
+\Doctrine\DBAL\Platforms::OraclePlatform
+  Methods:  38.03% (27/71)   Lines:  64.71% (187/289)
+\Doctrine\DBAL\Platforms::PostgreSQL91Platform
+  Methods:  50.00% ( 2/ 4)   Lines:  33.33% (  2/  6)
+\Doctrine\DBAL\Platforms::PostgreSQL92Platform
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% (  9/  9)
+\Doctrine\DBAL\Platforms::PostgreSqlPlatform
+  Methods:  46.51% (20/43)   Lines:  72.02% (139/193)
+\Doctrine\DBAL\Platforms::SQLAnywhere11Platform
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Doctrine\DBAL\Platforms::SQLAnywhere12Platform
+  Methods: 100.00% (11/11)   Lines: 100.00% ( 21/ 21)
+\Doctrine\DBAL\Platforms::SQLAnywhere16Platform
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  7/  7)
+\Doctrine\DBAL\Platforms::SQLAnywherePlatform
+  Methods:  81.61% (71/87)   Lines:  86.49% (288/333)
+\Doctrine\DBAL\Platforms::SQLAzurePlatform
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  7/  7)
+\Doctrine\DBAL\Platforms::SQLServer2005Platform
+  Methods:  66.67% ( 2/ 3)   Lines:  66.67% (  2/  3)
+\Doctrine\DBAL\Platforms::SQLServer2008Platform
+  Methods:  30.00% ( 3/10)   Lines:  53.33% (  8/ 15)
+\Doctrine\DBAL\Platforms::SQLServer2012Platform
+  Methods:  71.43% ( 5/ 7)   Lines:  84.62% ( 11/ 13)
+\Doctrine\DBAL\Platforms::SQLServerPlatform
+  Methods:  45.56% (41/90)   Lines:  76.08% (299/393)
+\Doctrine\DBAL\Platforms::SqlitePlatform
+  Methods:  76.56% (49/64)   Lines:  91.54% (303/331)
+\Doctrine\DBAL\Platforms\Keywords::DB2Keywords
+  Methods:  50.00% ( 1/ 2)   Lines:  50.00% (  1/  2)
+\Doctrine\DBAL\Platforms\Keywords::KeywordList
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  5/  5)
+\Doctrine\DBAL\Platforms\Keywords::MySQL57Keywords
+  Methods:  50.00% ( 1/ 2)   Lines:  50.00% (  1/  2)
+\Doctrine\DBAL\Platforms\Keywords::MySQLKeywords
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Doctrine\DBAL\Platforms\Keywords::OracleKeywords
+  Methods:  50.00% ( 1/ 2)   Lines:  50.00% (  1/  2)
+\Doctrine\DBAL\Platforms\Keywords::PostgreSQL91Keywords
+  Methods:  50.00% ( 1/ 2)   Lines:  50.00% (  1/  2)
+\Doctrine\DBAL\Platforms\Keywords::PostgreSQL92Keywords
+  Methods:  50.00% ( 1/ 2)   Lines:  66.67% (  2/  3)
+\Doctrine\DBAL\Platforms\Keywords::PostgreSQLKeywords
+  Methods:  50.00% ( 1/ 2)   Lines:  50.00% (  1/  2)
+\Doctrine\DBAL\Platforms\Keywords::ReservedKeywordsValidator
+  Methods:  40.00% ( 4/10)   Lines:  76.92% ( 20/ 26)
+\Doctrine\DBAL\Platforms\Keywords::SQLAnywhere11Keywords
+  Methods:  50.00% ( 1/ 2)   Lines:  83.33% (  5/  6)
+\Doctrine\DBAL\Platforms\Keywords::SQLAnywhere12Keywords
+  Methods:  50.00% ( 1/ 2)   Lines:  83.33% (  5/  6)
+\Doctrine\DBAL\Platforms\Keywords::SQLAnywhere16Keywords
+  Methods:  50.00% ( 1/ 2)   Lines:  75.00% (  3/  4)
+\Doctrine\DBAL\Platforms\Keywords::SQLAnywhereKeywords
+  Methods:  50.00% ( 1/ 2)   Lines:  50.00% (  1/  2)
+\Doctrine\DBAL\Platforms\Keywords::SQLServer2005Keywords
+  Methods:  50.00% ( 1/ 2)   Lines:  66.67% (  2/  3)
+\Doctrine\DBAL\Platforms\Keywords::SQLServer2008Keywords
+  Methods:  50.00% ( 1/ 2)   Lines:  66.67% (  2/  3)
+\Doctrine\DBAL\Platforms\Keywords::SQLServer2012Keywords
+  Methods:  50.00% ( 1/ 2)   Lines:  66.67% (  2/  3)
+\Doctrine\DBAL\Platforms\Keywords::SQLServerKeywords
+  Methods:  50.00% ( 1/ 2)   Lines:  50.00% (  1/  2)
+\Doctrine\DBAL\Platforms\Keywords::SQLiteKeywords
+  Methods:  50.00% ( 1/ 2)   Lines:  50.00% (  1/  2)
+\Doctrine\DBAL\Portability::Connection
+  Methods:  83.33% ( 5/ 6)   Lines:  81.58% ( 31/ 38)
+\Doctrine\DBAL\Portability::Statement
+  Methods:  80.00% (12/15)   Lines:  82.35% ( 42/ 51)
+\Doctrine\DBAL\Query::QueryBuilder
+  Methods:  91.23% (52/57)   Lines:  95.06% (231/243)
+\Doctrine\DBAL\Query::QueryException
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\Doctrine\DBAL\Query\Expression::CompositeExpression
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 14/ 14)
+\Doctrine\DBAL\Query\Expression::ExpressionBuilder
+  Methods:  82.35% (14/17)   Lines:  83.33% ( 15/ 18)
+\Doctrine\DBAL\Schema::AbstractAsset
+  Methods: 100.00% (11/11)   Lines: 100.00% ( 32/ 32)
+\Doctrine\DBAL\Schema::AbstractSchemaManager
+  Methods:  42.42% (28/66)   Lines:  64.40% (161/250)
+\Doctrine\DBAL\Schema::Column
+  Methods:  94.29% (33/35)   Lines:  96.05% ( 73/ 76)
+\Doctrine\DBAL\Schema::ColumnDiff
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  7/  7)
+\Doctrine\DBAL\Schema::Comparator
+  Methods:  77.78% ( 7/ 9)   Lines:  96.83% (183/189)
+\Doctrine\DBAL\Schema::ForeignKeyConstraint
+  Methods:  95.45% (21/22)   Lines:  97.14% ( 34/ 35)
+\Doctrine\DBAL\Schema::Identifier
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Doctrine\DBAL\Schema::Index
+  Methods:  95.00% (19/20)   Lines:  98.53% ( 67/ 68)
+\Doctrine\DBAL\Schema::MySqlSchemaManager
+  Methods:  12.50% ( 1/ 8)   Lines:  20.35% ( 23/113)
+\Doctrine\DBAL\Schema::PostgreSqlSchemaManager
+  Methods:   0.00% ( 0/18)   Lines:   6.88% ( 13/189)
+\Doctrine\DBAL\Schema::SQLServerSchemaManager
+  Methods:   0.00% ( 0/12)   Lines:  32.94% ( 28/ 85)
+\Doctrine\DBAL\Schema::Schema
+  Methods:  77.78% (21/27)   Lines:  90.48% ( 95/105)
+\Doctrine\DBAL\Schema::SchemaConfig
+  Methods:  62.50% ( 5/ 8)   Lines:  58.33% (  7/ 12)
+\Doctrine\DBAL\Schema::SchemaDiff
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 37/ 37)
+\Doctrine\DBAL\Schema::SchemaException
+  Methods:  76.92% (10/13)   Lines:  65.00% ( 13/ 20)
+\Doctrine\DBAL\Schema::Sequence
+  Methods:  66.67% ( 6/ 9)   Lines:  75.00% ( 21/ 28)
+\Doctrine\DBAL\Schema::SqliteSchemaManager
+  Methods:  52.94% ( 9/17)   Lines:  83.54% (137/164)
+\Doctrine\DBAL\Schema::Table
+  Methods:  82.50% (33/40)   Lines:  92.40% (158/171)
+\Doctrine\DBAL\Schema::TableDiff
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 12/ 12)
+\Doctrine\DBAL\Schema::View
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\Doctrine\DBAL\Schema\Synchronizer::AbstractSchemaSynchronizer
+  Methods:  66.67% ( 2/ 3)   Lines:  55.56% (  5/  9)
+\Doctrine\DBAL\Schema\Synchronizer::SingleDatabaseSynchronizer
+  Methods:  44.44% ( 4/ 9)   Lines:  52.00% ( 26/ 50)
+\Doctrine\DBAL\Schema\Visitor::AbstractVisitor
+  Methods:  57.14% ( 4/ 7)   Lines:  57.14% (  4/  7)
+\Doctrine\DBAL\Schema\Visitor::CreateSchemaSqlCollector
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 34/ 34)
+\Doctrine\DBAL\Schema\Visitor::DropSchemaSqlCollector
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 24/ 24)
+\Doctrine\DBAL\Schema\Visitor::RemoveNamespacedAssets
+  Methods:  75.00% ( 3/ 4)   Lines:  80.00% ( 12/ 15)
+\Doctrine\DBAL\Sharding::PoolingShardConnection
+  Methods:  60.00% ( 3/ 5)   Lines:  86.96% ( 40/ 46)
+\Doctrine\DBAL\Sharding::PoolingShardManager
+  Methods:  83.33% ( 5/ 6)   Lines:  93.33% ( 28/ 30)
+\Doctrine\DBAL\Sharding::ShardingException
+  Methods:  83.33% ( 5/ 6)   Lines:  83.33% (  5/  6)
+\Doctrine\DBAL\Sharding\SQLAzure::SQLAzureShardManager
+  Methods:  27.27% ( 3/11)   Lines:  40.00% ( 24/ 60)
+\Doctrine\DBAL\Sharding\SQLAzure\Schema::MultiTenantVisitor
+  Methods:  50.00% ( 4/ 8)   Lines:  86.21% ( 25/ 29)
+\Doctrine\DBAL\Sharding\ShardChoser::MultiTenantShardChoser
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Doctrine\DBAL\Types::ArrayType
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 11/ 11)
+\Doctrine\DBAL\Types::BigIntType
+  Methods:  75.00% ( 3/ 4)   Lines:  75.00% (  3/  4)
+\Doctrine\DBAL\Types::BinaryType
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 13/ 13)
+\Doctrine\DBAL\Types::BlobType
+  Methods:  50.00% ( 2/ 4)   Lines:  84.62% ( 11/ 13)
+\Doctrine\DBAL\Types::BooleanType
+  Methods:  80.00% ( 4/ 5)   Lines:  80.00% (  4/  5)
+\Doctrine\DBAL\Types::ConversionException
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  6/  6)
+\Doctrine\DBAL\Types::DateTimeType
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 12/ 12)
+\Doctrine\DBAL\Types::DateTimeTzType
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 10/ 10)
+\Doctrine\DBAL\Types::DateType
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 10/ 10)
+\Doctrine\DBAL\Types::DecimalType
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  3/  3)
+\Doctrine\DBAL\Types::FloatType
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  3/  3)
+\Doctrine\DBAL\Types::GuidType
+  Methods:  33.33% ( 1/ 3)   Lines:  33.33% (  1/  3)
+\Doctrine\DBAL\Types::IntegerType
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  4/  4)
+\Doctrine\DBAL\Types::JsonArrayType
+  Methods:  80.00% ( 4/ 5)   Lines:  90.00% (  9/ 10)
+\Doctrine\DBAL\Types::ObjectType
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 11/ 11)
+\Doctrine\DBAL\Types::SimpleArrayType
+  Methods:  20.00% ( 1/ 5)   Lines:  10.00% (  1/ 10)
+\Doctrine\DBAL\Types::SmallIntType
+  Methods:  75.00% ( 3/ 4)   Lines:  75.00% (  3/  4)
+\Doctrine\DBAL\Types::StringType
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  3/  3)
+\Doctrine\DBAL\Types::TextType
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  3/  3)
+\Doctrine\DBAL\Types::TimeType
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 10/ 10)
+\Doctrine\DBAL\Types::Type
+  Methods:  75.00% (12/16)   Lines:  68.97% ( 20/ 29)
+\Doctrine\DBAL\Types::VarDateTimeType
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  6/  6)
+\Doctrine\Tests::TestUtil
+  Methods:  11.11% ( 1/ 9)   Lines:  25.00% ( 17/ 68)
+\Doctrine\Tests\DBAL\Mocks::MockPlatform
+  Methods:  44.44% ( 4/ 9)   Lines:  44.44% (  4/  9)
+\Doctrine\Tests\Mocks::ConnectionMock
+  Methods:  10.00% ( 1/10)   Lines:  20.00% (  4/ 20)
+\Doctrine\Tests\Mocks::DriverMock
+  Methods:  11.11% ( 1/ 9)   Lines:  20.00% (  3/ 15)

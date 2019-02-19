@@ -1,0 +1,28 @@
+
+
+Code Coverage Report:      
+  2019-02-17 15:45:57      
+                           
+ Summary:                  
+  Classes: 22.22% (2/9)    
+  Methods: 63.96% (71/111) 
+  Lines:   74.24% (219/295)
+
+\Doctrine\Common\Collections::AbstractLazyCollection
+  Methods:  12.50% ( 4/32)   Lines:  13.04% (  9/ 69)
+\Doctrine\Common\Collections::ArrayCollection
+  Methods: 100.00% (33/33)   Lines: 100.00% ( 73/ 73)
+\Doctrine\Common\Collections::Criteria
+  Methods:  85.71% (12/14)   Lines:  93.94% ( 31/ 33)
+\Doctrine\Common\Collections::ExpressionBuilder
+  Methods: 100.00% (12/12)   Lines: 100.00% ( 12/ 12)
+\Doctrine\Common\Collections\Expr::ClosureExpressionVisitor
+  Methods:  28.57% ( 2/ 7)   Lines:  93.24% ( 69/ 74)
+\Doctrine\Common\Collections\Expr::Comparison
+  Methods:  80.00% ( 4/ 5)   Lines:  90.00% (  9/ 10)
+\Doctrine\Common\Collections\Expr::CompositeExpression
+  Methods:  50.00% ( 2/ 4)   Lines:  81.82% (  9/ 11)
+\Doctrine\Common\Collections\Expr::ExpressionVisitor
+  Methods:   0.00% ( 0/ 1)   Lines:  28.57% (  2/  7)
+\Doctrine\Common\Collections\Expr::Value
+  Methods:  66.67% ( 2/ 3)   Lines:  75.00% (  3/  4)

@@ -1,0 +1,9 @@
+repository,tag,coverage
+git@github.com:pyrocms/pyrocms.git,v0.9.1,"no composer"
+git@github.com:pyrocms/pyrocms.git,v3.0.1,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:pyrocms/pyrocms.git,v3.1.0,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:pyrocms/pyrocms.git,v3.2.0,"phpunit failed"
+git@github.com:pyrocms/pyrocms.git,v3.3.0,"phpunit failed"
+git@github.com:pyrocms/pyrocms.git,v3.4.0,"phpunit failed"
+git@github.com:pyrocms/pyrocms.git,v3.5.0,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:pyrocms/pyrocms.git,v3.6.0,"composer failed, Your requirements could not be resolved to an installable set of packages."

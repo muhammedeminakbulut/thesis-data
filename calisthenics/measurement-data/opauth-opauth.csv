@@ -1,0 +1,10 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:opauth/opauth.git,0.1.0,829,328,87,0.00%,6.04,0,266,29,32,0
+git@github.com:opauth/opauth.git,0.2.0,858,336,91,0.00%,6.0769230769231,0,266,29,34,0
+git@github.com:opauth/opauth.git,0.3.0,1282,421,94,0.00%,5.3877551020408,0,266,29,44,0
+git@github.com:opauth/opauth.git,0.4.0,1414,456,98,0.00%,5.8148148148148,0,266,29,46,0
+git@github.com:opauth/opauth.git,0.4.1,1419,456,100,0.00%,5.8148148148148,0,266,29,46,0
+git@github.com:opauth/opauth.git,0.4.2,1458,466,100,0.00%,5.875,0,266,29,46,0
+git@github.com:opauth/opauth.git,0.4.3,1463,461,100,0.00%,5.875,0,266,29,47,0
+git@github.com:opauth/opauth.git,0.4.4,1479,461,103,0.00%,5.9642857142857,0,266,29,50,0
+git@github.com:opauth/opauth.git,0.4.5,1545,469,111,0.00%,5.8275862068966,0,266,29,54,0

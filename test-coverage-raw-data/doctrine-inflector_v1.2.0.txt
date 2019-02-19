@@ -1,0 +1,12 @@
+
+
+Code Coverage Report:    
+  2019-02-16 14:09:59    
+                         
+ Summary:                
+  Classes:  0.00% (0/1)  
+  Methods: 66.67% (6/9)  
+  Lines:   90.91% (70/77)
+
+\Doctrine\Common\Inflector::Doctrine\Common\Inflector\Inflector
+  Methods:  66.67% ( 6/ 9)   Lines:  90.79% ( 69/ 76)

@@ -1,0 +1,94 @@
+
+
+Code Coverage Report:        
+  2019-02-16 13:45:08        
+                             
+ Summary:                    
+  Classes: 31.25% (15/48)    
+  Methods: 68.35% (216/316)  
+  Lines:   68.90% (1407/2042)
+
+\Deployer::Deployer\Deployer
+  Methods:  66.67% (22/33)   Lines:  71.23% ( 52/ 73)
+\Deployer\Collection::Deployer\Collection\Collection
+  Methods:  85.71% (12/14)   Lines:  84.62% ( 22/ 26)
+\Deployer\Collection::Deployer\Collection\PersistentCollection
+  Methods:  66.67% ( 2/ 3)   Lines:  90.00% (  9/ 10)
+\Deployer\Configuration::ConfigurationAccessor
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% (  7/  7)
+\Deployer\Configuration::Deployer\Configuration\Configuration
+  Methods: 100.00% (10/10)   Lines: 100.00% ( 33/ 33)
+\Deployer\Console::Deployer\Console\Application
+  Methods:  60.00% ( 6/10)   Lines:  78.05% ( 32/ 41)
+\Deployer\Console::Deployer\Console\DebugCommand
+  Methods:  28.57% ( 2/ 7)   Lines:  16.39% ( 10/ 61)
+\Deployer\Console::Deployer\Console\InitCommand
+  Methods:  75.00% ( 3/ 4)   Lines:  43.40% ( 23/ 53)
+\Deployer\Console::Deployer\Console\RunCommand
+  Methods:  50.00% ( 2/ 4)   Lines:  61.70% ( 29/ 47)
+\Deployer\Console::Deployer\Console\TaskCommand
+  Methods:  60.00% ( 3/ 5)   Lines:  91.11% ( 82/ 90)
+\Deployer\Console\Output::Deployer\Console\Output\Informer
+  Methods:  57.14% ( 4/ 7)   Lines:  88.24% ( 30/ 34)
+\Deployer\Console\Output::Deployer\Console\Output\OutputWatcher
+  Methods:  86.67% (13/15)   Lines:  91.30% ( 21/ 23)
+\Deployer\Console\Output::Deployer\Console\Output\VerbosityString
+  Methods:  50.00% ( 1/ 2)   Lines:  93.33% ( 14/ 15)
+\Deployer\Executor::Deployer\Executor\ParallelExecutor
+  Methods:  63.64% ( 7/11)   Lines:  85.71% ( 78/ 91)
+\Deployer\Executor::Deployer\Executor\SeriesExecutor
+  Methods:  50.00% ( 1/ 2)   Lines:  85.71% ( 18/ 21)
+\Deployer\Host::Deployer\Host\FileLoader
+  Methods:  66.67% ( 2/ 3)   Lines:  93.10% ( 27/ 29)
+\Deployer\Host::Deployer\Host\Host
+  Methods:  82.76% (24/29)   Lines:  86.89% ( 53/ 61)
+\Deployer\Host::Deployer\Host\HostCollection
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Deployer\Host::Deployer\Host\HostSelector
+  Methods:  75.00% ( 3/ 4)   Lines:  96.88% ( 31/ 32)
+\Deployer\Host::Deployer\Host\Localhost
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Deployer\Host::Deployer\Host\Range
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 12/ 12)
+\Deployer\Host::Deployer\Host\Storage
+  Methods:  25.00% ( 1/ 4)   Lines:  77.78% ( 21/ 27)
+\Deployer\Initializer::Deployer\Initializer\Initializer
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 26/ 26)
+\Deployer\Initializer\Exception::Deployer\Initializer\Exception\TemplateNotFoundException
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  5/  5)
+\Deployer\Initializer\Template::Deployer\Initializer\Template\Template
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  6/  6)
+\Deployer\Logger::Deployer\Logger\Logger
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\Deployer\Logger\Handler::Deployer\Logger\Handler\NullHandler
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Deployer\Ssh::Deployer\Ssh\Arguments
+  Methods:  80.00% (12/15)   Lines:  82.81% ( 53/ 64)
+\Deployer\Support::Deployer\Support\Proxy
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  5/  5)
+\Deployer\Support::Deployer\Support\Unix
+  Methods:   0.00% ( 0/ 1)   Lines:  60.00% (  3/  5)
+\Deployer\Support\Changelog::Deployer\Support\Changelog\Changelog
+  Methods:  55.56% ( 5/ 9)   Lines:  37.04% ( 10/ 27)
+\Deployer\Support\Changelog::Deployer\Support\Changelog\Item
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  7/  7)
+\Deployer\Support\Changelog::Deployer\Support\Changelog\Parser
+  Methods:  50.00% ( 6/12)   Lines:  85.71% ( 78/ 91)
+\Deployer\Support\Changelog::Deployer\Support\Changelog\Version
+  Methods:  58.33% ( 7/12)   Lines:  60.87% ( 14/ 23)
+\Deployer\Task::Deployer\Task\Context
+  Methods:  80.00% ( 8/10)   Lines:  77.78% ( 14/ 18)
+\Deployer\Task::Deployer\Task\GroupTask
+  Methods:  75.00% ( 3/ 4)   Lines:  83.33% (  5/  6)
+\Deployer\Task::Deployer\Task\ScriptManager
+  Methods:  50.00% ( 1/ 2)   Lines:  93.33% ( 14/ 15)
+\Deployer\Task::Deployer\Task\Task
+  Methods: 100.00% (22/22)   Lines: 100.00% ( 57/ 57)
+\Deployer\Task::Deployer\Task\TaskCollection
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Deployer\Type::Deployer\Type\Csv
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Deployer\Utility::Deployer\Utility\ProcessOutputPrinter
+  Methods:  80.00% ( 4/ 5)   Lines:  88.00% ( 22/ 25)
+\Deployer\Utility::Deployer\Utility\ProcessRunner
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 10/ 10)

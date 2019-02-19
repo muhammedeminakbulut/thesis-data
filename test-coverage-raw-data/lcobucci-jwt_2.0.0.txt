@@ -1,0 +1,46 @@
+
+
+Code Coverage Report:       
+  2019-02-17 15:19:47       
+                            
+ Summary:                   
+  Classes: 100.00% (18/18)  
+  Methods: 100.00% (73/73)  
+  Lines:   100.00% (191/191)
+
+\Lcobucci\JWT::Builder
+  Methods: 100.00% (13/13)   Lines: 100.00% ( 30/ 30)
+\Lcobucci\JWT::Parser
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 33/ 33)
+\Lcobucci\JWT::Signature
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\Lcobucci\JWT::Token
+  Methods: 100.00% (10/10)   Lines: 100.00% ( 32/ 32)
+\Lcobucci\JWT::ValidationData
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% ( 21/ 21)
+\Lcobucci\JWT\Claim::Basic
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% (  7/  7)
+\Lcobucci\JWT\Claim::EqualsTo
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\Lcobucci\JWT\Claim::Factory
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 17/ 17)
+\Lcobucci\JWT\Claim::GreaterOrEqualsTo
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\Lcobucci\JWT\Claim::LesserOrEqualsTo
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\Lcobucci\JWT\Parsing::Decoder
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  9/  9)
+\Lcobucci\JWT\Parsing::Encoder
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  5/  5)
+\Lcobucci\JWT\Signer::BaseSigner
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\Lcobucci\JWT\Signer::Factory
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 12/ 12)
+\Lcobucci\JWT\Signer::Hmac
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Lcobucci\JWT\Signer\Hmac::Sha256
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Lcobucci\JWT\Signer\Hmac::Sha384
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Lcobucci\JWT\Signer\Hmac::Sha512
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)

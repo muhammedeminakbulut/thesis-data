@@ -1,0 +1,108 @@
+
+
+Code Coverage Report:      
+  2019-02-16 13:36:00      
+                           
+ Summary:                  
+  Classes: 73.47% (36/49)  
+  Methods: 86.39% (146/169)
+  Lines:   95.40% (726/761)
+
+\Phpml::Pipeline
+  Methods:  88.89% ( 8/ 9)   Lines:  90.91% ( 20/ 22)
+\Phpml\Classification::KNearestNeighbors
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 19/ 19)
+\Phpml\Classification::NaiveBayes
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  9/  9)
+\Phpml\Classification::SVC
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Phpml\Clustering::DBSCAN
+  Methods:  75.00% ( 3/ 4)   Lines:  96.67% ( 29/ 30)
+\Phpml\Clustering::KMeans
+  Methods:  50.00% ( 1/ 2)   Lines:  91.67% ( 11/ 12)
+\Phpml\Clustering\KMeans::Cluster
+  Methods:  50.00% ( 5/10)   Lines:  67.74% ( 21/ 31)
+\Phpml\Clustering\KMeans::Point
+  Methods:  77.78% ( 7/ 9)   Lines:  88.46% ( 23/ 26)
+\Phpml\Clustering\KMeans::Space
+  Methods:  53.85% ( 7/13)   Lines:  88.75% ( 71/ 80)
+\Phpml\CrossValidation::RandomSplit
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 22/ 22)
+\Phpml\Dataset::ArrayDataset
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  7/  7)
+\Phpml\Dataset::CsvDataset
+  Methods:   0.00% ( 0/ 1)   Lines:  90.91% ( 10/ 11)
+\Phpml\Dataset\Demo::Glass
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\Phpml\Dataset\Demo::Iris
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\Phpml\Dataset\Demo::Wine
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\Phpml\Exception::DatasetException
+  Methods:  50.00% ( 1/ 2)   Lines:  50.00% (  1/  2)
+\Phpml\Exception::InvalidArgumentException
+  Methods:  87.50% ( 7/ 8)   Lines:  87.50% (  7/  8)
+\Phpml\Exception::MatrixException
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Phpml\Exception::NormalizerException
+  Methods:  50.00% ( 1/ 2)   Lines:  50.00% (  1/  2)
+\Phpml\FeatureExtraction::StopWords
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  7/  7)
+\Phpml\FeatureExtraction::TfIdfTransformer
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 18/ 18)
+\Phpml\FeatureExtraction::TokenCountVectorizer
+  Methods: 100.00% (13/13)   Lines: 100.00% ( 58/ 58)
+\Phpml\FeatureExtraction\StopWords::English
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Phpml\FeatureExtraction\StopWords::Polish
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Phpml\Helper::Predictable
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  6/  6)
+\Phpml\Helper::Trainable
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\Phpml\Math::Matrix
+  Methods:  92.86% (13/14)   Lines:  98.72% ( 77/ 78)
+\Phpml\Math::Product
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  4/  4)
+\Phpml\Math\Distance::Chebyshev
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  7/  7)
+\Phpml\Math\Distance::Euclidean
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  7/  7)
+\Phpml\Math\Distance::Manhattan
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  7/  7)
+\Phpml\Math\Distance::Minkowski
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  9/  9)
+\Phpml\Math\Kernel::RBF
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  6/  6)
+\Phpml\Math\Statistic::Correlation
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 16/ 16)
+\Phpml\Math\Statistic::Mean
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 16/ 16)
+\Phpml\Math\Statistic::StandardDeviation
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 13/ 13)
+\Phpml\Metric::Accuracy
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  9/  9)
+\Phpml\Metric::ConfusionMatrix
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 21/ 21)
+\Phpml\Preprocessing::Imputer
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 21/ 21)
+\Phpml\Preprocessing::Normalizer
+  Methods:  80.00% ( 4/ 5)   Lines:  92.59% ( 25/ 27)
+\Phpml\Preprocessing\Imputer\Strategy::MeanStrategy
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Phpml\Preprocessing\Imputer\Strategy::MedianStrategy
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Phpml\Preprocessing\Imputer\Strategy::MostFrequentStrategy
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Phpml\Regression::LeastSquares
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 25/ 25)
+\Phpml\Regression::SVR
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Phpml\SupportVectorMachine::DataTransformer
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 28/ 28)
+\Phpml\SupportVectorMachine::SupportVectorMachine
+  Methods:  83.33% ( 5/ 6)   Lines:  97.06% ( 66/ 68)
+\Phpml\Tokenization::WhitespaceTokenizer
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Phpml\Tokenization::WordTokenizer
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)

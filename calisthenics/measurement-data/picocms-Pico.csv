@@ -1,0 +1,16 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:picocms/Pico.git,v0.4.1,16158,5270,1172,0.00%,3.5311614730878,0,522,39,1116,0
+git@github.com:picocms/Pico.git,v0.6.1,16356,5305,1183,0.00%,3.51108033241,0,522,39,1125,0
+git@github.com:picocms/Pico.git,v0.6.2,16366,5305,1189,0.00%,3.5152354570637,0,522,39,1127,0
+git@github.com:picocms/Pico.git,v1.0.0,2856,1404,193,0.00%,3.25,0,522,39,114,0
+git@github.com:picocms/Pico.git,v1.0.1,2856,1404,193,0.00%,3.25,0,522,39,114,0
+git@github.com:picocms/Pico.git,v1.0.2,2892,1413,198,0.00%,3.3365384615385,0,522,39,121,0
+git@github.com:picocms/Pico.git,v1.0.3,2894,1413,199,0.00%,3.3557692307692,0,522,39,122,0
+git@github.com:picocms/Pico.git,v1.0.4,2903,1417,200,0.00%,3.3653846153846,0,522,39,123,0
+git@github.com:picocms/Pico.git,v1.0.5,2912,1421,202,0.00%,3.3942307692308,0,522,39,124,0
+git@github.com:picocms/Pico.git,v1.0.6,2926,1421,204,0.00%,3.4423076923077,0,522,39,127,0
+git@github.com:picocms/Pico.git,v2.0.0,3820,1971,315,0.00%,3.7809523809524,0,522,39,166,0
+git@github.com:picocms/Pico.git,v2.0.1,3822,1971,316,0.00%,3.7714285714286,0,522,39,166,0
+git@github.com:picocms/Pico.git,v2.0.2,3822,1971,316,0.00%,3.7714285714286,0,522,39,166,0
+git@github.com:picocms/Pico.git,v2.0.3,3857,1971,334,0.00%,3.9238095238095,0,522,39,168,0
+git@github.com:picocms/Pico.git,v2.0.4,3857,1971,334,0.00%,3.9238095238095,0,522,39,168,0

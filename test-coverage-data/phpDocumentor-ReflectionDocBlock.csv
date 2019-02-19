@@ -1,0 +1,11 @@
+repository,tag,coverage
+git@github.com:phpDocumentor/ReflectionDocBlock.git,1.0.0,"phpunit not installed"
+git@github.com:phpDocumentor/ReflectionDocBlock.git,2.0.0,"phpunit failed"
+git@github.com:phpDocumentor/ReflectionDocBlock.git,3.0.0,"phpunit failed"
+git@github.com:phpDocumentor/ReflectionDocBlock.git,3.1.0,82.52
+git@github.com:phpDocumentor/ReflectionDocBlock.git,3.2.0,83.10
+git@github.com:phpDocumentor/ReflectionDocBlock.git,3.3.0,93.94
+git@github.com:phpDocumentor/ReflectionDocBlock.git,4.0.0,81.35
+git@github.com:phpDocumentor/ReflectionDocBlock.git,4.1.0,88.75
+git@github.com:phpDocumentor/ReflectionDocBlock.git,4.2.0,93.99
+git@github.com:phpDocumentor/ReflectionDocBlock.git,4.3.0,94.01

@@ -1,0 +1,22 @@
+repository,tag,coverage
+git@github.com:ramsey/uuid.git,1.0.0,"no phpunit config"
+git@github.com:ramsey/uuid.git,1.1.0,"phpunit not installed"
+git@github.com:ramsey/uuid.git,2.0.0,"phpunit not installed"
+git@github.com:ramsey/uuid.git,2.1.0,"phpunit not installed"
+git@github.com:ramsey/uuid.git,2.2.0,"phpunit not installed"
+git@github.com:ramsey/uuid.git,2.3.0,"phpunit not installed"
+git@github.com:ramsey/uuid.git,2.4.0,"phpunit not installed"
+git@github.com:ramsey/uuid.git,2.5.0,"phpunit failed"
+git@github.com:ramsey/uuid.git,2.6.0,"phpunit failed"
+git@github.com:ramsey/uuid.git,2.7.0,"phpunit failed"
+git@github.com:ramsey/uuid.git,2.8.0,99.25
+git@github.com:ramsey/uuid.git,2.9.0,95.63
+git@github.com:ramsey/uuid.git,3.0.0,89.55
+git@github.com:ramsey/uuid.git,3.1.0,89.70
+git@github.com:ramsey/uuid.git,3.2.0,89.07
+git@github.com:ramsey/uuid.git,3.3.0,92.62
+git@github.com:ramsey/uuid.git,3.4.0,"phpunit failed"
+git@github.com:ramsey/uuid.git,3.5.0,"phpunit failed"
+git@github.com:ramsey/uuid.git,3.6.0,99.33
+git@github.com:ramsey/uuid.git,3.7.0,"phpunit failed"
+git@github.com:ramsey/uuid.git,3.8.0,99.06

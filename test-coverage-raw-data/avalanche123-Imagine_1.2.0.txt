@@ -1,0 +1,122 @@
+
+
+Code Coverage Report:        
+  2019-02-17 15:19:48        
+                             
+ Summary:                    
+  Classes: 34.72% (25/72)    
+  Methods: 44.28% (236/533)  
+  Lines:   30.80% (1135/3685)
+
+\Imagine\Factory::ClassFactory
+  Methods:  40.00% ( 4/10)   Lines:  43.14% ( 22/ 51)
+\Imagine\File::Loader
+  Methods:  38.46% ( 5/13)   Lines:  65.38% ( 51/ 78)
+\Imagine\Filter::ImagineAware
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  5/  5)
+\Imagine\Filter::Transformation
+  Methods:  83.33% (15/18)   Lines:  90.91% ( 30/ 33)
+\Imagine\Filter\Advanced::BlackWhite
+  Methods:  66.67% ( 2/ 3)   Lines:  90.00% (  9/ 10)
+\Imagine\Filter\Advanced::Border
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 29/ 29)
+\Imagine\Filter\Advanced::Canvas
+  Methods:  50.00% ( 1/ 2)   Lines:  37.50% (  3/  8)
+\Imagine\Filter\Advanced::Grayscale
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\Imagine\Filter\Advanced::Negation
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Imagine\Filter\Advanced::Neighborhood
+  Methods:  50.00% ( 1/ 2)   Lines:  95.24% ( 20/ 21)
+\Imagine\Filter\Advanced::OnPixelBased
+  Methods:  50.00% ( 1/ 2)   Lines:  90.91% ( 10/ 11)
+\Imagine\Filter\Basic::Autorotate
+  Methods:  50.00% ( 2/ 4)   Lines:  95.45% ( 42/ 44)
+\Imagine\Filter\Basic::Copy
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Imagine\Filter\Basic::Crop
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\Imagine\Filter\Basic::FlipHorizontally
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Imagine\Filter\Basic::FlipVertically
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Imagine\Filter\Basic::Paste
+  Methods:  50.00% ( 1/ 2)   Lines:  87.50% (  7/  8)
+\Imagine\Filter\Basic::Resize
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\Imagine\Filter\Basic::Rotate
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\Imagine\Filter\Basic::Save
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\Imagine\Filter\Basic::Show
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\Imagine\Filter\Basic::Strip
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Imagine\Filter\Basic::Thumbnail
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  5/  5)
+\Imagine\Filter\Basic::WebOptimization
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 14/ 14)
+\Imagine\Gd::Drawer
+  Methods:  21.43% ( 3/14)   Lines:  68.49% (100/146)
+\Imagine\Gd::Effects
+  Methods:  11.11% ( 1/ 9)   Lines:  57.14% ( 20/ 35)
+\Imagine\Gd::Font
+  Methods:   0.00% ( 0/ 1)   Lines:  71.43% ( 10/ 14)
+\Imagine\Gd::Image
+  Methods:  39.47% (15/38)   Lines:  68.70% (180/262)
+\Imagine\Gd::Imagine
+  Methods:  63.64% ( 7/11)   Lines:  67.24% ( 39/ 58)
+\Imagine\Gd::Layers
+  Methods:  57.14% ( 8/14)   Lines:  75.00% ( 18/ 24)
+\Imagine\Image::AbstractFont
+  Methods:  71.43% ( 5/ 7)   Lines:  93.94% ( 31/ 33)
+\Imagine\Image::AbstractImage
+  Methods:  62.50% ( 5/ 8)   Lines:  89.71% ( 61/ 68)
+\Imagine\Image::AbstractImagine
+  Methods:  40.00% ( 2/ 5)   Lines:  35.29% (  6/ 17)
+\Imagine\Image::AbstractLayers
+  Methods:  57.14% ( 4/ 7)   Lines:  53.85% (  7/ 13)
+\Imagine\Image::Box
+  Methods: 100.00% (10/10)   Lines: 100.00% ( 17/ 17)
+\Imagine\Image::Point
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 10/ 10)
+\Imagine\Image::PointSigned
+  Methods:  50.00% ( 3/ 6)   Lines:  62.50% (  5/  8)
+\Imagine\Image::Profile
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  8/  8)
+\Imagine\Image\Fill\Gradient::Horizontal
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Imagine\Image\Fill\Gradient::Linear
+  Methods:  75.00% ( 3/ 4)   Lines:  91.67% ( 11/ 12)
+\Imagine\Image\Fill\Gradient::Vertical
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Imagine\Image\Histogram::Bucket
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  7/  7)
+\Imagine\Image\Histogram::Range
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  6/  6)
+\Imagine\Image\Metadata::AbstractMetadataReader
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 19/ 19)
+\Imagine\Image\Metadata::DefaultMetadataReader
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  3/  3)
+\Imagine\Image\Metadata::ExifMetadataReader
+  Methods:  57.14% ( 4/ 7)   Lines:  80.00% ( 12/ 15)
+\Imagine\Image\Metadata::MetadataBag
+  Methods:  88.89% ( 8/ 9)   Lines:  91.67% ( 11/ 12)
+\Imagine\Image\Palette::CMYK
+  Methods:  77.78% ( 7/ 9)   Lines:  93.10% ( 27/ 29)
+\Imagine\Image\Palette::ColorParser
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 32/ 32)
+\Imagine\Image\Palette::Grayscale
+  Methods:  88.89% ( 8/ 9)   Lines:  95.83% ( 23/ 24)
+\Imagine\Image\Palette::RGB
+  Methods:  88.89% ( 8/ 9)   Lines:  96.67% ( 29/ 30)
+\Imagine\Image\Palette\Color::CMYK
+  Methods:  87.50% (14/16)   Lines:  94.74% ( 36/ 38)
+\Imagine\Image\Palette\Color::Gray
+  Methods:  76.92% (10/13)   Lines:  89.29% ( 25/ 28)
+\Imagine\Image\Palette\Color::RGB
+  Methods:  81.25% (13/16)   Lines:  92.86% ( 39/ 42)
+\Imagine\Image\Point::Center
+  Methods:  66.67% ( 4/ 6)   Lines:  71.43% (  5/  7)
+\Imagine\Utils::Matrix
+  Methods:  88.89% ( 8/ 9)   Lines:  97.06% ( 33/ 34)

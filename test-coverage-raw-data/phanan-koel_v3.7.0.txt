@@ -1,0 +1,178 @@
+
+
+Code Coverage Report:       
+  2019-02-16 13:28:38       
+                            
+ Summary:                   
+  Classes: 48.57% (51/105)  
+  Methods: 64.90% (196/302) 
+  Lines:   62.38% (801/1284)
+
+\App::Application
+  Methods:  50.00% ( 2/ 4)   Lines:  77.27% ( 17/ 22)
+\App::JWTAuth
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\App\Console::Kernel
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\App\Events::LibraryChanged
+  Methods:  50.00% ( 1/ 2)   Lines:  50.00% (  1/  2)
+\App\Events::SongLikeToggled
+  Methods:  50.00% ( 1/ 2)   Lines:  75.00% (  3/  4)
+\App\Events::SongStartedPlaying
+  Methods:  50.00% ( 1/ 2)   Lines:  75.00% (  3/  4)
+\App\Exceptions::Handler
+  Methods:  33.33% ( 1/ 3)   Lines:  50.00% (  4/  8)
+\App\Facades::Download
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\App\Facades::Lastfm
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\App\Facades::Media
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\App\Facades::MediaCache
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\App\Facades::Util
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\App\Facades::YouTube
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\App\Facades::iTunes
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\App\Http\Controllers\API::LastfmController
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 15/ 15)
+\App\Http\Controllers\API::PlaylistController
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 16/ 16)
+\App\Http\Controllers\API::ProfileController
+  Methods:   0.00% ( 0/ 2)   Lines:  60.00% (  3/  5)
+\App\Http\Controllers\API::SettingController
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\App\Http\Controllers\API::SongController
+  Methods:  33.33% ( 1/ 3)   Lines:   3.70% (  1/ 27)
+\App\Http\Controllers\API::UserController
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 10/ 10)
+\App\Http\Controllers\API::YouTubeController
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\App\Http\Controllers\API\Download::AlbumController
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\App\Http\Controllers\API\Download::ArtistController
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\App\Http\Controllers\API\Download::FavoritesController
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\App\Http\Controllers\API\Download::PlaylistController
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\App\Http\Controllers\API\Download::SongController
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\App\Http\Controllers\API\Interaction::BatchLikeController
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\App\Http\Controllers\API\Interaction::LikeController
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\App\Http\Controllers\API\Interaction::PlayCountController
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  4/  4)
+\App\Http\Controllers\API\ObjectStorage\S3::SongController
+  Methods:  50.00% ( 1/ 2)   Lines:  95.45% ( 21/ 22)
+\App\Http\Middleware::BaseMiddleware
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\App\Http\Middleware::GetUserFromToken
+  Methods:   0.00% ( 0/ 1)   Lines:  54.55% (  6/ 11)
+\App\Http\Middleware::UseDifferentConfigIfE2E
+  Methods:   0.00% ( 0/ 1)   Lines:  66.67% (  2/  3)
+\App\Http\Requests\API::BatchInteractionRequest
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\App\Http\Requests\API::PlaylistStoreRequest
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\App\Http\Requests\API::ProfileUpdateRequest
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\App\Http\Requests\API::SettingRequest
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\App\Http\Requests\API::SongUpdateRequest
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\App\Http\Requests\API::UserStoreRequest
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\App\Http\Requests\API::UserUpdateRequest
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\App\Http\Requests\API\Download::Request
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\App\Http\Requests\API\Download::SongRequest
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\App\Http\Requests\API\ObjectStorage::Request
+  Methods:  50.00% ( 1/ 2)   Lines:  50.00% (  1/  2)
+\App\Http\Requests\API\ObjectStorage\S3::PutSongRequest
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\App\Http\Requests\API\ObjectStorage\S3::RemoveSongRequest
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\App\Libraries\WatchRecord::InotifyWatchRecord
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% (  9/  9)
+\App\Libraries\WatchRecord::WatchRecord
+  Methods:  83.33% ( 5/ 6)   Lines:  85.71% (  6/  7)
+\App\Listeners::ClearMediaCache
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\App\Listeners::LoveTrackOnLastfm
+  Methods:  50.00% ( 1/ 2)   Lines:  91.67% ( 11/ 12)
+\App\Listeners::TidyLibrary
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\App\Listeners::UpdateLastfmNowPlaying
+  Methods:  50.00% ( 1/ 2)   Lines:  92.31% ( 12/ 13)
+\App\Models::Album
+  Methods:  85.71% (12/14)   Lines:  82.50% ( 33/ 40)
+\App\Models::Artist
+  Methods:  63.64% ( 7/11)   Lines:  67.86% ( 19/ 28)
+\App\Models::File
+  Methods:  53.85% ( 7/13)   Lines:  91.67% ( 99/108)
+\App\Models::Interaction
+  Methods:  66.67% ( 4/ 6)   Lines:  93.55% ( 29/ 31)
+\App\Models::Playlist
+  Methods:  50.00% ( 1/ 2)   Lines:  50.00% (  1/  2)
+\App\Models::Setting
+  Methods:  75.00% ( 3/ 4)   Lines:  91.67% ( 11/ 12)
+\App\Models::Song
+  Methods:  68.75% (11/16)   Lines:  83.95% ( 68/ 81)
+\App\Models::SongZipArchive
+  Methods:  33.33% ( 2/ 6)   Lines:  53.85% ( 14/ 26)
+\App\Models::User
+  Methods:  90.00% ( 9/10)   Lines:  95.45% ( 21/ 22)
+\App\Policies::PlaylistPolicy
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\App\Policies::UserPolicy
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\App\Providers::AppServiceProvider
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  9/  9)
+\App\Providers::AuthServiceProvider
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\App\Providers::BroadcastServiceProvider
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\App\Providers::DownloadServiceProvider
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\App\Providers::EventServiceProvider
+  Methods:  50.00% ( 1/ 2)   Lines:  57.14% (  4/  7)
+\App\Providers::LastfmServiceProvider
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\App\Providers::MediaCacheServiceProvider
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\App\Providers::MediaServiceProvider
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\App\Providers::RouteServiceProvider
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 14/ 14)
+\App\Providers::UtilServiceProvider
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\App\Providers::YouTubeServiceProvider
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\App\Providers::iTunesServiceProvider
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\App\Services::Download
+  Methods:   0.00% ( 0/ 6)   Lines:  14.71% (  5/ 34)
+\App\Services::Lastfm
+  Methods:  50.00% ( 7/14)   Lines:  62.89% ( 61/ 97)
+\App\Services::Media
+  Methods:  77.78% ( 7/ 9)   Lines:  89.02% ( 73/ 82)
+\App\Services::MediaCache
+  Methods:  75.00% ( 3/ 4)   Lines:  88.89% (  8/  9)
+\App\Services::RESTfulService
+  Methods:  75.00% ( 9/12)   Lines:  88.10% ( 37/ 42)
+\App\Services::Util
+  Methods:  50.00% ( 1/ 2)   Lines:  80.00% ( 16/ 20)
+\App\Services::YouTube
+  Methods:  60.00% ( 3/ 5)   Lines:  73.68% ( 14/ 19)
+\App\Services::iTunes
+  Methods:  75.00% ( 3/ 4)   Lines:  88.89% ( 16/ 18)
+\App\Traits::CanFilterByUser
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\App\Traits::SupportsDeleteWhereIDsNotIn
+  Methods:   0.00% ( 0/ 2)   Lines:  46.67% (  7/ 15)

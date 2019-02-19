@@ -1,0 +1,10 @@
+repository,tag,coverage
+git@github.com:phpstan/phpstan.git,0.2.1,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:phpstan/phpstan.git,0.3.1,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:phpstan/phpstan.git,0.4.1,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:phpstan/phpstan.git,0.5.1,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:phpstan/phpstan.git,0.6.1,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:phpstan/phpstan.git,0.8.1,"no phpunit config"
+git@github.com:phpstan/phpstan.git,0.9.1,"no phpunit config"
+git@github.com:phpstan/phpstan.git,0.10.1,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:phpstan/phpstan.git,0.11.1,"composer failed, Your requirements could not be resolved to an installable set of packages."

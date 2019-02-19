@@ -1,0 +1,8 @@
+repository,tag,coverage
+git@github.com:catfan/Medoo.git,v0.9.6,"no phpunit config"
+git@github.com:catfan/Medoo.git,v1.0.2,"no phpunit config"
+git@github.com:catfan/Medoo.git,v1.1.1,"no phpunit config"
+git@github.com:catfan/Medoo.git,v1.2.1,"no phpunit config"
+git@github.com:catfan/Medoo.git,v1.4.1,"no phpunit config"
+git@github.com:catfan/Medoo.git,v1.5.1,"no phpunit config"
+git@github.com:catfan/Medoo.git,v1.6.1,"no phpunit config"

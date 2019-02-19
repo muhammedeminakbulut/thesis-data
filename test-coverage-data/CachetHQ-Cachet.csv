@@ -1,0 +1,108 @@
+repository,tag,coverage
+git@github.com:CachetHQ/Cachet.git,v2.0.0,"phpunit failed"
+git@github.com:CachetHQ/Cachet.git,v2.1.0,"composer failed, > php artisan clear-compiled
+PHP Fatal error:  Uncaught ErrorException: count(): Parameter must be an array or an object that implements Countable in /home/muhammed/projects/thesis/data/git/710a2db6e0af7ea5e921041707367acb/vendor/graham-campbell/exceptions/src/ExceptionIdentifier.php:51
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'count(): Parame...', '/home/muhammed/...', 51, Array)
+#1 /home/muhammed/projects/thesis/data/git/710a2db6e0af7ea5e921041707367acb/vendor/graham-campbell/exceptions/src/ExceptionIdentifier.php(51): count(NULL)
+#2 /home/muhammed/projects/thesis/data/git/710a2db6e0af7ea5e921041707367acb/vendor/graham-campbell/exceptions/src/ExceptionHandlerTrait.php(50): GrahamCampbell\Exceptions\ExceptionIdentifier->identify(Object(ErrorException))
+#3 /home/muhammed/projects/thesis/data/git/710a2db6e0af7ea5e921041707367acb/bootstrap/cache/compiled.php(2071): GrahamCampbell\Exceptions\ExceptionHandler->report(Object(ErrorException))
+#4 [internal function]: Illuminate\Foundation\Bootstrap\Han in /home/muhammed/projects/thesis/data/git/710a2db6e0af7ea5e921041707367acb/vendor/graham-campbell/exceptions/src/ExceptionIdentifier.php on line 51
+PHP Fatal error:  Uncaught ErrorException: count(): Parameter must be an array or an object that implements Countable in /home/muhammed/projects/thesis/data/git/710a2db6e0af7ea5e921041707367acb/vendor/graham-campbell/exceptions/src/ExceptionIdentifier.php:51
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'count(): Parame...', '/home/muhammed/...', 51, Array)
+#1 /home/muhammed/projects/thesis/data/git/710a2db6e0af7ea5e921041707367acb/vendor/graham-campbell/exceptions/src/ExceptionIdentifier.php(51): count(NULL)
+#2 /home/muhammed/projects/thesis/data/git/710a2db6e0af7ea5e921041707367acb/vendor/graham-campbell/exceptions/src/ExceptionHandlerTrait.php(50): GrahamCampbell\Exceptions\ExceptionIdentifier->identify(Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#3 /home/muhammed/projects/thesis/data/git/710a2db6e0af7ea5e921041707367acb/bootstrap/cache/compiled.php(2071): GrahamCampbell\Exceptions\ExceptionHandler->report(Object(Symfony\Component\Debug\Exception\Fat in /home/muhammed/projects/thesis/data/git/710a2db6e0af7ea5e921041707367acb/vendor/graham-campbell/exceptions/src/ExceptionIdentifier.php on line 51
+Script php artisan clear-compiled handling the pre-update-cmd event returned with error code 255"
+git@github.com:CachetHQ/Cachet.git,v2.2.0,"composer failed, Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Package operations: 3 installs, 22 updates, 3 removals
+  - Removing graham-campbell/throttle (v5.3.0)
+  - Removing danielstjules/stringy (1.10.0)
+  - Removing asm89/stack-cors (0.2.1)
+  - Downgrading mockery/mockery (0.9.11 => 0.9.4): Downloading (connecting...)Downloading (100%)         
+  - Downgrading phpunit/phpunit (4.8.36 => 4.8.21): Downloading (connecting...)Downloading (0%)           Downloading (5%)Downloading (10%)Downloading (15%)Downloading (20%)Downloading (25%)Downloading (30%)Downloading (35%)Downloading (40%)Downloading (45%)Downloading (50%)Downloading (55%)Downloading (60%)Downloading (65%)Downloading (70%)Downloading (75%)Downloading (80%)Downloading (85%)Downloading (90%)Downloading (95%)Downloading (100%)
+  - Updating filp/whoops (1.1.10 => 2.3.1): Loading from cache
+  - Updating symfony/css-selector (v2.8.49 => v3.4.22): Loading from cache
+  - Updating symfony/dom-crawler (v2.7.50 => v3.4.22): Loading from cache
+  - Updating symfony/console (v2.7.50 => v3.0.9): Downloading (connecting...)Downloading (0%)           Downloading (5%)Downloading (10%)Downloading (15%)Downloading (20%)Downloading (25%)Downloading (30%)Downloading (35%)Downloading (40%)Downloading (45%)Downloading (50%)Downloading (55%)Downloading (60%)Downloading (65%)Downloading (70%)Downloading (75%)Downloading (80%)Downloading (85%)Downloading (90%)Downloading (95%)Downloading (100%)
+  - Updating symfony/finder (v2.7.50 => v3.0.9): Downloading (connecting...)Downloading (0%)           Downloading (5%)Downloading (10%)Downloading (15%)Downloading (20%)Downloading (25%)Downloading (30%)Downloading (100%)
+  - Updating symfony/process (v2.7.50 => v3.0.9): Downloading (connecting...)Downloading (0%)           Downloading (15%)Downloading (25%)Downloading (40%)Downloading (60%)Downloading (65%)Downloading (80%)Downloading (95%)Downloading (100%)
+  - Updating symfony/routing (v2.7.50 => v3.0.9): Downloading (connecting...)Downloading (0%)           Downloading (5%)Downloading (10%)Downloading (15%)Downloading (20%)Downloading (25%)Downloading (30%)Downloading (35%)Downloading (40%)Downloading (50%)Downloading (55%)Downloading (60%)Downloading (65%)Downloading (70%)Downloading (75%)Downloading (80%)Downloading (85%)Downloading (90%)Downloading (95%)Downloading (100%)
+  - Updating symfony/translation (v2.7.50 => v3.0.9): Loading from cache
+  - Updating symfony/var-dumper (v2.7.50 => v3.0.9): Downloading (connecting...)Downloading (0%)           Downloading (10%)Downloading (20%)Downloading (25%)Downloading (30%)Downloading (35%)Downloading (45%)Downloading (55%)Downloading (65%)Downloading (80%)Downloading (90%)Downloading (100%)
+  - Updating vlucas/phpdotenv (v1.1.1 => v2.6.1): Loading from cache
+  - Updating symfony/event-dispatcher (v2.8.49 => v3.4.22): Loading from cache
+  - Updating league/commonmark (0.12.0 => 0.13.4): Downloading (connecting...)Downloading (100%)         
+  - Updating symfony/debug (v2.7.50 => v3.0.9): Loading from cache
+  - Updating symfony/http-foundation (v2.7.50 => v3.0.9): Downloading (connecting...)Downloading (0%)           Downloading (5%)Downloading (10%)Downloading (15%)Downloading (20%)Downloading (25%)Downloading (30%)Downloading (35%)Downloading (40%)Downloading (45%)Downloading (50%)Downloading (55%)Downloading (60%)Downloading (65%)Downloading (70%)Downloading (75%)Downloading (80%)Downloading (85%)Downloading (90%)Downloading (95%)Downloading (100%)
+  - Updating symfony/http-kernel (v2.7.50 => v3.0.9): Downloading (connecting...)Downloading (0%)           Downloading (5%)Downloading (10%)Downloading (15%)Downloading (20%)Downloading (25%)Downloading (30%)Downloading (35%)Downloading (40%)Downloading (45%)Downloading (50%)Downloading (55%)Downloading (60%)Downloading (65%)Downloading (70%)Downloading (75%)Downloading (80%)Downloading (85%)Downloading (90%)Downloading (95%)Downloading (100%)
+  - Updating laravel/framework (v5.1.46 => v5.2.45): Downloading (connecting...)Downloading (0%)           Downloading (5%)Downloading (10%)Downloading (15%)Downloading (20%)Downloading (25%)Downloading (30%)Downloading (35%)Downloading (40%)Downloading (45%)Downloading (50%)Downloading (55%)Downloading (60%)Downloading (65%)Downloading (70%)Downloading (75%)Downloading (80%)Downloading (90%)Downloading (95%)Downloading (100%)
+  - Updating alt-three/emoji (v2.1.1 => v3.1.0): Downloading (connecting...)Downloading (100%)         
+  - Updating barryvdh/laravel-cors (v0.7.3 => v0.8.6): Downloading (connecting...)Downloading (100%)         
+  - Updating graham-campbell/markdown (v5.3.0 => v6.1.0): Downloading (connecting...)Downloading (100%)         
+  - Updating graham-campbell/exceptions (v6.1.0 => v8.8.0): Downloading (connecting...)Downloading (100%)         
+  - Installing alt-three/badger (v3.2.0): Downloading (connecting...)Downloading (100%)         
+  - Installing alt-three/bus (v1.1.0): Downloading (connecting...)Downloading (100%)         
+  - Installing alt-three/testbench (v1.11.3): Downloading (connecting...)Downloading (100%)         
+Package graham-campbell/core is abandoned, you should avoid using it. No replacement was suggested.
+Package roumen/feed is abandoned, you should avoid using it. Use laravelium/feed instead.
+Writing lock file
+Generating autoload files
+> Illuminate\Foundation\ComposerScripts::postUpdate
+> php artisan optimize --force
+PHP Fatal error:  Uncaught ErrorException: count(): Parameter must be an array or an object that implements Countable in /home/muhammed/projects/thesis/data/git/710a2db6e0af7ea5e921041707367acb/vendor/graham-campbell/exceptions/src/ExceptionIdentifier.php:51
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'count(): Parame...', '/home/muhammed/...', 51, Array)
+#1 /home/muhammed/projects/thesis/data/git/710a2db6e0af7ea5e921041707367acb/vendor/graham-campbell/exceptions/src/ExceptionIdentifier.php(51): count(NULL)
+#2 /home/muhammed/projects/thesis/data/git/710a2db6e0af7ea5e921041707367acb/vendor/graham-campbell/exceptions/src/ExceptionHandlerTrait.php(47): GrahamCampbell\Exceptions\ExceptionIdentifier->identify(Object(ErrorException))
+#3 /home/muhammed/projects/thesis/data/git/710a2db6e0af7ea5e921041707367acb/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(79): GrahamCampbell\Exceptions\ExceptionHandler->report(Object(ErrorException))
+#4 [inte in /home/muhammed/projects/thesis/data/git/710a2db6e0af7ea5e921041707367acb/vendor/graham-campbell/exceptions/src/ExceptionIdentifier.php on line 51
+PHP Fatal error:  Uncaught ErrorException: count(): Parameter must be an array or an object that implements Countable in /home/muhammed/projects/thesis/data/git/710a2db6e0af7ea5e921041707367acb/vendor/graham-campbell/exceptions/src/ExceptionIdentifier.php:51
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'count(): Parame...', '/home/muhammed/...', 51, Array)
+#1 /home/muhammed/projects/thesis/data/git/710a2db6e0af7ea5e921041707367acb/vendor/graham-campbell/exceptions/src/ExceptionIdentifier.php(51): count(NULL)
+#2 /home/muhammed/projects/thesis/data/git/710a2db6e0af7ea5e921041707367acb/vendor/graham-campbell/exceptions/src/ExceptionHandlerTrait.php(47): GrahamCampbell\Exceptions\ExceptionIdentifier->identify(Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#3 /home/muhammed/projects/thesis/data/git/710a2db6e0af7ea5e921041707367acb/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(79): GrahamCampbell\Exceptions\ExceptionHandler-> in /home/muhammed/projects/thesis/data/git/710a2db6e0af7ea5e921041707367acb/vendor/graham-campbell/exceptions/src/ExceptionIdentifier.php on line 51
+Script php artisan optimize --force handling the post-update-cmd event returned with error code 255"
+git@github.com:CachetHQ/Cachet.git,v2.3.0,"composer failed, Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Package operations: 7 installs, 3 updates, 0 removals
+  - Updating mockery/mockery (0.9.4 => 0.9.5): Downloading (connecting...)Downloading (0%)           Downloading (5%)Downloading (10%)Downloading (15%)Downloading (20%)Downloading (25%)Downloading (30%)Downloading (35%)Downloading (40%)Downloading (45%)Downloading (50%)Downloading (55%)Downloading (60%)Downloading (65%)Downloading (70%)Downloading (75%)Downloading (80%)Downloading (85%)Downloading (90%)Downloading (95%)Downloading (100%)
+  - Downgrading laravel/framework (v5.2.45 => v5.2.39): Downloading (connecting...)Downloading (100%)         
+  - Updating graham-campbell/core (v4.3.0 => v5.3.2): Downloading (connecting...)Downloading (0%)           Downloading (100%)
+  - Installing tijsverkoyen/css-to-inline-styles (1.5.5): Downloading (connecting...)Downloading (0%)           Downloading (65%)Downloading (100%)
+  - Installing fedeisas/laravel-mail-css-inliner (1.5): Downloading (connecting...)Downloading (100%)         
+  - Installing alt-three/throttle (v1.2.0): Downloading (connecting...)Downloading (100%)         
+  - Installing mtdowling/jmespath.php (2.4.0): Loading from cache
+  - Installing aws/aws-sdk-php (3.87.11): Downloading (connecting...)Downloading (0%)           Downloading (5%)Downloading (10%)Downloading (15%)Downloading (20%)Downloading (25%)Downloading (30%)Downloading (35%)Downloading (40%)Downloading (45%)Downloading (50%)Downloading (55%)Downloading (60%)Downloading (65%)Downloading (70%)Downloading (75%)Downloading (80%)Downloading (85%)Downloading (90%)Downloading (95%)Downloading (100%)
+  - Installing backup-manager/backup-manager (1.3.0): Downloading (connecting...)Downloading (100%)         
+  - Installing backup-manager/laravel (1.3.1): Downloading (connecting...)Downloading (100%)         
+aws/aws-sdk-php suggests installing aws/aws-php-sns-message-validator (To validate incoming SNS notifications)
+backup-manager/backup-manager suggests installing mhetreramesh/flysystem-backblaze (B2 adapter support.)
+backup-manager/backup-manager suggests installing league/flysystem-aws-s3-v3 (AWS S3 adapter support.)
+backup-manager/backup-manager suggests installing superbalist/flysystem-google-storage (Google Cloud Storage adapter support.)
+backup-manager/backup-manager suggests installing srmklive/flysystem-dropbox-v2 (Dropbox API v2 adapter support.)
+backup-manager/backup-manager suggests installing league/flysystem-rackspace (Rackspace adapter support.)
+backup-manager/backup-manager suggests installing league/flysystem-sftp (SFTP adapter support.)
+Package roumen/feed is abandoned, you should avoid using it. Use laravelium/feed instead.
+Package graham-campbell/core is abandoned, you should avoid using it. No replacement was suggested.
+Writing lock file
+Generating autoload files
+> Illuminate\Foundation\ComposerScripts::postUpdate
+> php artisan optimize --force
+PHP Fatal error:  Uncaught ErrorException: count(): Parameter must be an array or an object that implements Countable in /home/muhammed/projects/thesis/data/git/710a2db6e0af7ea5e921041707367acb/vendor/graham-campbell/exceptions/src/ExceptionIdentifier.php:51
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'count(): Parame...', '/home/muhammed/...', 51, Array)
+#1 /home/muhammed/projects/thesis/data/git/710a2db6e0af7ea5e921041707367acb/vendor/graham-campbell/exceptions/src/ExceptionIdentifier.php(51): count(NULL)
+#2 /home/muhammed/projects/thesis/data/git/710a2db6e0af7ea5e921041707367acb/vendor/graham-campbell/exceptions/src/ExceptionHandlerTrait.php(47): GrahamCampbell\Exceptions\ExceptionIdentifier->identify(Object(ErrorException))
+#3 /home/muhammed/projects/thesis/data/git/710a2db6e0af7ea5e921041707367acb/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(79): GrahamCampbell\Exceptions\ExceptionHandler->report(Object(ErrorException))
+#4 [inte in /home/muhammed/projects/thesis/data/git/710a2db6e0af7ea5e921041707367acb/vendor/graham-campbell/exceptions/src/ExceptionIdentifier.php on line 51
+PHP Fatal error:  Uncaught ErrorException: count(): Parameter must be an array or an object that implements Countable in /home/muhammed/projects/thesis/data/git/710a2db6e0af7ea5e921041707367acb/vendor/graham-campbell/exceptions/src/ExceptionIdentifier.php:51
+Stack trace:
+#0 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(2, 'count(): Parame...', '/home/muhammed/...', 51, Array)
+#1 /home/muhammed/projects/thesis/data/git/710a2db6e0af7ea5e921041707367acb/vendor/graham-campbell/exceptions/src/ExceptionIdentifier.php(51): count(NULL)
+#2 /home/muhammed/projects/thesis/data/git/710a2db6e0af7ea5e921041707367acb/vendor/graham-campbell/exceptions/src/ExceptionHandlerTrait.php(47): GrahamCampbell\Exceptions\ExceptionIdentifier->identify(Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#3 /home/muhammed/projects/thesis/data/git/710a2db6e0af7ea5e921041707367acb/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(79): GrahamCampbell\Exceptions\ExceptionHandler-> in /home/muhammed/projects/thesis/data/git/710a2db6e0af7ea5e921041707367acb/vendor/graham-campbell/exceptions/src/ExceptionIdentifier.php on line 51
+Script php artisan optimize --force handling the post-update-cmd event returned with error code 255"

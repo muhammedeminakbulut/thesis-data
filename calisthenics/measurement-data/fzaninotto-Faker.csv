@@ -1,0 +1,12 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:fzaninotto/Faker.git,v1.0.0,14255,632,190,24.50%,1.9360902255639,0,2299,445,58,0
+git@github.com:fzaninotto/Faker.git,v1.1.0,15453,820,208,23.06%,1.9259259259259,0,2299,445,64,0
+git@github.com:fzaninotto/Faker.git,v1.2.0,11419,1526,265,6.21%,2.0822784810127,0,2299,445,93,0
+git@github.com:fzaninotto/Faker.git,v1.3.0,16197,2246,326,7.51%,2.1684210526316,0,2299,445,158,0
+git@github.com:fzaninotto/Faker.git,v1.4.0,51566,4229,418,2.83%,2.4249037227214,0,2299,445,225,0
+git@github.com:fzaninotto/Faker.git,v1.5.0,76877,6482,535,2.05%,2.2598814229249,0,2299,445,314,0
+git@github.com:fzaninotto/Faker.git,v1.6.0,96700,8669,757,1.89%,2.3525073746313,0,2299,445,406,0
+git@github.com:fzaninotto/Faker.git,v1.7.0,104591,9760,850,1.56%,2.4638709677419,0,2299,445,506,0
+git@github.com:fzaninotto/Faker.git,v1.7.1,104591,9760,850,1.56%,2.4638709677419,0,2299,445,506,0
+git@github.com:fzaninotto/Faker.git,v1.8.0,134708,10696,887,1.19%,2.4970588235294,0,2299,445,587,0
+4,2587,0

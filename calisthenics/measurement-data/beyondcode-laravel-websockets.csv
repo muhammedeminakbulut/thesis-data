@@ -1,0 +1,6 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:beyondcode/laravel-websockets.git,1.0.0,3964,185,68,0.00%,2.8,0,72,13,118,1
+git@github.com:beyondcode/laravel-websockets.git,1.0.1,3988,186,71,0.00%,2.8008658008658,0,72,13,121,1
+git@github.com:beyondcode/laravel-websockets.git,1.0.2,3988,186,71,0.00%,2.8008658008658,0,72,13,121,1
+git@github.com:beyondcode/laravel-websockets.git,1.0.3,4108,211,77,0.00%,2.8497854077253,0,72,13,123,1
+git@github.com:beyondcode/laravel-websockets.git,1.0.4,4092,218,77,0.00%,2.7692307692308,0,72,13,121,1

@@ -1,0 +1,6 @@
+repository,tag,coverage
+git@github.com:bshaffer/oauth2-server-php.git,v1.7.0,"phpunit not installed"
+git@github.com:bshaffer/oauth2-server-php.git,v1.8.0,"phpunit not installed"
+git@github.com:bshaffer/oauth2-server-php.git,v1.9.0,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:bshaffer/oauth2-server-php.git,v1.10.0,"composer failed, Your requirements could not be resolved to an installable set of packages."
+git@github.com:bshaffer/oauth2-server-php.git,v1.11.0,"composer failed, Your requirements could not be resolved to an installable set of packages."

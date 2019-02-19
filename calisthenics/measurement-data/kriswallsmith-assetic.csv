@@ -1,0 +1,17 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:kriswallsmith/assetic.git,v1.0.0,10341,2340,446,0.17%,2.9865546218487,0,564,140,713,0
+git@github.com:kriswallsmith/assetic.git,v1.0.1,10510,2362,450,0.17%,3.0216306156406,0,564,140,748,0
+git@github.com:kriswallsmith/assetic.git,v1.0.2,10535,2368,456,0.17%,3.0382695507488,0,564,140,751,0
+git@github.com:kriswallsmith/assetic.git,v1.0.3,10540,2373,459,0.17%,3.0248344370861,0,564,140,719,0
+git@github.com:kriswallsmith/assetic.git,v1.0.4,10598,2396,464,0.17%,3.0740131578947,0,564,140,725,0
+git@github.com:kriswallsmith/assetic.git,v1.0.5,10654,2396,467,0.17%,3.0965630114566,0,564,140,729,0
+git@github.com:kriswallsmith/assetic.git,v1.1.0,14984,3225,650,0.40%,3.2358490566038,0,564,140,994,0
+git@github.com:kriswallsmith/assetic.git,v1.1.1,15065,3244,651,0.60%,3.2347417840376,0,564,140,1000,0
+git@github.com:kriswallsmith/assetic.git,v1.1.2,15258,3266,660,0.69%,3.256976744186,0,564,140,1031,0
+git@github.com:kriswallsmith/assetic.git,v1.1.3,15348,3266,667,0.69%,3.2774566473988,0,564,140,1035,0
+git@github.com:kriswallsmith/assetic.git,v1.2.0,16374,3428,685,0.65%,3.2671009771987,0,564,140,1085,0
+git@github.com:kriswallsmith/assetic.git,v1.2.1,16442,3429,689,0.64%,3.2813852813853,0,564,140,1091,0
+git@github.com:kriswallsmith/assetic.git,v1.3.0,17078,3561,717,0.62%,3.2848232848233,0,564,140,1111,0
+git@github.com:kriswallsmith/assetic.git,v1.3.1,17507,3676,742,0.61%,3.2636363636364,0,564,140,1159,0
+git@github.com:kriswallsmith/assetic.git,v1.3.2,17536,3679,744,0.60%,3.2694248234107,0,564,140,1160,0
+git@github.com:kriswallsmith/assetic.git,v1.4.0,17850,3729,759,0.59%,3.2842942345924,0,564,140,1167,0

@@ -1,0 +1,1559 @@
+repository,tag,coverage
+git@github.com:Intervention/image.git,1.0.0,"phpunit not installed"
+git@github.com:Intervention/image.git,1.1.0,"phpunit not installed"
+git@github.com:Intervention/image.git,1.2.0,"phpunit not installed"
+git@github.com:Intervention/image.git,1.3.0,"phpunit not installed"
+git@github.com:Intervention/image.git,1.4.0,"phpunit not installed"
+git@github.com:Intervention/image.git,1.5.0,"phpunit not installed"
+git@github.com:Intervention/image.git,1.6.0,"phpunit not installed"
+git@github.com:Intervention/image.git,2.0.0,"phpunit failed"
+git@github.com:Intervention/image.git,2.1.0,"phpunit failed"
+git@github.com:Intervention/image.git,2.2.0,"phpunit failed"
+git@github.com:Intervention/image.git,2.3.0,"phpunit failed"
+git@github.com:Intervention/image.git,2.4.0,"phpunit failed"
+ted, $actual, $delta = 0, $canonicalize = false, $ignoreCase = false, array &$processed = Array) in /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/Comparator/DOMDocument.php on line 114
+PHP Stack trace:
+PHP   1. {main}() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/composer/bin/phpunit:0
+PHP   2. PHPUnit_TextUI_Command::main() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/composer/bin/phpunit:63
+PHP   3. PHPUnit_TextUI_Command->run() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/TextUI/Command.php:129
+PHP   4. PHPUnit_TextUI_TestRunner->doRun() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/TextUI/Command.php:176
+PHP   5. PHPUnit_Framework_TestSuite->run() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/TextUI/TestRunner.php:349
+PHP   6. PHPUnit_Framework_TestSuite->run() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/TestSuite.php:708
+PHP   7. PHPUnit_Framework_TestSuite->runTest() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/TestSuite.php:749
+PHP   8. AbstractCommandTest->run() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/TestSuite.php:779
+PHP   9. PHPUnit_Framework_TestResult->run() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/TestCase.php:783
+PHP  10. AbstractCommandTest->runBare() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/TestResult.php:648
+PHP  11. AbstractCommandTest->runTest() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/TestCase.php:838
+PHP  12. ReflectionMethod->invokeArgs() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/TestCase.php:987
+PHP  13. AbstractCommandTest->testArgument() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/TestCase.php:987
+PHP  14. PHPUnit_Framework_Assert::assertEquals() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/AbstractCommandTest.php:13
+PHP  15. PHPUnit_Framework_Assert::assertThat() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/Assert.php:475
+PHP  16. PHPUnit_Framework_Constraint_IsEqual->evaluate() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/Assert.php:2137
+PHP  17. PHPUnit_Framework_ComparatorFactory::getDefaultInstance() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/Constraint/IsEqual.php:149
+PHP  18. PHPUnit_Framework_ComparatorFactory->__construct() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/ComparatorFactory.php:95
+PHP  19. spl_autoload_call() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/ComparatorFactory.php:83
+PHP  20. Composer\Autoload\ClassLoader->loadClass() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/ComparatorFactory.php:83
+PHP  21. Composer\Autoload\includeFile() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/composer/ClassLoader.php:322PHPUnit 3.7.38 by Sebastian Bergmann.
+
+Configuration read from /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/phpunit.xml
+
+."
+git@github.com:Intervention/image.git,2.1.0,"phpunit failed, PHP Fatal error:  Declaration of PHPUnit_Framework_Comparator_DOMDocument::assertEquals($expected, $actual, $delta = 0, $canonicalize = false, $ignoreCase = false) must be compatible with PHPUnit_Framework_Comparator_Object::assertEquals($expected, $actual, $delta = 0, $canonicalize = false, $ignoreCase = false, array &$processed = Array) in /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/Comparator/DOMDocument.php on line 114
+PHP Stack trace:
+PHP   1. {main}() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/composer/bin/phpunit:0
+PHP   2. PHPUnit_TextUI_Command::main() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/composer/bin/phpunit:63
+PHP   3. PHPUnit_TextUI_Command->run() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/TextUI/Command.php:129
+PHP   4. PHPUnit_TextUI_TestRunner->doRun() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/TextUI/Command.php:176
+PHP   5. PHPUnit_Framework_TestSuite->run() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/TextUI/TestRunner.php:349
+PHP   6. PHPUnit_Framework_TestSuite->run() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/TestSuite.php:708
+PHP   7. PHPUnit_Framework_TestSuite->runTest() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/TestSuite.php:749
+PHP   8. AbstractCommandTest->run() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/TestSuite.php:779
+PHP   9. PHPUnit_Framework_TestResult->run() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/TestCase.php:783
+PHP  10. AbstractCommandTest->runBare() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/TestResult.php:648
+PHP  11. AbstractCommandTest->runTest() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/TestCase.php:838
+PHP  12. ReflectionMethod->invokeArgs() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/TestCase.php:987
+PHP  13. AbstractCommandTest->testArgument() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/TestCase.php:987
+PHP  14. PHPUnit_Framework_Assert::assertEquals() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/AbstractCommandTest.php:13
+PHP  15. PHPUnit_Framework_Assert::assertThat() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/Assert.php:475
+PHP  16. PHPUnit_Framework_Constraint_IsEqual->evaluate() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/Assert.php:2137
+PHP  17. PHPUnit_Framework_ComparatorFactory::getDefaultInstance() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/Constraint/IsEqual.php:149
+PHP  18. PHPUnit_Framework_ComparatorFactory->__construct() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/ComparatorFactory.php:95
+PHP  19. spl_autoload_call() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/ComparatorFactory.php:83
+PHP  20. Composer\Autoload\ClassLoader->loadClass() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/ComparatorFactory.php:83
+PHP  21. Composer\Autoload\includeFile() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/composer/ClassLoader.php:322PHPUnit 3.7.38 by Sebastian Bergmann.
+
+Configuration read from /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/phpunit.xml
+
+."
+git@github.com:Intervention/image.git,2.2.0,"phpunit failed, PHP Fatal error:  Declaration of PHPUnit_Framework_Comparator_DOMDocument::assertEquals($expected, $actual, $delta = 0, $canonicalize = false, $ignoreCase = false) must be compatible with PHPUnit_Framework_Comparator_Object::assertEquals($expected, $actual, $delta = 0, $canonicalize = false, $ignoreCase = false, array &$processed = Array) in /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/Comparator/DOMDocument.php on line 114
+PHP Stack trace:
+PHP   1. {main}() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/composer/bin/phpunit:0
+PHP   2. PHPUnit_TextUI_Command::main() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/composer/bin/phpunit:63
+PHP   3. PHPUnit_TextUI_Command->run() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/TextUI/Command.php:129
+PHP   4. PHPUnit_TextUI_TestRunner->doRun() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/TextUI/Command.php:176
+PHP   5. PHPUnit_Framework_TestSuite->run() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/TextUI/TestRunner.php:349
+PHP   6. PHPUnit_Framework_TestSuite->run() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/TestSuite.php:708
+PHP   7. PHPUnit_Framework_TestSuite->runTest() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/TestSuite.php:749
+PHP   8. AbstractCommandTest->run() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/TestSuite.php:779
+PHP   9. PHPUnit_Framework_TestResult->run() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/TestCase.php:783
+PHP  10. AbstractCommandTest->runBare() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/TestResult.php:648
+PHP  11. AbstractCommandTest->runTest() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/TestCase.php:838
+PHP  12. ReflectionMethod->invokeArgs() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/TestCase.php:987
+PHP  13. AbstractCommandTest->testArgument() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/TestCase.php:987
+PHP  14. PHPUnit_Framework_Assert::assertEquals() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/AbstractCommandTest.php:13
+PHP  15. PHPUnit_Framework_Assert::assertThat() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/Assert.php:475
+PHP  16. PHPUnit_Framework_Constraint_IsEqual->evaluate() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/Assert.php:2137
+PHP  17. PHPUnit_Framework_ComparatorFactory::getDefaultInstance() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/Constraint/IsEqual.php:149
+PHP  18. PHPUnit_Framework_ComparatorFactory->__construct() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/ComparatorFactory.php:95
+PHP  19. spl_autoload_call() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/ComparatorFactory.php:83
+PHP  20. Composer\Autoload\ClassLoader->loadClass() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/ComparatorFactory.php:83
+PHP  21. Composer\Autoload\includeFile() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/composer/ClassLoader.php:322PHPUnit 3.7.38 by Sebastian Bergmann.
+
+Configuration read from /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/phpunit.xml
+
+."
+git@github.com:Intervention/image.git,2.3.0,"phpunit failed, PHP Fatal error:  Declaration of PHPUnit_Framework_Comparator_DOMDocument::assertEquals($expected, $actual, $delta = 0, $canonicalize = false, $ignoreCase = false) must be compatible with PHPUnit_Framework_Comparator_Object::assertEquals($expected, $actual, $delta = 0, $canonicalize = false, $ignoreCase = false, array &$processed = Array) in /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/Comparator/DOMDocument.php on line 114
+PHP Stack trace:
+PHP   1. {main}() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/composer/bin/phpunit:0
+PHP   2. PHPUnit_TextUI_Command::main() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/composer/bin/phpunit:63
+PHP   3. PHPUnit_TextUI_Command->run() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/TextUI/Command.php:129
+PHP   4. PHPUnit_TextUI_TestRunner->doRun() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/TextUI/Command.php:176
+PHP   5. PHPUnit_Framework_TestSuite->run() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/TextUI/TestRunner.php:349
+PHP   6. PHPUnit_Framework_TestSuite->run() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/TestSuite.php:708
+PHP   7. PHPUnit_Framework_TestSuite->runTest() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/TestSuite.php:749
+PHP   8. AbstractCommandTest->run() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/TestSuite.php:779
+PHP   9. PHPUnit_Framework_TestResult->run() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/TestCase.php:783
+PHP  10. AbstractCommandTest->runBare() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/TestResult.php:648
+PHP  11. AbstractCommandTest->runTest() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/TestCase.php:838
+PHP  12. ReflectionMethod->invokeArgs() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/TestCase.php:987
+PHP  13. AbstractCommandTest->testArgument() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/TestCase.php:987
+PHP  14. PHPUnit_Framework_Assert::assertEquals() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/AbstractCommandTest.php:13
+PHP  15. PHPUnit_Framework_Assert::assertThat() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/Assert.php:475
+PHP  16. PHPUnit_Framework_Constraint_IsEqual->evaluate() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/Assert.php:2137
+PHP  17. PHPUnit_Framework_ComparatorFactory::getDefaultInstance() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/Constraint/IsEqual.php:149
+PHP  18. PHPUnit_Framework_ComparatorFactory->__construct() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/ComparatorFactory.php:95
+PHP  19. spl_autoload_call() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/ComparatorFactory.php:83
+PHP  20. Composer\Autoload\ClassLoader->loadClass() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/phpunit/phpunit/PHPUnit/Framework/ComparatorFactory.php:83
+PHP  21. Composer\Autoload\includeFile() /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/composer/ClassLoader.php:322PHPUnit 3.7.38 by Sebastian Bergmann.
+
+Configuration read from /home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/phpunit.xml
+
+."
+git@github.com:Intervention/image.git,2.4.0,"phpunit failed, libpng warning: Interlace handling should be turned on when using png_read_imagePHPUnit 5.7.27 by Sebastian Bergmann and contributors.
+
+
+Error:         No whitelist configured, no code coverage will be generated
+.....E.........................................................  63 / 522 ( 12%)
+....E.E..E...E.E.....E.E...E.E.E...E..........EEEFEEEEEE....EEE 126 / 522 ( 24%)
+E......EE..EE.E.E.............................................. 189 / 522 ( 36%)
+.............F.......F...........................FF...F........ 252 / 522 ( 48%)
+...................E.E.E.....E..........EEEEEEEEEEEEEEEEEE.EEEE 315 / 522 ( 60%)
+EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE 378 / 522 ( 72%)
+EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE.EEEE.E.E.E......E.E.E.E.E.... 441 / 522 ( 84%)
+......EE.E.E......E...EF.E.E.....E.E...E.E..................... 504 / 522 ( 96%)
+...............E.E                                              522 / 522 (100%)
+
+Time: 4.29 seconds, Memory: 22.00MB
+
+There were 179 errors:
+
+1) AbstractDecoderTest::testIsImagick
+Error: Class 'Imagick' not found
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/AbstractDecoderTest.php:12
+
+2) BlurCommandTest::testImagick
+BadMethodCallException: Method Mockery_4__Imagick::blurImage() does not exist on this mock object
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Commands/BlurCommand.php:17
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/BlurCommandTest.php:30
+
+3) BrightnessCommandTest::testImagick
+BadMethodCallException: Method Mockery_4__Imagick::modulateImage() does not exist on this mock object
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Commands/BrightnessCommand.php:17
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/BrightnessCommandTest.php:30
+
+4) CircleCommandTest::testImagick
+Error: Class 'ImagickDraw' not found
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Shapes/EllipseShape.php:46
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Shapes/CircleShape.php:38
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Commands/CircleCommand.php:31
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/CircleCommandTest.php:37
+
+5) CircleShapeTest::testImagickApplyToImage
+Error: Class 'ImagickDraw' not found
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Shapes/EllipseShape.php:46
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Shapes/CircleShape.php:38
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/CircleShapeTest.php:46
+
+6) ColorizeCommandTest::testImagick
+Error: Undefined class constant 'CHANNEL_RED'
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ColorizeCommandTest.php:27
+
+7) ContrastCommandTest::testImagick
+BadMethodCallException: Method Mockery_4__Imagick::sigmoidalContrastImage() does not exist on this mock object
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Commands/ContrastCommand.php:17
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ContrastCommandTest.php:30
+
+8) CropCommandTest::testImagick
+BadMethodCallException: Method Mockery_4__Imagick::cropImage() does not exist on this mock object
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Commands/CropCommand.php:38
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/CropCommandTest.php:32
+
+9) DriverTest::testNewImageImagick
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/DriverTest.php:30
+
+10) DriverTest::testParseColorImagick
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/DriverTest.php:54
+
+11) EllipseCommandTest::testImagick
+Error: Class 'ImagickDraw' not found
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Shapes/EllipseShape.php:46
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Commands/EllipseCommand.php:32
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/EllipseCommandTest.php:37
+
+12) EllipseShapeTest::testImagickApplyToImage
+Error: Class 'ImagickDraw' not found
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Shapes/EllipseShape.php:46
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/EllipseShapeTest.php:49
+
+13) EncoderTest::testProcessJpegImagick
+Error: Undefined class constant 'COMPRESSION_JPEG'
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Encoder.php:15
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractEncoder.php:120
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/EncoderTest.php:143
+
+14) EncoderTest::testProcessPngImagick
+Error: Undefined class constant 'COMPRESSION_ZIP'
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Encoder.php:39
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractEncoder.php:112
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/EncoderTest.php:155
+
+15) EncoderTest::testProcessGifImagick
+Error: Undefined class constant 'COMPRESSION_LZW'
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Encoder.php:58
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractEncoder.php:106
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/EncoderTest.php:167
+
+16) EncoderTest::testProcessTiffImagick
+Error: Undefined class constant 'COMPRESSION_UNDEFINED'
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Encoder.php:99
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractEncoder.php:129
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/EncoderTest.php:189
+
+17) EncoderTest::testProcessBmpImagick
+Error: Undefined class constant 'COMPRESSION_UNDEFINED'
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Encoder.php:120
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractEncoder.php:141
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/EncoderTest.php:201
+
+18) EncoderTest::testProcessIcoImagick
+Error: Undefined class constant 'COMPRESSION_UNDEFINED'
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Encoder.php:139
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractEncoder.php:148
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/EncoderTest.php:213
+
+19) EncoderTest::testProcessPsdImagick
+Error: Undefined class constant 'COMPRESSION_UNDEFINED'
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Encoder.php:158
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractEncoder.php:153
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/EncoderTest.php:225
+
+20) EncoderTest::testProcessUnknownWithMimeImagick
+Error: Undefined class constant 'COMPRESSION_JPEG'
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Encoder.php:15
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractEncoder.php:120
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/EncoderTest.php:238
+
+21) EncoderTest::testProcessUnknownImagick
+Error: Undefined class constant 'COMPRESSION_JPEG'
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Encoder.php:15
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractEncoder.php:120
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/EncoderTest.php:250
+
+22) ExifCommandTest::testImagickFetchAll
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ExifCommandTest.php:63
+
+23) ExifCommandTest::testImagickFetchDefined
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ExifCommandTest.php:75
+
+24) ExifCommandTest::testImagickNonExisting
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ExifCommandTest.php:86
+
+25) ExifCommandTest::testImagickFallbackToExifExtenstion
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ExifCommandTest.php:97
+
+26) FillCommandTest::testImagickFill
+Error: Class 'ImagickPixel' not found
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Color.php:250
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Color.php:66
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractColor.php:119
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractColor.php:105
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Commands/FillCommand.php:33
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/FillCommandTest.php:74
+
+27) FillCommandTest::testImagickFillWithCoordinates
+Error: Class 'ImagickPixel' not found
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Color.php:250
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Color.php:66
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractColor.php:119
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractColor.php:105
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Commands/FillCommand.php:33
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/FillCommandTest.php:89
+
+28) FitCommandTest::testImagickFit
+BadMethodCallException: Method Mockery_4__Imagick::cropImage() does not exist on this mock object
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Commands/FitCommand.php:32
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/FitCommandTest.php:68
+
+29) FitCommandTest::testImagickFitWithPosition
+BadMethodCallException: Method Mockery_4__Imagick::cropImage() does not exist on this mock object
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Commands/FitCommand.php:32
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/FitCommandTest.php:89
+
+30) FlipCommandTest::testImagick
+BadMethodCallException: Method Mockery_4__Imagick::flopImage() does not exist on this mock object
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Commands/FlipCommand.php:22
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/FlipCommandTest.php:33
+
+31) GammaCommandTest::testImagick
+BadMethodCallException: Method Mockery_4__Imagick::gammaImage() does not exist on this mock object
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Commands/GammaCommand.php:17
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/GammaCommandTest.php:30
+
+32) GetsizeCommandTest::testImagick
+BadMethodCallException: Method Mockery_4__Imagick::getImageWidth() does not exist on this mock object
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Commands/GetSizeCommand.php:21
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/GetsizeCommandTest.php:33
+
+33) GreyscaleCommandTest::testImagick
+BadMethodCallException: Method Mockery_4__Imagick::modulateImage() does not exist on this mock object
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Commands/GreyscaleCommand.php:15
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/GreyscaleCommandTest.php:30
+
+34) HeightenCommandTest::testImagick
+BadMethodCallException: Method Mockery_4__Imagick::scaleImage() does not exist on this mock object
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Commands/ResizeCommand.php:23
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Commands/HeightenCommand.php:26
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/HeightenCommandTest.php:45
+
+35) ImageManagerTest::testConfigureObject
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImageManagerTest.php:32
+
+36) ImagickColorTest::testGetRedGreenBlueAlphaValue
+Error: Class 'ImagickPixel' not found
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Color.php:250
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Color.php:53
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractColor.php:135
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractColor.php:105
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickColorTest.php:14
+
+37) ImagickColorTest::testConstructor
+Error: Class 'ImagickPixel' not found
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Color.php:250
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Color.php:53
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractColor.php:135
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractColor.php:105
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickColorTest.php:42
+
+38) ImagickColorTest::testParseNull
+Error: Class 'ImagickPixel' not found
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Color.php:250
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Color.php:53
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractColor.php:135
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractColor.php:105
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickColorTest.php:48
+
+39) ImagickColorTest::testParseInteger
+Error: Class 'ImagickPixel' not found
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Color.php:250
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Color.php:53
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractColor.php:135
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractColor.php:105
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickColorTest.php:55
+
+40) ImagickColorTest::testParseArray
+Error: Class 'ImagickPixel' not found
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Color.php:250
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Color.php:53
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractColor.php:135
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractColor.php:105
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickColorTest.php:66
+
+41) ImagickColorTest::testParseHexString
+Error: Class 'ImagickPixel' not found
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Color.php:250
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Color.php:53
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractColor.php:135
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractColor.php:105
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickColorTest.php:73
+
+42) ImagickColorTest::testParseRgbaString
+Error: Class 'ImagickPixel' not found
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Color.php:250
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Color.php:53
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractColor.php:135
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractColor.php:105
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickColorTest.php:80
+
+43) ImagickColorTest::testInitFromInteger
+Error: Class 'ImagickPixel' not found
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Color.php:250
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Color.php:53
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractColor.php:135
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractColor.php:105
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickColorTest.php:87
+
+44) ImagickColorTest::testInitFromArray
+Error: Class 'ImagickPixel' not found
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Color.php:250
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Color.php:53
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractColor.php:135
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractColor.php:105
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickColorTest.php:102
+
+45) ImagickColorTest::testInitFromHexString
+Error: Class 'ImagickPixel' not found
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Color.php:250
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Color.php:53
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractColor.php:135
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractColor.php:105
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickColorTest.php:125
+
+46) ImagickColorTest::testInitFromRgbString
+Error: Class 'ImagickPixel' not found
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Color.php:250
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Color.php:53
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractColor.php:135
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractColor.php:105
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickColorTest.php:142
+
+47) ImagickColorTest::testInitFromRgb
+Error: Class 'ImagickPixel' not found
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Color.php:250
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Color.php:53
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractColor.php:135
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractColor.php:105
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickColorTest.php:161
+
+48) ImagickColorTest::testInitFromRgba
+Error: Class 'ImagickPixel' not found
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Color.php:250
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Color.php:53
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractColor.php:135
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractColor.php:105
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickColorTest.php:172
+
+49) ImagickColorTest::testGetInt
+Error: Class 'ImagickPixel' not found
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Color.php:250
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Color.php:53
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractColor.php:135
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractColor.php:105
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickColorTest.php:187
+
+50) ImagickColorTest::testGetHex
+Error: Class 'ImagickPixel' not found
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Color.php:250
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Color.php:53
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractColor.php:135
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractColor.php:105
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickColorTest.php:225
+
+51) ImagickColorTest::testGetArray
+Error: Class 'ImagickPixel' not found
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Color.php:250
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Color.php:53
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractColor.php:135
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractColor.php:105
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickColorTest.php:248
+
+52) ImagickColorTest::testGetRgba
+Error: Class 'ImagickPixel' not found
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Color.php:250
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Color.php:53
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractColor.php:135
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractColor.php:105
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickColorTest.php:271
+
+53) ImagickColorTest::testDiffers
+Error: Class 'ImagickPixel' not found
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Color.php:250
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Color.php:53
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractColor.php:127
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractColor.php:105
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickColorTest.php:299
+
+54) ImagickSystemTest::testMakeFromPath
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:7
+
+55) ImagickSystemTest::testMakeFromString
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:25
+
+56) ImagickSystemTest::testMakeFromImagick
+Error: Call to undefined method Imagick::readImage()
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:38
+
+57) ImagickSystemTest::testMakeFromDataUrl
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:51
+
+58) ImagickSystemTest::testMakeFromBase64
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:64
+
+59) ImagickSystemTest::testCanvas
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:64
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:76
+
+60) ImagickSystemTest::testCanvasWithSolidBackground
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:64
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:88
+
+61) ImagickSystemTest::testGetSize
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:100
+
+62) ImagickSystemTest::testResizeImage
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:111
+
+63) ImagickSystemTest::testResizeImageOnlyWidth
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:124
+
+64) ImagickSystemTest::testResizeImageOnlyHeight
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:137
+
+65) ImagickSystemTest::testResizeImageAutoHeight
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:150
+
+66) ImagickSystemTest::testResizeImageAutoWidth
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:163
+
+67) ImagickSystemTest::testResizeDominantWidth
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:176
+
+68) ImagickSystemTest::testResizeImagePreserveSimpleUpsizing
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:189
+
+69) ImagickSystemTest::testWidenImage
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:202
+
+70) ImagickSystemTest::testWidenImageWithConstraint
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:215
+
+71) ImagickSystemTest::testHeightenImage
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:228
+
+72) ImagickSystemTest::testHeightenImageWithConstraint
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:241
+
+73) ImagickSystemTest::testResizeCanvasCenter
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:254
+
+74) ImagickSystemTest::testResizeCanvasTopLeft
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:268
+
+75) ImagickSystemTest::testResizeCanvasTop
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:282
+
+76) ImagickSystemTest::testResizeCanvasTopRight
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:296
+
+77) ImagickSystemTest::testResizeCanvasLeft
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:310
+
+78) ImagickSystemTest::testResizeCanvasRight
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:324
+
+79) ImagickSystemTest::testResizeCanvasBottomLeft
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:338
+
+80) ImagickSystemTest::testResizeCanvasBottomRight
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:352
+
+81) ImagickSystemTest::testResizeCanvasBottom
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:366
+
+82) ImagickSystemTest::testResizeCanvasRelativeWithBackground
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:380
+
+83) ImagickSystemTest::testResizeCanvasJustWidth
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:396
+
+84) ImagickSystemTest::testResizeCanvasJustHeight
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:410
+
+85) ImagickSystemTest::testResizeCanvasSmallerWidthLargerHeight
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:424
+
+86) ImagickSystemTest::testResizeCanvasLargerWidthSmallerHeight
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:438
+
+87) ImagickSystemTest::testResizeCanvasNegative
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:453
+
+88) ImagickSystemTest::testResizeCanvasLargerHeightAutoWidth
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:467
+
+89) ImagickSystemTest::testResizeCanvasBorderNonRelative
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:64
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:483
+
+90) ImagickSystemTest::testCropImage
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:497
+
+91) ImagickSystemTest::testCropImageWithPosition
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:511
+
+92) ImagickSystemTest::testFitImageSquare
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:525
+
+93) ImagickSystemTest::testFitImageRectangle
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:539
+
+94) ImagickSystemTest::testFitImageWithConstraintUpsize
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:553
+
+95) ImagickSystemTest::testFlipImageHorizontal
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:566
+
+96) ImagickSystemTest::testFlipImageVertical
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:580
+
+97) ImagickSystemTest::testRotateImage
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:594
+
+98) ImagickSystemTest::testInsertImage
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:64
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:608
+
+99) ImagickSystemTest::testInsertWithAlphaChannel
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:64
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:822
+
+100) ImagickSystemTest::testInsertAfterResize
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:830
+
+101) ImagickSystemTest::testInsertImagick
+Error: Call to undefined method Imagick::readImage()
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:845
+
+102) ImagickSystemTest::testInsertBinary
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:859
+
+103) ImagickSystemTest::testInsertInterventionImage
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:871
+
+104) ImagickSystemTest::testOpacity
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:884
+
+105) ImagickSystemTest::testMaskImage
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:901
+
+106) ImagickSystemTest::testMaskImageWithAlpha
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:920
+
+107) ImagickSystemTest::testPixelateImage
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:936
+
+108) ImagickSystemTest::testGreyscaleImage
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:943
+
+109) ImagickSystemTest::testInvertImage
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:952
+
+110) ImagickSystemTest::testBlurImage
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:961
+
+111) ImagickSystemTest::testFillImageWithColor
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:968
+
+112) ImagickSystemTest::testFillImageWithColorAtPosition
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:976
+
+113) ImagickSystemTest::testFillImageWithImagick
+Error: Call to undefined method Imagick::readImage()
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:986
+
+114) ImagickSystemTest::testFillImageWithBinary
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:998
+
+115) ImagickSystemTest::testFillImageWithInterventionImage
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:1008
+
+116) ImagickSystemTest::testPixelImage
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:1019
+
+117) ImagickSystemTest::testRectangleImage
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:64
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:1029
+
+118) ImagickSystemTest::testLineImage
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:64
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:1036
+
+119) ImagickSystemTest::testEllipseImage
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:64
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:1043
+
+120) ImagickSystemTest::testCircleImage
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:64
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:1050
+
+121) ImagickSystemTest::testPolygonImage
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:64
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:1057
+
+122) ImagickSystemTest::testResetImage
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:1065
+
+123) ImagickSystemTest::testResetEmptyImage
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:64
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:1077
+
+124) ImagickSystemTest::testResetKeepTransparency
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:1091
+
+125) ImagickSystemTest::testResetToNamed
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:1099
+
+126) ImagickSystemTest::testLimitColors
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:1122
+
+127) ImagickSystemTest::testLimitColorsKeepTransparency
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:1129
+
+128) ImagickSystemTest::testLimitColorsKeepTransparencyWithMatte
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:1139
+
+129) ImagickSystemTest::testLimitColorsNullWithMatte
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:1150
+
+130) ImagickSystemTest::testPickColorFromTrueColor
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:1160
+
+131) ImagickSystemTest::testPickColorFromIndexed
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:1182
+
+132) ImagickSystemTest::testPickColorFromPalette
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:1204
+
+133) ImagickSystemTest::testInterlaceImage
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:1228
+
+134) ImagickSystemTest::testGammaImage
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:1239
+
+135) ImagickSystemTest::testBrightnessImage
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:1247
+
+136) ImagickSystemTest::testContrastImage
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:1255
+
+137) ImagickSystemTest::testColorizeImage
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:1263
+
+138) ImagickSystemTest::testTrimGradient
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:1271
+
+139) ImagickSystemTest::testTrimOnlyLeftAndRight
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:1326
+
+140) ImagickSystemTest::testTrimOnlyTopAndBottom
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:1334
+
+141) ImagickSystemTest::testTrimOnlyTop
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:1342
+
+142) ImagickSystemTest::testTrimOnlyBottom
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:1350
+
+143) ImagickSystemTest::testTrimWithFeather
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:1358
+
+144) ImagickSystemTest::testEncodeDefault
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:1434
+
+145) ImagickSystemTest::testEncodeJpeg
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:1442
+
+146) ImagickSystemTest::testEncodeGif
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:1450
+
+147) ImagickSystemTest::testEncodeDataUrl
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:1458
+
+148) ImagickSystemTest::testExifReadAll
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:1465
+
+149) ImagickSystemTest::testExifReadKey
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:1473
+
+150) ImagickSystemTest::testExifReadNotExistingKey
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:1481
+
+151) ImagickSystemTest::testSaveImage
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:1489
+
+152) ImagickSystemTest::testSaveImageWithoutParameter
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:64
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:1527
+
+153) ImagickSystemTest::testDestroy
+ReflectionException: Class ImagickException does not exist
+
+154) ImagickSystemTest::testStringConversion
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:1571
+
+155) ImagickSystemTest::testFilter
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:1578
+
+156) ImagickSystemTest::testCloneImageObject
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:1585
+
+157) ImagickSystemTest::testGifConversionKeepsTransparency
+Intervention\Image\Exception\NotSupportedException: ImageMagick module not available with this PHP installation.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Driver.php:16
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:108
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/ImageManager.php:50
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ImagickSystemTest.php:1602
+
+158) InsertCommandTest::testImagick
+Error: Undefined class constant 'COMPOSITE_DEFAULT'
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/InsertCommandTest.php:55
+
+159) InterlaceCommandTest::testImagick
+Error: Undefined class constant 'INTERLACE_LINE'
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/InterlaceCommandTest.php:26
+
+160) InvertCommandTest::testImagick
+BadMethodCallException: Method Mockery_4__Imagick::negateImage() does not exist on this mock object
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Commands/InvertCommand.php:15
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/InvertCommandTest.php:30
+
+161) LimitColorsCommandTest::testImagick
+Error: Undefined class constant 'CHANNEL_ALPHA'
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/LimitColorsCommandTest.php:30
+
+162) LineCommandTest::testImagick
+Error: Class 'ImagickDraw' not found
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Shapes/LineShape.php:82
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Commands/LineCommand.php:32
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/LineCommandTest.php:37
+
+163) LineShapeTest::testApplyToImage
+Error: Class 'ImagickDraw' not found
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Shapes/LineShape.php:82
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/LineShapeTest.php:45
+
+164) MaskCommandTest::testImagick
+Error: Undefined class constant 'COMPOSITE_DSTIN'
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/MaskCommandTest.php:56
+
+165) OpacityCommandTest::testImagick
+Error: Undefined class constant 'EVALUATE_DIVIDE'
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/OpacityCommandTest.php:36
+
+166) PickColorCommandTest::testImagickWithCoordinates
+Error: Class 'ImagickPixel' not found
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/PickColorCommandTest.php:42
+
+167) PickColorCommandTest::testImagickWithFormat
+Error: Class 'ImagickPixel' not found
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/PickColorCommandTest.php:56
+
+168) PixelCommandTest::testImagick
+Error: Class 'ImagickPixel' not found
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Color.php:250
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Color.php:66
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractColor.php:119
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractColor.php:105
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Commands/PixelCommand.php:18
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/PixelCommandTest.php:30
+
+169) PixelateCommandTest::testImagick
+BadMethodCallException: Method Mockery_4__Imagick::scaleImage() does not exist on this mock object
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Commands/PixelateCommand.php:20
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/PixelateCommandTest.php:33
+
+170) PolygonCommandTest::testImagick
+Error: Class 'ImagickDraw' not found
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Shapes/PolygonShape.php:37
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Commands/PolygonCommand.php:44
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/PolygonCommandTest.php:39
+
+171) PolygonShapeTest::testImagickApplyToImage
+Error: Class 'ImagickDraw' not found
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Shapes/PolygonShape.php:37
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/PolygonShapeTest.php:51
+
+172) RectangleCommandTest::testImagick
+Error: Class 'ImagickDraw' not found
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Shapes/RectangleShape.php:64
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Commands/RectangleCommand.php:32
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/RectangleCommandTest.php:37
+
+173) RectangleShapeTest::testApplyToImage
+Error: Class 'ImagickDraw' not found
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Shapes/RectangleShape.php:64
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/RectangleShapeTest.php:49
+
+174) ResizeCanvasCommandTest::testImagick
+Error: Class 'ImagickDraw' not found
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Commands/ResizeCanvasCommand.php:69
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ResizeCanvasCommandTest.php:75
+
+175) ResizeCommandTest::testImagick
+BadMethodCallException: Method Mockery_4__Imagick::scaleImage() does not exist on this mock object
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Commands/ResizeCommand.php:23
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/ResizeCommandTest.php:45
+
+176) RotateCommandTest::testImagick
+ReflectionException: Class Mockery_16__ImagickPixel does not have a constructor, so you cannot pass any constructor arguments
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/mockery/mockery/library/Mockery/Container.php:458
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/mockery/mockery/library/Mockery/Container.php:221
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/vendor/mockery/mockery/library/Mockery.php:89
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/RotateCommandTest.php:26
+
+177) SharpenCommandTest::testImagick
+BadMethodCallException: Method Mockery_4__Imagick::unsharpMaskImage() does not exist on this mock object
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Commands/SharpenCommand.php:17
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/SharpenCommandTest.php:30
+
+178) TrimCommandTest::testImagick
+BadMethodCallException: Method Mockery_4__Imagick::borderImage() does not exist on this mock object
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Commands/TrimCommand.php:73
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/TrimCommandTest.php:50
+
+179) WidenCommandTest::testImagick
+BadMethodCallException: Method Mockery_4__Imagick::scaleImage() does not exist on this mock object
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Commands/ResizeCommand.php:23
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Commands/WidenCommand.php:26
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/WidenCommandTest.php:45
+
+--
+
+There were 7 failures:
+
+1) EncoderTest::testProcessWebpImagick
+Failed asserting that exception of type ""Error"" matches expected exception ""\Intervention\Image\Exception\NotSupportedException"". Message was: ""Call to undefined method Imagick::queryFormats()"" at
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/Imagick/Encoder.php:71
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/src/Intervention/Image/AbstractEncoder.php:159
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/EncoderTest.php:179
+.
+
+2) GdSystemTest::testFitImageSquare
+Failed asserting that two strings are equal.
+--- Expected
++++ Actual
+@@ @@
+-'#445060'
++'#43515f'
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/GdSystemTest.php:1662
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/GdSystemTest.php:560
+
+3) GdSystemTest::testInsertAfterResize
+Failed asserting that two strings are equal.
+--- Expected
++++ Actual
+@@ @@
+-'#ffa601'
++'#fea601'
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/GdSystemTest.php:1662
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/GdSystemTest.php:867
+
+4) GdSystemTest::testLimitColorsKeepTransparency
+Failed asserting that two strings are equal.
+--- Expected
++++ Actual
+@@ @@
+-'#0c02b4'
++'#1e00a6'
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/GdSystemTest.php:1662
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/GdSystemTest.php:1188
+
+5) GdSystemTest::testLimitColorsKeepTransparencyWithMatte
+Failed asserting that 1.0 matches expected 0.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/GdSystemTest.php:1670
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/GdSystemTest.php:1197
+
+6) GdSystemTest::testPickColorFromPalette
+Failed asserting that 181 matches expected 180.
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/GdSystemTest.php:1262
+
+7) PsrResponseCommandTest::testResponseCreationAndHeaders
+Failed asserting that two strings are equal.
+--- Expected
++++ Actual
+@@ @@
+-'application/xml'
++'text/xml'
+
+/home/muhammed/projects/thesis/data/git/1f82024742254a59bb98c149fd166d8b/tests/PsrResponseCommandTest.php:49
+
+ERRORS!
+Tests: 522, Assertions: 1858, Errors: 179, Failures: 7."

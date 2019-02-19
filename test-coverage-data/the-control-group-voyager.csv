@@ -1,0 +1,4 @@
+repository,tag,coverage
+git@github.com:the-control-group/voyager.git,v0.11.14,"phpunit failed"
+git@github.com:the-control-group/voyager.git,v1.0.0,"phpunit failed"
+git@github.com:the-control-group/voyager.git,v1.1.0,"phpunit failed"

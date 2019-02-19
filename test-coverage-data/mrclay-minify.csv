@@ -1,0 +1,6 @@
+repository,tag,coverage
+git@github.com:mrclay/minify.git,2.1.5,"no composer"
+git@github.com:mrclay/minify.git,2.2.0,"no phpunit config"
+git@github.com:mrclay/minify.git,2.3.0,"no phpunit config"
+git@github.com:mrclay/minify.git,v2.1.5,"no composer"
+git@github.com:mrclay/minify.git,3.0.0,"phpunit failed"

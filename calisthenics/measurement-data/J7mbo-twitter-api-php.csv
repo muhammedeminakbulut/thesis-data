@@ -1,0 +1,8 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:J7mbo/twitter-api-php.git,1.0.0,650,214,28,0.00%,6.55,0,804,19,21,0
+git@github.com:J7mbo/twitter-api-php.git,1.0.1,675,219,30,0.00%,6.5714285714286,0,804,19,23,0
+git@github.com:J7mbo/twitter-api-php.git,1.0.2,683,219,31,0.00%,6.6666666666667,0,804,19,23,0
+git@github.com:J7mbo/twitter-api-php.git,1.0.3,683,219,31,0.00%,6.6666666666667,0,804,19,23,0
+git@github.com:J7mbo/twitter-api-php.git,1.0.4,717,229,31,0.00%,6.5652173913043,0,804,19,23,0
+git@github.com:J7mbo/twitter-api-php.git,1.0.5,727,230,34,0.00%,6.6086956521739,0,804,19,24,0
+git@github.com:J7mbo/twitter-api-php.git,1.0.6,785,246,35,0.00%,6.3461538461538,0,804,19,25,0

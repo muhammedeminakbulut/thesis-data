@@ -1,0 +1,12 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:MPOS/php-mpos.git,v1.0.0,69787,25561,6738,1.64%,4.4834874504624,0,962,112,4816,0
+git@github.com:MPOS/php-mpos.git,v1.0.1,69787,25561,6738,1.64%,4.4834874504624,0,962,112,4816,0
+git@github.com:MPOS/php-mpos.git,v1.0.2,69761,25606,6752,1.64%,4.4802284710018,0,962,112,4821,0
+git@github.com:MPOS/php-mpos.git,v1.0.3,69761,25606,6752,1.64%,4.4802284710018,0,962,112,4821,0
+git@github.com:MPOS/php-mpos.git,v1.0.4,69910,25605,6760,1.64%,4.4787000439174,0,962,112,4816,0
+git@github.com:MPOS/php-mpos.git,v1.0.5,69941,25606,6767,1.64%,4.4820017559263,0,962,112,4819,0
+git@github.com:MPOS/php-mpos.git,v1.0.6,70476,25656,6838,1.62%,4.4658547194432,0,962,112,4871,0
+git@github.com:MPOS/php-mpos.git,v1.0.7,70476,25656,6838,1.62%,4.4658547194432,0,962,112,4871,0
+git@github.com:MPOS/php-mpos.git,v1.0.8,70486,25656,6841,1.62%,4.4671596346237,0,962,112,4872,0
+git@github.com:MPOS/php-mpos.git,v1.0.9,70400,25602,6853,1.63%,4.4759009986974,0,962,112,4883,0
+git@github.com:MPOS/php-mpos.git,v1.1.0,70460,25611,6864,1.63%,4.4765625,0,962,112,4890,0

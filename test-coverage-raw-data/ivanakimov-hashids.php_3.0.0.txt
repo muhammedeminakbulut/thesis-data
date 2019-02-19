@@ -1,0 +1,14 @@
+
+
+Code Coverage Report:      
+  2019-02-17 15:32:51      
+                           
+ Summary:                  
+  Classes: 66.67% (2/3)    
+  Methods: 66.67% (16/24)  
+  Lines:   94.56% (139/147)
+
+\Hashids::Hashids\Hashids
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% (131/131)
+\Hashids\Math::Hashids\Math\Bc
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% (  8/  8)

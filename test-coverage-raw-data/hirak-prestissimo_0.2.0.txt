@@ -1,0 +1,32 @@
+
+
+Code Coverage Report:      
+  2019-02-16 21:01:11      
+                           
+ Summary:                  
+  Classes: 63.64% (7/11)   
+  Methods: 80.85% (38/47)  
+  Lines:   92.24% (297/322)
+
+\Hirak\Prestissimo::Config
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  9/  9)
+\Hirak\Prestissimo::CurlMulti
+  Methods:  71.43% ( 5/ 7)   Lines:  94.44% ( 51/ 54)
+\Hirak\Prestissimo::Factory
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 17/ 17)
+\Hirak\Prestissimo::FileDownloaderDummy
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  8/  8)
+\Hirak\Prestissimo::GitHubRequest
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  9/  9)
+\Hirak\Prestissimo::GitLabRequest
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  5/  5)
+\Hirak\Prestissimo::HttpGetRequest
+  Methods:  72.73% ( 8/11)   Lines:  87.00% ( 87/100)
+\Hirak\Prestissimo::HttpGetResponse
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  7/  7)
+\Hirak\Prestissimo::OutputFile
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 27/ 27)
+\Hirak\Prestissimo::ParallelDownloader
+  Methods:  60.00% ( 3/ 5)   Lines:  90.57% ( 48/ 53)
+\Hirak\Prestissimo::Plugin
+  Methods:  71.43% ( 5/ 7)   Lines:  87.88% ( 29/ 33)

@@ -1,0 +1,3 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:the-benchmarker/web-frameworks.git,2018.7.30,2242,1039,4,0.00%,1.4285714285714,0,134,77,0,0
+git@github.com:the-benchmarker/web-frameworks.git,2018.9.26,2237,1036,4,0.00%,1.4285714285714,0,134,77,0,0

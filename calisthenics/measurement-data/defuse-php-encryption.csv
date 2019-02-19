@@ -1,0 +1,9 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:defuse/php-encryption.git,v1.2.1,787,233,68,0.00%,7.1904761904762,0,231,31,60,0
+git@github.com:defuse/php-encryption.git,v2.0.0,3573,1014,172,0.00%,5.856,0,231,31,155,0
+git@github.com:defuse/php-encryption.git,v2.0.1,3573,1014,172,0.00%,5.856,0,231,31,155,0
+git@github.com:defuse/php-encryption.git,v2.0.2,3585,1005,176,0.00%,5.8870967741935,0,231,31,155,0
+git@github.com:defuse/php-encryption.git,v2.0.3,3585,1005,176,0.00%,5.8870967741935,0,231,31,155,0
+git@github.com:defuse/php-encryption.git,v2.1.0,3777,1118,185,0.00%,6.1190476190476,0,231,31,159,0
+git@github.com:defuse/php-encryption.git,v2.2.0,4039,1231,169,0.00%,5.5466666666667,0,231,31,168,0
+git@github.com:defuse/php-encryption.git,v2.2.1,4040,1232,169,0.00%,5.5466666666667,0,231,31,168,0

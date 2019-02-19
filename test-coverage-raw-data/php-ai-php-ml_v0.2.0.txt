@@ -1,0 +1,142 @@
+
+
+Code Coverage Report:      
+  2019-02-16 13:36:03      
+                           
+ Summary:                  
+  Classes: 85.07% (57/67)  
+  Methods: 90.79% (217/239)
+  Lines:   95.74% (945/987)
+
+\Phpml::Pipeline
+  Methods: 100.00% ( 9/ 9)   Lines: 100.00% ( 22/ 22)
+\Phpml\Classification::KNearestNeighbors
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 19/ 19)
+\Phpml\Classification::NaiveBayes
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  9/  9)
+\Phpml\Classification::SVC
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Phpml\Clustering::DBSCAN
+  Methods:  75.00% ( 3/ 4)   Lines:  96.67% ( 29/ 30)
+\Phpml\Clustering::KMeans
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 12/ 12)
+\Phpml\Clustering\KMeans::Cluster
+  Methods:  50.00% ( 5/10)   Lines:  67.74% ( 21/ 31)
+\Phpml\Clustering\KMeans::Point
+  Methods:  77.78% ( 7/ 9)   Lines:  88.46% ( 23/ 26)
+\Phpml\Clustering\KMeans::Space
+  Methods:  53.85% ( 7/13)   Lines:  88.89% ( 72/ 81)
+\Phpml\CrossValidation::RandomSplit
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 10/ 10)
+\Phpml\CrossValidation::Split
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% ( 13/ 13)
+\Phpml\CrossValidation::StratifiedRandomSplit
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 16/ 16)
+\Phpml\Dataset::ArrayDataset
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  7/  7)
+\Phpml\Dataset::CsvDataset
+  Methods:   0.00% ( 0/ 1)   Lines:  90.91% ( 10/ 11)
+\Phpml\Dataset::FilesDataset
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 12/ 12)
+\Phpml\Dataset\Demo::Glass
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\Phpml\Dataset\Demo::Iris
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\Phpml\Dataset\Demo::Wine
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\Phpml\Exception::DatasetException
+  Methods:  66.67% ( 2/ 3)   Lines:  66.67% (  2/  3)
+\Phpml\Exception::InvalidArgumentException
+  Methods: 100.00% (10/10)   Lines: 100.00% ( 10/ 10)
+\Phpml\Exception::MatrixException
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  2/  2)
+\Phpml\Exception::NormalizerException
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Phpml\FeatureExtraction::StopWords
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  7/  7)
+\Phpml\FeatureExtraction::TfIdfTransformer
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 18/ 18)
+\Phpml\FeatureExtraction::TokenCountVectorizer
+  Methods: 100.00% (13/13)   Lines: 100.00% ( 59/ 59)
+\Phpml\FeatureExtraction\StopWords::English
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Phpml\FeatureExtraction\StopWords::Polish
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Phpml\Helper::Predictable
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  6/  6)
+\Phpml\Helper::Trainable
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\Phpml\Math::Matrix
+  Methods:  92.86% (13/14)   Lines:  98.73% ( 78/ 79)
+\Phpml\Math::Product
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  5/  5)
+\Phpml\Math\Distance::Chebyshev
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  7/  7)
+\Phpml\Math\Distance::Euclidean
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  7/  7)
+\Phpml\Math\Distance::Manhattan
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  7/  7)
+\Phpml\Math\Distance::Minkowski
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  9/  9)
+\Phpml\Math\Kernel::RBF
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  6/  6)
+\Phpml\Math\Statistic::Correlation
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 16/ 16)
+\Phpml\Math\Statistic::Mean
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 16/ 16)
+\Phpml\Math\Statistic::StandardDeviation
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 13/ 13)
+\Phpml\Metric::Accuracy
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  9/  9)
+\Phpml\Metric::ClassificationReport
+  Methods: 100.00% (10/10)   Lines: 100.00% ( 32/ 32)
+\Phpml\Metric::ConfusionMatrix
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% ( 21/ 21)
+\Phpml\NeuralNetwork::Layer
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 11/ 11)
+\Phpml\NeuralNetwork\ActivationFunction::BinaryStep
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Phpml\NeuralNetwork\ActivationFunction::Gaussian
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Phpml\NeuralNetwork\ActivationFunction::HyperbolicTangent
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\Phpml\NeuralNetwork\ActivationFunction::Sigmoid
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\Phpml\NeuralNetwork\Network::LayeredNetwork
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 17/ 17)
+\Phpml\NeuralNetwork\Network::MultilayerPerceptron
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 29/ 29)
+\Phpml\NeuralNetwork\Node::Bias
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Phpml\NeuralNetwork\Node::Input
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  5/  5)
+\Phpml\NeuralNetwork\Node::Neuron
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 15/ 15)
+\Phpml\NeuralNetwork\Node\Neuron::Synapse
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% (  9/  9)
+\Phpml\NeuralNetwork\Training::Backpropagation
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 41/ 41)
+\Phpml\NeuralNetwork\Training\Backpropagation::Sigma
+  Methods:  75.00% ( 3/ 4)   Lines:  90.00% (  9/ 10)
+\Phpml\Preprocessing::Imputer
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 21/ 21)
+\Phpml\Preprocessing::Normalizer
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 27/ 27)
+\Phpml\Preprocessing\Imputer\Strategy::MeanStrategy
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Phpml\Preprocessing\Imputer\Strategy::MedianStrategy
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Phpml\Preprocessing\Imputer\Strategy::MostFrequentStrategy
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Phpml\Regression::LeastSquares
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 25/ 25)
+\Phpml\Regression::SVR
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\Phpml\SupportVectorMachine::DataTransformer
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% ( 28/ 28)
+\Phpml\SupportVectorMachine::SupportVectorMachine
+  Methods:  83.33% ( 5/ 6)   Lines:  97.06% ( 66/ 68)
+\Phpml\Tokenization::WhitespaceTokenizer
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\Phpml\Tokenization::WordTokenizer
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)

@@ -1,0 +1,14 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:mgp25/Instagram-API.git,v1.0.0,545,68,27,5.32%,8.5625,0,1106,102,71,0
+git@github.com:mgp25/Instagram-API.git,v1.1.0,1573,407,54,2.29%,4.6769230769231,0,1106,102,113,0
+git@github.com:mgp25/Instagram-API.git,v1.2.0,1952,462,73,2.15%,5.5205479452055,0,1106,102,176,0
+git@github.com:mgp25/Instagram-API.git,v1.2.1,1951,462,72,2.15%,5.5342465753425,0,1106,102,176,0
+git@github.com:mgp25/Instagram-API.git,v1.2.2,2056,523,78,2.04%,5.4210526315789,0,1106,102,176,0
+git@github.com:mgp25/Instagram-API.git,v1.4.2,6245,651,325,2.71%,3.1569892473118,0,1106,102,380,0
+git@github.com:mgp25/Instagram-API.git,v1.5.1,8269,889,473,2.43%,3.1191626409018,0,1106,102,528,0
+git@github.com:mgp25/Instagram-API.git,v1.6.1,5768,1051,263,3.97%,5.2704081632653,0,1106,102,1045,0
+git@github.com:mgp25/Instagram-API.git,v3.0.0,30328,13734,1341,0.21%,4.2331768388106,0,1106,102,2462,0
+git@github.com:mgp25/Instagram-API.git,v3.0.1,30346,13761,1343,0.00%,4.23125,0,1106,102,2463,0
+git@github.com:mgp25/Instagram-API.git,v4.0.0,43296,21114,1705,0.17%,3.9441913439636,0,1106,102,1738,0
+git@github.com:mgp25/Instagram-API.git,v4.1.0,44733,21579,1765,0.23%,3.9223404255319,0,1106,102,1778,0
+git@github.com:mgp25/Instagram-API.git,v5.0.0,49890,24368,1918,0.22%,3.9440559440559,0,1106,102,1909,0

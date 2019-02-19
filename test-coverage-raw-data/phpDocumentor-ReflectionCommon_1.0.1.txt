@@ -1,0 +1,12 @@
+
+
+Code Coverage Report:    
+  2019-02-16 14:31:19    
+                         
+ Summary:                
+  Classes:  0.00% (0/2)  
+  Methods: 33.33% (2/6)  
+  Lines:   57.69% (15/26)
+
+\phpDocumentor\Reflection::Fqsen
+  Methods:  66.67% ( 2/ 3)   Lines:  93.75% ( 15/ 16)

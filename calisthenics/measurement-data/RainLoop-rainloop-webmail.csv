@@ -1,0 +1,6 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:RainLoop/rainloop-webmail.git,v1.11.1,206832,68708,17501,4.30%,5.5765839320705,0,536,79,10274,2
+git@github.com:RainLoop/rainloop-webmail.git,v1.11.2,206860,68711,17502,4.29%,5.5777269758328,0,536,79,10276,2
+git@github.com:RainLoop/rainloop-webmail.git,v1.11.3,206848,68732,17495,4.29%,5.5766089513231,0,536,79,10275,2
+git@github.com:RainLoop/rainloop-webmail.git,v1.12.0,207597,68970,17562,4.34%,5.5759349593496,0,536,79,10309,2
+git@github.com:RainLoop/rainloop-webmail.git,v1.12.1,197457,66029,16904,4.08%,5.7517866480739,0,536,79,9874,2

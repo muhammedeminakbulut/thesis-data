@@ -1,0 +1,16 @@
+
+
+Code Coverage Report:      
+  2019-02-17 15:45:43      
+                           
+ Summary:                  
+  Classes:  4.63% (15/324) 
+  Methods:  0.32% (5/1539) 
+  Lines:    0.26% (24/9282)
+
+\Behat\Testwork\Specification::GroupedSpecificationIterator
+  Methods:  33.33% ( 3/ 9)   Lines:  65.52% ( 19/ 29)
+\Behat\Testwork\Specification::NoSpecificationsIterator
+  Methods:  50.00% ( 1/ 2)   Lines:  66.67% (  2/  3)
+\Behat\Testwork\Specification::SpecificationArrayIterator
+  Methods:  50.00% ( 1/ 2)   Lines:  75.00% (  3/  4)

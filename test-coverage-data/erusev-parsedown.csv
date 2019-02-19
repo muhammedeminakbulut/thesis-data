@@ -1,0 +1,18 @@
+repository,tag,coverage
+git@github.com:erusev/parsedown.git,0.1.0,"no phpunit config"
+git@github.com:erusev/parsedown.git,0.2.0,"phpunit not installed"
+git@github.com:erusev/parsedown.git,0.3.0,"phpunit not installed"
+git@github.com:erusev/parsedown.git,0.4.0,"phpunit not installed"
+git@github.com:erusev/parsedown.git,0.5.0,"phpunit not installed"
+git@github.com:erusev/parsedown.git,0.6.0,"phpunit not installed"
+git@github.com:erusev/parsedown.git,0.7.0,"phpunit not installed"
+git@github.com:erusev/parsedown.git,0.8.0,"phpunit not installed"
+git@github.com:erusev/parsedown.git,0.9.0,"phpunit not installed"
+git@github.com:erusev/parsedown.git,1.0.0,"phpunit not installed"
+git@github.com:erusev/parsedown.git,1.1.0,"phpunit not installed"
+git@github.com:erusev/parsedown.git,1.2.0,"phpunit not installed"
+git@github.com:erusev/parsedown.git,1.3.0,"phpunit not installed"
+git@github.com:erusev/parsedown.git,1.4.0,"phpunit not installed"
+git@github.com:erusev/parsedown.git,1.5.0,"phpunit not installed"
+git@github.com:erusev/parsedown.git,1.6.0,"phpunit not installed"
+git@github.com:erusev/parsedown.git,1.7.0,95.86

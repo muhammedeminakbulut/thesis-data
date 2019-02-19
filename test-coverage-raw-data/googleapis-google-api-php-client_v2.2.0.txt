@@ -1,0 +1,40 @@
+
+
+Code Coverage Report:       
+  2019-02-16 14:12:08       
+                            
+ Summary:                   
+  Classes: 22.22% (4/18)    
+  Methods: 53.49% (92/172)  
+  Lines:   67.34% (864/1283)
+
+@Google.AccessToken::Google_AccessToken_Revoke
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 15/ 15)
+@Google.AccessToken::Google_AccessToken_Verify
+  Methods:  30.00% ( 3/10)   Lines:  68.97% ( 60/ 87)
+@Google.AuthHandler::Google_AuthHandler_AuthHandlerFactory
+  Methods:   0.00% ( 0/ 1)   Lines:  71.43% (  5/  7)
+@Google.AuthHandler::Google_AuthHandler_Guzzle6AuthHandler
+  Methods:  40.00% ( 2/ 5)   Lines:  33.33% ( 11/ 33)
+@Google.Http::Google_Http_Batch
+  Methods:  50.00% ( 3/ 6)   Lines:  93.88% ( 92/ 98)
+@Google.Http::Google_Http_MediaFileUpload
+  Methods:  42.86% ( 6/14)   Lines:  46.28% ( 56/121)
+@Google.Http::Google_Http_REST
+  Methods:  71.43% ( 5/ 7)   Lines:  81.25% ( 39/ 48)
+@Google.Service::Google_Service_Exception
+  Methods:  50.00% ( 1/ 2)   Lines:  83.33% (  5/  6)
+@Google.Service::Google_Service_Resource
+  Methods:  25.00% ( 1/ 4)   Lines:  75.00% ( 90/120)
+@Google.Task::Google_Task_Runner
+  Methods:  88.89% ( 8/ 9)   Lines:  98.48% ( 65/ 66)
+@Google.Utils::Google_Utils_UriTemplate
+  Methods:  62.50% ( 5/ 8)   Lines:  94.96% (132/139)
+@Google::Google_Client
+  Methods:  60.94% (39/64)   Lines:  55.63% (168/302)
+@Google::Google_Collection
+  Methods:  27.27% ( 3/11)   Lines:  53.85% ( 21/ 39)
+@Google::Google_Model
+  Methods:  55.00% (11/20)   Lines:  74.56% ( 85/114)
+@Google::Google_Service
+  Methods: 100.00% ( 3/ 3)   Lines: 100.00% (  8/  8)

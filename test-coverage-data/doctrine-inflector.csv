@@ -1,0 +1,5 @@
+repository,tag,coverage
+git@github.com:doctrine/inflector.git,v1.0.1,86.11
+git@github.com:doctrine/inflector.git,v1.1.0,87.01
+git@github.com:doctrine/inflector.git,v1.2.0,90.91
+git@github.com:doctrine/inflector.git,v1.3.0,93.15

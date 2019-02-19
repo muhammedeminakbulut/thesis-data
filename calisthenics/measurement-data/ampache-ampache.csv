@@ -1,0 +1,17 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:ampache/ampache.git,3.5.1,102506,27281,10692,8.39%,11.870879120879,0,397,123,5478,24
+git@github.com:ampache/ampache.git,3.5.2,102685,27341,10711,8.37%,11.865057597367,0,397,123,5478,24
+git@github.com:ampache/ampache.git,3.5.3,102686,27331,10710,8.37%,11.865131578947,0,397,123,5479,24
+git@github.com:ampache/ampache.git,3.5.4,102368,27262,10693,8.40%,11.868421052632,0,397,123,5481,24
+git@github.com:ampache/ampache.git,3.7.0,198036,59640,18023,0.24%,6.4466569532135,0,397,123,8787,2
+git@github.com:ampache/ampache.git,3.8.0,369321,103424,29898,0.96%,6.2103658536585,0,397,123,21121,2
+git@github.com:ampache/ampache.git,3.8.1,104686,27035,9711,0.15%,6.9904761904762,0,397,123,4721,2
+git@github.com:ampache/ampache.git,3.8.2,107543,27375,10057,0.15%,7.0265517241379,0,397,123,4912,2
+git@github.com:ampache/ampache.git,3.8.3,106873,27500,10282,0.15%,7.072920232797,0,397,123,4993,2
+git@github.com:ampache/ampache.git,3.8.4,108712,27673,10368,0.16%,7.0905084745763,0,397,123,5105,2
+git@github.com:ampache/ampache.git,3.8.5,108955,27690,10393,0.16%,7.1114498644986,0,397,123,5109,2
+git@github.com:ampache/ampache.git,3.8.6,108971,27690,10397,0.16%,7.1100575685743,0,397,123,5109,2
+git@github.com:ampache/ampache.git,3.8.7,109105,27694,10414,0.16%,7.1126141359486,0,397,123,5115,2
+git@github.com:ampache/ampache.git,3.8.8,109130,27697,10418,0.16%,7.1153195806561,0,397,123,5117,2
+git@github.com:ampache/ampache.git,3.8.9,109131,27697,10418,0.16%,7.1159959418329,0,397,123,5117,2
+git@github.com:ampache/ampache.git,3.9.0,109137,27699,10419,0.16%,7.1159959418329,0,397,123,5117,2

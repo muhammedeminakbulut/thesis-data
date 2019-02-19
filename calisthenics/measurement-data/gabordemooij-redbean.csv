@@ -1,0 +1,15 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:gabordemooij/redbean.git,v3.2.1,16215,6233,849,3.03%,13.235154394299,0,249,61,1846,0
+git@github.com:gabordemooij/redbean.git,v3.3.5,20565,7783,1104,4.04%,13.062271062271,0,249,61,2282,0
+git@github.com:gabordemooij/redbean.git,v3.3.6,20568,7783,1106,4.04%,13.06043956044,0,249,61,2282,0
+git@github.com:gabordemooij/redbean.git,v3.4.1,20552,7185,1292,4.55%,13.398945518453,0,249,61,2743,0
+git@github.com:gabordemooij/redbean.git,v3.4.2,20552,7185,1292,4.55%,13.398945518453,0,249,61,2743,0
+git@github.com:gabordemooij/redbean.git,v3.4.3,20616,7210,1291,4.54%,13.36013986014,0,249,61,2743,0
+git@github.com:gabordemooij/redbean.git,v3.4.4,20616,7210,1291,4.54%,13.36013986014,0,249,61,2744,0
+git@github.com:gabordemooij/redbean.git,v3.5.1,34542,9966,1352,4.18%,10.467703349282,0,249,61,3112,0
+git@github.com:gabordemooij/redbean.git,v4.2.0,36520,10407,1311,2.76%,12.402807775378,0,249,61,2993,0
+git@github.com:gabordemooij/redbean.git,v4.2.1,36184,10349,1265,2.79%,12.485278080698,0,249,61,2959,0
+git@github.com:gabordemooij/redbean.git,v4.3.1,36692,10714,1271,2.74%,12.361884368308,0,249,61,2972,0
+git@github.com:gabordemooij/redbean.git,v4.3.2,36677,11094,1292,2.68%,12.352816153029,0,249,61,2973,0
+git@github.com:gabordemooij/redbean.git,v4.3.3,34909,11434,1292,2.72%,12.305732484076,0,249,61,2896,0
+git@github.com:gabordemooij/redbean.git,v4.3.4,34972,11459,1294,2.72%,12.309650053022,0,249,61,2900,0

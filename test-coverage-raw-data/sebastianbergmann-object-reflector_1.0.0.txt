@@ -1,0 +1,12 @@
+
+
+Code Coverage Report:    
+  2019-02-16 21:09:15    
+                         
+ Summary:                
+  Classes:  0.00% (0/1)  
+  Methods:  0.00% (0/1)  
+  Lines:   68.75% (11/16)
+
+\SebastianBergmann\ObjectReflector::SebastianBergmann\ObjectReflector\ObjectReflector
+  Methods:   0.00% ( 0/ 1)   Lines:  68.75% ( 11/ 16)

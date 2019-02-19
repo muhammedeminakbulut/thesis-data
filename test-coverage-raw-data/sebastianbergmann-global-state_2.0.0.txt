@@ -1,0 +1,18 @@
+
+
+Code Coverage Report:      
+  2019-02-16 21:07:23      
+                           
+ Summary:                  
+  Classes: 25.00% (1/4)    
+  Methods: 56.41% (22/39)  
+  Lines:   61.47% (134/218)
+
+\SebastianBergmann\GlobalState::SebastianBergmann\GlobalState\Blacklist
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% ( 30/ 30)
+\SebastianBergmann\GlobalState::SebastianBergmann\GlobalState\CodeExporter
+  Methods:  20.00% ( 1/ 5)   Lines:  28.57% ( 10/ 35)
+\SebastianBergmann\GlobalState::SebastianBergmann\GlobalState\Restorer
+  Methods:   0.00% ( 0/ 4)   Lines:  43.40% ( 23/ 53)
+\SebastianBergmann\GlobalState::SebastianBergmann\GlobalState\Snapshot
+  Methods:  59.09% (13/22)   Lines:  71.00% ( 71/100)

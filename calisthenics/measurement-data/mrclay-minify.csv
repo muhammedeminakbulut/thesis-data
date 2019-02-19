@@ -1,0 +1,15 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:mrclay/minify.git,2.1.5,12727,3597,1537,0.75%,7.9418604651163,0,436,31,1577,4
+git@github.com:mrclay/minify.git,v2.1.5,12727,3597,1537,0.75%,7.9418604651163,0,436,31,1577,4
+git@github.com:mrclay/minify.git,2.1.6,13989,4032,1667,1.26%,7.8926174496644,0,436,31,1742,4
+git@github.com:mrclay/minify.git,2.1.7,13989,4034,1667,1.26%,7.8791946308725,0,436,31,1741,4
+git@github.com:mrclay/minify.git,2.2.0,14351,4151,1692,1.23%,7.8766666666667,0,436,31,1770,4
+git@github.com:mrclay/minify.git,2.2.1,14619,4226,1711,1.59%,7.7654723127036,0,436,31,1778,3
+git@github.com:mrclay/minify.git,2.3.0,15152,4359,1807,1.54%,7.8018867924528,0,436,31,1798,3
+git@github.com:mrclay/minify.git,2.3.1,15204,4378,1807,1.53%,7.790625,0,436,31,1794,3
+git@github.com:mrclay/minify.git,2.3.2,15205,4378,1807,1.53%,7.790625,0,436,31,1794,3
+git@github.com:mrclay/minify.git,2.3.3,15208,4378,1807,1.53%,7.790625,0,436,31,1794,3
+git@github.com:mrclay/minify.git,3.0.0,11013,3764,797,1.92%,5.2564935064935,0,436,31,662,0
+git@github.com:mrclay/minify.git,3.0.1,11022,3764,797,1.91%,5.2532467532468,0,436,31,662,0
+git@github.com:mrclay/minify.git,3.0.2,11022,3764,797,1.91%,5.2564935064935,0,436,31,662,0
+git@github.com:mrclay/minify.git,3.0.3,11025,3764,797,1.91%,5.2564935064935,0,436,31,662,0

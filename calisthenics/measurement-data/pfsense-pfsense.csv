@@ -1,0 +1,12 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:pfsense/pfsense.git,v2.3.0,100095,17214,11591,0.96%,3.5675675675676,0,848,401,5604,0
+git@github.com:pfsense/pfsense.git,v2.3.1,100474,17265,11633,0.97%,3.5675675675676,0,848,401,5606,0
+git@github.com:pfsense/pfsense.git,v2.3.2,101648,17921,11692,0.96%,3.6621621621622,0,848,401,5646,0
+git@github.com:pfsense/pfsense.git,v2.3.3,104745,18128,12059,1.02%,3.8513513513514,0,848,401,5769,0
+git@github.com:pfsense/pfsense.git,v2.3.4,105113,18132,12156,0.96%,3.8513513513514,0,848,401,5789,0
+git@github.com:pfsense/pfsense.git,v2.3.5,105633,18165,12182,0.92%,3.8513513513514,0,848,401,5830,0
+git@github.com:pfsense/pfsense.git,v2.4.0,97239,9611,12027,0.92%,4.8390804597701,0,848,401,5849,0
+git@github.com:pfsense/pfsense.git,v2.4.1,97287,9607,12037,0.92%,4.8390804597701,0,848,401,5846,0
+git@github.com:pfsense/pfsense.git,v2.4.2,97740,9636,12077,0.94%,4.8390804597701,0,848,401,5836,0
+git@github.com:pfsense/pfsense.git,v2.4.3,99679,9798,12161,0.98%,5.563829787234,0,848,401,5801,0
+git@github.com:pfsense/pfsense.git,v2.4.4,101940,9914,12451,0.88%,5.6702127659574,0,848,401,5984,0

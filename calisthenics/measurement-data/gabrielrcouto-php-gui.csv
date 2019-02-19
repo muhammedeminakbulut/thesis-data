@@ -1,0 +1,2 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:gabrielrcouto/php-gui.git,v0.1.0,3525,1101,118,0.28%,2.6354166666667,0,159,22,177,0

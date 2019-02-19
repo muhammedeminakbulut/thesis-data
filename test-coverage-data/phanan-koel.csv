@@ -1,0 +1,9 @@
+repository,tag,coverage
+git@github.com:phanan/koel.git,v3.1.1,"phpunit failed"
+git@github.com:phanan/koel.git,v3.0.0,"phpunit failed"
+git@github.com:phanan/koel.git,v3.2.0,"phpunit failed"
+git@github.com:phanan/koel.git,v3.3.0,"phpunit failed"
+git@github.com:phanan/koel.git,v3.4.0,"phpunit failed"
+git@github.com:phanan/koel.git,v3.5.0,"phpunit failed"
+git@github.com:phanan/koel.git,v3.6.0,61.15
+git@github.com:phanan/koel.git,v3.7.0,"phpunit failed"

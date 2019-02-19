@@ -1,0 +1,14 @@
+
+
+Code Coverage Report:      
+  2019-02-15 07:54:21      
+                           
+ Summary:                  
+  Classes:  0.00% (0/2)    
+  Methods: 95.11% (175/184)
+  Lines:   54.60% (528/967)
+
+\Carbon::Carbon
+  Methods:  95.81% (160/167)   Lines:  97.30% (360/370)
+\Carbon::CarbonInterval
+  Methods:  88.24% (15/17)   Lines:  97.47% (154/158)

@@ -1,0 +1,330 @@
+
+
+Code Coverage Report:          
+  2019-02-16 14:31:34          
+                               
+ Summary:                      
+  Classes: 11.41% (21/184)     
+  Methods: 53.04% (1369/2581)  
+  Lines:   65.83% (19967/30331)
+
+\PhpOffice\PhpSpreadsheet::Comment
+  Methods:  76.19% (16/21)   Lines:  56.25% ( 27/ 48)
+\PhpOffice\PhpSpreadsheet::HashTable
+  Methods:  36.36% ( 4/11)   Lines:  43.90% ( 18/ 41)
+\PhpOffice\PhpSpreadsheet::IOFactory
+  Methods:  50.00% ( 4/ 8)   Lines:  81.25% ( 52/ 64)
+\PhpOffice\PhpSpreadsheet::NamedRange
+  Methods:  61.54% ( 8/13)   Lines:  61.90% ( 26/ 42)
+\PhpOffice\PhpSpreadsheet::ReferenceHelper
+  Methods:  45.45% (10/22)   Lines:  73.42% (268/365)
+\PhpOffice\PhpSpreadsheet::Settings
+  Methods:  28.57% ( 2/ 7)   Lines:  70.00% ( 14/ 20)
+\PhpOffice\PhpSpreadsheet::Spreadsheet
+  Methods:  44.44% (28/63)   Lines:  55.91% (156/279)
+\PhpOffice\PhpSpreadsheet\Calculation::Calculation
+  Methods:  24.07% (13/54)   Lines:  62.27% (657/1055)
+\PhpOffice\PhpSpreadsheet\Calculation::Database
+  Methods:  20.00% ( 3/15)   Lines:  77.48% ( 86/111)
+\PhpOffice\PhpSpreadsheet\Calculation::DateTime
+  Methods:  30.77% ( 8/26)   Lines:  86.32% (568/658)
+\PhpOffice\PhpSpreadsheet\Calculation::Engineering
+  Methods:  67.31% (35/52)   Lines:  88.62% (576/650)
+\PhpOffice\PhpSpreadsheet\Calculation::Financial
+  Methods:  44.00% (22/50)   Lines:  59.21% (466/787)
+\PhpOffice\PhpSpreadsheet\Calculation::Functions
+  Methods:  87.50% (28/32)   Lines:  95.00% (133/140)
+\PhpOffice\PhpSpreadsheet\Calculation::Logical
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 56/ 56)
+\PhpOffice\PhpSpreadsheet\Calculation::LookupRef
+  Methods:   0.00% ( 0/16)   Lines:  34.38% (121/352)
+\PhpOffice\PhpSpreadsheet\Calculation::MathTrig
+  Methods:  55.81% (24/43)   Lines:  64.90% (318/490)
+\PhpOffice\PhpSpreadsheet\Calculation::Statistical
+  Methods:   8.33% ( 7/84)   Lines:  22.07% (284/1287)
+\PhpOffice\PhpSpreadsheet\Calculation::TextData
+  Methods:  77.27% (17/22)   Lines:  97.30% (180/185)
+\PhpOffice\PhpSpreadsheet\Calculation\Engine::CyclicReferenceStack
+  Methods:  66.67% ( 4/ 6)   Lines:  75.00% (  6/  8)
+\PhpOffice\PhpSpreadsheet\Calculation\Engine::Logger
+  Methods:  50.00% ( 4/ 8)   Lines:  39.13% (  9/ 23)
+\PhpOffice\PhpSpreadsheet\Calculation\Token::Stack
+  Methods:  60.00% ( 3/ 5)   Lines:  78.95% ( 15/ 19)
+\PhpOffice\PhpSpreadsheet\Cell::AdvancedValueBinder
+  Methods:   0.00% ( 0/ 1)   Lines:  85.00% ( 68/ 80)
+\PhpOffice\PhpSpreadsheet\Cell::Cell
+  Methods:  46.34% (19/41)   Lines:  59.86% ( 88/147)
+\PhpOffice\PhpSpreadsheet\Cell::Coordinate
+  Methods:  50.00% ( 6/12)   Lines:  95.54% (150/157)
+\PhpOffice\PhpSpreadsheet\Cell::DataType
+  Methods:  66.67% ( 2/ 3)   Lines:  60.00% (  6/ 10)
+\PhpOffice\PhpSpreadsheet\Cell::DataValidation
+  Methods:  93.10% (27/29)   Lines:  86.89% ( 53/ 61)
+\PhpOffice\PhpSpreadsheet\Cell::DataValidator
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% ( 23/ 23)
+\PhpOffice\PhpSpreadsheet\Cell::DefaultValueBinder
+  Methods:   0.00% ( 0/ 2)   Lines:  93.94% ( 31/ 33)
+\PhpOffice\PhpSpreadsheet\Cell::Hyperlink
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 14/ 14)
+\PhpOffice\PhpSpreadsheet\Chart::Axis
+  Methods:  32.14% ( 9/28)   Lines:  10.00% (  9/ 90)
+\PhpOffice\PhpSpreadsheet\Chart::Chart
+  Methods:  41.86% (18/43)   Lines:  59.63% ( 65/109)
+\PhpOffice\PhpSpreadsheet\Chart::DataSeries
+  Methods:  65.00% (13/20)   Lines:  84.62% ( 55/ 65)
+\PhpOffice\PhpSpreadsheet\Chart::DataSeriesValues
+  Methods:  55.56% (10/18)   Lines:  77.03% ( 57/ 74)
+\PhpOffice\PhpSpreadsheet\Chart::GridLines
+  Methods:  22.73% ( 5/22)   Lines:   4.90% (  5/102)
+\PhpOffice\PhpSpreadsheet\Chart::Layout
+  Methods:  75.86% (22/29)   Lines:  75.44% ( 43/ 57)
+\PhpOffice\PhpSpreadsheet\Chart::Legend
+  Methods: 100.00% ( 8/ 8)   Lines: 100.00% ( 20/ 20)
+\PhpOffice\PhpSpreadsheet\Chart::PlotArea
+  Methods:  62.50% ( 5/ 8)   Lines:  56.25% (  9/ 16)
+\PhpOffice\PhpSpreadsheet\Chart::Properties
+  Methods:  14.29% ( 1/ 7)   Lines:  37.50% (  6/ 16)
+\PhpOffice\PhpSpreadsheet\Chart::Title
+  Methods:  75.00% ( 3/ 4)   Lines:  71.43% (  5/  7)
+\PhpOffice\PhpSpreadsheet\Chart\Renderer::JpGraph
+  Methods:  41.38% (12/29)   Lines:  56.66% (268/473)
+\PhpOffice\PhpSpreadsheet\Collection::Cells
+  Methods:  78.26% (18/23)   Lines:  83.21% (109/131)
+\PhpOffice\PhpSpreadsheet\Collection::CellsFactory
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  2/  2)
+\PhpOffice\PhpSpreadsheet\Collection::Memory
+  Methods:  87.50% ( 7/ 8)   Lines:  90.00% ( 18/ 20)
+\PhpOffice\PhpSpreadsheet\Document::Properties
+  Methods:  70.97% (22/31)   Lines:  64.88% (109/168)
+\PhpOffice\PhpSpreadsheet\Document::Security
+  Methods:  76.92% (10/13)   Lines:  58.62% ( 17/ 29)
+\PhpOffice\PhpSpreadsheet\Helper::Html
+  Methods:  96.00% (24/25)   Lines:  99.12% (112/113)
+\PhpOffice\PhpSpreadsheet\Helper::Migrator
+  Methods:  33.33% ( 1/ 3)   Lines:  26.67% (  8/ 30)
+\PhpOffice\PhpSpreadsheet\Helper::Sample
+  Methods:  57.14% ( 8/14)   Lines:  62.90% ( 39/ 62)
+\PhpOffice\PhpSpreadsheet\Reader::BaseReader
+  Methods:  50.00% ( 7/14)   Lines:  72.41% ( 21/ 29)
+\PhpOffice\PhpSpreadsheet\Reader::Csv
+  Methods:  36.84% ( 7/19)   Lines:  63.12% ( 89/141)
+\PhpOffice\PhpSpreadsheet\Reader::DefaultReadFilter
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  1/  1)
+\PhpOffice\PhpSpreadsheet\Reader::Gnumeric
+  Methods:  50.00% ( 5/10)   Lines:  76.34% (400/524)
+\PhpOffice\PhpSpreadsheet\Reader::Html
+  Methods:  50.00% (10/20)   Lines:  62.14% (151/243)
+\PhpOffice\PhpSpreadsheet\Reader::Ods
+  Methods:  50.00% ( 4/ 8)   Lines:  77.04% (302/392)
+\PhpOffice\PhpSpreadsheet\Reader::Slk
+  Methods:  22.22% ( 2/ 9)   Lines:  76.55% (173/226)
+\PhpOffice\PhpSpreadsheet\Reader::Xls
+  Methods:  44.14% (49/111)   Lines:  50.30% (1930/3837)
+\PhpOffice\PhpSpreadsheet\Reader::Xlsx
+  Methods:  52.63% (10/19)   Lines:  71.74% (896/1249)
+\PhpOffice\PhpSpreadsheet\Reader::Xml
+  Methods:  30.77% ( 4/13)   Lines:  63.31% (264/417)
+\PhpOffice\PhpSpreadsheet\Reader\Xls::Color
+  Methods:   0.00% ( 0/ 1)   Lines:  85.71% (  6/  7)
+\PhpOffice\PhpSpreadsheet\Reader\Xls::ErrorCode
+  Methods:   0.00% ( 0/ 1)   Lines:  66.67% (  2/  3)
+\PhpOffice\PhpSpreadsheet\Reader\Xls::Escher
+  Methods:  72.73% (16/22)   Lines:  91.39% (223/244)
+\PhpOffice\PhpSpreadsheet\Reader\Xls\Color::BIFF8
+  Methods:   0.00% ( 0/ 1)   Lines:  66.67% (  2/  3)
+\PhpOffice\PhpSpreadsheet\Reader\Xls\Color::BuiltIn
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% (  3/  3)
+\PhpOffice\PhpSpreadsheet\Reader\Xls\Style::Border
+  Methods:   0.00% ( 0/ 1)   Lines:  66.67% (  2/  3)
+\PhpOffice\PhpSpreadsheet\Reader\Xls\Style::FillPattern
+  Methods:   0.00% ( 0/ 1)   Lines:  66.67% (  2/  3)
+\PhpOffice\PhpSpreadsheet\Reader\Xlsx::Chart
+  Methods:  16.67% ( 2/12)   Lines:  90.75% (314/346)
+\PhpOffice\PhpSpreadsheet\Reader\Xlsx::Theme
+  Methods:  20.00% ( 1/ 5)   Lines:  40.00% (  6/ 15)
+\PhpOffice\PhpSpreadsheet\RichText::RichText
+  Methods:  70.00% ( 7/10)   Lines:  77.14% ( 27/ 35)
+\PhpOffice\PhpSpreadsheet\RichText::Run
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% ( 10/ 10)
+\PhpOffice\PhpSpreadsheet\RichText::TextElement
+  Methods:  66.67% ( 4/ 6)   Lines:  53.33% (  8/ 15)
+\PhpOffice\PhpSpreadsheet\Shared::CodePage
+  Methods:   0.00% ( 0/ 1)   Lines:  89.38% (101/113)
+\PhpOffice\PhpSpreadsheet\Shared::Date
+  Methods:  52.94% ( 9/17)   Lines:  85.71% (102/119)
+\PhpOffice\PhpSpreadsheet\Shared::Drawing
+  Methods:  55.56% ( 5/ 9)   Lines:  36.07% ( 22/ 61)
+\PhpOffice\PhpSpreadsheet\Shared::Escher
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  4/  4)
+\PhpOffice\PhpSpreadsheet\Shared::File
+  Methods:  50.00% ( 3/ 6)   Lines:  83.78% ( 31/ 37)
+\PhpOffice\PhpSpreadsheet\Shared::Font
+  Methods:  35.71% ( 5/14)   Lines:  23.32% ( 59/253)
+\PhpOffice\PhpSpreadsheet\Shared::OLE
+  Methods:  12.50% ( 2/16)   Lines:  19.64% ( 33/168)
+\PhpOffice\PhpSpreadsheet\Shared::OLERead
+  Methods:  40.00% ( 2/ 5)   Lines:  86.73% ( 98/113)
+\PhpOffice\PhpSpreadsheet\Shared::PasswordHasher
+  Methods: 100.00% ( 1/ 1)   Lines: 100.00% ( 11/ 11)
+\PhpOffice\PhpSpreadsheet\Shared::StringHelper
+  Methods:  68.97% (20/29)   Lines:  91.73% (255/278)
+\PhpOffice\PhpSpreadsheet\Shared::TimeZone
+  Methods:  50.00% ( 2/ 4)   Lines:  41.18% (  7/ 17)
+\PhpOffice\PhpSpreadsheet\Shared::XMLWriter
+  Methods:   0.00% ( 0/ 4)   Lines:  50.00% ( 10/ 20)
+\PhpOffice\PhpSpreadsheet\Shared::Xls
+  Methods:  40.00% ( 2/ 5)   Lines:  91.76% ( 78/ 85)
+\PhpOffice\PhpSpreadsheet\Shared\Escher::DgContainer
+  Methods: 100.00% ( 6/ 6)   Lines: 100.00% (  8/  8)
+\PhpOffice\PhpSpreadsheet\Shared\Escher::DggContainer
+  Methods:  91.67% (11/12)   Lines:  85.00% ( 17/ 20)
+\PhpOffice\PhpSpreadsheet\Shared\Escher\DgContainer::SpgrContainer
+  Methods:  60.00% ( 3/ 5)   Lines:  76.92% ( 10/ 13)
+\PhpOffice\PhpSpreadsheet\Shared\Escher\DgContainer\SpgrContainer::SpContainer
+  Methods:  96.15% (25/26)   Lines:  97.78% ( 44/ 45)
+\PhpOffice\PhpSpreadsheet\Shared\Escher\DggContainer::BstoreContainer
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  4/  4)
+\PhpOffice\PhpSpreadsheet\Shared\Escher\DggContainer\BstoreContainer::BSE
+  Methods: 100.00% ( 5/ 5)   Lines: 100.00% (  9/  9)
+\PhpOffice\PhpSpreadsheet\Shared\Escher\DggContainer\BstoreContainer\BSE::Blip
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  6/  6)
+\PhpOffice\PhpSpreadsheet\Shared\OLE::PPS
+  Methods:  50.00% ( 2/ 4)   Lines:  96.30% ( 52/ 54)
+\PhpOffice\PhpSpreadsheet\Shared\OLE\PPS::File
+  Methods:  50.00% ( 2/ 4)   Lines:  57.14% (  4/  7)
+\PhpOffice\PhpSpreadsheet\Shared\OLE\PPS::Root
+  Methods:  33.33% ( 3/ 9)   Lines:  78.06% (153/196)
+\PhpOffice\PhpSpreadsheet\Style::Alignment
+  Methods:  31.58% ( 6/19)   Lines:  79.46% ( 89/112)
+\PhpOffice\PhpSpreadsheet\Style::Border
+  Methods:  44.44% ( 4/ 9)   Lines:  64.29% ( 36/ 56)
+\PhpOffice\PhpSpreadsheet\Style::Borders
+  Methods:  47.06% ( 8/17)   Lines:  74.42% ( 64/ 86)
+\PhpOffice\PhpSpreadsheet\Style::Color
+  Methods:  53.33% ( 8/15)   Lines:  83.15% ( 74/ 89)
+\PhpOffice\PhpSpreadsheet\Style::Conditional
+  Methods:  64.29% ( 9/14)   Lines:  59.46% ( 22/ 37)
+\PhpOffice\PhpSpreadsheet\Style::Fill
+  Methods:  53.85% ( 7/13)   Lines:  80.95% ( 51/ 63)
+\PhpOffice\PhpSpreadsheet\Style::Font
+  Methods:  26.09% ( 6/23)   Lines:  83.80% (119/142)
+\PhpOffice\PhpSpreadsheet\Style::NumberFormat
+  Methods:  57.89% (11/19)   Lines:  88.66% (219/247)
+\PhpOffice\PhpSpreadsheet\Style::Protection
+  Methods:  33.33% ( 3/ 9)   Lines:  77.78% ( 28/ 36)
+\PhpOffice\PhpSpreadsheet\Style::Style
+  Methods:  73.68% (14/19)   Lines:  84.31% (172/204)
+\PhpOffice\PhpSpreadsheet\Style::Supervisor
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 15/ 15)
+\PhpOffice\PhpSpreadsheet\Worksheet::AutoFilter
+  Methods:  59.09% (13/22)   Lines:  59.79% (229/383)
+\PhpOffice\PhpSpreadsheet\Worksheet::BaseDrawing
+  Methods:  74.07% (20/27)   Lines:  66.32% ( 63/ 95)
+\PhpOffice\PhpSpreadsheet\Worksheet::CellIterator
+  Methods:  66.67% ( 2/ 3)   Lines:  83.33% (  5/  6)
+\PhpOffice\PhpSpreadsheet\Worksheet::Column
+  Methods: 100.00% ( 4/ 4)   Lines: 100.00% (  7/  7)
+\PhpOffice\PhpSpreadsheet\Worksheet::ColumnCellIterator
+  Methods:  81.82% ( 9/11)   Lines:  76.60% ( 36/ 47)
+\PhpOffice\PhpSpreadsheet\Worksheet::ColumnDimension
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 12/ 12)
+\PhpOffice\PhpSpreadsheet\Worksheet::ColumnIterator
+  Methods:  90.91% (10/11)   Lines:  93.94% ( 31/ 33)
+\PhpOffice\PhpSpreadsheet\Worksheet::Dimension
+  Methods:  80.00% ( 8/10)   Lines:  68.18% ( 15/ 22)
+\PhpOffice\PhpSpreadsheet\Worksheet::Drawing
+  Methods: 100.00% ( 7/ 7)   Lines: 100.00% ( 22/ 22)
+\PhpOffice\PhpSpreadsheet\Worksheet::HeaderFooter
+  Methods:  84.62% (22/26)   Lines:  72.88% ( 43/ 59)
+\PhpOffice\PhpSpreadsheet\Worksheet::Iterator
+  Methods:  85.71% ( 6/ 7)   Lines:  90.91% ( 10/ 11)
+\PhpOffice\PhpSpreadsheet\Worksheet::MemoryDrawing
+  Methods: 100.00% ( 9/ 9)   Lines: 100.00% ( 28/ 28)
+\PhpOffice\PhpSpreadsheet\Worksheet::PageMargins
+  Methods:  92.86% (13/14)   Lines:  76.00% ( 19/ 25)
+\PhpOffice\PhpSpreadsheet\Worksheet::PageSetup
+  Methods:  52.78% (19/36)   Lines:  38.79% ( 45/116)
+\PhpOffice\PhpSpreadsheet\Worksheet::Protection
+  Methods:  97.30% (36/37)   Lines:  92.11% ( 70/ 76)
+\PhpOffice\PhpSpreadsheet\Worksheet::Row
+  Methods:  80.00% ( 4/ 5)   Lines:  87.50% (  7/  8)
+\PhpOffice\PhpSpreadsheet\Worksheet::RowCellIterator
+  Methods:  81.82% ( 9/11)   Lines:  76.74% ( 33/ 43)
+\PhpOffice\PhpSpreadsheet\Worksheet::RowDimension
+  Methods:  85.71% ( 6/ 7)   Lines:  83.33% ( 10/ 12)
+\PhpOffice\PhpSpreadsheet\Worksheet::RowIterator
+  Methods:  90.91% (10/11)   Lines:  93.33% ( 28/ 30)
+\PhpOffice\PhpSpreadsheet\Worksheet::SheetView
+  Methods:  50.00% ( 4/ 8)   Lines:  58.33% ( 14/ 24)
+\PhpOffice\PhpSpreadsheet\Worksheet::Worksheet
+  Methods:  55.94% (80/143)   Lines:  75.47% (486/644)
+\PhpOffice\PhpSpreadsheet\Worksheet\AutoFilter::Column
+  Methods:  75.00% (15/20)   Lines:  75.81% ( 47/ 62)
+\PhpOffice\PhpSpreadsheet\Worksheet\AutoFilter\Column::Rule
+  Methods:  69.23% ( 9/13)   Lines:  88.24% ( 45/ 51)
+\PhpOffice\PhpSpreadsheet\Worksheet\Drawing::Shadow
+  Methods:  88.24% (15/17)   Lines:  81.82% ( 36/ 44)
+\PhpOffice\PhpSpreadsheet\Writer::BaseWriter
+  Methods:  42.86% ( 3/ 7)   Lines:  28.57% (  4/ 14)
+\PhpOffice\PhpSpreadsheet\Writer::Csv
+  Methods:  52.94% ( 9/17)   Lines:  87.30% ( 55/ 63)
+\PhpOffice\PhpSpreadsheet\Writer::Html
+  Methods:  36.84% (14/38)   Lines:  75.71% (455/601)
+\PhpOffice\PhpSpreadsheet\Writer::Ods
+  Methods:  33.33% ( 2/ 6)   Lines:  20.93% (  9/ 43)
+\PhpOffice\PhpSpreadsheet\Writer::Pdf
+  Methods:  54.55% ( 6/11)   Lines:  76.67% ( 23/ 30)
+\PhpOffice\PhpSpreadsheet\Writer::Xls
+  Methods:  66.67% ( 4/ 6)   Lines:  95.40% (394/413)
+\PhpOffice\PhpSpreadsheet\Writer::Xlsx
+  Methods:  60.00% ( 9/15)   Lines:  79.43% (112/141)
+\PhpOffice\PhpSpreadsheet\Writer\Ods::Content
+  Methods:  14.29% ( 1/ 7)   Lines:  84.77% (167/197)
+\PhpOffice\PhpSpreadsheet\Writer\Ods::WriterPart
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)
+\PhpOffice\PhpSpreadsheet\Writer\Ods\Cell::Comment
+  Methods:   0.00% ( 0/ 1)   Lines:  23.08% (  3/ 13)
+\PhpOffice\PhpSpreadsheet\Writer\Pdf::Dompdf
+  Methods:  50.00% ( 1/ 2)   Lines:  75.86% ( 22/ 29)
+\PhpOffice\PhpSpreadsheet\Writer\Pdf::Mpdf
+  Methods:  50.00% ( 1/ 2)   Lines:  86.84% ( 33/ 38)
+\PhpOffice\PhpSpreadsheet\Writer\Pdf::Tcpdf
+  Methods:  50.00% ( 1/ 2)   Lines:  80.00% ( 32/ 40)
+\PhpOffice\PhpSpreadsheet\Writer\Xls::BIFFwriter
+  Methods:  75.00% ( 6/ 8)   Lines:  92.45% ( 49/ 53)
+\PhpOffice\PhpSpreadsheet\Writer\Xls::Escher
+  Methods:  75.00% ( 3/ 4)   Lines:  99.19% (244/246)
+\PhpOffice\PhpSpreadsheet\Writer\Xls::Font
+  Methods:  60.00% ( 3/ 5)   Lines:  93.62% ( 44/ 47)
+\PhpOffice\PhpSpreadsheet\Writer\Xls::Parser
+  Methods:  37.04% (10/27)   Lines:  73.46% (310/422)
+\PhpOffice\PhpSpreadsheet\Writer\Xls::Workbook
+  Methods:  75.86% (22/29)   Lines:  86.79% (322/371)
+\PhpOffice\PhpSpreadsheet\Writer\Xls::Worksheet
+  Methods:  49.23% (32/65)   Lines:  55.16% (1218/2208)
+\PhpOffice\PhpSpreadsheet\Writer\Xls::Xf
+  Methods:  57.89% (11/19)   Lines:  89.23% (116/130)
+\PhpOffice\PhpSpreadsheet\Writer\Xlsx::Chart
+  Methods:  46.67% ( 7/15)   Lines:  73.47% (673/916)
+\PhpOffice\PhpSpreadsheet\Writer\Xlsx::Comments
+  Methods:  50.00% ( 2/ 4)   Lines:  98.04% (100/102)
+\PhpOffice\PhpSpreadsheet\Writer\Xlsx::ContentTypes
+  Methods:   0.00% ( 0/ 4)   Lines:  86.36% ( 76/ 88)
+\PhpOffice\PhpSpreadsheet\Writer\Xlsx::DocProps
+  Methods:   0.00% ( 0/ 3)   Lines:  95.28% (101/106)
+\PhpOffice\PhpSpreadsheet\Writer\Xlsx::Drawing
+  Methods:  50.00% ( 3/ 6)   Lines:  98.80% (247/250)
+\PhpOffice\PhpSpreadsheet\Writer\Xlsx::Rels
+  Methods:   0.00% ( 0/ 6)   Lines:  89.94% (161/179)
+\PhpOffice\PhpSpreadsheet\Writer\Xlsx::StringTable
+  Methods:  60.00% ( 3/ 5)   Lines:  98.39% (122/124)
+\PhpOffice\PhpSpreadsheet\Writer\Xlsx::Style
+  Methods:  81.25% (13/16)   Lines:  91.90% (261/284)
+\PhpOffice\PhpSpreadsheet\Writer\Xlsx::Theme
+  Methods:  66.67% ( 2/ 3)   Lines:  99.74% (383/384)
+\PhpOffice\PhpSpreadsheet\Writer\Xlsx::Workbook
+  Methods:  42.86% ( 6/14)   Lines:  86.62% (136/157)
+\PhpOffice\PhpSpreadsheet\Writer\Xlsx::Worksheet
+  Methods:  52.17% (12/23)   Lines:  87.38% (471/539)
+\PhpOffice\PhpSpreadsheet\Writer\Xlsx::WriterPart
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  3/  3)

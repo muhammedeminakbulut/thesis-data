@@ -1,0 +1,6 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:Attendize/Attendize.git,v0.3.1,18591,2645,307,0.40%,3.9230769230769,0,590,64,876,95
+git@github.com:Attendize/Attendize.git,v1.1.0,28966,5267,396,0.61%,4.2117647058824,0,590,64,1373,124
+git@github.com:Attendize/Attendize.git,v1.1.1,28968,5267,396,0.61%,4.2117647058824,0,590,64,1373,124
+git@github.com:Attendize/Attendize.git,v1.1.2,28952,5212,398,0.67%,4.2147058823529,0,590,64,1373,124
+git@github.com:Attendize/Attendize.git,v1.1.3,32746,5571,392,1.35%,4.1057142857143,0,590,64,1375,156

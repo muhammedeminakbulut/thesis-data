@@ -1,0 +1,9 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:mtdowling/cron-expression.git,v1.0.0,1752,557,82,0.00%,4.7662337662338,0,246,41,172,0
+git@github.com:mtdowling/cron-expression.git,v1.0.1,1658,551,79,0.00%,4.84,0,246,41,171,0
+git@github.com:mtdowling/cron-expression.git,v1.0.2,1685,554,77,0.00%,4.7368421052632,0,246,41,171,0
+git@github.com:mtdowling/cron-expression.git,v1.0.3,1706,563,77,0.00%,4.7307692307692,0,246,41,172,0
+git@github.com:mtdowling/cron-expression.git,v1.0.4,1752,512,85,0.00%,5.2738095238095,0,246,41,214,0
+git@github.com:mtdowling/cron-expression.git,v1.1.0,1994,561,139,0.00%,5.7934782608696,0,246,41,262,0
+git@github.com:mtdowling/cron-expression.git,v1.2.0,2113,583,157,0.00%,5.9139784946237,0,246,41,266,0
+git@github.com:mtdowling/cron-expression.git,v1.2.1,2113,583,157,0.00%,5.9139784946237,0,246,41,266,0

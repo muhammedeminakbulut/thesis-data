@@ -1,0 +1,3 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:theseer/tokenizer.git,1.0.0,540,110,12,0.00%,2.6829268292683,0,2,1,12,0
+git@github.com:theseer/tokenizer.git,1.1.0,626,125,14,0.00%,2.5102040816327,0,2,1,12,0

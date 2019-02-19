@@ -1,0 +1,16 @@
+
+
+Code Coverage Report:    
+  2019-02-17 15:22:10    
+                         
+ Summary:                
+  Classes: 25.00% (1/4)  
+  Methods: 78.57% (11/14)
+  Lines:   87.50% (42/48)
+
+\Barryvdh\Cors::HandleCors
+  Methods:  80.00% ( 4/ 5)   Lines:  88.24% ( 15/ 17)
+\Barryvdh\Cors::HandlePreflight
+  Methods: 100.00% ( 2/ 2)   Lines: 100.00% (  5/  5)
+\Barryvdh\Cors::ServiceProvider
+  Methods:  83.33% ( 5/ 6)   Lines:  95.00% ( 19/ 20)

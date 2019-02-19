@@ -1,0 +1,14 @@
+repository,tag,analyser_loc,analyser_cloc,analyser_cyclomatic_complexity,analyser_duplication,analyser_unit_size,analyser_unit_interface_size,analyser_forks,analyser_contributor,sniffer_errors,sniffer_warnings
+git@github.com:nikic/FastRoute.git,v0.1.0,1000,164,48,3.20%,3.6571428571429,0,311,40,78,0
+git@github.com:nikic/FastRoute.git,v0.2.0,1207,164,72,8.12%,3.5882352941176,0,311,40,91,0
+git@github.com:nikic/FastRoute.git,v0.3.0,1181,171,54,0.00%,3.6444444444444,0,311,40,86,0
+git@github.com:nikic/FastRoute.git,v0.4.0,1217,175,56,0.00%,3.6444444444444,0,311,40,94,0
+git@github.com:nikic/FastRoute.git,v0.5.0,1280,184,61,0.00%,3.7111111111111,0,311,40,103,0
+git@github.com:nikic/FastRoute.git,v0.6.0,1439,205,65,0.00%,3.7,0,311,40,106,0
+git@github.com:nikic/FastRoute.git,v0.7.0,1561,212,70,0.00%,3.843137254902,0,311,40,111,3
+git@github.com:nikic/FastRoute.git,v0.8.0,1645,221,72,0.00%,3.921568627451,0,311,40,130,3
+git@github.com:nikic/FastRoute.git,v1.0.0,1645,221,72,0.00%,3.921568627451,0,311,40,130,3
+git@github.com:nikic/FastRoute.git,v1.0.1,1651,221,72,0.00%,3.921568627451,0,311,40,130,3
+git@github.com:nikic/FastRoute.git,v1.1.0,1759,269,73,0.00%,3.6,0,311,40,139,3
+git@github.com:nikic/FastRoute.git,v1.2.0,1839,277,73,0.00%,3.655737704918,0,311,40,170,3
+git@github.com:nikic/FastRoute.git,v1.3.0,2004,323,73,0.00%,3.655737704918,0,311,40,172,3
